@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Studio by Aastha | Exquisite Custom Gift Hampers</title>
+    <meta name="description" content="Beautifully curated, hand-crafted gift hampers and custom pressed glass frames by Aastha Agarwal. Light pastel aesthetic, created in Ahmedabad and London.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Navigation -->
+    <header id="main-header">
+        <div class="container nav-container">
+            <a href="#home" class="logo" id="brand-logo-link">
+                <img src="assets/images/logo.jpg" alt="Art Studio by Aastha Logo" class="logo-img" id="brand-logo-img">
+                <span class="logo-text" id="brand-logo-text">Art Studio <span>by Aastha</span></span>
+            </a>
+            
+            <ul class="nav-links" id="navigation-menu">
+                <li><a href="#home" class="nav-link active" id="nav-home">Home</a></li>
+                <li><a href="#products" class="nav-link" id="nav-products">Our Collection</a></li>
+                <li><a href="#customizer" class="nav-link" id="nav-customizer">Build a Hamper</a></li>
+                <li><a href="#about" class="nav-link" id="nav-about">About Aastha</a></li>
+                <li><a href="#contact" class="nav-link" id="nav-contact">Contact Us</a></li>
+            </ul>
+            
+            <div class="nav-actions">
+                <a href="#customizer" class="btn btn-primary" style="padding: 10px 24px; font-size: 14px;" id="nav-cta-btn">Order Custom Box</a>
+                <div class="menu-toggle" id="mobile-menu-toggle">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="container hero-grid">
+            <div class="hero-content">
+                <span class="badge" id="hero-badge">Curated Hand-Crafted Gifting</span>
+                <h1 class="hero-title" id="hero-main-title">Unwrap joy: hampers filled with <span>happiness</span>.</h1>
+                <p class="hero-description" id="hero-main-desc">
+                    Artistic, hand-styled gift hampers and elegant keepsakes designed to make your celebrations truly special. Thoughtfully curated with love, wrapped in pastel perfection.
+                </p>
+                <div class="hero-btns">
+                    <a href="#products" class="btn btn-primary" id="hero-explore-btn">Explore Collection</a>
+                    <a href="#customizer" class="btn btn-secondary" id="hero-customize-btn">Customize a Hamper</a>
+                </div>
+            </div>
+            
+            <div class="hero-visual">
+                <div class="hero-blob" id="hero-bg-blob"></div>
+                <div class="hero-card" id="hero-main-card">
+                    <img src="assets/images/hamper_1.jpg" alt="Beautiful pastel pink gift hamper filled with custom goodies" id="hero-showcase-img">
+                    <div class="hero-card-caption" id="hero-showcase-caption">The Classic Happiness Hamper</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Strip -->
+    <section class="features-strip" id="features-bar">
+        <div class="container features-grid">
+            <div class="feature-item" id="feature-crafted">
+                <div class="feature-icon">🎨</div>
+                <h3 class="feature-title">Artisan Styled</h3>
+                <p class="feature-desc">Every hamper is individually designed by hand</p>
+            </div>
+            <div class="feature-item" id="feature-shipping">
+                <div class="feature-icon">✈️</div>
+                <h3 class="feature-title">Ahmedabad & London</h3>
+                <p class="feature-desc">Delivering creative joy across primary hubs</p>
+            </div>
+            <div class="feature-item" id="feature-custom">
+                <div class="feature-icon">💖</div>
+                <h3 class="feature-title">Tailor-Made Details</h3>
+                <p class="feature-desc">Personalized boxes, ribbon, and greeting cards</p>
+            </div>
+            <div class="feature-item" id="feature-premium">
+                <div class="feature-icon">🎀</div>
+                <h3 class="feature-title">Luxurious Packaging</h3>
+                <p class="feature-desc">Signature premium boxes with satin ribbons</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Collection Section -->
+    <section class="products-section section-padding" id="products">
+        <div class="container">
+            <div class="text-center">
+                <span class="badge" id="products-badge">Signature Collection</span>
+                <h2 class="section-title" id="products-section-title">Explore Our Creations</h2>
+                <p class="section-subtitle" id="products-section-subtitle">A collection of custom-designed, aesthetic gift bundles and creative pressed glass frames made to be cherished.</p>
+            </div>
+            
+            <div class="filter-tabs" id="products-filter-tabs">
+                <button class="filter-btn active" data-filter="all" id="filter-all-btn">All Products</button>
+                <button class="filter-btn" data-filter="hampers" id="filter-hampers-btn">Gift Hampers</button>
+                <button class="filter-btn" data-filter="frames" id="filter-frames-btn">Glass Frames</button>
+            </div>
+            
+            <div class="products-grid" id="products-catalog-grid">
+                <!-- Hamper 1 -->
+                <div class="product-card" data-category="hampers" id="product-card-hamper1">
+                    <div class="product-img-wrapper">
+                        <img src="assets/images/hamper_1.jpg" alt="Classic Happiness Hamper" class="product-img">
+                        <span class="product-badge">Signature</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 class="product-title">Classic Happiness Hamper</h3>
+                        <p class="product-desc">A beautiful, pastel pink keepsake box filled with hand-selected goodies, gourmet sweets, floral details, and a customizable handwritten calligraphy card.</p>
+                        <div class="product-meta">
+                            <span class="product-price">₹2,499</span>
+                            <button class="btn btn-secondary quick-view-btn" data-product="hamper1" id="quickview-hamper1-btn">Quick View</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hamper 2 -->
+                <div class="product-card" data-category="hampers" id="product-card-hamper2">
+                    <div class="product-img-wrapper">
+                        <img src="assets/images/hamper_2.jpg" alt="Celebration Delight Hamper" class="product-img">
+                        <span class="product-badge">Popular</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 class="product-title">Celebration Delight Hamper</h3>
+                        <p class="product-desc">The ultimate party and congratulatory basket. Includes artisan chocolates, customized mugs, candles, pastel confetti, and premium ribbon packaging.</p>
+                        <div class="product-meta">
+                            <span class="product-price">₹3,199</span>
+                            <button class="btn btn-secondary quick-view-btn" data-product="hamper2" id="quickview-hamper2-btn">Quick View</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hamper 3 -->
+                <div class="product-card" data-category="hampers" id="product-card-hamper3">
+                    <div class="product-img-wrapper">
+                        <img src="assets/images/hamper_3.jpg" alt="Premium Keepsake Box" class="product-img">
+                        <span class="product-badge">Luxury</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 class="product-title">Premium Keepsake Box</h3>
+                        <p class="product-desc">An elegant and lavish arrangement perfect for weddings, anniversaries, and corporate celebrations. Fully customized to reflect your aesthetic preferences.</p>
+                        <div class="product-meta">
+                            <span class="product-price">₹4,299</span>
+                            <button class="btn btn-secondary quick-view-btn" data-product="hamper3" id="quickview-hamper3-btn">Quick View</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Frame 1 -->
+                <div class="product-card" data-category="frames" id="product-card-frame1">
+                    <div class="product-img-wrapper">
+                        <img src="assets/images/glass_frame_1.jpg" alt="Vintage Pressed Glass Frame 5x7" class="product-img">
+                        <span class="product-badge">Vintage</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 class="product-title">Mini Floating Glass Frame</h3>
+                        <p class="product-desc">Elegant 5" by 7" double-paned floating glass frame. Perfect for preserving dried wedding flowers, polaroids, and hand-lettered quotes.</p>
+                        <div class="product-meta">
+                            <span class="product-price">₹999</span>
+                            <button class="btn btn-secondary quick-view-btn" data-product="frame1" id="quickview-frame1-btn">Quick View</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Frame 2 -->
+                <div class="product-card" data-category="frames" id="product-card-frame2">
+                    <div class="product-img-wrapper">
+                        <img src="assets/images/glass_frame_2.jpg" alt="Square Pressed Glass Frame 10x10" class="product-img">
+                        <span class="product-badge">Customized</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 class="product-title">Square Herbarium Glass Frame</h3>
+                        <p class="product-desc">Spacious 10" by 10" square pressed flower floating frame with gold-tinted vintage border lines. Includes customized calligraphy artwork inside.</p>
+                        <div class="product-meta">
+                            <span class="product-price">₹1,799</span>
+                            <button class="btn btn-secondary quick-view-btn" data-product="frame2" id="quickview-frame2-btn">Quick View</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hamper Builder Section -->
+    <section class="customizer-section section-padding" id="customizer">
+        <div class="container">
+            <div class="text-center">
+                <span class="badge" id="customizer-badge">Interactive Tool</span>
+                <h2 class="section-title" id="customizer-section-title">Build Your Own Hamper</h2>
+                <p class="section-subtitle" id="customizer-section-subtitle">Create a bespoke gift box with our interactive designer. Hand-pick your box style and individual gifts to suit their personal taste.</p>
+            </div>
+            
+            <div class="customizer-box" id="hamper-builder-widget">
+                <!-- Interactive Steps -->
+                <div class="customizer-steps">
+                    <!-- Step 1 -->
+                    <div class="step-card" id="step-box-selection">
+                        <h3><span class="step-number">1</span> Choose Box Theme</h3>
+                        <div class="options-grid" id="box-options-container">
+                            <div class="option-card selected" data-box="pink" data-price="350">
+                                <div class="box-color-preview box-color-pink"></div>
+                                <div class="option-name">Blush Pink</div>
+                                <div class="option-price">₹350</div>
+                            </div>
+                            <div class="option-card" data-box="lavender" data-price="350">
+                                <div class="box-color-preview box-color-lavender"></div>
+                                <div class="option-name">Lavender Aura</div>
+                                <div class="option-price">₹350</div>
+                            </div>
+                            <div class="option-card" data-box="peach" data-price="350">
+                                <div class="box-color-preview box-color-peach"></div>
+                                <div class="option-name">Sweet Peach</div>
+                                <div class="option-price">₹350</div>
+                            </div>
+                            <div class="option-card" data-box="kraft" data-price="250">
+                                <div class="box-color-preview box-color-kraft"></div>
+                                <div class="option-name">Eco Kraft</div>
+                                <div class="option-price">₹250</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Step 2 -->
+                    <div class="step-card" id="step-goodies-selection">
+                        <h3><span class="step-number">2</span> Select Goodies to Add</h3>
+                        <div class="items-list" id="goodies-options-container">
+                            <div class="item-checkbox" data-item="candle" data-price="450">
+                                <input type="checkbox" id="item-candle">
+                                <div class="item-details">
+                                    <span class="item-title">Scented Soy Candle</span>
+                                    <span class="item-cost">+₹450</span>
+                                </div>
+                            </div>
+                            <div class="item-checkbox" data-item="chocolates" data-price="350">
+                                <input type="checkbox" id="item-chocolates">
+                                <div class="item-details">
+                                    <span class="item-title">Artisan Chocolates (Pack of 4)</span>
+                                    <span class="item-cost">+₹350</span>
+                                </div>
+                            </div>
+                            <div class="item-checkbox" data-item="mug" data-price="550">
+                                <input type="checkbox" id="item-mug">
+                                <div class="item-details">
+                                    <span class="item-title">Hand-Painted Ceramic Mug</span>
+                                    <span class="item-cost">+₹550</span>
+                                </div>
+                            </div>
+                            <div class="item-checkbox" data-item="photo" data-price="200">
+                                <input type="checkbox" id="item-photo">
+                                <div class="item-details">
+                                    <span class="item-title">Retro Polaroid Prints (x3)</span>
+                                    <span class="item-cost">+₹200</span>
+                                </div>
+                            </div>
+                            <div class="item-checkbox" data-item="frame" data-price="999">
+                                <input type="checkbox" id="item-frame">
+                                <div class="item-details">
+                                    <span class="item-title">Mini Pressed Flower Glass Frame</span>
+                                    <span class="item-cost">+₹999</span>
+                                </div>
+                            </div>
+                            <div class="item-checkbox" data-item="card" data-price="150">
+                                <input type="checkbox" id="item-card">
+                                <div class="item-details">
+                                    <span class="item-title">Handwritten Calligraphy Card</span>
+                                    <span class="item-cost">+₹150</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Box Preview Column -->
+                <div class="customizer-preview" id="hamper-summary-card">
+                    <div>
+                        <h3 class="preview-title" id="preview-card-title">Your Custom Hamper</h3>
+                        <div class="preview-box-render" id="visual-box-container">
+                            <div class="mock-box" id="visual-box-mock"></div>
+                        </div>
+                        
+                        <div class="summary-receipt" id="summary-receipt-container">
+                            <!-- Populated dynamically via JS -->
+                            <div class="receipt-item"><span>Selected Box Theme</span><span id="receipt-box-price">₹350</span></div>
+                            <div id="receipt-items-added"></div>
+                            <div class="receipt-total"><span>Estimated Price</span><span id="receipt-total-price">₹350</span></div>
+                        </div>
+                    </div>
+                    
+                    <button class="btn btn-primary" style="width: 100%;" id="place-custom-order-btn">DM to Place Order</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Aastha Section -->
+    <section class="about-section section-padding" id="about">
+        <div class="container about-grid">
+            <div class="about-img" id="about-image-card">
+                <img src="assets/images/logo.jpg" alt="Aastha Agarwal, creator of Art Studio by Aastha">
+            </div>
+            
+            <div class="about-content" id="about-main-content">
+                <span class="badge" id="about-badge">The Creator</span>
+                <h2 id="about-title">Art is what we do when we’re truly alive.</h2>
+                <p class="about-description">
+                    Welcome to Art Studio by Aastha, founded by Aastha Agarwal. Combining a lifelong love for creative craftsmanship and aesthetic styling, we design signature gift packages and pressed glass frames that encapsulate your special moments. 
+                </p>
+                <p class="about-description">
+                    Split between our creative design hubs in Ahmedabad and London, we take pride in styling every gift box to perfection, sourcing premium components, and finishing with custom typography and ribbons. Whether you are celebrating a wedding, welcoming a baby, or gifting a loved one, we help you translate your feelings into physical keepsakes.
+                </p>
+                
+                <div class="about-hubs" id="about-design-hubs">
+                    <div class="hub-card" id="hub-ahm">
+                        <div class="hub-name">Ahmedabad</div>
+                        <div class="hub-sub">Creative Design & Gifting Hub</div>
+                    </div>
+                    <div class="hub-card" id="hub-lon">
+                        <div class="hub-name">London</div>
+                        <div class="hub-sub">Design Inspiration Hub</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact & Ordering Section -->
+    <section class="contact-section section-padding" id="contact">
+        <div class="container">
+            <div class="text-center">
+                <span class="badge" id="contact-badge">Get In Touch</span>
+                <h2 class="section-title" id="contact-section-title">Place Your Order</h2>
+                <p class="section-subtitle" id="contact-section-subtitle">Have a custom corporate query, wedding request, or want to order a signature hamper? Reach out to us directly!</p>
+            </div>
+            
+            <div class="contact-grid" id="contact-form-grid">
+                <!-- Info cards -->
+                <div class="contact-info" id="contact-details-card">
+                    <h3 class="contact-info-title">Ordering Channels</h3>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">📲</div>
+                        <div class="contact-details-text">
+                            <h4 class="contact-text-title">Instagram Direct Message</h4>
+                            <p class="contact-text-value">DM us to order directly. We are active daily!</p>
+                            <a href="https://www.instagram.com/artstudioby_aastha/" target="_blank" class="nav-link active" style="font-size: 13px; font-weight: bold;">@artstudioby_aastha</a>
+                        </div>
+                    </div>
+
+                    <div class="contact-item">
+                        <div class="contact-icon">📍</div>
+                        <div class="contact-details-text">
+                            <h4 class="contact-text-title">Locations</h4>
+                            <p class="contact-text-value">Operating hubs in Ahmedabad, India & London, UK.</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-item">
+                        <div class="contact-icon">💌</div>
+                        <div class="contact-details-text">
+                            <h4 class="contact-text-title">Email Us</h4>
+                            <p class="contact-text-value">For bulk bookings and corporate branding packages.</p>
+                            <span class="contact-text-value" style="font-weight: bold; color: var(--rose-gold);">hello@artstudiobyaastha.com</span>
+                        </div>
+                    </div>
+                    
+                    <div class="social-links" id="contact-social-bar">
+                        <a href="https://www.instagram.com/artstudioby_aastha/" target="_blank" class="social-btn" aria-label="Instagram">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                
+                <!-- Contact Form -->
+                <form class="contact-form" id="contact-order-form">
+                    <div class="form-group">
+                        <label for="order-name" class="form-label">Your Name</label>
+                        <input type="text" id="order-name" class="form-input" placeholder="Enter your full name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="order-item" class="form-label">Interested Product</label>
+                        <select id="order-item" class="form-input" required style="appearance: none; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2224%22 height=%2224%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22%23c38b9c%22 stroke-width=%222%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22><polyline points=%226 9 12 15 18 9%22></polyline></svg>'); background-repeat: no-repeat; background-position: right 20px center; background-size: 16px;">
+                            <option value="classic">Classic Happiness Hamper (₹2,499)</option>
+                            <option value="celebration">Celebration Delight Hamper (₹3,199)</option>
+                            <option value="keepsake">Premium Keepsake Box (₹4,299)</option>
+                            <option value="frame-mini">Mini Floating Glass Frame (₹999)</option>
+                            <option value="frame-square">Square Herbarium Glass Frame (₹1,799)</option>
+                            <option value="custom">Custom Design (Let's design together!)</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="order-notes" class="form-label">Customization Notes / Message</label>
+                        <textarea id="order-notes" class="form-textarea" placeholder="Describe any theme preferences, colors, or messages you want to include in your order..." required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="width: 100%;" id="submit-order-form-btn">Generate DM Order Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-grid">
+            <div class="footer-brand" id="footer-logo-brand">
+                <span class="logo-text">Art Studio <span>by Aastha</span></span>
+                <p>Spreading joy, celebration, and premium craft aesthetics across Ahmedabad and London.</p>
+            </div>
+            <div>
+                <h4 class="footer-title">Browse</h4>
+                <ul class="footer-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#products">Our Collection</a></li>
+                    <li><a href="#customizer">Build a Hamper</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4 class="footer-title">Information</h4>
+                <ul class="footer-links">
+                    <li><a href="#about">About Aastha</a></li>
+                    <li><a href="#contact">Contact & Orders</a></li>
+                    <li><a href="https://www.instagram.com/artstudioby_aastha/" target="_blank">Instagram Page</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="container footer-bottom">
+            <p id="copyright-text">&copy; 2026 Art Studio by Aastha. All rights reserved.</p>
+            <p>Designed with love & creativity 💕</p>
+        </div>
+    </footer>
+
+    <!-- Quick View Modal -->
+    <div class="modal" id="quick-view-modal">
+        <div class="modal-content">
+            <span class="close-modal" id="close-quickview">&times;</span>
+            <div class="modal-body">
+                <div class="modal-img-wrapper">
+                    <img src="" alt="Product Image" id="modal-product-img">
+                </div>
+                <div class="modal-details">
+                    <h3 class="modal-title" id="modal-product-title">Product Title</h3>
+                    <div class="modal-price" id="modal-product-price">₹0</div>
+                    <p class="modal-desc" id="modal-product-desc">Product description goes here.</p>
+                    <a href="#contact" class="btn btn-primary" id="modal-order-btn">Inquire / Order via DM</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
