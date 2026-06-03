@@ -1168,43 +1168,58 @@ footer {
     100% { transform: translate(0, 0) scale(1) rotate(360deg); }
 }
 
-/* Responsive Breakpoints */
+/* Responsive Breakpoints & Mobile Optimization */
 @media (max-width: 1024px) {
     .hero-title { font-size: 46px; }
     .products-grid { grid-template-columns: 1fr 1fr; }
-    .customizer-box { grid-template-columns: 1fr; }
+    .customizer-box { grid-template-columns: 1fr; gap: 30px; }
     .customizer-preview { position: static; height: auto; margin-top: 20px; }
 }
 
 @media (max-width: 768px) {
+    /* Layout & Section Spacing */
     .section-padding { padding: 60px 0; }
-    .hero { padding-top: 120px; padding-bottom: 60px; }
-    .hero-grid { grid-template-columns: 1fr; gap: 40px; }
-    .hero-visual { order: -1; }
-    .hero-card img { width: 100%; height: 320px; }
-    .features-grid { grid-template-columns: 1fr 1fr; }
-    .products-grid { grid-template-columns: 1fr; }
-    .options-grid { grid-template-columns: 1fr 1fr; }
-    .items-list { grid-template-columns: 1fr; }
-    .about-grid { grid-template-columns: 1fr; gap: 40px; }
-    .gallery-grid { grid-template-columns: 1fr 1fr; }
-    .contact-grid { grid-template-columns: 1fr; }
-    .modal-body { grid-template-columns: 1fr; }
-    .modal-details { padding: 24px; }
-    .footer-grid { grid-template-columns: 1fr; gap: 30px; }
+    .section-title { font-size: 32px; }
+    .section-subtitle { font-size: 15px; margin-bottom: 40px; }
     
+    /* Navigation Menu Toggle Animation (Hamburger to X) */
+    .menu-toggle svg line {
+        transition: var(--transition-smooth);
+        transform-origin: center;
+    }
+    .menu-toggle.open .line-1 {
+        transform: rotate(45deg) translate(4px, 4px);
+    }
+    .menu-toggle.open .line-2 {
+        opacity: 0;
+        transform: scaleX(0);
+    }
+    .menu-toggle.open .line-3 {
+        transform: rotate(-45deg) translate(4px, -4px);
+    }
+    
+    /* Sliding Navigation Drawer */
     .nav-links {
         position: fixed;
         top: 80px;
         left: -100%;
         width: 100%;
         height: calc(100vh - 80px);
-        background: white;
+        background: var(--bg-primary);
         flex-direction: column;
         align-items: center;
-        padding: 50px 0;
+        padding: 40px 0;
+        gap: 20px;
         transition: var(--transition-smooth);
-        box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        box-shadow: 0 15px 30px rgba(195, 139, 156, 0.08);
+        border-top: 1px solid var(--border-soft);
+        overflow-y: auto;
+        z-index: 999;
+    }
+    
+    header.scrolled .nav-links {
+        top: 64px;
+        height: calc(100vh - 64px);
     }
     
     .nav-links.active {
@@ -1214,4 +1229,83 @@ footer {
     .menu-toggle {
         display: block;
     }
+    
+    /* Hero Adjustments */
+    .hero { padding-top: 130px; padding-bottom: 60px; }
+    .hero-grid { grid-template-columns: 1fr; gap: 40px; text-align: center; }
+    .hero-content { max-width: 100%; }
+    .hero-title { font-size: 38px; margin-bottom: 16px; }
+    .hero-description { font-size: 16px; margin-bottom: 30px; }
+    .hero-btns { justify-content: center; }
+    .hero-visual { order: -1; }
+    .hero-blob { width: 300px; height: 300px; }
+    .hero-card img { width: 290px; height: 290px; }
+    
+    /* Feature strip */
+    .features-grid { grid-template-columns: 1fr 1fr; gap: 24px; }
+    
+    /* About & Creator Details */
+    .about-grid { grid-template-columns: 1fr; gap: 40px; }
+    .about-content h2 { font-size: 30px; text-align: center; }
+    .about-hubs { flex-direction: column; gap: 12px; }
+    
+    /* Contact & Form Grid */
+    .contact-grid { grid-template-columns: 1fr; gap: 30px; }
+    
+    /* Footer Layout */
+    .footer-grid { grid-template-columns: 1fr; gap: 30px; text-align: center; }
+    .footer-brand p { margin: 12px auto 0; }
+    .footer-bottom { flex-direction: column; gap: 10px; text-align: center; }
 }
+
+@media (max-width: 600px) {
+    .container { padding: 0 16px; }
+    
+    /* Mobile Touch Carousel for Products */
+    .products-grid {
+        display: flex;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        padding-bottom: 24px;
+        gap: 20px;
+        scrollbar-width: none; /* Firefox */
+        margin: 0 -16px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    
+    .products-grid::-webkit-scrollbar {
+        display: none; /* Safari/Chrome */
+    }
+    
+    .product-card {
+        min-width: 290px;
+        max-width: 290px;
+        scroll-snap-align: start;
+        flex-shrink: 0;
+    }
+    
+    /* Customizer Selection Options grid (2x2) */
+    .options-grid { grid-template-columns: 1fr 1fr; gap: 12px; }
+    .items-list { grid-template-columns: 1fr; gap: 12px; }
+    
+    .item-checkbox { padding: 12px; gap: 12px; }
+    .customizer-box { padding: 24px 16px; border-radius: 20px; }
+    
+    /* Creative Drawings Gallery Grid (2 columns) */
+    .gallery-grid { grid-template-columns: 1fr 1fr; gap: 12px; }
+    
+    /* Responsive Dialog (Modal Details) */
+    .modal-content {
+        width: 95%;
+        max-height: 90vh;
+        overflow-y: auto;
+        border-radius: 20px;
+    }
+    .modal-body { grid-template-columns: 1fr; }
+    .modal-img-wrapper { height: 260px; }
+    .modal-details { padding: 24px 20px; text-align: center; }
+    .modal-title { font-size: 24px; }
+    .modal-desc { margin-bottom: 20px; font-size: 14px; }
+}
+
