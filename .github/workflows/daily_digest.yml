@@ -1,0 +1,32 @@
+name: Daily SCMP News Digest
+
+on:
+  schedule:
+    - cron: '30 3 * * *'  # Runs daily at 03:30 UTC / 9:00 AM IST (local time is +5:30)
+  workflow_dispatch:      # Allows manual trigger from the GitHub UI
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scmp_newsletter_agent/requirements.txt
+
+      - name: Run orchestrator pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+        run: |
+          python -m scmp_newsletter_agent.orchestrator

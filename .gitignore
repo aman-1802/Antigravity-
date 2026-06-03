@@ -1,0 +1,22 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (Crucial to ignore secrets)
+.env
+scmp_newsletter_agent/.env
+
+# Local previews
+scmp_newsletter_agent/previews/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore other unrelated workspace folders to keep the repository dedicated to the newsletter agent
+/Vaibhav Sisinty/
+/Youtube scraping/
+/flight_weather_pipeline/
+/index.html
+/solar_suppliers_gujarat/
