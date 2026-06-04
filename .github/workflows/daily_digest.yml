@@ -5,6 +5,9 @@ on:
     - cron: '15 6 * * *'  # Runs daily at 06:15 UTC / 11:45 AM IST (targets 12:00 PM delivery accounting for queue delays)
   workflow_dispatch:      # Allows manual trigger from the GitHub UI
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
 jobs:
   run-digest:
     runs-on: ubuntu-latest
