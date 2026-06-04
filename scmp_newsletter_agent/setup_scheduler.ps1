@@ -1,22 +1,34 @@
 # =====================================================================
 # Windows Task Scheduler Setup for SCMP Daily News Digest
-# Runs the orchestrator pipeline every morning at 9:00 AM local time.
+# Runs the orchestrator pipeline daily at the specified local time.
 # =====================================================================
 
-$TaskName = "SCMPDailyNewsDigest"
-$PythonPath = "python.exe"
-$WorkingDir = "c:\Users\HP\Desktop\Coding Playground\Antigravity"
-$Arguments = "-m scmp_newsletter_agent.orchestrator --send"
-$TriggerTime = "09:00"
+param (
+    [string]$TriggerTime = "09:00",
+    [string]$TaskName = "SCMPDailyNewsDigest",
+    [string]$PythonPath = "python.exe",
+    [string]$WorkingDir = "c:\Users\HP\Desktop\Coding Playground\Antigravity",
+    [string]$Arguments = "-m scmp_newsletter_agent.orchestrator --send"
+)
+
 
 Write-Host "=========================================================" -ForegroundColor Cyan
 Write-Host "  SCMP DAILY NEWS DIGEST: WINDOWS SCHEDULER SETUP" -ForegroundColor Cyan
 Write-Host "=========================================================" -ForegroundColor Cyan
 
-# 1. Verify python is accessible
+# 1. Verify python is accessible and resolve to absolute path
 try {
     $pythonVersion = & $PythonPath --version 2>&1
     Write-Host "[OK] Python is accessible: $pythonVersion" -ForegroundColor Green
+    
+    # Resolve to absolute path to guarantee Task Scheduler can locate it
+    if ($PythonPath -eq "python.exe") {
+        $resolvedPath = Get-Command python.exe -ErrorAction SilentlyContinue | Select-Object -ExpandProperty Source
+        if ($resolvedPath) {
+            $PythonPath = $resolvedPath
+            Write-Host "Resolved Python executable to: $PythonPath" -ForegroundColor Gray
+        }
+    }
 } catch {
     Write-Host "[Error] Python is not found in PATH. Please verify installation." -ForegroundColor Red
     Exit
@@ -36,7 +48,7 @@ try {
     Register-ScheduledTask -TaskName $TaskName -Action $Action -Trigger $Trigger -Settings $Settings -Force -ErrorAction Stop
     Write-Host ""
     Write-Host "[SUCCESS] Task '$TaskName' registered successfully!" -ForegroundColor Green
-    Write-Host "  Schedule:  Every day at $TriggerTime AM" -ForegroundColor Green
+    Write-Host "  Schedule:  Every day at $TriggerTime" -ForegroundColor Green
     Write-Host "  Directory: $WorkingDir" -ForegroundColor Green
     Write-Host "  Action:    $PythonPath $Arguments" -ForegroundColor Green
     Write-Host ""
