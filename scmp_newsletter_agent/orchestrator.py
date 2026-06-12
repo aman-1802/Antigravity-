@@ -40,6 +40,26 @@ def run_pipeline(force_send=False):
         print("=" * 60)
         return
         
+    # 3b. Generate Obsidian Markdown
+    from .processor import generate_obsidian_markdown
+    markdown_content = generate_obsidian_markdown(newsletter_data)
+    
+    # 3c. Save Obsidian Markdown to digests/ at the repository root
+    digests_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "digests")
+    os.makedirs(digests_dir, exist_ok=True)
+    
+    date_header = newsletter_data.get("date_header", datetime.now().strftime("%B %d, %Y"))
+    try:
+        dt = datetime.strptime(date_header, "%B %d, %Y")
+        file_date_str = dt.strftime("%Y-%m-%d")
+    except Exception:
+        file_date_str = datetime.now().strftime("%Y-%m-%d")
+        
+    markdown_path = os.path.join(digests_dir, f"{file_date_str}.md")
+    with open(markdown_path, "w", encoding="utf-8") as f:
+        f.write(markdown_content)
+    print(f"\n[Obsidian Markdown Saved] Saved digest note to:\n  {os.path.abspath(markdown_path)}")
+        
     # 4. Render HTML
     html_content = render_newsletter(newsletter_data)
     

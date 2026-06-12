@@ -56,7 +56,13 @@ Example response: [0, 2, 5]
 """
     try:
         model = genai.GenerativeModel('gemini-3.5-flash')
-        response = model.generate_content(prompt)
+        if model._client is None:
+            from google.generativeai import client as genai_client
+            model._client = genai_client.get_default_generative_client()
+        request = model._prepare_request(contents=prompt)
+        raw_response = model._client.generate_content(request, timeout=240.0)
+        from google.generativeai.types import generation_types
+        response = generation_types.GenerateContentResponse.from_response(raw_response)
         text = response.text.strip()
         
         # Clean markdown wrappers if any
@@ -313,9 +319,15 @@ Return a JSON object with the following keys. Do not include markdown code block
 Write in an elegant, modern, smart, and business-focused tone (no sensationalized exclamation marks). Keep paragraphs short and double-spaced.
 """
     try:
-        # Use gemini-1.5-flash for fast and high-quality JSON generation
+        # Use gemini-3.5-flash for fast and high-quality JSON generation
         model = genai.GenerativeModel('gemini-3.5-flash')
-        response = model.generate_content(prompt)
+        if model._client is None:
+            from google.generativeai import client as genai_client
+            model._client = genai_client.get_default_generative_client()
+        request = model._prepare_request(contents=prompt)
+        raw_response = model._client.generate_content(request, timeout=240.0)
+        from google.generativeai.types import generation_types
+        response = generation_types.GenerateContentResponse.from_response(raw_response)
         text = response.text.strip()
         
         # Clean markdown wrappers if any
@@ -395,6 +407,86 @@ Write in an elegant, modern, smart, and business-focused tone (no sensationalize
         print(f"  [Error] Failed to generate newsletter copy with Gemini: {str(e)}")
         # Provide emergency dynamic live-linked content if LLM fails
         return generate_live_fallback_content(filtered_articles, f"LLM error: {str(e)}")
+
+def generate_obsidian_markdown(data):
+    """
+    Converts structured newsletter JSON data into an Obsidian-compatible Markdown string with Frontmatter.
+    """
+    date_header = data.get("date_header", datetime.now().strftime("%B %d, %Y"))
+    
+    # Attempt to parse date to YYYY-MM-DD for YAML frontmatter
+    try:
+        dt = datetime.strptime(date_header, "%B %d, %Y")
+        yaml_date = dt.strftime("%Y-%m-%d")
+    except Exception:
+        yaml_date = datetime.now().strftime("%Y-%m-%d")
+
+    md = []
+    md.append("---")
+    md.append(f"date: {yaml_date}")
+    md.append("tags: [scmp, daily-digest, geopolitics, tech]")
+    md.append("type: daily-digest")
+    md.append(f"title: \"SCMP Daily Digest - {date_header}\"")
+    md.append("---")
+    md.append("")
+    md.append(f"# SCMP Daily Digest - {date_header}")
+    md.append("")
+    md.append(data.get("greeting", "Hey, Aman!\n\nWelcome back to your premium daily South China Morning Post news digest!"))
+    md.append("")
+    
+    # Teasers
+    teasers = data.get("teasers", [])
+    if teasers:
+        md.append("## Teasers")
+        for teaser in teasers:
+            md.append(f"- {teaser}")
+        md.append("")
+        
+    # Helper to append list section
+    def append_section(title, items):
+        if not items:
+            return
+        md.append(f"## {title}")
+        for item in items:
+            heading = item.get("heading", "Update")
+            link = item.get("link", "#")
+            summary = item.get("summary", "")
+            md.append(f"### {heading}")
+            md.append(f"- **Link**: [{heading}]({link})")
+            md.append(f"- **Summary**: {summary}")
+            md.append("")
+            
+    # Breaking News
+    append_section("Breaking News", data.get("breaking_news", []))
+    
+    # Spotlight
+    spotlight = data.get("spotlight_story")
+    if spotlight and isinstance(spotlight, dict):
+        title = spotlight.get("title", "Spotlight Analysis")
+        link = spotlight.get("link", "#")
+        md.append(f"## Spotlight: {title}")
+        md.append(f"- **Link**: [{title}]({link})")
+        md.append("")
+        for para in spotlight.get("summary_paragraphs", []):
+            md.append(para)
+            md.append("")
+            
+    # China Tech
+    append_section("China Tech & AI Frontiers", data.get("china_tech", []))
+    
+    # Geopolitics
+    append_section("Strategic Regional Angles (Geopolitics)", data.get("geopolitics", []))
+    
+    # Quick Finds
+    append_section("Quick Finds", data.get("quick_finds", []))
+    
+    # Sign-off
+    md.append("---")
+    md.append("*Signing off,*")
+    md.append("**SCMP Daily News Agent**")
+    md.append("")
+    
+    return "\n".join(md)
 
 if __name__ == "__main__":
     # Test LLM integration

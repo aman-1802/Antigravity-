@@ -20,3 +20,11 @@ Thumbs.db
 /flight_weather_pipeline/
 /index.html
 /solar_suppliers_gujarat/
+/.agents/
+/market_research_tooling/
+/scratch/
+/tech_addict/
+/*.py
+/validate_deliverables.py
+/verify_pdf.py
+
