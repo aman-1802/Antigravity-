@@ -44,8 +44,8 @@ def run_pipeline(force_send=False):
     from .processor import generate_obsidian_markdown
     markdown_content = generate_obsidian_markdown(newsletter_data)
     
-    # 3c. Save Obsidian Markdown to digests/ at the repository root
-    digests_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "digests")
+    # 3c. Save Obsidian Markdown to scmp_newsletter_agent/digests/
+    digests_dir = os.path.join(os.path.dirname(__file__), "digests")
     os.makedirs(digests_dir, exist_ok=True)
     
     date_header = newsletter_data.get("date_header", datetime.now().strftime("%B %d, %Y"))
