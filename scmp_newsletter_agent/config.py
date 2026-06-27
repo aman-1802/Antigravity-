@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Gemini Config
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 
 # Email SMTP Config
 SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.gmail.com")

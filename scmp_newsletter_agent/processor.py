@@ -1,33 +1,31 @@
 import google.generativeai as genai
+import openai
 import json
 import re
+import os
 from datetime import datetime
-from .config import GEMINI_API_KEY
+from .config import OPENAI_API_KEY
 
-def init_gemini():
-    """
-    Initializes the Gemini API client.
-    """
-    if not GEMINI_API_KEY:
-        print("[Warning] GEMINI_API_KEY environment variable is not set. LLM features will fail.")
+def init_openai():
+    """Initializes the OpenAI client using the OPENAI_API_KEY environment variable.
+    Returns True if the key is present, otherwise False."""
+    if not OPENAI_API_KEY:
+        print("[Error] OPENAI_API_KEY is not set.")
         return False
-    genai.configure(api_key=GEMINI_API_KEY)
+    openai.api_key = OPENAI_API_KEY
     return True
 
 def filter_articles_with_llm(articles):
+    """Filters articles using OpenAI's ChatCompletion model.
+    Returns a list of articles deemed relevant to the user's preferences.
+    If OpenAI is not configured or an error occurs, falls back to keyword filtering.
     """
-    Uses Gemini to filter articles based on user preferences:
-    - Interests: Geopolitical angles (US-China relations, regional tensions, global diplomacy), 
-      and China tech/AI/space developments (payload specialists, humanoid robots, InnoHK, chip wars, etc.).
-    - Exclusions: Domestic mainland Chinese local affairs (minor court disputes, municipal appointments, provincial social affairs, unless geopolitical/tech in nature).
-    Returns a list of filtered articles.
-    """
-    if not init_gemini() or not articles:
-        return articles  # Fallback to no filtering if LLM is unavailable
-        
-    print("Filtering articles using Gemini...")
-    
-    # Prepare articles payload for LLM analysis
+    if not init_openai() or not articles:
+        return articles  # Fallback to no filtering if LLM unavailable
+
+    print("Filtering articles using OpenAI...")
+
+    # Build payload for the LLM
     articles_data = []
     for idx, item in enumerate(articles):
         articles_data.append({
@@ -37,35 +35,32 @@ def filter_articles_with_llm(articles):
             "category": item["source_feed"],
             "link": item["link"]
         })
-        
+
     prompt = f"""
-You are an expert news editor and curator. Analyze the following list of articles from the South China Morning Post (SCMP) and decide which ones match the user's reading preferences.
+    You are an expert news editor and curator. Analyze the following list of articles from the South China Morning Post (SCMP) and decide which ones match the user's reading preferences.
 
-USER READING PREFERENCES:
-1. **INTERESTED IN**: Geopolitical angles and international relations (e.g. US-China dynamics, GBA integration, regional security, global trade, diplomacy, defense, etc.).
-2. **INTERESTED IN**: Technology inside China (e.g. Artificial Intelligence, Space Technology, Humanoid Robotics, Space Manufacturing, Quantum Computing, Chips/Semiconductors, and major scientific research/innovation).
-3. **NOT INTERESTED IN**: Local affairs, minor regional news, and domestic current affairs of China's mainland (e.g. local municipal regulations, provincial official appointments, local crime, traffic accidents, municipal property or local civil court rulings, unless they have a direct and major geopolitical or tech impact).
+    USER READING PREFERENCES:
+    1. **INTERESTED IN**: Geopolitical angles and international relations (e.g. US-China dynamics, GBA integration, regional security, global trade, diplomacy, defense, etc.).
+    2. **INTERESTED IN**: Technology inside China (e.g. Artificial Intelligence, Space Technology, Humanoid Robotics, Space Manufacturing, Quantum Computing, Chips/Semiconductors, and major scientific research/innovation).
+    3. **NOT INTERESTED IN**: Local affairs, minor regional news, and domestic current affairs of China's mainland (e.g. local municipal regulations, provincial official appointments, local crime, traffic accidents, municipal property or local civil court rulings, unless they have a direct and major geopolitical or tech impact).
 
-ARTICLES TO ANALYZE:
-{json.dumps(articles_data, indent=2)}
+    ARTICLES TO ANALYZE:
+    {json.dumps(articles_data, indent=2)}
 
-INSTRUCTIONS:
-Return a JSON array of the IDs of the articles that are highly relevant to the user's reading preferences. Keep only high-impact, relevant items.
-Return ONLY a valid JSON array of numbers. Do not include any markdown styling or extra text.
-Example response: [0, 2, 5]
-"""
+    INSTRUCTIONS:
+    Return a JSON array of the IDs of the articles that are highly relevant to the user's reading preferences. Keep only high-impact, relevant items.
+    Return ONLY a valid JSON array of numbers. Do not include any markdown styling or extra text.
+    Example response: [0, 2, 5]
+    """
     try:
-        model = genai.GenerativeModel('gemini-3.5-flash')
-        if model._client is None:
-            from google.generativeai import client as genai_client
-            model._client = genai_client.get_default_generative_client()
-        request = model._prepare_request(contents=prompt)
-        raw_response = model._client.generate_content(request, timeout=240.0)
-        from google.generativeai.types import generation_types
-        response = generation_types.GenerateContentResponse.from_response(raw_response)
-        text = response.text.strip()
-        
-        # Clean markdown wrappers if any
+        response = openai.ChatCompletion.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.0,
+            max_tokens=500,
+        )
+        text = response.choices[0].message["content"].strip()
+        # Clean possible markdown wrappers
         if text.startswith("```"):
             lines = text.split("\n")
             if lines[0].startswith("```"):
@@ -73,22 +68,19 @@ Example response: [0, 2, 5]
             if lines[-1].startswith("```"):
                 lines = lines[:-1]
             text = "\n".join(lines).strip()
-            
         selected_ids = json.loads(text)
-        print(f"Gemini selected {len(selected_ids)} relevant articles out of {len(articles)}.")
-        
-        filtered = [articles[idx] for idx in selected_ids if 0 <= idx < len(articles)]
-        return filtered
+        print(f"OpenAI selected {len(selected_ids)} relevant articles out of {len(articles)}.")
+        return [articles[idx] for idx in selected_ids if 0 <= idx < len(articles)]
     except Exception as e:
-        print(f"  [Error] Failed to filter articles with Gemini: {str(e)}")
-        # Fallback filter by simple keywords if LLM fails
-        keywords = ["tech", "ai", "artificial intelligence", "robot", "space", "satellite", "astronaut", "shenzhou", 
-                    "chip", "semiconductor", "biden", "xi jinping", "geopolitics", "defense", "military", "diplomacy", 
+        print(f"  [Error] Failed to filter articles with OpenAI: {str(e)}")
+        # Simple keyword fallback (same as before)
+        keywords = ["tech", "ai", "artificial intelligence", "robot", "space", "satellite", "astronaut", "shenzhou",
+                    "chip", "semiconductor", "biden", "xi jinping", "geopolitics", "defense", "military", "diplomacy",
                     "united states", "us-china", "weapon", "missile", "inno-hk", "innohk", "aviation", "nuclear"]
         filtered = []
         for item in articles:
-            text_to_check = (item["title"] + " " + item["summary"]).lower()
-            if any(kw in text_to_check for kw in keywords):
+            txt = (item["title"] + " " + item["summary"]).lower()
+            if any(kw in txt for kw in keywords):
                 filtered.append(item)
         print(f"Fallback keyword filtering selected {len(filtered)} articles.")
         return filtered
@@ -135,6 +127,59 @@ def find_best_article_match(item, filtered_articles):
     if best_score > 0.05:
         return best_match
     return None
+
+def _repair_links(data, filtered_articles):
+    """Utility function that repairs links in the newsletter JSON using live articles.
+    This mirrors the original inline repair logic from the Gemini implementation.
+    It is called by generate_newsletter_content after the OpenAI response.
+    """
+    sections_to_repair = ["breaking_news", "china_tech", "geopolitics", "quick_finds"]
+    assigned_links = set()
+    for section in sections_to_repair:
+        if section in data and isinstance(data[section], list):
+            for item in data[section]:
+                if not isinstance(item, dict):
+                    continue
+                link = item.get("link", "").strip()
+                needs_repair = False
+                if not link or "scmp.com" not in link:
+                    needs_repair = True
+                else:
+                    parsed_path = link.replace("https://", "").replace("http://", "").replace("www.scmp.com", "").strip("/")
+                    path_parts = [p for p in parsed_path.split("/") if p]
+                    if len(path_parts) <= 2 or not any(part.isdigit() for part in path_parts):
+                        needs_repair = True
+                matched_article = find_best_article_match(item, filtered_articles)
+                if matched_article:
+                    item["link"] = matched_article["link"]
+                    assigned_links.add(matched_article["link"])
+                elif needs_repair:
+                    fallback_article = None
+                    for article in filtered_articles:
+                        if article["link"] not in assigned_links:
+                            fallback_article = article
+                            break
+                    if not fallback_article and filtered_articles:
+                        fallback_article = filtered_articles[0]
+                    if fallback_article:
+                        item["link"] = fallback_article["link"]
+                        assigned_links.add(fallback_article["link"])
+    # Spotlight story
+    if "spotlight_story" in data and isinstance(data["spotlight_story"], dict):
+        spotlight = data["spotlight_story"]
+        link = spotlight.get("link", "").strip()
+        needs_repair = not link or "scmp.com" not in link
+        if not needs_repair:
+            parsed_path = link.replace("https://", "").replace("http://", "").replace("www.scmp.com", "").strip("/")
+            path_parts = [p for p in parsed_path.split("/") if p]
+            if len(path_parts) <= 2 or not any(part.isdigit() for part in path_parts):
+                needs_repair = True
+        matched_article = find_best_article_match(spotlight, filtered_articles)
+        if matched_article:
+            spotlight["link"] = matched_article["link"]
+        elif needs_repair and filtered_articles:
+            spotlight["link"] = filtered_articles[0]["link"]
+    return data
 
 def generate_live_fallback_content(filtered_articles, error_msg=""):
     """
@@ -223,15 +268,15 @@ def generate_live_fallback_content(filtered_articles, error_msg=""):
 
 def generate_newsletter_content(filtered_articles):
     """
-    Generates structured newsletter copy using Gemini.
+    Generates structured newsletter copy using OpenAI.
     The response is organized into distinct categories for rendering in the HTML template.
     Ensures headings are exactly 3-4 words, prefixed with an emoji, and hyperlinked.
     """
-    if not init_gemini():
-        print("[Warning] GEMINI_API_KEY not set. Generating fallback mockup newsletter content using live articles.")
+    if not init_openai():
+        print("[Warning] OPENAI_API_KEY not set. Generating fallback mockup newsletter content using live articles.")
         return generate_live_fallback_content(filtered_articles, "API key not set")
         
-    print("Writing newsletter copy using Gemini...")
+    print("Writing newsletter copy using OpenAI...")
     
     current_date = datetime.now().strftime("%B %d, %Y")
     articles_payload = []
@@ -319,16 +364,14 @@ Return a JSON object with the following keys. Do not include markdown code block
 Write in an elegant, modern, smart, and business-focused tone (no sensationalized exclamation marks). Keep paragraphs short and double-spaced.
 """
     try:
-        # Use gemini-3.5-flash for fast and high-quality JSON generation
-        model = genai.GenerativeModel('gemini-3.5-flash')
-        if model._client is None:
-            from google.generativeai import client as genai_client
-            model._client = genai_client.get_default_generative_client()
-        request = model._prepare_request(contents=prompt)
-        raw_response = model._client.generate_content(request, timeout=240.0)
-        from google.generativeai.types import generation_types
-        response = generation_types.GenerateContentResponse.from_response(raw_response)
-        text = response.text.strip()
+        print("Analyzing weekly digests using OpenAI...")
+        response = openai.ChatCompletion.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.0,
+            max_tokens=2000,
+        )
+        text = response.choices[0].message["content"].strip()
         
         # Clean markdown wrappers if any
         if text.startswith("```"):
@@ -342,69 +385,13 @@ Write in an elegant, modern, smart, and business-focused tone (no sensationalize
         data = json.loads(text)
         print("Newsletter content structured successfully. Initiating programmatic link repair validation...")
         
-        # Programmatic link validation and repair
-        sections_to_repair = ["breaking_news", "china_tech", "geopolitics", "quick_finds"]
-        assigned_links = set()
-        
-        for section in sections_to_repair:
-            if section in data and isinstance(data[section], list):
-                for item in data[section]:
-                    if not isinstance(item, dict):
-                        continue
-                    # Determine if link needs repair
-                    link = item.get("link", "").strip()
-                    needs_repair = False
-                    if not link or "scmp.com" not in link:
-                        needs_repair = True
-                    else:
-                        # Check if it's a generic scmp page (e.g. without article ID or category path)
-                        parsed_path = link.replace("https://", "").replace("http://", "").replace("www.scmp.com", "").strip("/")
-                        path_parts = [p for p in parsed_path.split("/") if p]
-                        if len(path_parts) <= 2 or not any(part.isdigit() for part in path_parts):
-                            needs_repair = True
-                    
-                    # Attempt to find the best match in live articles
-                    matched_article = find_best_article_match(item, filtered_articles)
-                    if matched_article:
-                        item["link"] = matched_article["link"]
-                        assigned_links.add(matched_article["link"])
-                    elif needs_repair:
-                        # Find an unassigned live article
-                        fallback_article = None
-                        for article in filtered_articles:
-                            if article["link"] not in assigned_links:
-                                fallback_article = article
-                                break
-                        if not fallback_article and filtered_articles:
-                            fallback_article = filtered_articles[0]
-                        
-                        if fallback_article:
-                            item["link"] = fallback_article["link"]
-                            assigned_links.add(fallback_article["link"])
-                            
-        # Repair spotlight_story link
-        if "spotlight_story" in data and isinstance(data["spotlight_story"], dict):
-            spotlight = data["spotlight_story"]
-            link = spotlight.get("link", "").strip()
-            needs_repair = False
-            if not link or "scmp.com" not in link:
-                needs_repair = True
-            else:
-                parsed_path = link.replace("https://", "").replace("http://", "").replace("www.scmp.com", "").strip("/")
-                path_parts = [p for p in parsed_path.split("/") if p]
-                if len(path_parts) <= 2 or not any(part.isdigit() for part in path_parts):
-                    needs_repair = True
-                    
-            matched_article = find_best_article_match(spotlight, filtered_articles)
-            if matched_article:
-                spotlight["link"] = matched_article["link"]
-            elif needs_repair and filtered_articles:
-                spotlight["link"] = filtered_articles[0]["link"]
+        # Link repair and validation
+        data = _repair_links(data, filtered_articles)
                 
         print("Link repair and validation completed successfully.")
         return data
     except Exception as e:
-        print(f"  [Error] Failed to generate newsletter copy with Gemini: {str(e)}")
+        print(f"  [Error] Failed to generate newsletter copy with OpenAI: {str(e)}")
         # Provide emergency dynamic live-linked content if LLM fails
         return generate_live_fallback_content(filtered_articles, f"LLM error: {str(e)}")
 
@@ -490,7 +477,7 @@ def generate_obsidian_markdown(data):
 
 if __name__ == "__main__":
     # Test LLM integration
-    init_gemini()
+    init_openai()
     test_articles = [
         {
             "title": "Hong Kong may host Shenzhou-23 crew in 2027, including astronaut Lai Ka-ying",

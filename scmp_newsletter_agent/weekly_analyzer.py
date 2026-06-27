@@ -1,8 +1,9 @@
-import os
+# DEPRECATED: Weekly analysis is disabled; this script is retained for reference only
 import re
 import glob
 from datetime import datetime, timedelta
-import google.generativeai as genai
+import openai
+from .config import OPENAI_API_KEY
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -11,13 +12,15 @@ ROOT_DIR = os.path.dirname(AGENT_DIR)
 load_dotenv(os.path.join(AGENT_DIR, ".env"))
 load_dotenv(os.path.join(ROOT_DIR, ".env"))
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+# OpenAI key is loaded from config
 
-def init_gemini():
-    if not GEMINI_API_KEY:
-        print("[Error] GEMINI_API_KEY is not set.")
+def init_openai():
+    """Initializes OpenAI client using OPENAI_API_KEY env var."""
+    from .config import OPENAI_API_KEY
+    if not OPENAI_API_KEY:
+        print("[Error] OPENAI_API_KEY is not set.")
         return False
-    genai.configure(api_key=GEMINI_API_KEY)
+    openai.api_key = OPENAI_API_KEY
     return True
 
 def run_weekly_analysis():
@@ -25,7 +28,7 @@ def run_weekly_analysis():
     print("  SCMP WEEKLY BRAIN ANALYZER: INITIATING EXTRACT & STUDY")
     print("============================================================")
     
-    if not init_gemini():
+    if not init_openai():
         return
         
     digests_dir = os.path.join(ROOT_DIR, "digests")
@@ -107,16 +110,14 @@ Create a title for the note: "Weekly Synthesis & Patterns - {week_id}"
 """
     
     try:
-        print("Analyzing weekly digests using Gemini...")
-        model = genai.GenerativeModel('gemini-3.5-flash')
-        if model._client is None:
-            from google.generativeai import client as genai_client
-            model._client = genai_client.get_default_generative_client()
-        request = model._prepare_request(contents=prompt)
-        raw_response = model._client.generate_content(request, timeout=240.0)
-        from google.generativeai.types import generation_types
-        response = generation_types.GenerateContentResponse.from_response(raw_response)
-        synthesis = response.text.strip()
+        print("Analyzing weekly digests using OpenAI...")
+        response = openai.ChatCompletion.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.0,
+            max_tokens=2000,
+        )
+        synthesis = response.choices[0].message["content"].strip()
         
         # Format the Obsidian note with frontmatter if the model didn't add it
         frontmatter = ""
