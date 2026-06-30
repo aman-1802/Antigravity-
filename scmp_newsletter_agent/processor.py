@@ -1,4 +1,4 @@
-import google.generativeai as genai
+
 import openai
 import json
 import re
@@ -53,13 +53,13 @@ def filter_articles_with_llm(articles):
     Example response: [0, 2, 5]
     """
     try:
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.0,
             max_tokens=500,
         )
-        text = response.choices[0].message["content"].strip()
+        text = response.choices[0].message.content.strip()
         # Clean possible markdown wrappers
         if text.startswith("```"):
             lines = text.split("\n")
@@ -365,13 +365,13 @@ Write in an elegant, modern, smart, and business-focused tone (no sensationalize
 """
     try:
         print("Analyzing weekly digests using OpenAI...")
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.0,
             max_tokens=2000,
         )
-        text = response.choices[0].message["content"].strip()
+        text = response.choices[0].message.content.strip()
         
         # Clean markdown wrappers if any
         if text.startswith("```"):

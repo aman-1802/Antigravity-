@@ -111,13 +111,13 @@ Create a title for the note: "Weekly Synthesis & Patterns - {week_id}"
     
     try:
         print("Analyzing weekly digests using OpenAI...")
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.0,
             max_tokens=2000,
         )
-        synthesis = response.choices[0].message["content"].strip()
+        synthesis = response.choices[0].message.content.strip()
         
         # Format the Obsidian note with frontmatter if the model didn't add it
         frontmatter = ""
