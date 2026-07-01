@@ -9,7 +9,11 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 
 # Email SMTP Config
 SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.gmail.com")
-SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
+SMTP_PORT_RAW = os.getenv("SMTP_PORT", "587")
+try:
+    SMTP_PORT = int(SMTP_PORT_RAW) if SMTP_PORT_RAW.strip() else 587
+except ValueError:
+    SMTP_PORT = 587
 SMTP_USER = os.getenv("SMTP_USER", "")
 SMTP_PASSWORD = os.getenv("SMTP_PASSWORD", "")
 
