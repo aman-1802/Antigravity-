@@ -25,7 +25,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r scmp_newsletter_agent/requirements.txt
+          python -m pip install --upgrade pip
+          python -m pip install -r scmp_newsletter_agent/requirements.txt
 
       - name: Run orchestrator pipeline
         env:

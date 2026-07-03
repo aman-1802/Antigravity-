@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digest Feed | Premium Unified News Aggregator</title>
+    <meta name="description" content="A premium, minimal news aggregator styled with circular stories navigation. Browse daily summaries of AI breakthroughs, SCMP geopolitics, and Aeon essays.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Main Dashboard View -->
+        <main class="dashboard-view" id="dashboard-view">
+            <!-- App Header -->
+            <header class="dashboard-header">
+                <div class="header-logo">
+                    <span class="logo-accent">⚡</span>
+                    <h1>digest.stories</h1>
+                </div>
+                <div class="status-indicator">
+                    <span class="status-dot animate-pulse"></span>
+                    <span id="last-updated-time">Checking...</span>
+                </div>
+            </header>
+
+            <!-- Stories Bar (Circular Tabs for Navigation) -->
+            <section class="stories-bar-section" aria-label="News Category Tabs">
+                <div class="stories-bar">
+                    <!-- AI Story Tab -->
+                    <button class="story-tab" id="story-tab-ai" data-category="AI" aria-label="Show AI News Feed">
+                        <div class="story-ring ring-ai">
+                            <div class="story-avatar">
+                                <span class="avatar-icon">🤖</span>
+                            </div>
+                        </div>
+                        <span class="story-label">AI News</span>
+                    </button>
+
+                    <!-- SCMP Story Tab -->
+                    <button class="story-tab" id="story-tab-scmp" data-category="SCMP" aria-label="Show SCMP Geopolitical Feed">
+                        <div class="story-ring ring-scmp">
+                            <div class="story-avatar">
+                                <span class="avatar-icon">🌐</span>
+                            </div>
+                        </div>
+                        <span class="story-label">SCMP</span>
+                    </button>
+
+                    <!-- Aeon Story Tab -->
+                    <button class="story-tab" id="story-tab-aeon" data-category="Aeon" aria-label="Show Aeon Essay Feed">
+                        <div class="story-ring ring-aeon">
+                            <div class="story-avatar">
+                                <span class="avatar-icon">📖</span>
+                            </div>
+                        </div>
+                        <span class="story-label">Aeon</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Active Category Feed Header -->
+            <section class="feed-header-section">
+                <h2 class="feed-category-title" id="feed-category-title">AI Breakthroughs</h2>
+                <p class="feed-category-desc" id="feed-category-desc">Aggregated updates from the last 24 hours.</p>
+            </section>
+
+            <!-- Loading State -->
+            <div class="loading-state" id="loading-state" style="display: none;">
+                <div class="spinner"></div>
+                <p>Loading updates...</p>
+            </div>
+
+            <!-- Empty State / No stories found -->
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <span class="empty-icon">☕</span>
+                <h3>All Caught Up</h3>
+                <p>No new updates in this category for the last 24 hours.</p>
+            </div>
+
+            <!-- Traditional Newspaper Grid/Feed -->
+            <section class="feed-content-section">
+                <div class="news-feed-grid" id="news-feed-grid">
+                    <!-- Rendered dynamically by JavaScript -->
+                </div>
+            </section>
+
+            <!-- Dashboard Info & Footer -->
+            <footer class="dashboard-footer">
+                <p>Strictly filtering updates from the last 24 hours.</p>
+                <p class="hosting-label">Powered by GitHub Actions &amp; OpenAI</p>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Connection Error Overlay -->
+    <div class="error-overlay" id="error-overlay" style="display: none;">
+        <div class="error-card">
+            <h3>⚠️ Connection Problem</h3>
+            <p>Could not fetch the latest news updates database from <code class="font-mono">data/news_data.json</code>.</p>
+            <p class="error-details" id="error-details-text">Please verify that aggregator.py has run successfully.</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

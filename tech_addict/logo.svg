@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <!-- Warm amber/orange gradient representing tech addiction/energy -->
+    <linearGradient id="logo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#ea580c" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Minimal geometric icon: overlapping stylized terminal/AI nodes -->
+  <g transform="translate(10, 10)">
+    <!-- Outer accent frame -->
+    <rect x="0" y="0" width="40" height="40" rx="12" fill="none" stroke="url(#logo-grad)" stroke-width="2.5"/>
+    
+    <!-- Code slash and pixel spark -->
+    <path d="M14 26 L20 14" stroke="#44403c" stroke-width="3" stroke-linecap="round"/>
+    <path d="M26 14 L20 26" stroke="url(#logo-grad)" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="27" cy="15" r="3" fill="#ea580c"/>
+  </g>
+
+  <!-- Typography: Clean Arial-like layout -->
+  <text x="62" y="31" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#1c1917" letter-spacing="-0.5">tech</text>
+  <text x="103" y="31" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="url(#logo-grad)" letter-spacing="-0.5">addict</text>
+  
+  <!-- Subtext -->
+  <text x="63" y="44" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="600" fill="#78716c" letter-spacing="1.5">DAILY AI &amp; TECH DIGEST</text>
+</svg>

@@ -23,7 +23,7 @@ Thumbs.db
 /.agents/
 /market_research_tooling/
 /scratch/
-/tech_addict/
+tech_addict/.env
 /*.py
 /validate_deliverables.py
 /verify_pdf.py
