@@ -1,101 +1,37 @@
 {
-  "last_updated": "2026-07-03T06:48:34.389864+00:00",
+  "last_updated": "2026-07-04T03:32:43.585746+00:00",
   "articles": [
     {
-      "title": "China sends warning to Japan and the Philippines over ‘wrongful’ maritime talks",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3359264/china-sends-warning-japan-and-philippines-over-wrongful-maritime-talks?utm_source=rss_feed",
-      "published_date": "2026-07-03T06:00:11+00:00",
-      "summary": "China's legal warning to Japan and the Philippines regarding their maritime border talks underscores escalating tensions in the South China Sea, highlighting Beijing's determination to assert its claims over contested waters and potentially destabilizing regional security and diplomatic relations. This development not only challenges the sovereignty of Japan and the Philippines but also raises the stakes for international maritime law and cooperation in the region.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Kuaishou files US$3 billion Kling AI funding round to Hong Kong stock exchange",
-      "link": "https://www.scmp.com/tech/article/3359250/kuaishou-files-us3-billion-kling-ai-funding-round-hong-kong-stock-exchange?utm_source=rss_feed",
-      "published_date": "2026-07-03T03:31:38+00:00",
-      "summary": "Kuaishou's Kling AI is set to revolutionize the short video landscape by raising $3 billion in its inaugural funding round, a move that underscores the growing significance of AI in content creation and the competitive dynamics of the tech industry. This substantial investment not only highlights investor confidence in AI-driven innovation but also positions Kling AI as a formidable player in the rapidly evolving digital entertainment sector.",
+      "title": "China’s ByteDance discovers new scaling law that could sustain AI boom",
+      "link": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom?utm_source=rss_feed",
+      "published_date": "2026-07-03T22:00:26+00:00",
+      "summary": "ByteDance has unveiled a groundbreaking scaling law that enables AI agents to double their learning speed every three months through real-world interactions, a discovery poised to sustain the current AI boom as conventional development approaches face limitations. This finding could revolutionize the pace of AI advancement, significantly enhancing the capabilities of autonomous systems.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "US lawmakers push for fewer tax breaks to reduce reliance on China technology",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3359225/us-lawmakers-push-fewer-tax-breaks-reduce-reliance-china-technology?utm_source=rss_feed",
-      "published_date": "2026-07-02T20:36:05+00:00",
-      "summary": "US lawmakers are advocating for reduced tax breaks to diminish corporate America's dependence on Chinese technology, framing this economic relationship as a national security threat, which could significantly reshape the landscape of U.S.-China relations and bolster domestic innovation. This shift underscores a growing recognition that reliance on adversarial nations poses risks beyond mere economics, potentially redefining the strategic priorities of American businesses.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Could China’s containerised aircraft launcher reshape rules of modern warfare?",
-      "link": "https://www.scmp.com/news/china/military/article/3359193/could-chinas-containerised-aircraft-launcher-reshape-rules-modern-warfare?utm_source=rss_feed",
-      "published_date": "2026-07-02T15:00:06+00:00",
-      "summary": "China's new truck-mounted electromagnetic catapult, capable of launching drones from a modular containerized system, could revolutionize military logistics and aerial warfare by enabling rapid deployment and increased operational flexibility on the battlefield. This innovation not only enhances China's strategic capabilities but also challenges existing military doctrines globally.",
+      "title": "China’s satellite engine smashes record, leaves US rival far behind",
+      "link": "https://www.scmp.com/news/china/science/article/3359363/chinas-satellite-engine-smashes-record-leaves-us-rival-far-behind?utm_source=rss_feed",
+      "published_date": "2026-07-03T14:00:10+00:00",
+      "summary": "China has achieved a groundbreaking milestone by testing a satellite engine with an unprecedented operating life of 11,617 seconds, significantly enhancing its capabilities for launching communications, military, and deep-space spacecraft, and leaving its U.S. counterparts trailing in this critical technology race. This advancement not only accelerates orbital insertion but also promises greater reliability for future space missions.",
       "source": "China News",
       "category": "SCMP"
     },
     {
-      "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
-      "published_date": "2026-07-02T13:00:23+00:00",
-      "summary": "NVIDIA's GeForce NOW is revolutionizing cloud gaming this July by introducing 12 new titles, including the innovative Monopoly: Star Wars Heroes vs. Villains, which merges beloved franchises and enhances accessibility for gamers everywhere. This expansion not only enriches the gaming experience but also solidifies GeForce NOW's position as a leader in the cloud gaming landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
-      "link": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-      "published_date": "2026-07-02T12:59:05+00:00",
-      "summary": "Microsoft's Frontier Company is revolutionizing AI engineering by enabling businesses to not only enhance their intelligence but also safeguard their intellectual property, marking a significant shift from experimentation to tangible, measurable outcomes in AI adoption. This breakthrough is crucial as it empowers organizations to maximize their AI investments while ensuring the security of their proprietary innovations.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "China AI drug-design deals swell as US scrutiny mounts",
-      "link": "https://www.scmp.com/business/china-business/article/3359182/china-ai-drug-design-deals-swell-us-scrutiny-mounts?utm_source=rss_feed",
-      "published_date": "2026-07-02T11:00:10+00:00",
-      "summary": "China's AI-driven drug-design firms are making a remarkable leap onto the global stage, securing $75 billion in out-licensing deals with multinational pharmaceutical companies in just the first five months of 2026, highlighting a significant shift in the biotech landscape amid increasing scrutiny from the U.S. This surge not only underscores China's growing influence in innovative drug development but also raises questions about the future dynamics of global healthcare collaboration.",
-      "source": "SCMP China Tech",
+      "title": "Alibaba’s Elements Claw AI agent unearths 4 new superconductors",
+      "link": "https://www.scmp.com/tech/big-tech/article/3359335/alibabas-elements-claw-ai-agent-unearths-four-new-superconductors?utm_source=rss_feed",
+      "published_date": "2026-07-03T11:30:05+00:00",
+      "summary": "Alibaba's Damo Academy has introduced the first AI agent capable of discovering superconducting materials, successfully identifying four new compounds that could transform energy transmission and storage by enabling lossless electricity conduction. This breakthrough not only enhances our understanding of superconductors but also paves the way for revolutionary advancements in power grid efficiency and technology.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Karl Hess: toward liberty",
-      "link": "https://aeon.co/videos/a-republican-speechwriter-turned-welders-radical-gospel-of-localism",
-      "published_date": "2026-07-02T10:01:00+00:00",
-      "summary": "• Karl Hess's journey from a Republican speechwriter to a radical welder exemplifies the transformative power of personal experience in shaping political ideology.  \n• He posits that true liberty emerges not from abstract political theories but from the tangible connections within local communities.  \n• Hess challenges the notion of government as a necessary structure, advocating for a society built on voluntary cooperation and mutual aid.  \n• His life illustrates the tension between individual freedom and societal constraints, prompting a reevaluation of what it means to live authentically.  \n• Ultimately, Hess's philosophy invites us to reconsider the role of grassroots movements in fostering genuine social change.",
+      "title": "Abyss",
+      "link": "https://aeon.co/essays/what-ukrainian-war-widows-know-about-love-and-loss",
+      "published_date": "2026-07-03T10:00:00+00:00",
+      "summary": "• The experiences of war widows in Ukraine illuminate the profound emotional scars left by conflict, where love intertwines with loss.  \n• These narratives challenge the notion of survival, suggesting that living without a loved one can feel akin to a slow death.  \n• The concept of \"black pain\" emerges as a haunting reminder of the invisible wounds that accompany grief and longing.  \n• Through their stories, the widows confront the abyss of despair, revealing the resilience of the human spirit amidst unimaginable sorrow.  \n• Ultimately, their testimonies serve as a poignant exploration of how love persists even in the face of profound tragedy.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Zhipu AI releases harness for GLM-5.2 model as Chinese firm takes aim at Anthropic",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359170/zhipu-ai-releases-harness-glm-52-model-chinese-firm-takes-aim-anthropic?utm_source=rss_feed",
-      "published_date": "2026-07-02T10:00:32+00:00",
-      "summary": "Zhipu AI has unveiled ZCode, a groundbreaking harness for its GLM-5.2 model, designed to empower developers in creating autonomous coding assistants, intensifying competition with US rival Anthropic amid its controversial user tracking practices. This advancement not only showcases Zhipu's technological prowess but also signals a significant shift in the global AI landscape, as Chinese firms increasingly challenge established Western players.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The anguish of choice",
-      "link": "https://aeon.co/essays/re-reading-sartres-lecture-existentialism-is-a-humanism",
-      "published_date": "2026-07-02T10:00:00+00:00",
-      "summary": "• Sartre's exploration of freedom in the context of war reveals the profound anguish inherent in the act of choice.  \n• The lecture underscores that true freedom is accompanied by the weight of responsibility for one's decisions.  \n• In a world marked by chaos, the quest for meaning becomes a deeply personal and often painful journey.  \n• The struggle to navigate choices reflects the existential tension between individual agency and external circumstances.  \n• Ultimately, Sartre's insights challenge us to confront the complexities of our freedom and the moral implications of our choices.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Inside CXMT’s US$4.3b IPO: soaring profits meet US export threat and high-stakes HBM race",
-      "link": "https://www.scmp.com/tech/big-tech/article/3359168/inside-cxmts-us43b-ipo-soaring-profits-meet-us-export-threat-and-high-stakes-hbm-race?utm_source=rss_feed",
-      "published_date": "2026-07-02T08:46:50+00:00",
-      "summary": "ChangXin Memory Technologies (CXMT) is poised to capitalize on a historic US$4.3 billion IPO amid a global memory shortage fueled by skyrocketing AI demand, raising pivotal questions about its ability to sustain profitability and secure long-term dominance in the DRAM market despite looming US export restrictions. This moment not only highlights CXMT's potential to reshape the semiconductor landscape but also underscores the high-stakes competition in the high-bandwidth memory sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Shanghai unveils quantum computing hub as China races for tech supremacy",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359146/shanghai-unveils-quantum-computing-hub-china-races-tech-supremacy?utm_source=rss_feed",
-      "published_date": "2026-07-02T07:30:13+00:00",
-      "summary": "Shanghai has launched a dedicated quantum computing hub aimed at consolidating its position in the global tech race, bringing together 26 firms to accelerate advancements in this transformative technology. This initiative not only enhances China's competitive edge in quantum innovation but also signifies a strategic move to establish a leading industrial cluster in the rapidly evolving field.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
