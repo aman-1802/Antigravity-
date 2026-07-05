@@ -1,37 +1,21 @@
 {
-  "last_updated": "2026-07-04T06:35:41.600005+00:00",
+  "last_updated": "2026-07-05T03:50:35.872453+00:00",
   "articles": [
     {
-      "title": "China’s ByteDance discovers new scaling law that could sustain AI boom",
-      "link": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom?utm_source=rss_feed",
-      "published_date": "2026-07-03T22:00:26+00:00",
-      "summary": "ByteDance has unveiled a groundbreaking scaling law that enables AI agents to double their learning speed every three months through real-world interactions, a discovery poised to sustain the current AI boom as conventional development approaches face limitations. This finding could revolutionize the pace of AI advancement, significantly enhancing the capabilities of autonomous systems.",
-      "source": "SCMP Tech",
+      "title": "Why US and China are struggling to reach a consensus over future shape of relationship",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3359428/why-us-and-china-are-struggling-reach-consensus-over-future-shape-relationship?utm_source=rss_feed",
+      "published_date": "2026-07-05T01:00:16+00:00",
+      "summary": "The ongoing struggle between the US and China to define a \"constructive\" relationship underscores significant geopolitical tensions, as both nations grapple with deep-seated differences that threaten strategic stability and the potential for future collaboration. This uncertainty not only impacts bilateral relations but also has far-reaching implications for global diplomacy and security.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "China’s satellite engine smashes record, leaves US rival far behind",
-      "link": "https://www.scmp.com/news/china/science/article/3359363/chinas-satellite-engine-smashes-record-leaves-us-rival-far-behind?utm_source=rss_feed",
-      "published_date": "2026-07-03T14:00:10+00:00",
-      "summary": "China has achieved a groundbreaking milestone by testing a satellite engine with an unprecedented operating life of 11,617 seconds, significantly enhancing its capabilities for launching communications, military, and deep-space spacecraft, and leaving its U.S. counterparts trailing in this critical technology race. This advancement not only accelerates orbital insertion but also promises greater reliability for future space missions.",
-      "source": "China News",
+      "title": "Beijing sends new coastguard force into waters east of Taiwan",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3359426/beijing-sends-new-coastguard-force-waters-east-taiwan?utm_source=rss_feed",
+      "published_date": "2026-07-04T12:32:44+00:00",
+      "summary": "Beijing's deployment of a new coastguard task force east of Taiwan signals a strategic escalation in regional tensions, particularly following diplomatic overtures to the Philippines, highlighting China's assertive stance in contested waters and its implications for U.S.-China relations. This maneuver underscores the delicate balance of power in the region and the potential for increased conflict over sovereignty issues.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
-    },
-    {
-      "title": "Alibaba’s Elements Claw AI agent unearths 4 new superconductors",
-      "link": "https://www.scmp.com/tech/big-tech/article/3359335/alibabas-elements-claw-ai-agent-unearths-four-new-superconductors?utm_source=rss_feed",
-      "published_date": "2026-07-03T11:30:05+00:00",
-      "summary": "Alibaba's Damo Academy has introduced the first AI agent capable of discovering superconducting materials, successfully identifying four new compounds that could transform energy transmission and storage by enabling lossless electricity conduction. This breakthrough not only enhances our understanding of superconductors but also paves the way for revolutionary advancements in power grid efficiency and technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Abyss",
-      "link": "https://aeon.co/essays/what-ukrainian-war-widows-know-about-love-and-loss",
-      "published_date": "2026-07-03T10:00:00+00:00",
-      "summary": "• The experiences of war widows in Ukraine illuminate the profound emotional scars left by conflict, where love intertwines with loss.  \n• These narratives challenge the notion of survival, suggesting that living without a loved one can feel akin to a slow death.  \n• The concept of \"black pain\" emerges as a haunting reminder of the invisible wounds that accompany grief and longing.  \n• Through their stories, the widows confront the abyss of despair, revealing the resilience of the human spirit amidst unimaginable sorrow.  \n• Ultimately, their testimonies serve as a poignant exploration of how love persists even in the face of profound tragedy.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
