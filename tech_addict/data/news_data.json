@@ -1,27 +1,11 @@
 {
-  "last_updated": "2026-07-06T03:57:40.637813+00:00",
+  "last_updated": "2026-07-06T08:04:14.106304+00:00",
   "articles": [
     {
-      "title": "ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom",
-      "link": "https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom?utm_source=rss_feed",
-      "published_date": "2026-07-05T11:32:53+00:00",
-      "summary": "ByteDance and Alibaba are preemptively disabling their humanlike AI custom agents in response to impending regulatory changes from Beijing, marking a significant shift in the landscape of AI interaction services and underscoring the government's increasing control over the rapidly evolving tech sector. This move highlights the tension between innovation and regulation, as companies adapt to new rules that could reshape consumer engagement with AI technologies.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "‘China shock 3.0’ is coming. And it’ll be AI-powered robots",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots?utm_source=rss_feed",
-      "published_date": "2026-07-05T08:30:05+00:00",
-      "summary": "China is poised for a transformative \"shock 3.0\" as its advanced AI-powered robots threaten to revolutionize industries by potentially replacing hundreds of thousands of workers, signaling a significant shift in global labor dynamics and manufacturing capabilities. This development not only highlights China's growing technological prowess but also raises urgent questions about the future of work and economic stability worldwide.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese AI chip start-up exits stealth mode, bets on 3D stacking to bypass US controls",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359336/chinese-ai-chip-start-exits-stealth-mode-bets-3d-stacking-bypass-us-controls?utm_source=rss_feed",
-      "published_date": "2026-07-05T04:00:11+00:00",
-      "summary": "A Chinese AI chip start-up, Dongfang Suanxin, has unveiled its strategy to leverage 3D stacking technology as a means to circumvent US export controls, marking a significant move in the competitive landscape of AI computing and potentially reshaping the global semiconductor industry. This breakthrough not only highlights the company's ambition under the leadership of industry veteran Wei Shaojun but also signals a growing resilience among Chinese tech firms in the face of geopolitical challenges.",
+      "title": "China’s Biren seeks US$900m to fund GPU push and challenge Nvidia amid AI boom",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom?utm_source=rss_feed",
+      "published_date": "2026-07-06T04:17:07+00:00",
+      "summary": "Shanghai Biren Technology is raising nearly $900 million to ramp up GPU production, positioning itself as a formidable competitor to Nvidia in the rapidly expanding AI market, which could significantly reshape the landscape of AI chip manufacturing in China. This move underscores the intensifying race among tech companies to capitalize on the surging demand for AI capabilities.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
