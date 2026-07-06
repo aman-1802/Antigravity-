@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-05T06:55:20.419014+00:00",
+  "last_updated": "2026-07-06T03:57:40.637813+00:00",
   "articles": [
+    {
+      "title": "ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom",
+      "link": "https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom?utm_source=rss_feed",
+      "published_date": "2026-07-05T11:32:53+00:00",
+      "summary": "ByteDance and Alibaba are preemptively disabling their humanlike AI custom agents in response to impending regulatory changes from Beijing, marking a significant shift in the landscape of AI interaction services and underscoring the government's increasing control over the rapidly evolving tech sector. This move highlights the tension between innovation and regulation, as companies adapt to new rules that could reshape consumer engagement with AI technologies.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "‘China shock 3.0’ is coming. And it’ll be AI-powered robots",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots?utm_source=rss_feed",
+      "published_date": "2026-07-05T08:30:05+00:00",
+      "summary": "China is poised for a transformative \"shock 3.0\" as its advanced AI-powered robots threaten to revolutionize industries by potentially replacing hundreds of thousands of workers, signaling a significant shift in global labor dynamics and manufacturing capabilities. This development not only highlights China's growing technological prowess but also raises urgent questions about the future of work and economic stability worldwide.",
+      "source": "SCMP China Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Chinese AI chip start-up exits stealth mode, bets on 3D stacking to bypass US controls",
       "link": "https://www.scmp.com/tech/tech-trends/article/3359336/chinese-ai-chip-start-exits-stealth-mode-bets-3d-stacking-bypass-us-controls?utm_source=rss_feed",
