@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-07T03:48:50.711336+00:00",
+  "last_updated": "2026-07-07T07:02:10.050700+00:00",
   "articles": [
+    {
+      "title": "China’s chip equipment rally faces earnings test as memory boom fuels bets on local tools",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3359705/chinas-chip-equipment-rally-faces-earnings-test-memory-boom-fuels-bets-local-tools?utm_source=rss_feed",
+      "published_date": "2026-07-07T06:13:27+00:00",
+      "summary": "China's semiconductor equipment sector is experiencing a significant stock rally, driven by a booming memory market and heightened investor interest, positioning local suppliers for potential growth as the industry prepares for its first-half earnings reports. This shift not only underscores the increasing importance of domestic technology in the global supply chain but also highlights the potential for substantial returns in a previously overlooked market segment.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "link": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "published_date": "2026-07-07T06:00:26+00:00",
+      "summary": "NVIDIA and Hugging Face are revolutionizing the open robotics landscape by introducing new models and frameworks to LeRobot, enabling unprecedented collaboration and innovation in physical AI development. This breakthrough addresses the costly and fragmented resources that have historically hindered progress, paving the way for faster advancements in robotics technology.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
     {
       "title": "China records most new unicorn start-ups in 5 years as AI and robotics boom",
       "link": "https://www.scmp.com/tech/article/3359629/china-records-most-new-unicorn-start-ups-5-years-ai-and-robotics-boom?utm_source=rss_feed",
@@ -16,14 +32,6 @@
       "summary": "NVIDIA's significant presence at ICML 2026, with 74 accepted papers, underscores a pivotal shift in AI research towards open frontier models and infrastructure, which are now essential for advancing modern AI science. This breakthrough not only democratizes access to cutting-edge technology but also accelerates innovation across the global research community.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "Alibaba wins reprieve on US lobbying after Pentagon blacklisted companies",
-      "link": "https://www.scmp.com/tech/big-tech/article/3359638/alibaba-wins-reprieve-us-lobbying-after-pentagon-blacklisted-companies?utm_source=rss_feed",
-      "published_date": "2026-07-06T15:18:49+00:00",
-      "summary": "Alibaba has gained a crucial temporary legal reprieve allowing it to continue lobbying in the U.S. despite being blacklisted by the Pentagon for alleged ties to China's military, a development that could significantly impact its operations and influence in the American market. This ruling underscores the ongoing tensions between U.S. national security concerns and the interests of major tech companies in navigating regulatory landscapes.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     },
     {
       "title": "How Nations Are Deploying AI for Strategic Priorities",
@@ -42,22 +50,6 @@
       "category": "AI"
     },
     {
-      "title": "Huawei’s next smartphone chip taps new scaling law for performance boost: paper",
-      "link": "https://www.scmp.com/tech/article/3359592/huaweis-next-smartphone-chip-taps-new-scaling-law-performance-boost-paper?utm_source=rss_feed",
-      "published_date": "2026-07-06T12:30:13+00:00",
-      "summary": "Huawei's upcoming Kirin 2026 smartphone chip leverages its innovative LogicFolding architecture to achieve a remarkable 55 percent increase in transistor density, promising significant performance enhancements without relying on advanced manufacturing processes. This breakthrough positions Huawei to compete more effectively in the high-end smartphone market, potentially reshaping industry standards for mobile processing power.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Global robotaxi market set to hit US$1t by 2040 as China tech costs plummet: Morgan Stanley",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359602/global-robotaxi-market-set-hit-us1t-2040-china-tech-costs-plummet-morgan-stanley?utm_source=rss_feed",
-      "published_date": "2026-07-06T10:30:07+00:00",
-      "summary": "The global robotaxi market is projected to reach an astonishing US$1 trillion by 2040, fueled by plummeting manufacturing costs in China, positioning local innovators like Baidu and Xpeng as key players alongside established giants Tesla and Waymo. This shift not only underscores the transformative potential of autonomous transportation but also highlights the critical role of cost efficiency in driving widespread adoption.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
       "title": "Begone dull care",
       "link": "https://aeon.co/videos/jazz-and-innovative-animation-form-a-sensory-swirl-in-this-1949-short",
       "published_date": "2026-07-06T10:01:00+00:00",
@@ -72,14 +64,6 @@
       "summary": "• The resurgence of traditional skills like beekeeping and baking reflects a deep yearning for authenticity in an increasingly digital world.  \n• Engaging in hands-on crafts may serve as a rebellion against the alienation of modern labor, fostering a sense of community and connection.  \n• This trend suggests that nostalgia for manual skills could lead to a more meaningful and fulfilling approach to work and life.  \n• The act of creating with one's hands can be a profound expression of identity and purpose, transcending mere hobbyism.  \n• Ultimately, the revival of these skills invites a philosophical inquiry into the nature of work and its role in human flourishing.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China’s Biren seeks US$900m to fund GPU push and challenge Nvidia amid AI boom",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom?utm_source=rss_feed",
-      "published_date": "2026-07-06T04:17:07+00:00",
-      "summary": "Shanghai Biren Technology is raising nearly $900 million to ramp up GPU production, positioning itself as a formidable competitor to Nvidia in the rapidly expanding AI market, which could significantly reshape the landscape of AI chip manufacturing in China. This move underscores the intensifying race among tech companies to capitalize on the surging demand for AI capabilities.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
