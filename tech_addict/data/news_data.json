@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-08T03:16:05.990760+00:00",
+  "last_updated": "2026-07-08T06:13:58.775250+00:00",
   "articles": [
+    {
+      "title": "China weighs open-weight AI’s security risks against national tech innovation strategy: researchers",
+      "link": "https://www.scmp.com/tech/policy/article/3359791/china-weighs-open-weight-ais-security-risks-against-national-tech-innovation-strategy-researchers?utm_source=rss_feed",
+      "published_date": "2026-07-08T05:00:06+00:00",
+      "summary": "China is navigating the complex interplay between the security risks of open-weight AI models and its aggressive national innovation strategy, as recent advancements from Chinese labs have dramatically closed the performance gap with proprietary models, potentially reshaping the global tech landscape. This breakthrough not only enhances China's competitive edge in AI but also raises critical questions about the implications for security and regulation in the rapidly evolving tech arena.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
       "link": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
@@ -63,22 +71,6 @@
       "published_date": "2026-07-07T08:54:00+00:00",
       "summary": "Google AI's latest expansion of its Gemini API introduces managed agents that facilitate background tasks and remote management capabilities, revolutionizing how developers can automate and streamline processes, thereby enhancing productivity and efficiency in AI-driven applications. This breakthrough not only simplifies complex workflows but also empowers businesses to leverage advanced AI functionalities with unprecedented ease.",
       "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s chip equipment rally faces earnings test as memory boom fuels bets on local tools",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359705/chinas-chip-equipment-rally-faces-earnings-test-memory-boom-fuels-bets-local-tools?utm_source=rss_feed",
-      "published_date": "2026-07-07T06:13:27+00:00",
-      "summary": "China's semiconductor equipment sector is experiencing a significant stock rally, driven by a booming memory market and heightened investor interest, positioning local suppliers for potential growth as the industry prepares for its first-half earnings reports. This shift not only underscores the increasing importance of domestic technology in the global supply chain but also highlights the potential for substantial returns in a previously overlooked market segment.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-      "link": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "published_date": "2026-07-07T06:00:26+00:00",
-      "summary": "NVIDIA and Hugging Face are revolutionizing the open robotics landscape by introducing new models and frameworks to LeRobot, enabling unprecedented collaboration and innovation in physical AI development. This breakthrough addresses the costly and fragmented resources that have historically hindered progress, paving the way for faster advancements in robotics technology.",
-      "source": "NVIDIA",
       "category": "AI"
     }
   ]
