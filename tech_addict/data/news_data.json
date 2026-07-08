@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-07-07T07:02:10.050700+00:00",
+  "last_updated": "2026-07-08T03:16:05.990760+00:00",
   "articles": [
+    {
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "link": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "published_date": "2026-07-07T15:00:52+00:00",
+      "summary": "NVIDIA's introduction of max single-threaded CPUs at scale marks a pivotal advancement for agentic AI systems, significantly enhancing reasoning, response times, and learning capabilities, thereby revolutionizing how AI models execute complex tasks. This breakthrough is crucial for driving the next generation of intelligent applications, positioning NVIDIA at the forefront of AI innovation.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "What does China’s submarine missile test mean for its nuclear triad expansion?",
+      "link": "https://www.scmp.com/news/china/military/article/3359762/what-does-chinas-submarine-missile-test-mean-its-nuclear-triad-expansion?utm_source=rss_feed",
+      "published_date": "2026-07-07T15:00:06+00:00",
+      "summary": "China's recent ballistic missile test from a nuclear-powered submarine marks a significant advancement in its nuclear triad capabilities, signaling a strategic challenge to the U.S. and its allies while intensifying calls for enhanced defense measures in the face of escalating regional tensions. This development underscores the urgency for the U.S. and its partners to bolster security coordination in response to China's growing military assertiveness.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "World working together ‘as one ecosystem’ on RISC-V chip research: executive",
+      "link": "https://www.scmp.com/tech/tech-war/article/3359765/world-working-together-one-ecosystem-risc-v-chip-research-executive?utm_source=rss_feed",
+      "published_date": "2026-07-07T13:48:22+00:00",
+      "summary": "Global collaboration on the RISC-V chip architecture is thriving despite geopolitical tensions, with major players from the US, China, India, Brazil, and Europe uniting to advance this open-standard technology, signaling a transformative shift in the semiconductor landscape that could redefine global tech dynamics.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China achieves microwatt milestone with self-reliant carbon-14 nuclear battery",
+      "link": "https://www.scmp.com/news/china/science/article/3359748/china-achieves-microwatt-milestone-self-reliant-carbon-14-nuclear-battery?utm_source=rss_feed",
+      "published_date": "2026-07-07T13:00:12+00:00",
+      "summary": "Chinese researchers have achieved a groundbreaking milestone by developing a self-reliant carbon-14 nuclear battery that significantly enhances long-life power sources, showcasing the nation's technological independence and potential for revolutionizing energy solutions. This innovation not only surpasses previous generations but also positions China at the forefront of advanced energy technology.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Glass crashes slashed? Ant Group embodied AI unit claims breakthrough in robot sensing",
+      "link": "https://www.scmp.com/tech/big-tech/article/3359747/glass-crashes-slashed-ant-group-embodied-ai-unit-claims-breakthrough-robot-sensing?utm_source=rss_feed",
+      "published_date": "2026-07-07T11:30:31+00:00",
+      "summary": "Ant Group's embodied AI unit, Robbyant, has achieved a significant breakthrough with its new vision models, LingBot-Depth 2.0 and LingBot-Vision, enabling robots to accurately perceive glass and transparent objects, a challenge that has long hindered robotic functionality and interaction in real-world environments. This advancement not only enhances robotic perception but also paves the way for more sophisticated applications in automation and AI-driven technologies.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "‘The emperor is far away’",
+      "link": "https://aeon.co/essays/how-little-we-really-know-of-the-mighty-ming-dynasty",
+      "published_date": "2026-07-07T10:00:00+00:00",
+      "summary": "• The texts of the Ming Dynasty offer a rich tapestry of culture yet obscure the everyday realities of the common populace.  \n• Historical narratives often prioritize the elite, leaving the voices of the majority silenced and marginalized.  \n• The disconnect between documented history and lived experience challenges our understanding of societal dynamics.  \n• In seeking to unveil the past, one must navigate the complexities of representation and the power of narrative.  \n• The emperor's distance symbolizes the broader gap between authority and the lived experiences of ordinary individuals.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Huawei’s new computing cluster, world’s first AI agent phone to debut at China AI summit",
+      "link": "https://www.scmp.com/tech/article/3359733/huaweis-new-computing-cluster-worlds-first-ai-agent-phone-debut-china-ai-summit?utm_source=rss_feed",
+      "published_date": "2026-07-07T09:40:18+00:00",
+      "summary": "Huawei is set to unveil the world's first AI agent phone alongside its groundbreaking Atlas 950 SuperPoD computing cluster at the upcoming World Artificial Intelligence Conference, marking a significant leap in China's ambition to lead the global AI technology race. This breakthrough not only showcases Huawei's innovation but also underscores the escalating competition in the AI sector, with potential implications for industries worldwide.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "published_date": "2026-07-07T08:54:00+00:00",
+      "summary": "Google AI's latest expansion of its Gemini API introduces managed agents that facilitate background tasks and remote management capabilities, revolutionizing how developers can automate and streamline processes, thereby enhancing productivity and efficiency in AI-driven applications. This breakthrough not only simplifies complex workflows but also empowers businesses to leverage advanced AI functionalities with unprecedented ease.",
+      "source": "Google AI",
+      "category": "AI"
+    },
     {
       "title": "China’s chip equipment rally faces earnings test as memory boom fuels bets on local tools",
       "link": "https://www.scmp.com/tech/tech-trends/article/3359705/chinas-chip-equipment-rally-faces-earnings-test-memory-boom-fuels-bets-local-tools?utm_source=rss_feed",
@@ -16,54 +80,6 @@
       "summary": "NVIDIA and Hugging Face are revolutionizing the open robotics landscape by introducing new models and frameworks to LeRobot, enabling unprecedented collaboration and innovation in physical AI development. This breakthrough addresses the costly and fragmented resources that have historically hindered progress, paving the way for faster advancements in robotics technology.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "China records most new unicorn start-ups in 5 years as AI and robotics boom",
-      "link": "https://www.scmp.com/tech/article/3359629/china-records-most-new-unicorn-start-ups-5-years-ai-and-robotics-boom?utm_source=rss_feed",
-      "published_date": "2026-07-07T02:00:15+00:00",
-      "summary": "China has experienced a remarkable surge in innovation, producing 67 new unicorn start-ups in just six months, fueled by a booming AI and robotics sector, marking the highest growth in nearly five years. This unprecedented rate of new billion-dollar companies underscores the country's pivotal role in shaping the future of technology and investment.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Open Models Are Driving AI Research",
-      "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-      "published_date": "2026-07-06T16:00:00+00:00",
-      "summary": "NVIDIA's significant presence at ICML 2026, with 74 accepted papers, underscores a pivotal shift in AI research towards open frontier models and infrastructure, which are now essential for advancing modern AI science. This breakthrough not only democratizes access to cutting-edge technology but also accelerates innovation across the global research community.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "How Nations Are Deploying AI for Strategic Priorities",
-      "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-      "published_date": "2026-07-06T15:00:25+00:00",
-      "summary": "Nations are strategically harnessing AI to revolutionize their economies and enhance national security, positioning this transformative technology as a critical driver of innovation across diverse sectors such as healthcare, transportation, and communications. This unprecedented investment in AI capabilities underscores its significance as the defining technology of our era, reshaping global competitiveness and societal advancement.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The latest in our company transformation",
-      "link": "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/",
-      "published_date": "2026-07-06T13:30:28+00:00",
-      "summary": "Microsoft is undergoing a significant transformation by eliminating approximately 4,800 roles, or 2.1% of its global workforce, to streamline operations and concentrate investments, highlighting a strategic shift in response to evolving market demands. This move underscores the company's commitment to transparency and adaptability in a competitive landscape.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Begone dull care",
-      "link": "https://aeon.co/videos/jazz-and-innovative-animation-form-a-sensory-swirl-in-this-1949-short",
-      "published_date": "2026-07-06T10:01:00+00:00",
-      "summary": "• The fusion of jazz and animation in 1949 creates a sensory experience that transcends traditional forms of art.  \n• Abstract visuals serve as a dynamic interpretation of music, inviting viewers to explore the boundaries of perception.  \n• This artistic collaboration challenges the notion of reality, blurring the lines between sound and sight.  \n• The work exemplifies how creativity can liberate the mind, encouraging a deeper engagement with both art and emotion.  \n• Ultimately, it reflects the transformative power of art to evoke joy and transcend the mundane.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Skill nostalgia",
-      "link": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
-      "published_date": "2026-07-06T10:00:00+00:00",
-      "summary": "• The resurgence of traditional skills like beekeeping and baking reflects a deep yearning for authenticity in an increasingly digital world.  \n• Engaging in hands-on crafts may serve as a rebellion against the alienation of modern labor, fostering a sense of community and connection.  \n• This trend suggests that nostalgia for manual skills could lead to a more meaningful and fulfilling approach to work and life.  \n• The act of creating with one's hands can be a profound expression of identity and purpose, transcending mere hobbyism.  \n• Ultimately, the revival of these skills invites a philosophical inquiry into the nature of work and its role in human flourishing.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
