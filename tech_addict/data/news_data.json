@@ -1,6 +1,94 @@
 {
-  "last_updated": "2026-07-08T06:13:58.775250+00:00",
+  "last_updated": "2026-07-09T03:40:31.240013+00:00",
   "articles": [
+    {
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "published_date": "2026-07-09T00:42:00+00:00",
+      "summary": "Apple's unprecedented achievement of 89 Emmy nominations across 15 programs underscores its rapid ascent as a formidable player in the entertainment industry, signaling a significant shift in the competitive landscape of streaming content and original programming. This milestone not only highlights the quality and impact of Apple's creative offerings but also positions the company as a serious contender in the ongoing battle for viewer engagement and industry recognition.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "US says China gave only hours’ warning before Pacific submarine missile launch",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3359907/us-says-china-gave-only-hours-warning-pacific-submarine-missile-launch?utm_source=rss_feed",
+      "published_date": "2026-07-08T22:51:46+00:00",
+      "summary": "The United States has condemned China for its lack of transparency, providing only hours of notice before a submarine-launched ballistic missile test in the Pacific, highlighting concerns over Beijing's accelerating nuclear capabilities and the potential risks to global security. This incident underscores the urgent need for clearer communication protocols among nuclear powers to prevent misunderstandings and escalation.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "published_date": "2026-07-08T15:00:27+00:00",
+      "summary": "NVIDIA's Nemotron 3 Ultra has set a new standard in AI agent orchestration by delivering benchmark-leading performance at a lower cost than top competitors, thanks to its collaboration with LangChain, which optimized its Deep Agents harness for unmatched accuracy and efficiency. This breakthrough not only enhances task completion rates but also positions NVIDIA as a formidable player in the rapidly evolving AI landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China’s circuit-board makers push capex towards record to feed AI boom",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3359851/chinas-circuit-board-makers-push-capex-towards-record-feed-ai-boom?utm_source=rss_feed",
+      "published_date": "2026-07-08T14:00:07+00:00",
+      "summary": "China's printed circuit board manufacturers are set to achieve unprecedented capital expenditure levels as they ramp up production to meet surging global demand driven by the artificial intelligence boom, highlighting the critical role of PCB technology in the future of AI innovation. This factory-building spree among over 20 leading companies underscores a pivotal moment in the tech supply chain, positioning China as a key player in the AI ecosystem.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "published_date": "2026-07-08T13:30:00+00:00",
+      "summary": "OpenAI's new framework for government and national security partnerships emphasizes responsible AI deployment, prioritizing democratic accountability and public safety, which could redefine how technology interacts with governance and national security in an era of rapid innovation. This approach not only sets a precedent for ethical AI use but also aims to enhance trust and collaboration between tech entities and governmental bodies.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "published_date": "2026-07-08T13:00:00+00:00",
+      "summary": "OpenAI's latest analysis uncovers significant flaws in the widely-used SWE-Bench Pro coding benchmark, highlighting critical reliability and accuracy issues that could undermine the evaluation of AI models and their development. This breakthrough calls into question the effectiveness of current coding assessments, potentially reshaping how AI capabilities are measured and validated.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Alibaba shares spike 12% in Hong Kong as T-Head chips, AI revenue fuel earnings optimism",
+      "link": "https://www.scmp.com/tech/article/3359878/alibaba-shares-spike-12-hong-kong-t-head-chips-ai-revenue-fuel-earnings-optimism?utm_source=rss_feed",
+      "published_date": "2026-07-08T12:30:13+00:00",
+      "summary": "Alibaba's shares soared 12% in Hong Kong, fueled by optimism surrounding its T-Head chips and a surge in AI revenue, signaling a potential turnaround in earnings as the company narrows losses in food delivery and positions itself strongly against competitors like Tencent and Meituan. This breakthrough underscores the growing market confidence in Alibaba's ability to capitalize on the booming AI sector, marking a pivotal moment for the tech giant's financial recovery.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Sangre violenta / sangre violeta",
+      "link": "https://aeon.co/videos/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+      "published_date": "2026-07-08T10:01:00+00:00",
+      "summary": "• The essay explores the unifying power of collective resistance against the pervasive issue of gendered violence.  \n• It highlights the stark contrasts among individuals who come together, transcending differences for a common cause.  \n• The narrative emphasizes the emotional and psychological toll of violence, urging a deeper understanding of its impact on society.  \n• It invites reflection on the transformative potential of solidarity in the face of systemic oppression.  \n• Ultimately, the piece serves as a call to action, inspiring a reevaluation of societal norms surrounding gender and violence.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "published_date": "2026-07-08T10:00:13+00:00",
+      "summary": "Apple's groundbreaking six-year partnership with Broadcom to invest billions in U.S. chip production signifies a major leap towards domestic semiconductor manufacturing, enhancing supply chain resilience and reinforcing the tech giant's commitment to innovation in custom silicon and wireless technologies.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "link": "https://openai.com/index/k-12-educators-practical-skills",
+      "published_date": "2026-07-08T10:00:00+00:00",
+      "summary": "OpenAI Academy, in collaboration with the Walton Family Foundation, is launching hands-on AI Skills Jams designed to equip K–12 educators with essential AI competencies, a breakthrough initiative that promises to transform classroom learning and prepare students for a future increasingly influenced by artificial intelligence.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Physical AI ‘space race’: can Europe compete with China and the US in humanoid robotics?",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3359847/physical-ai-space-race-can-europe-compete-china-and-us-humanoid-robotics?utm_source=rss_feed",
+      "published_date": "2026-07-08T09:07:01+00:00",
+      "summary": "European firms are striving to establish a competitive presence in the burgeoning field of physical AI, which integrates artificial intelligence into robotics, amid concerns that failure to do so could lead to significant deindustrialization as China and the US currently dominate the sector. This race is critical not only for technological advancement but also for the economic stability and industrial future of Europe.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "China weighs open-weight AI’s security risks against national tech innovation strategy: researchers",
       "link": "https://www.scmp.com/tech/policy/article/3359791/china-weighs-open-weight-ais-security-risks-against-national-tech-innovation-strategy-researchers?utm_source=rss_feed",
@@ -8,70 +96,6 @@
       "summary": "China is navigating the complex interplay between the security risks of open-weight AI models and its aggressive national innovation strategy, as recent advancements from Chinese labs have dramatically closed the performance gap with proprietary models, potentially reshaping the global tech landscape. This breakthrough not only enhances China's competitive edge in AI but also raises critical questions about the implications for security and regulation in the rapidly evolving tech arena.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-      "link": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
-      "published_date": "2026-07-07T15:00:52+00:00",
-      "summary": "NVIDIA's introduction of max single-threaded CPUs at scale marks a pivotal advancement for agentic AI systems, significantly enhancing reasoning, response times, and learning capabilities, thereby revolutionizing how AI models execute complex tasks. This breakthrough is crucial for driving the next generation of intelligent applications, positioning NVIDIA at the forefront of AI innovation.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "What does China’s submarine missile test mean for its nuclear triad expansion?",
-      "link": "https://www.scmp.com/news/china/military/article/3359762/what-does-chinas-submarine-missile-test-mean-its-nuclear-triad-expansion?utm_source=rss_feed",
-      "published_date": "2026-07-07T15:00:06+00:00",
-      "summary": "China's recent ballistic missile test from a nuclear-powered submarine marks a significant advancement in its nuclear triad capabilities, signaling a strategic challenge to the U.S. and its allies while intensifying calls for enhanced defense measures in the face of escalating regional tensions. This development underscores the urgency for the U.S. and its partners to bolster security coordination in response to China's growing military assertiveness.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "World working together ‘as one ecosystem’ on RISC-V chip research: executive",
-      "link": "https://www.scmp.com/tech/tech-war/article/3359765/world-working-together-one-ecosystem-risc-v-chip-research-executive?utm_source=rss_feed",
-      "published_date": "2026-07-07T13:48:22+00:00",
-      "summary": "Global collaboration on the RISC-V chip architecture is thriving despite geopolitical tensions, with major players from the US, China, India, Brazil, and Europe uniting to advance this open-standard technology, signaling a transformative shift in the semiconductor landscape that could redefine global tech dynamics.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China achieves microwatt milestone with self-reliant carbon-14 nuclear battery",
-      "link": "https://www.scmp.com/news/china/science/article/3359748/china-achieves-microwatt-milestone-self-reliant-carbon-14-nuclear-battery?utm_source=rss_feed",
-      "published_date": "2026-07-07T13:00:12+00:00",
-      "summary": "Chinese researchers have achieved a groundbreaking milestone by developing a self-reliant carbon-14 nuclear battery that significantly enhances long-life power sources, showcasing the nation's technological independence and potential for revolutionizing energy solutions. This innovation not only surpasses previous generations but also positions China at the forefront of advanced energy technology.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Glass crashes slashed? Ant Group embodied AI unit claims breakthrough in robot sensing",
-      "link": "https://www.scmp.com/tech/big-tech/article/3359747/glass-crashes-slashed-ant-group-embodied-ai-unit-claims-breakthrough-robot-sensing?utm_source=rss_feed",
-      "published_date": "2026-07-07T11:30:31+00:00",
-      "summary": "Ant Group's embodied AI unit, Robbyant, has achieved a significant breakthrough with its new vision models, LingBot-Depth 2.0 and LingBot-Vision, enabling robots to accurately perceive glass and transparent objects, a challenge that has long hindered robotic functionality and interaction in real-world environments. This advancement not only enhances robotic perception but also paves the way for more sophisticated applications in automation and AI-driven technologies.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "‘The emperor is far away’",
-      "link": "https://aeon.co/essays/how-little-we-really-know-of-the-mighty-ming-dynasty",
-      "published_date": "2026-07-07T10:00:00+00:00",
-      "summary": "• The texts of the Ming Dynasty offer a rich tapestry of culture yet obscure the everyday realities of the common populace.  \n• Historical narratives often prioritize the elite, leaving the voices of the majority silenced and marginalized.  \n• The disconnect between documented history and lived experience challenges our understanding of societal dynamics.  \n• In seeking to unveil the past, one must navigate the complexities of representation and the power of narrative.  \n• The emperor's distance symbolizes the broader gap between authority and the lived experiences of ordinary individuals.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Huawei’s new computing cluster, world’s first AI agent phone to debut at China AI summit",
-      "link": "https://www.scmp.com/tech/article/3359733/huaweis-new-computing-cluster-worlds-first-ai-agent-phone-debut-china-ai-summit?utm_source=rss_feed",
-      "published_date": "2026-07-07T09:40:18+00:00",
-      "summary": "Huawei is set to unveil the world's first AI agent phone alongside its groundbreaking Atlas 950 SuperPoD computing cluster at the upcoming World Artificial Intelligence Conference, marking a significant leap in China's ambition to lead the global AI technology race. This breakthrough not only showcases Huawei's innovation but also underscores the escalating competition in the AI sector, with potential implications for industries worldwide.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "published_date": "2026-07-07T08:54:00+00:00",
-      "summary": "Google AI's latest expansion of its Gemini API introduces managed agents that facilitate background tasks and remote management capabilities, revolutionizing how developers can automate and streamline processes, thereby enhancing productivity and efficiency in AI-driven applications. This breakthrough not only simplifies complex workflows but also empowers businesses to leverage advanced AI functionalities with unprecedented ease.",
-      "source": "Google AI",
-      "category": "AI"
     }
   ]
 }
