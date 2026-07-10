@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-10T03:41:56.511353+00:00",
+  "last_updated": "2026-07-10T07:01:39.796757+00:00",
   "articles": [
+    {
+      "title": "Hong Kong, Macau central to China’s commercial space expansion, GalaxySpace says",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3360075/hong-kong-macau-central-chinas-commercial-space-expansion-galaxyspace-says?utm_source=rss_feed",
+      "published_date": "2026-07-10T05:22:28+00:00",
+      "summary": "Hong Kong and Macau are poised to play crucial roles in China's drive to establish a competitive commercial space industry, as highlighted by GalaxySpace executives, who emphasize the strategic importance of these cities in facilitating the global expansion of their technologies and services. This breakthrough underscores a significant shift in China's approach to leveraging regional strengths for international space endeavors, potentially reshaping the global space landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China recovers reusable rocket used in the maiden launch of Long March 10B",
+      "link": "https://www.scmp.com/news/china/science/article/3360069/china-recovers-long-march-10b-reusable-rocket-maiden-launch?utm_source=rss_feed",
+      "published_date": "2026-07-10T04:37:28+00:00",
+      "summary": "China has achieved a significant milestone by successfully recovering a reusable rocket from its maiden launch of the Long March 10B, becoming only the second country to master controlled orbital-class booster recovery, utilizing an innovative sea-based net-capture system that sets it apart from existing methods. This breakthrough not only enhances China's capabilities in space exploration but also positions it as a formidable competitor in the global aerospace industry.",
+      "source": "China News",
+      "category": "SCMP"
+    },
     {
       "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
       "link": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
@@ -18,6 +34,14 @@
       "category": "SCMP"
     },
     {
+      "title": "China unveils high-power microwave weapon arsenal with up to 100 gigawatts of power",
+      "link": "https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal?utm_source=rss_feed",
+      "published_date": "2026-07-09T14:00:05+00:00",
+      "summary": "China's unveiling of high-power microwave weapons capable of delivering up to 100 gigawatts marks a significant leap in military technology, potentially reshaping the landscape of modern warfare while also paving the way for groundbreaking advancements in civilian applications. This breakthrough not only enhances China's defense capabilities but also raises critical implications for global security dynamics and technological competition.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
       "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
       "published_date": "2026-07-09T13:00:55+00:00",
@@ -32,6 +56,14 @@
       "summary": "GPT-5.6 has emerged as the preferred model in Microsoft 365 Copilot, significantly enhancing AI capabilities across key applications like Word, Excel, and PowerPoint, enabling users to achieve faster and higher-quality work. This breakthrough not only streamlines productivity but also sets a new standard for AI integration in everyday business tools.",
       "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "US-China AI war boils down to a contest over electricity",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3359746/us-china-ai-war-boils-down-contest-over-electricity?utm_source=rss_feed",
+      "published_date": "2026-07-09T12:30:06+00:00",
+      "summary": "The escalating US-China AI rivalry is shifting from technological innovation to a fierce competition over electricity supply and pricing, as the proliferation of AI models turns them into commodities, fundamentally altering the landscape of AI service costs. This transformation underscores the critical importance of energy resources in determining the future of artificial intelligence dominance.",
+      "source": "SCMP China Tech",
+      "category": "SCMP"
     },
     {
       "title": "Why AI race with US is a ‘knockout game’ China cannot afford to lose",
@@ -86,14 +118,6 @@
       "link": "https://www.scmp.com/tech/tech-trends/article/3359963/chinese-ai-labs-pursue-custom-chips-lower-costs-heavy-upfront-investment-risk?utm_source=rss_feed",
       "published_date": "2026-07-09T08:00:11+00:00",
       "summary": "Chinese AI labs are shifting towards developing custom chips to enhance hardware-software integration and reduce long-term costs, a move that reflects a global trend but poses significant risks due to the substantial initial investments required. This strategic pivot could reshape the competitive landscape of AI technology, emphasizing the critical balance between innovation and financial sustainability.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Shares soar as recently-listed Zhipu AI and Iluvatar CoreX launch secondary placements",
-      "link": "https://www.scmp.com/tech/article/3359941/shares-soar-recently-listed-zhipu-ai-and-iluvatar-corex-launch-secondary-placements?utm_source=rss_feed",
-      "published_date": "2026-07-09T05:00:12+00:00",
-      "summary": "Zhipu AI and Iluvatar CoreX Semiconductor have achieved a remarkable surge in their stock prices following the announcement of secondary share placements aimed at raising billions for advanced hardware and research, signaling strong investor confidence in the future of AI and semiconductor technology in China. This breakthrough not only highlights the growing importance of AI development but also underscores the potential for significant advancements in the tech sector fueled by substantial financial backing.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
