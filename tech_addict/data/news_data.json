@@ -1,99 +1,99 @@
 {
-  "last_updated": "2026-07-09T03:40:31.240013+00:00",
+  "last_updated": "2026-07-10T03:41:56.511353+00:00",
   "articles": [
     {
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "link": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "published_date": "2026-07-09T00:42:00+00:00",
-      "summary": "Apple's unprecedented achievement of 89 Emmy nominations across 15 programs underscores its rapid ascent as a formidable player in the entertainment industry, signaling a significant shift in the competitive landscape of streaming content and original programming. This milestone not only highlights the quality and impact of Apple's creative offerings but also positions the company as a serious contender in the ongoing battle for viewer engagement and industry recognition.",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "published_date": "2026-07-09T15:59:17+00:00",
+      "summary": "Apple's collaboration with Major League Baseball to stream \"Friday Night Baseball\" every week in August marks a significant expansion of the tech giant's foray into live sports, enhancing its content offerings and potentially reshaping how fans engage with baseball. This initiative not only elevates the viewing experience but also underscores the growing importance of streaming platforms in the sports broadcasting landscape.",
       "source": "Apple",
       "category": "AI"
     },
     {
-      "title": "US says China gave only hours’ warning before Pacific submarine missile launch",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3359907/us-says-china-gave-only-hours-warning-pacific-submarine-missile-launch?utm_source=rss_feed",
-      "published_date": "2026-07-08T22:51:46+00:00",
-      "summary": "The United States has condemned China for its lack of transparency, providing only hours of notice before a submarine-launched ballistic missile test in the Pacific, highlighting concerns over Beijing's accelerating nuclear capabilities and the potential risks to global security. This incident underscores the urgent need for clearer communication protocols among nuclear powers to prevent misunderstandings and escalation.",
-      "source": "Diplomacy & Defence",
+      "title": "Why China is finally letting AI firms buy the Nvidia H200",
+      "link": "https://www.scmp.com/tech/policy/article/3360027/game-changer-why-china-finally-letting-its-ai-firms-buy-nvidia-h200?utm_source=rss_feed",
+      "published_date": "2026-07-09T14:12:16+00:00",
+      "summary": "China's decision to allow select AI firms to purchase Nvidia's H200 graphics processing units marks a significant shift in its tech policy, potentially accelerating advancements in artificial intelligence and reshaping the competitive landscape amid ongoing U.S.-China tensions. This breakthrough not only signals a thaw in the chip export standoff but also underscores the critical role of advanced technology in national strategy and economic growth.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "published_date": "2026-07-08T15:00:27+00:00",
-      "summary": "NVIDIA's Nemotron 3 Ultra has set a new standard in AI agent orchestration by delivering benchmark-leading performance at a lower cost than top competitors, thanks to its collaboration with LangChain, which optimized its Deep Agents harness for unmatched accuracy and efficiency. This breakthrough not only enhances task completion rates but also positions NVIDIA as a formidable player in the rapidly evolving AI landscape.",
+      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "published_date": "2026-07-09T13:00:55+00:00",
+      "summary": "NVIDIA's GeForce NOW has launched a new server powered by the GeForce RTX 5080 in Toronto, significantly enhancing cloud gaming performance and accessibility for users in the region, while also expanding its game offerings. This breakthrough not only elevates the gaming experience but also reinforces the growing trend of high-performance cloud gaming solutions.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "China’s circuit-board makers push capex towards record to feed AI boom",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359851/chinas-circuit-board-makers-push-capex-towards-record-feed-ai-boom?utm_source=rss_feed",
-      "published_date": "2026-07-08T14:00:07+00:00",
-      "summary": "China's printed circuit board manufacturers are set to achieve unprecedented capital expenditure levels as they ramp up production to meet surging global demand driven by the artificial intelligence boom, highlighting the critical role of PCB technology in the future of AI innovation. This factory-building spree among over 20 leading companies underscores a pivotal moment in the tech supply chain, positioning China as a key player in the AI ecosystem.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Our approach to government and national security partnerships",
-      "link": "https://openai.com/index/government-national-security-partnerships",
-      "published_date": "2026-07-08T13:30:00+00:00",
-      "summary": "OpenAI's new framework for government and national security partnerships emphasizes responsible AI deployment, prioritizing democratic accountability and public safety, which could redefine how technology interacts with governance and national security in an era of rapid innovation. This approach not only sets a precedent for ethical AI use but also aims to enhance trust and collaboration between tech entities and governmental bodies.",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "published_date": "2026-07-09T13:00:00+00:00",
+      "summary": "GPT-5.6 has emerged as the preferred model in Microsoft 365 Copilot, significantly enhancing AI capabilities across key applications like Word, Excel, and PowerPoint, enabling users to achieve faster and higher-quality work. This breakthrough not only streamlines productivity but also sets a new standard for AI integration in everyday business tools.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "published_date": "2026-07-08T13:00:00+00:00",
-      "summary": "OpenAI's latest analysis uncovers significant flaws in the widely-used SWE-Bench Pro coding benchmark, highlighting critical reliability and accuracy issues that could undermine the evaluation of AI models and their development. This breakthrough calls into question the effectiveness of current coding assessments, potentially reshaping how AI capabilities are measured and validated.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Alibaba shares spike 12% in Hong Kong as T-Head chips, AI revenue fuel earnings optimism",
-      "link": "https://www.scmp.com/tech/article/3359878/alibaba-shares-spike-12-hong-kong-t-head-chips-ai-revenue-fuel-earnings-optimism?utm_source=rss_feed",
-      "published_date": "2026-07-08T12:30:13+00:00",
-      "summary": "Alibaba's shares soared 12% in Hong Kong, fueled by optimism surrounding its T-Head chips and a surge in AI revenue, signaling a potential turnaround in earnings as the company narrows losses in food delivery and positions itself strongly against competitors like Tencent and Meituan. This breakthrough underscores the growing market confidence in Alibaba's ability to capitalize on the booming AI sector, marking a pivotal moment for the tech giant's financial recovery.",
-      "source": "SCMP Tech",
+      "title": "Why AI race with US is a ‘knockout game’ China cannot afford to lose",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3360012/why-ai-race-us-knockout-game-china-cannot-afford-lose?utm_source=rss_feed",
+      "published_date": "2026-07-09T12:04:23+00:00",
+      "summary": "China faces an urgent imperative to transform its innovation ecosystem to maintain technological sovereignty and national security in a critical AI competition with the US, as experts warn that failure to embrace open-source AI could lead to a devastating loss in this high-stakes \"knockout game.\" This shift is essential not only for economic resilience but also for safeguarding the nation's strategic interests in an increasingly digital world.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Sangre violenta / sangre violeta",
-      "link": "https://aeon.co/videos/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
-      "published_date": "2026-07-08T10:01:00+00:00",
-      "summary": "• The essay explores the unifying power of collective resistance against the pervasive issue of gendered violence.  \n• It highlights the stark contrasts among individuals who come together, transcending differences for a common cause.  \n• The narrative emphasizes the emotional and psychological toll of violence, urging a deeper understanding of its impact on society.  \n• It invites reflection on the transformative potential of solidarity in the face of systemic oppression.  \n• Ultimately, the piece serves as a call to action, inspiring a reevaluation of societal norms surrounding gender and violence.",
+      "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
+      "link": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
+      "published_date": "2026-07-09T10:01:00+00:00",
+      "summary": "• The rock-hewn churches of Lalibela challenge conventional architectural norms by being sculpted from solid rock rather than constructed from individual materials.  \n• This unique method of creation symbolizes a profound spiritual connection, merging artistry with divine aspiration.  \n• The churches serve as a testament to human ingenuity, showcasing the ability to transform the immovable into sacred spaces.  \n• Lalibela stands as a cultural beacon, reflecting Ethiopia's rich history and the resilience of its people through centuries of faith and artistry.  \n• These structures invite contemplation on the relationship between nature, spirituality, and the human desire to create lasting legacies.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "published_date": "2026-07-08T10:00:13+00:00",
-      "summary": "Apple's groundbreaking six-year partnership with Broadcom to invest billions in U.S. chip production signifies a major leap towards domestic semiconductor manufacturing, enhancing supply chain resilience and reinforcing the tech giant's commitment to innovation in custom silicon and wireless technologies.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Helping K–12 educators build practical AI skills",
-      "link": "https://openai.com/index/k-12-educators-practical-skills",
-      "published_date": "2026-07-08T10:00:00+00:00",
-      "summary": "OpenAI Academy, in collaboration with the Walton Family Foundation, is launching hands-on AI Skills Jams designed to equip K–12 educators with essential AI competencies, a breakthrough initiative that promises to transform classroom learning and prepare students for a future increasingly influenced by artificial intelligence.",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "published_date": "2026-07-09T10:00:00+00:00",
+      "summary": "OpenAI's ChatGPT Work introduces a groundbreaking AI agent capable of seamlessly integrating with various applications and files to actively manage projects over extended periods, transforming ambitious goals into tangible results. This innovation not only enhances productivity but also redefines the role of AI as a proactive collaborator in the workplace.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Physical AI ‘space race’: can Europe compete with China and the US in humanoid robotics?",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359847/physical-ai-space-race-can-europe-compete-china-and-us-humanoid-robotics?utm_source=rss_feed",
-      "published_date": "2026-07-08T09:07:01+00:00",
-      "summary": "European firms are striving to establish a competitive presence in the burgeoning field of physical AI, which integrates artificial intelligence into robotics, amid concerns that failure to do so could lead to significant deindustrialization as China and the US currently dominate the sector. This race is critical not only for technological advancement but also for the economic stability and industrial future of Europe.",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "published_date": "2026-07-09T10:00:00+00:00",
+      "summary": "OpenAI's introduction of the GPT-5.5 Bio Bug Bounty program represents a groundbreaking initiative aimed at enhancing AI safety and reliability by incentivizing the identification of vulnerabilities in its advanced models, a crucial step in ensuring responsible AI deployment in sensitive biological applications. This proactive approach not only underscores OpenAI's commitment to ethical AI development but also sets a new standard for industry practices in safeguarding against potential risks associated with powerful AI technologies.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "published_date": "2026-07-09T10:00:00+00:00",
+      "summary": "OpenAI's GPT-5.6 introduces a revolutionary leap in AI performance, delivering enhanced intelligence from each token and superior cost efficiency, empowering users to tackle their most challenging tasks with unprecedented capability and scalability. This breakthrough not only redefines the potential of AI in various applications but also positions it as an essential tool for ambitious projects across industries.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How to offset your brain",
+      "link": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
+      "published_date": "2026-07-09T10:00:00+00:00",
+      "summary": "• Cognitive biases shape our perceptions and decisions, often leading us astray from objective reality.  \n• Mindfulness practices can serve as a powerful antidote, enabling us to recognize and mitigate these biases.  \n• By cultivating awareness, we can challenge our ingrained thought patterns and foster more rational thinking.  \n• The journey towards offsetting our brain's biases is not just personal; it invites a collective evolution in understanding and empathy.  \n• Embracing mindfulness is not merely a mental exercise; it is a profound philosophical shift towards greater clarity and intentionality in our lives.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Chinese AI labs pursue custom chips to lower costs but heavy upfront investment a risk",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3359963/chinese-ai-labs-pursue-custom-chips-lower-costs-heavy-upfront-investment-risk?utm_source=rss_feed",
+      "published_date": "2026-07-09T08:00:11+00:00",
+      "summary": "Chinese AI labs are shifting towards developing custom chips to enhance hardware-software integration and reduce long-term costs, a move that reflects a global trend but poses significant risks due to the substantial initial investments required. This strategic pivot could reshape the competitive landscape of AI technology, emphasizing the critical balance between innovation and financial sustainability.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "China weighs open-weight AI’s security risks against national tech innovation strategy: researchers",
-      "link": "https://www.scmp.com/tech/policy/article/3359791/china-weighs-open-weight-ais-security-risks-against-national-tech-innovation-strategy-researchers?utm_source=rss_feed",
-      "published_date": "2026-07-08T05:00:06+00:00",
-      "summary": "China is navigating the complex interplay between the security risks of open-weight AI models and its aggressive national innovation strategy, as recent advancements from Chinese labs have dramatically closed the performance gap with proprietary models, potentially reshaping the global tech landscape. This breakthrough not only enhances China's competitive edge in AI but also raises critical questions about the implications for security and regulation in the rapidly evolving tech arena.",
+      "title": "Shares soar as recently-listed Zhipu AI and Iluvatar CoreX launch secondary placements",
+      "link": "https://www.scmp.com/tech/article/3359941/shares-soar-recently-listed-zhipu-ai-and-iluvatar-corex-launch-secondary-placements?utm_source=rss_feed",
+      "published_date": "2026-07-09T05:00:12+00:00",
+      "summary": "Zhipu AI and Iluvatar CoreX Semiconductor have achieved a remarkable surge in their stock prices following the announcement of secondary share placements aimed at raising billions for advanced hardware and research, signaling strong investor confidence in the future of AI and semiconductor technology in China. This breakthrough not only highlights the growing importance of AI development but also underscores the potential for significant advancements in the tech sector fueled by substantial financial backing.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
