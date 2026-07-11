@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-10T07:01:39.796757+00:00",
+  "last_updated": "2026-07-11T02:56:06.765314+00:00",
   "articles": [
+    {
+      "title": "Lore of the rings",
+      "link": "https://aeon.co/essays/how-to-decode-the-archive-inside-ancient-tree-rings",
+      "published_date": "2026-07-10T10:00:00+00:00",
+      "summary": "• Trees serve as living archives, preserving the history of our planet through their growth rings.  \n• Each ring tells a story, revealing secrets of climate change, natural disasters, and ecological transformations.  \n• The study of dendrochronology opens a dialogue between humanity and the natural world, urging us to listen to the wisdom of trees.  \n• As we decode these narratives, we confront our own place in the timeline of Earth’s history and our impact on its future.  \n• The lore of the rings invites us to reflect on the interconnectedness of life and the lessons embedded in nature’s resilience.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release?utm_source=rss_feed",
+      "published_date": "2026-07-10T09:00:17+00:00",
+      "summary": "Nvidia's breakthrough in securing a foothold in China by easing restrictions on its advanced AI processors could significantly bolster local AI development, mitigating chip shortages while navigating the delicate balance of technological independence from the U.S. This move not only enhances Nvidia's market position but also accelerates China's AI ambitions, potentially reshaping the global tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "published_date": "2026-07-10T07:00:00+00:00",
+      "summary": "Deutsche Telekom is revolutionizing the telecommunications landscape by integrating AI across its operations, enhancing customer service, streamlining employee workflows, and optimizing network management, positioning itself as a leader in the AI-driven future of connectivity. This transformation not only elevates user experience but also sets a new standard for efficiency and innovation in the industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "Hong Kong, Macau central to China’s commercial space expansion, GalaxySpace says",
       "link": "https://www.scmp.com/tech/tech-trends/article/3360075/hong-kong-macau-central-chinas-commercial-space-expansion-galaxyspace-says?utm_source=rss_feed",
@@ -15,110 +39,6 @@
       "published_date": "2026-07-10T04:37:28+00:00",
       "summary": "China has achieved a significant milestone by successfully recovering a reusable rocket from its maiden launch of the Long March 10B, becoming only the second country to master controlled orbital-class booster recovery, utilizing an innovative sea-based net-capture system that sets it apart from existing methods. This breakthrough not only enhances China's capabilities in space exploration but also positions it as a formidable competitor in the global aerospace industry.",
       "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "link": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "published_date": "2026-07-09T15:59:17+00:00",
-      "summary": "Apple's collaboration with Major League Baseball to stream \"Friday Night Baseball\" every week in August marks a significant expansion of the tech giant's foray into live sports, enhancing its content offerings and potentially reshaping how fans engage with baseball. This initiative not only elevates the viewing experience but also underscores the growing importance of streaming platforms in the sports broadcasting landscape.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Why China is finally letting AI firms buy the Nvidia H200",
-      "link": "https://www.scmp.com/tech/policy/article/3360027/game-changer-why-china-finally-letting-its-ai-firms-buy-nvidia-h200?utm_source=rss_feed",
-      "published_date": "2026-07-09T14:12:16+00:00",
-      "summary": "China's decision to allow select AI firms to purchase Nvidia's H200 graphics processing units marks a significant shift in its tech policy, potentially accelerating advancements in artificial intelligence and reshaping the competitive landscape amid ongoing U.S.-China tensions. This breakthrough not only signals a thaw in the chip export standoff but also underscores the critical role of advanced technology in national strategy and economic growth.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China unveils high-power microwave weapon arsenal with up to 100 gigawatts of power",
-      "link": "https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal?utm_source=rss_feed",
-      "published_date": "2026-07-09T14:00:05+00:00",
-      "summary": "China's unveiling of high-power microwave weapons capable of delivering up to 100 gigawatts marks a significant leap in military technology, potentially reshaping the landscape of modern warfare while also paving the way for groundbreaking advancements in civilian applications. This breakthrough not only enhances China's defense capabilities but also raises critical implications for global security dynamics and technological competition.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
-      "published_date": "2026-07-09T13:00:55+00:00",
-      "summary": "NVIDIA's GeForce NOW has launched a new server powered by the GeForce RTX 5080 in Toronto, significantly enhancing cloud gaming performance and accessibility for users in the region, while also expanding its game offerings. This breakthrough not only elevates the gaming experience but also reinforces the growing trend of high-performance cloud gaming solutions.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "published_date": "2026-07-09T13:00:00+00:00",
-      "summary": "GPT-5.6 has emerged as the preferred model in Microsoft 365 Copilot, significantly enhancing AI capabilities across key applications like Word, Excel, and PowerPoint, enabling users to achieve faster and higher-quality work. This breakthrough not only streamlines productivity but also sets a new standard for AI integration in everyday business tools.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "US-China AI war boils down to a contest over electricity",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3359746/us-china-ai-war-boils-down-contest-over-electricity?utm_source=rss_feed",
-      "published_date": "2026-07-09T12:30:06+00:00",
-      "summary": "The escalating US-China AI rivalry is shifting from technological innovation to a fierce competition over electricity supply and pricing, as the proliferation of AI models turns them into commodities, fundamentally altering the landscape of AI service costs. This transformation underscores the critical importance of energy resources in determining the future of artificial intelligence dominance.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Why AI race with US is a ‘knockout game’ China cannot afford to lose",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3360012/why-ai-race-us-knockout-game-china-cannot-afford-lose?utm_source=rss_feed",
-      "published_date": "2026-07-09T12:04:23+00:00",
-      "summary": "China faces an urgent imperative to transform its innovation ecosystem to maintain technological sovereignty and national security in a critical AI competition with the US, as experts warn that failure to embrace open-source AI could lead to a devastating loss in this high-stakes \"knockout game.\" This shift is essential not only for economic resilience but also for safeguarding the nation's strategic interests in an increasingly digital world.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
-      "link": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
-      "published_date": "2026-07-09T10:01:00+00:00",
-      "summary": "• The rock-hewn churches of Lalibela challenge conventional architectural norms by being sculpted from solid rock rather than constructed from individual materials.  \n• This unique method of creation symbolizes a profound spiritual connection, merging artistry with divine aspiration.  \n• The churches serve as a testament to human ingenuity, showcasing the ability to transform the immovable into sacred spaces.  \n• Lalibela stands as a cultural beacon, reflecting Ethiopia's rich history and the resilience of its people through centuries of faith and artistry.  \n• These structures invite contemplation on the relationship between nature, spirituality, and the human desire to create lasting legacies.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "published_date": "2026-07-09T10:00:00+00:00",
-      "summary": "OpenAI's ChatGPT Work introduces a groundbreaking AI agent capable of seamlessly integrating with various applications and files to actively manage projects over extended periods, transforming ambitious goals into tangible results. This innovation not only enhances productivity but also redefines the role of AI as a proactive collaborator in the workplace.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "link": "https://openai.com/index/bio-bug-bounty",
-      "published_date": "2026-07-09T10:00:00+00:00",
-      "summary": "OpenAI's introduction of the GPT-5.5 Bio Bug Bounty program represents a groundbreaking initiative aimed at enhancing AI safety and reliability by incentivizing the identification of vulnerabilities in its advanced models, a crucial step in ensuring responsible AI deployment in sensitive biological applications. This proactive approach not only underscores OpenAI's commitment to ethical AI development but also sets a new standard for industry practices in safeguarding against potential risks associated with powerful AI technologies.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://openai.com/index/gpt-5-6",
-      "published_date": "2026-07-09T10:00:00+00:00",
-      "summary": "OpenAI's GPT-5.6 introduces a revolutionary leap in AI performance, delivering enhanced intelligence from each token and superior cost efficiency, empowering users to tackle their most challenging tasks with unprecedented capability and scalability. This breakthrough not only redefines the potential of AI in various applications but also positions it as an essential tool for ambitious projects across industries.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How to offset your brain",
-      "link": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
-      "published_date": "2026-07-09T10:00:00+00:00",
-      "summary": "• Cognitive biases shape our perceptions and decisions, often leading us astray from objective reality.  \n• Mindfulness practices can serve as a powerful antidote, enabling us to recognize and mitigate these biases.  \n• By cultivating awareness, we can challenge our ingrained thought patterns and foster more rational thinking.  \n• The journey towards offsetting our brain's biases is not just personal; it invites a collective evolution in understanding and empathy.  \n• Embracing mindfulness is not merely a mental exercise; it is a profound philosophical shift towards greater clarity and intentionality in our lives.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Chinese AI labs pursue custom chips to lower costs but heavy upfront investment a risk",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3359963/chinese-ai-labs-pursue-custom-chips-lower-costs-heavy-upfront-investment-risk?utm_source=rss_feed",
-      "published_date": "2026-07-09T08:00:11+00:00",
-      "summary": "Chinese AI labs are shifting towards developing custom chips to enhance hardware-software integration and reduce long-term costs, a move that reflects a global trend but poses significant risks due to the substantial initial investments required. This strategic pivot could reshape the competitive landscape of AI technology, emphasizing the critical balance between innovation and financial sustainability.",
-      "source": "SCMP Tech",
       "category": "SCMP"
     }
   ]
