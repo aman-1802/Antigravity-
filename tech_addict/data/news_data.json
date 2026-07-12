@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-11T05:58:08.594165+00:00",
+  "last_updated": "2026-07-12T03:21:40.842635+00:00",
   "articles": [
+    {
+      "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3360148/beyond-claude-code-chinese-ai-tools-poised-benefit-after-back-door-alert?utm_source=rss_feed",
+      "published_date": "2026-07-11T07:00:07+00:00",
+      "summary": "Beijing's cybersecurity alert regarding potential vulnerabilities in Anthropic's Claude Code is set to catalyze a significant pivot towards domestic AI coding solutions among Chinese developers, highlighting the urgent need for secure and self-reliant technological advancements in the face of foreign dependencies. This shift not only underscores China's commitment to enhancing its cybersecurity posture but also positions local AI tools to gain a competitive edge in the global market.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Chinese chip start-up aims to build 5-nanometre equivalent chips without using EUV by 2029",
       "link": "https://www.scmp.com/tech/big-tech/article/3360208/chinese-chip-start-aims-build-5-nanometre-equivalent-chips-without-using-euv-2029?utm_source=rss_feed",
@@ -8,30 +16,6 @@
       "summary": "A Chinese chip start-up has unveiled the world's first 8-inch production line for two-dimensional semiconductors, aiming to produce 5-nanometre equivalent chips without EUV technology by 2029, a significant advancement that could reshape the global semiconductor landscape amid ongoing US restrictions. This breakthrough not only highlights China's determination to innovate in chip technology but also poses a potential challenge to established players in the industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Lore of the rings",
-      "link": "https://aeon.co/essays/how-to-decode-the-archive-inside-ancient-tree-rings",
-      "published_date": "2026-07-10T10:00:00+00:00",
-      "summary": "• Trees serve as living archives, preserving the history of our planet through their growth rings.  \n• Each ring tells a story, revealing secrets of climate change, natural disasters, and ecological transformations.  \n• The study of dendrochronology opens a dialogue between humanity and the natural world, urging us to listen to the wisdom of trees.  \n• As we decode these narratives, we confront our own place in the timeline of Earth’s history and our impact on its future.  \n• The lore of the rings invites us to reflect on the interconnectedness of life and the lessons embedded in nature’s resilience.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release?utm_source=rss_feed",
-      "published_date": "2026-07-10T09:00:17+00:00",
-      "summary": "Nvidia's breakthrough in securing a foothold in China by easing restrictions on its advanced AI processors could significantly bolster local AI development, mitigating chip shortages while navigating the delicate balance of technological independence from the U.S. This move not only enhances Nvidia's market position but also accelerates China's AI ambitions, potentially reshaping the global tech landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "published_date": "2026-07-10T07:00:00+00:00",
-      "summary": "Deutsche Telekom is revolutionizing the telecommunications landscape by integrating AI across its operations, enhancing customer service, streamlining employee workflows, and optimizing network management, positioning itself as a leader in the AI-driven future of connectivity. This transformation not only elevates user experience but also sets a new standard for efficiency and innovation in the industry.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
