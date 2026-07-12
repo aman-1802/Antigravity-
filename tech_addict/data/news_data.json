@@ -1,19 +1,11 @@
 {
-  "last_updated": "2026-07-12T03:21:40.842635+00:00",
+  "last_updated": "2026-07-12T06:18:28.144545+00:00",
   "articles": [
     {
       "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
       "link": "https://www.scmp.com/tech/tech-trends/article/3360148/beyond-claude-code-chinese-ai-tools-poised-benefit-after-back-door-alert?utm_source=rss_feed",
       "published_date": "2026-07-11T07:00:07+00:00",
       "summary": "Beijing's cybersecurity alert regarding potential vulnerabilities in Anthropic's Claude Code is set to catalyze a significant pivot towards domestic AI coding solutions among Chinese developers, highlighting the urgent need for secure and self-reliant technological advancements in the face of foreign dependencies. This shift not only underscores China's commitment to enhancing its cybersecurity posture but also positions local AI tools to gain a competitive edge in the global market.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese chip start-up aims to build 5-nanometre equivalent chips without using EUV by 2029",
-      "link": "https://www.scmp.com/tech/big-tech/article/3360208/chinese-chip-start-aims-build-5-nanometre-equivalent-chips-without-using-euv-2029?utm_source=rss_feed",
-      "published_date": "2026-07-11T05:20:15+00:00",
-      "summary": "A Chinese chip start-up has unveiled the world's first 8-inch production line for two-dimensional semiconductors, aiming to produce 5-nanometre equivalent chips without EUV technology by 2029, a significant advancement that could reshape the global semiconductor landscape amid ongoing US restrictions. This breakthrough not only highlights China's determination to innovate in chip technology but also poses a potential challenge to established players in the industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
