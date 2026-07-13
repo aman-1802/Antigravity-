@@ -1,11 +1,19 @@
 {
-  "last_updated": "2026-07-12T06:18:28.144545+00:00",
+  "last_updated": "2026-07-13T03:24:41.935913+00:00",
   "articles": [
     {
-      "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3360148/beyond-claude-code-chinese-ai-tools-poised-benefit-after-back-door-alert?utm_source=rss_feed",
-      "published_date": "2026-07-11T07:00:07+00:00",
-      "summary": "Beijing's cybersecurity alert regarding potential vulnerabilities in Anthropic's Claude Code is set to catalyze a significant pivot towards domestic AI coding solutions among Chinese developers, highlighting the urgent need for secure and self-reliant technological advancements in the face of foreign dependencies. This shift not only underscores China's commitment to enhancing its cybersecurity posture but also positions local AI tools to gain a competitive edge in the global market.",
+      "title": "Meet CXMT’s Zhu Yiming: the engineer building China’s answer to global memory-chip giants",
+      "link": "https://www.scmp.com/tech/article/3360285/meet-cxmts-zhu-yiming-engineer-building-chinas-answer-global-memory-chip-giants?utm_source=rss_feed",
+      "published_date": "2026-07-13T02:00:27+00:00",
+      "summary": "ChangXin Memory Technologies (CXMT) is poised to disrupt the global memory chip market with its upcoming IPO, led by founder Zhu Yiming, as it seeks to establish a formidable home-grown competitor to industry giants, potentially reaching a market valuation of 3 trillion yuan. This breakthrough not only signifies China's ambition to achieve technological self-sufficiency but also reshapes the competitive landscape of the semiconductor industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China Life sets up semiconductor fund amid Beijing’s call for ‘patient’ capital",
+      "link": "https://www.scmp.com/tech/article/3360269/chinese-state-owned-firms-set-semiconductor-funds-amid-calls-patient-capital?utm_source=rss_feed",
+      "published_date": "2026-07-12T12:00:17+00:00",
+      "summary": "China Life Insurance is launching a 5 billion yuan semiconductor fund to support the growth of the critical industry amid Beijing's push for long-term investment, highlighting a strategic shift towards fostering domestic technological self-sufficiency in response to global supply chain challenges. This initiative underscores the urgent need for substantial, patient capital to drive innovation and competitiveness in China's semiconductor sector.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
