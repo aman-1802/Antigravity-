@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T02:48:06.853412+00:00",
+  "last_updated": "2026-07-14T05:53:39.271926+00:00",
   "articles": [
     {
       "title": "Nvidia’s future challenger? Chinese start-up reveals aggressive AI chip road map",
@@ -23,6 +23,14 @@
       "published_date": "2026-07-13T12:00:25+00:00",
       "summary": "President Xi Jinping's first in-person attendance at the World Artificial Intelligence Conference in 2026 underscores China's strategic commitment to leveraging AI as a cornerstone for economic advancement and global leadership in technology. This pivotal moment highlights Beijing's intent to assert its influence in shaping the future of AI on the world stage.",
       "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s drug industry pivots to AI-powered candidates to drive next wave of deals",
+      "link": "https://www.scmp.com/business/china-business/article/3360395/chinas-drug-industry-pivots-ai-powered-candidates-drive-next-wave-deals?utm_source=rss_feed",
+      "published_date": "2026-07-13T10:15:09+00:00",
+      "summary": "China's drug industry is embracing artificial intelligence to identify and develop innovative drug candidates, a strategic shift that comes on the heels of a record US$110 billion in cross-border deals, positioning the country as a formidable player in the global pharmaceutical landscape. This pivot not only enhances the potential for groundbreaking therapies but also signals a transformative era in drug development that could reshape the industry worldwide.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
