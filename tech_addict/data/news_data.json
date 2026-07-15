@@ -1,84 +1,76 @@
 {
-  "last_updated": "2026-07-14T05:53:39.271926+00:00",
+  "last_updated": "2026-07-15T02:46:54.242399+00:00",
   "articles": [
     {
-      "title": "Nvidia’s future challenger? Chinese start-up reveals aggressive AI chip road map",
-      "link": "https://www.scmp.com/tech/tech-war/article/3360415/nvidias-future-challenger-chinese-start-reveals-aggressive-ai-chip-road-map?utm_source=rss_feed",
-      "published_date": "2026-07-13T14:00:14+00:00",
-      "summary": "Dongfang Suanxin, a state-backed Chinese semiconductor start-up, has unveiled a bold AI chip roadmap that leverages innovative architectures to circumvent U.S. export controls, positioning itself as a formidable contender against Nvidia in the global market. This breakthrough not only signifies a strategic shift in the semiconductor landscape but also highlights the escalating competition between the U.S. and China in advanced technology sectors.",
-      "source": "SCMP Tech",
+      "title": "US must act quickly to counter China’s growing tech progress, lawmakers told",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3360588/us-must-act-quickly-counter-chinas-growing-tech-progress-lawmakers-told?utm_source=rss_feed",
+      "published_date": "2026-07-14T23:06:16+00:00",
+      "summary": "Lawmakers have been warned that China's rapid technological advancements pose an existential threat to the U.S., necessitating immediate action to decouple from Chinese supply chains and bolster American innovation in critical sectors like semiconductors and drones. This urgent call to action underscores the race for technological supremacy that could determine global power dynamics.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "China works on AI safety benchmark as regulators target large model risks",
-      "link": "https://www.scmp.com/tech/article/3360399/china-works-ai-safety-benchmark-regulators-target-large-model-risks?utm_source=rss_feed",
-      "published_date": "2026-07-13T13:30:05+00:00",
-      "summary": "China is developing a groundbreaking AI safety benchmark to assess the risks associated with large models, positioning itself at the forefront of global AI regulation amid increasing scrutiny from Western nations. This initiative not only aims to enhance the security of AI technologies but also sets a critical standard that could influence international practices and policies in artificial intelligence governance.",
-      "source": "SCMP Tech",
+      "title": "US says Nvidia’s H200 exports to China remain ‘trivial’ despite approvals",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals?utm_source=rss_feed",
+      "published_date": "2026-07-14T20:33:17+00:00",
+      "summary": "Despite recent approvals allowing Nvidia to export its powerful H200 AI chips to China, the actual shipments remain minimal, highlighting the ongoing complexities and cautious approach of U.S. technology exports amid geopolitical tensions. This situation underscores the delicate balance between fostering international trade in cutting-edge technology and addressing national security concerns.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Xi Jinping to attend World AI Conference for first time as China elevates tech push",
-      "link": "https://www.scmp.com/tech/article/3360404/xi-jinping-attend-world-ai-conference-first-time-china-elevates-tech-push?utm_source=rss_feed",
-      "published_date": "2026-07-13T12:00:25+00:00",
-      "summary": "President Xi Jinping's first in-person attendance at the World Artificial Intelligence Conference in 2026 underscores China's strategic commitment to leveraging AI as a cornerstone for economic advancement and global leadership in technology. This pivotal moment highlights Beijing's intent to assert its influence in shaping the future of AI on the world stage.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+      "published_date": "2026-07-14T16:45:13+00:00",
+      "summary": "NVIDIA's Nemotron Labs introduces open AI models that empower enterprises and nations to create tailored, trustworthy AI solutions, revolutionizing workflows and enhancing accuracy by aligning technology with specific business needs. This breakthrough not only democratizes access to advanced AI but also ensures that organizations can maintain control and customization over their AI systems, fostering innovation and reliability in an increasingly data-driven world.",
+      "source": "NVIDIA",
+      "category": "AI"
     },
     {
-      "title": "China’s drug industry pivots to AI-powered candidates to drive next wave of deals",
-      "link": "https://www.scmp.com/business/china-business/article/3360395/chinas-drug-industry-pivots-ai-powered-candidates-drive-next-wave-deals?utm_source=rss_feed",
-      "published_date": "2026-07-13T10:15:09+00:00",
-      "summary": "China's drug industry is embracing artificial intelligence to identify and develop innovative drug candidates, a strategic shift that comes on the heels of a record US$110 billion in cross-border deals, positioning the country as a formidable player in the global pharmaceutical landscape. This pivot not only enhances the potential for groundbreaking therapies but also signals a transformative era in drug development that could reshape the industry worldwide.",
-      "source": "China News",
-      "category": "SCMP"
+      "title": "Celebrating 25 years of visual search innovation",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "published_date": "2026-07-14T16:00:00+00:00",
+      "summary": "Google AI marks 25 years of visual search innovation, highlighting advancements that have transformed how users discover and interact with images online, significantly enhancing accessibility and user experience in an increasingly visual digital landscape. This milestone underscores the importance of visual search technology in shaping the future of information retrieval and user engagement.",
+      "source": "Google AI",
+      "category": "AI"
     },
     {
-      "title": "Patricia Evangelista on journalism",
-      "link": "https://aeon.co/videos/a-filipino-journalist-on-the-terrible-privilege-of-bearing-witness",
-      "published_date": "2026-07-13T10:01:00+00:00",
-      "summary": "• Journalism serves as a double-edged sword, revealing both the darkest and most hopeful aspects of humanity.  \n• The act of documenting crimes against humanity is a profound moral responsibility that weighs heavily on the journalist's conscience.  \n• Engaging with suffering and injustice can lead to a deeper understanding of the human condition and the complexities of truth.  \n• The journalist's role is not just to report, but to witness and give voice to the voiceless, challenging societal indifference.  \n• In the pursuit of truth, journalists navigate a precarious balance between empathy and detachment, shaping the narrative of our collective memory.",
+      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+      "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+      "published_date": "2026-07-14T15:00:20+00:00",
+      "summary": "NVIDIA emphasizes that performance per watt is the critical metric for AI infrastructure efficiency, as it directly influences revenue and profitability within the constraints of power consumption, making it essential for the success of AI factories in an era of increasing token demand. This breakthrough highlights the importance of optimizing energy use in AI development, setting a new standard for operational excellence in the industry.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "link": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "published_date": "2026-07-14T13:59:25+00:00",
+      "summary": "Apple Arcade is set to elevate its gaming lineup with the launch of Madden NFL 27 Arcade Edition on August 6, marking a significant expansion into high-profile sports titles that enhances its competitive edge in the gaming market. This breakthrough not only attracts football fans but also reinforces Apple's commitment to delivering premium gaming experiences on its platform.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "published_date": "2026-07-14T10:00:00+00:00",
+      "summary": "Enterprises can revolutionize their AI investment strategies in the agentic era by focusing on quantifying useful work per dollar, enhancing operational efficiency, and scaling high-value workflows, ultimately driving unprecedented returns and competitive advantage in an increasingly automated landscape. This breakthrough approach not only optimizes resource allocation but also positions organizations to thrive in a future dominated by intelligent agents.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "The looting of science fiction",
+      "link": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
+      "published_date": "2026-07-14T10:00:00+00:00",
+      "summary": "• The appropriation of science fiction by tech leaders reveals a troubling trend of co-opting visionary narratives for profit and power.  \n• By reshaping the genre's utopian ideals, these titans distort its original messages of hope and collective progress.  \n• The commercialization of science fiction risks reducing profound philosophical inquiries into mere marketing tools.  \n• Authentic innovation in technology should stem from the genre's spirit of imagination rather than a superficial alignment with its themes.  \n• Ultimately, the looting of science fiction reflects a broader societal challenge: the struggle to maintain genuine creativity in a commodified landscape.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Unmothered",
-      "link": "https://aeon.co/essays/when-my-ties-to-my-mother-faded-so-did-my-memories",
-      "published_date": "2026-07-13T10:00:00+00:00",
-      "summary": "• The absence of a nurturing figure can leave profound gaps in our personal narratives, reshaping our identities.  \n• Relationships serve as the scaffolding of our stories, and their sudden loss can lead to existential disarray.  \n• The act of storytelling is not just about recounting events; it is a means of understanding and reconstructing our fragmented selves.  \n• In grappling with loss, we confront the paradox of finding meaning in the very void left by those who shaped us.  \n• Ultimately, the journey of self-discovery often requires us to rewrite our stories, embracing both the pain and the potential for renewal.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China joins US in reusable orbital rocket capability",
-      "link": "https://www.scmp.com/plus/news/china/science/article/3360369/china-joins-us-reusable-orbital-rocket-capability?utm_source=rss_feed",
-      "published_date": "2026-07-13T09:00:10+00:00",
-      "summary": "China's successful recovery of a reusable orbital rocket marks a significant milestone, positioning it as only the second nation after the U.S. to achieve this capability, and introduces a novel recovery technique that could reshape the future of space exploration and satellite deployment. This breakthrough not only enhances China's space ambitions but also intensifies the global competition in reusable rocket technology.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "How China plans to break SpaceX’s launch monopoly with IPO push in new space race",
-      "link": "https://www.scmp.com/business/companies/article/3360351/new-space-race-how-china-plans-break-spacexs-launch-monopoly-ipo-push?utm_source=rss_feed",
-      "published_date": "2026-07-13T08:30:11+00:00",
-      "summary": "China is set to disrupt SpaceX's launch monopoly through a coordinated \"wolf-pack\" strategy among multiple aerospace firms, leveraging recent advancements in reusable rocketry to secure funding and expand their market presence. This initiative could significantly alter the competitive landscape of the global launch market, challenging established players like Elon Musk's SpaceX.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s historic sea-based rocket recovery puts spotlight on domestic shipbuilder",
-      "link": "https://www.scmp.com/economy/china-economy/article/3360338/chinas-historic-sea-based-rocket-recovery-puts-spotlight-domestic-shipbuilder?utm_source=rss_feed",
-      "published_date": "2026-07-13T08:00:06+00:00",
-      "summary": "China's successful recovery of an orbital-class rocket booster using a net-capture system marks a significant milestone in space technology, positioning the nation alongside the US and highlighting the capabilities of its domestic shipbuilder in advancing aerospace innovation. This breakthrough not only enhances China's reusable rocket program but also sets the stage for more sustainable and cost-effective space missions in the future.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s optical chip breakthrough boosts AI speed 100-fold using fraction of compute power",
-      "link": "https://www.scmp.com/news/china/science/article/3360328/chinas-optical-chip-breakthrough-boosts-ai-speed-100-fold-using-fraction-compute-power?utm_source=rss_feed",
-      "published_date": "2026-07-13T06:00:12+00:00",
-      "summary": "Chinese researchers have achieved a groundbreaking all-optical interconnect system that enhances AI distributed inference speeds by over 100 times while consuming only one-ninth of the usual computational resources, potentially revolutionizing the industry's approach to handling the escalating demand for processing power. This innovation not only addresses the urgent need for efficiency in AI applications but also paves the way for more sustainable technological advancements.",
-      "source": "China News",
+      "title": "Global AI boom sees China’s chip exports nearly double in first half of year",
+      "link": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year?utm_source=rss_feed",
+      "published_date": "2026-07-14T07:59:17+00:00",
+      "summary": "China's chip exports have surged nearly 96% in the first half of 2026, driven by a global AI boom that underscores the critical role of computing hardware in economic growth, positioning the country as a dominant player in the semiconductor market. This breakthrough not only highlights China's manufacturing prowess but also signals a significant shift in the global tech landscape, where demand for advanced chips is skyrocketing.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     }
   ]
