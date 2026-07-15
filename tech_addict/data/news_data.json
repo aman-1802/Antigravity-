@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T02:46:54.242399+00:00",
+  "last_updated": "2026-07-15T05:53:56.500993+00:00",
   "articles": [
     {
       "title": "US must act quickly to counter China’s growing tech progress, lawmakers told",
@@ -48,6 +48,14 @@
       "summary": "Apple Arcade is set to elevate its gaming lineup with the launch of Madden NFL 27 Arcade Edition on August 6, marking a significant expansion into high-profile sports titles that enhances its competitive edge in the gaming market. This breakthrough not only attracts football fans but also reinforces Apple's commitment to delivering premium gaming experiences on its platform.",
       "source": "Apple",
       "category": "AI"
+    },
+    {
+      "title": "China’s StepFun claims it has unveiled the world’s first AI smartphone",
+      "link": "https://www.scmp.com/tech/big-tech/article/3360544/chinas-stepfun-claims-it-has-unveiled-worlds-first-ai-smartphone?utm_source=rss_feed",
+      "published_date": "2026-07-14T12:30:11+00:00",
+      "summary": "StepFun has claimed a groundbreaking advancement in consumer technology with the unveiling of the StepX Neo, touted as the world's first AI smartphone, which operates on a unique AI-centric operating system, Step AOS, potentially reshaping the smartphone landscape amidst intensifying competition in Silicon Valley. This innovation not only signifies a leap in smartphone capabilities but also highlights the growing influence of AI in everyday devices, marking a pivotal moment for the industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "How to manage AI investments in the agentic era",
