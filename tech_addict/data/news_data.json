@@ -1,83 +1,75 @@
 {
-  "last_updated": "2026-07-15T05:53:56.500993+00:00",
+  "last_updated": "2026-07-16T02:53:17.173575+00:00",
   "articles": [
     {
-      "title": "US must act quickly to counter China’s growing tech progress, lawmakers told",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3360588/us-must-act-quickly-counter-chinas-growing-tech-progress-lawmakers-told?utm_source=rss_feed",
-      "published_date": "2026-07-14T23:06:16+00:00",
-      "summary": "Lawmakers have been warned that China's rapid technological advancements pose an existential threat to the U.S., necessitating immediate action to decouple from Chinese supply chains and bolster American innovation in critical sectors like semiconductors and drones. This urgent call to action underscores the race for technological supremacy that could determine global power dynamics.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "US says Nvidia’s H200 exports to China remain ‘trivial’ despite approvals",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals?utm_source=rss_feed",
-      "published_date": "2026-07-14T20:33:17+00:00",
-      "summary": "Despite recent approvals allowing Nvidia to export its powerful H200 AI chips to China, the actual shipments remain minimal, highlighting the ongoing complexities and cautious approach of U.S. technology exports amid geopolitical tensions. This situation underscores the delicate balance between fostering international trade in cutting-edge technology and addressing national security concerns.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "published_date": "2026-07-14T16:45:13+00:00",
-      "summary": "NVIDIA's Nemotron Labs introduces open AI models that empower enterprises and nations to create tailored, trustworthy AI solutions, revolutionizing workflows and enhancing accuracy by aligning technology with specific business needs. This breakthrough not only democratizes access to advanced AI but also ensures that organizations can maintain control and customization over their AI systems, fostering innovation and reliability in an increasingly data-driven world.",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "published_date": "2026-07-15T23:00:54+00:00",
+      "summary": "NVIDIA's introduction of the T3000 and T2000 Jetson Thor computers marks a significant leap in robotics and edge AI, providing compact, power-efficient AI supercomputers that facilitate the transition of general-purpose robots from research to widespread commercial use. This breakthrough is crucial as it addresses the growing demand for advanced computing capabilities in real-world applications, paving the way for a new era of autonomous machines.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "Celebrating 25 years of visual search innovation",
-      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "published_date": "2026-07-14T16:00:00+00:00",
-      "summary": "Google AI marks 25 years of visual search innovation, highlighting advancements that have transformed how users discover and interact with images online, significantly enhancing accessibility and user experience in an increasingly visual digital landscape. This milestone underscores the importance of visual search technology in shaping the future of information retrieval and user engagement.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-      "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "published_date": "2026-07-14T15:00:20+00:00",
-      "summary": "NVIDIA emphasizes that performance per watt is the critical metric for AI infrastructure efficiency, as it directly influences revenue and profitability within the constraints of power consumption, making it essential for the success of AI factories in an era of increasing token demand. This breakthrough highlights the importance of optimizing energy use in AI development, setting a new standard for operational excellence in the industry.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "link": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "published_date": "2026-07-14T13:59:25+00:00",
-      "summary": "Apple Arcade is set to elevate its gaming lineup with the launch of Madden NFL 27 Arcade Edition on August 6, marking a significant expansion into high-profile sports titles that enhances its competitive edge in the gaming market. This breakthrough not only attracts football fans but also reinforces Apple's commitment to delivering premium gaming experiences on its platform.",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "link": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "published_date": "2026-07-15T14:59:11+00:00",
+      "summary": "Major League Soccer's return to Apple TV marks a significant milestone in the streaming landscape, as it underscores Apple's commitment to enhancing its sports content offerings and potentially reshaping how fans engage with live sports. This development not only revitalizes the platform's appeal but also positions Apple as a formidable player in the competitive sports broadcasting arena.",
       "source": "Apple",
       "category": "AI"
     },
     {
-      "title": "China’s StepFun claims it has unveiled the world’s first AI smartphone",
-      "link": "https://www.scmp.com/tech/big-tech/article/3360544/chinas-stepfun-claims-it-has-unveiled-worlds-first-ai-smartphone?utm_source=rss_feed",
-      "published_date": "2026-07-14T12:30:11+00:00",
-      "summary": "StepFun has claimed a groundbreaking advancement in consumer technology with the unveiling of the StepX Neo, touted as the world's first AI smartphone, which operates on a unique AI-centric operating system, Step AOS, potentially reshaping the smartphone landscape amidst intensifying competition in Silicon Valley. This innovation not only signifies a leap in smartphone capabilities but also highlights the growing influence of AI in everyday devices, marking a pivotal moment for the industry.",
+      "title": "China completes world’s first commercial brain-computer interface implant",
+      "link": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant?utm_source=rss_feed",
+      "published_date": "2026-07-15T14:00:06+00:00",
+      "summary": "China has achieved a groundbreaking milestone by successfully performing the world’s first commercial brain-computer interface implant, a significant advancement in neurotechnology that positions the country to compete with leading firms like Elon Musk’s Neuralink. This innovative surgery offers new hope for patients with severe mobility impairments, potentially transforming rehabilitation and enhancing quality of life.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "How to manage AI investments in the agentic era",
-      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "published_date": "2026-07-14T10:00:00+00:00",
-      "summary": "Enterprises can revolutionize their AI investment strategies in the agentic era by focusing on quantifying useful work per dollar, enhancing operational efficiency, and scaling high-value workflows, ultimately driving unprecedented returns and competitive advantage in an increasingly automated landscape. This breakthrough approach not only optimizes resource allocation but also positions organizations to thrive in a future dominated by intelligent agents.",
+      "title": "The US is advancing AI safety through state and federal action",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published_date": "2026-07-15T12:00:00+00:00",
+      "summary": "OpenAI's innovative \"reverse federalism\" approach to AI governance leverages state laws to establish a cohesive national framework for ensuring safe and democratic AI practices, marking a significant step forward in addressing the complexities of AI regulation. This strategy not only enhances safety measures but also empowers local jurisdictions to play a pivotal role in shaping the future of AI policy.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "The looting of science fiction",
-      "link": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
-      "published_date": "2026-07-14T10:00:00+00:00",
-      "summary": "• The appropriation of science fiction by tech leaders reveals a troubling trend of co-opting visionary narratives for profit and power.  \n• By reshaping the genre's utopian ideals, these titans distort its original messages of hope and collective progress.  \n• The commercialization of science fiction risks reducing profound philosophical inquiries into mere marketing tools.  \n• Authentic innovation in technology should stem from the genre's spirit of imagination rather than a superficial alignment with its themes.  \n• Ultimately, the looting of science fiction reflects a broader societal challenge: the struggle to maintain genuine creativity in a commodified landscape.",
+      "title": "China approves Apple Intelligence for iPhones, with Alibaba, Baidu emerging as partners",
+      "link": "https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners?utm_source=rss_feed",
+      "published_date": "2026-07-15T11:00:30+00:00",
+      "summary": "China's approval of Apple's AI service for iPhones marks a significant breakthrough in the tech landscape, enabling advanced features like email summarization and image editing while fostering collaboration with major local players Alibaba and Baidu, which could reshape the competitive dynamics in the Chinese smartphone market. This development not only enhances Apple's offerings but also signals a growing acceptance of foreign tech innovations within China's tightly regulated digital ecosystem.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "published_date": "2026-07-15T10:51:37+00:00",
+      "summary": "NVIDIA's collaboration with Japan aims to revolutionize industries by integrating full-stack AI and robotics, leveraging the country's expertise in manufacturing and technology to drive unprecedented advancements across various sectors. This breakthrough not only solidifies Japan's position as a global AI leader but also promises to enhance productivity and innovation on a massive scale.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "The diffusion pilot",
+      "link": "https://aeon.co/videos/an-animator-ponders-his-purpose-amid-an-ais-infinite-possibilities",
+      "published_date": "2026-07-15T10:01:00+00:00",
+      "summary": "• The rise of inexhaustible AIs challenges traditional notions of creativity and artistic purpose.  \n• Artists must navigate the tension between embracing technology and preserving their unique human expression.  \n• The quest for control in art-making becomes a philosophical exploration of identity and authenticity.  \n• As AI-generated content proliferates, the value of human artistry may shift towards emotional depth and personal narrative.  \n• Ultimately, the relationship between artist and AI invites a redefinition of what it means to create in a digital age.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Global AI boom sees China’s chip exports nearly double in first half of year",
-      "link": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year?utm_source=rss_feed",
-      "published_date": "2026-07-14T07:59:17+00:00",
-      "summary": "China's chip exports have surged nearly 96% in the first half of 2026, driven by a global AI boom that underscores the critical role of computing hardware in economic growth, positioning the country as a dominant player in the semiconductor market. This breakthrough not only highlights China's manufacturing prowess but also signals a significant shift in the global tech landscape, where demand for advanced chips is skyrocketing.",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published_date": "2026-07-15T10:00:00+00:00",
+      "summary": "OpenAI's GPT-Red represents a groundbreaking advancement in AI safety by employing an automated red teaming system that utilizes self-play to enhance robustness against prompt injection and improve alignment, marking a significant step toward more secure and reliable AI systems. This innovation is crucial as it addresses critical vulnerabilities in AI deployment, ensuring safer interactions in diverse applications.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "China memory giant CXMT valued at US$85 billion in record Shanghai IPO",
+      "link": "https://www.scmp.com/tech/article/3360615/china-memory-giant-cxmt-valued-us85-billion-record-shanghai-ipo?utm_source=rss_feed",
+      "published_date": "2026-07-15T04:28:01+00:00",
+      "summary": "ChangXin Memory Technologies (CXMT) has achieved a groundbreaking valuation of US$85 billion with its record-setting IPO in Shanghai, marking a significant milestone for China's semiconductor industry and underscoring the nation's ambitions to dominate the global memory chip market. This landmark listing, expected to raise US$8.5 billion, not only elevates CXMT's status but also highlights the increasing importance of domestic tech giants in the global supply chain.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
