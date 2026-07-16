@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T02:53:17.173575+00:00",
+  "last_updated": "2026-07-16T05:59:57.208684+00:00",
   "articles": [
     {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
@@ -64,14 +64,6 @@
       "summary": "OpenAI's GPT-Red represents a groundbreaking advancement in AI safety by employing an automated red teaming system that utilizes self-play to enhance robustness against prompt injection and improve alignment, marking a significant step toward more secure and reliable AI systems. This innovation is crucial as it addresses critical vulnerabilities in AI deployment, ensuring safer interactions in diverse applications.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "China memory giant CXMT valued at US$85 billion in record Shanghai IPO",
-      "link": "https://www.scmp.com/tech/article/3360615/china-memory-giant-cxmt-valued-us85-billion-record-shanghai-ipo?utm_source=rss_feed",
-      "published_date": "2026-07-15T04:28:01+00:00",
-      "summary": "ChangXin Memory Technologies (CXMT) has achieved a groundbreaking valuation of US$85 billion with its record-setting IPO in Shanghai, marking a significant milestone for China's semiconductor industry and underscoring the nation's ambitions to dominate the global memory chip market. This landmark listing, expected to raise US$8.5 billion, not only elevates CXMT's status but also highlights the increasing importance of domestic tech giants in the global supply chain.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
