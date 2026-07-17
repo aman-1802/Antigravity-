@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-17T02:55:37.052421+00:00",
+  "last_updated": "2026-07-17T06:00:41.884401+00:00",
   "articles": [
+    {
+      "title": "Moonshot AI unveils world’s largest open-source AI model as China narrows gap with US rivals",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3360885/moonshot-ai-unveils-worlds-largest-open-source-ai-model-china-narrows-gap-us-rivals?utm_source=rss_feed",
+      "published_date": "2026-07-17T04:31:25+00:00",
+      "summary": "Moonshot AI has launched the Kimi K3, the world's largest open-source AI model with 2.8 trillion parameters, positioning itself to outperform leading US systems and signaling a significant shift in the global AI landscape as China intensifies its challenge to American technological supremacy.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Top takeaways from Xi Jinping’s opening address at the World AI Conference in Shanghai",
+      "link": "https://www.scmp.com/tech/tech-war/article/3360870/top-takeaways-xi-jinpings-opening-address-world-ai-conference-shanghai?utm_source=rss_feed",
+      "published_date": "2026-07-17T03:09:11+00:00",
+      "summary": "Chinese President Xi Jinping's inaugural keynote at the World AI Conference marks a pivotal moment in the global AI landscape, as it underscores China's commitment to leading in artificial intelligence amidst escalating tensions with the U.S., particularly following President Trump's sharp criticisms. This breakthrough not only highlights the strategic importance of AI in international relations but also sets the stage for a new era of technological rivalry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "From humanoids to Huawei: what to watch as Xi attends China’s WAIC amid US AI rivalry",
       "link": "https://www.scmp.com/tech/big-tech/article/3360800/humanoids-huawei-what-watch-xi-attends-chinas-waic-amid-us-ai-rivalry?utm_source=rss_feed",
