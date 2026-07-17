@@ -1,69 +1,85 @@
 {
-  "last_updated": "2026-07-16T05:59:57.208684+00:00",
+  "last_updated": "2026-07-17T02:55:37.052421+00:00",
   "articles": [
     {
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "published_date": "2026-07-15T23:00:54+00:00",
-      "summary": "NVIDIA's introduction of the T3000 and T2000 Jetson Thor computers marks a significant leap in robotics and edge AI, providing compact, power-efficient AI supercomputers that facilitate the transition of general-purpose robots from research to widespread commercial use. This breakthrough is crucial as it addresses the growing demand for advanced computing capabilities in real-world applications, paving the way for a new era of autonomous machines.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "link": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "published_date": "2026-07-15T14:59:11+00:00",
-      "summary": "Major League Soccer's return to Apple TV marks a significant milestone in the streaming landscape, as it underscores Apple's commitment to enhancing its sports content offerings and potentially reshaping how fans engage with live sports. This development not only revitalizes the platform's appeal but also positions Apple as a formidable player in the competitive sports broadcasting arena.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "China completes world’s first commercial brain-computer interface implant",
-      "link": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant?utm_source=rss_feed",
-      "published_date": "2026-07-15T14:00:06+00:00",
-      "summary": "China has achieved a groundbreaking milestone by successfully performing the world’s first commercial brain-computer interface implant, a significant advancement in neurotechnology that positions the country to compete with leading firms like Elon Musk’s Neuralink. This innovative surgery offers new hope for patients with severe mobility impairments, potentially transforming rehabilitation and enhancing quality of life.",
+      "title": "From humanoids to Huawei: what to watch as Xi attends China’s WAIC amid US AI rivalry",
+      "link": "https://www.scmp.com/tech/big-tech/article/3360800/humanoids-huawei-what-watch-xi-attends-chinas-waic-amid-us-ai-rivalry?utm_source=rss_feed",
+      "published_date": "2026-07-17T01:00:05+00:00",
+      "summary": "China's World AI Conference (WAIC) will highlight its strategic push not only to catch up with the U.S. in foundational AI models but to establish supremacy in autonomous systems, humanoid robotics, and consumer technology, underscoring the escalating tech rivalry as Beijing seeks self-sufficiency amid ongoing chip restrictions. This ambition could redefine global AI leadership and reshape competitive dynamics in technology innovation.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "The US is advancing AI safety through state and federal action",
-      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "published_date": "2026-07-15T12:00:00+00:00",
-      "summary": "OpenAI's innovative \"reverse federalism\" approach to AI governance leverages state laws to establish a cohesive national framework for ensuring safe and democratic AI practices, marking a significant step forward in addressing the complexities of AI regulation. This strategy not only enhances safety measures but also empowers local jurisdictions to play a pivotal role in shaping the future of AI policy.",
+      "title": "Beijing denounces US chip curbs as threat to global supply chains",
+      "link": "https://www.scmp.com/news/us/article/3360846/beijing-denounces-us-chip-curbs-threat-global-supply-chains?utm_source=rss_feed",
+      "published_date": "2026-07-16T19:21:51+00:00",
+      "summary": "Beijing's vehement denunciation of US chip export restrictions highlights a critical geopolitical clash, as these measures threaten to disrupt global semiconductor supply chains and escalate tensions in the tech rivalry between the two superpowers. This development underscores the fragility of international trade in advanced technologies and the potential for significant economic repercussions worldwide.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published_date": "2026-07-16T16:00:00+00:00",
+      "summary": "OpenAI is revolutionizing teen engagement with AI by implementing robust safety measures in ChatGPT, including age-appropriate protections and parental controls, ensuring a secure and enriching digital experience for younger users. This breakthrough not only prioritizes safety but also empowers teens with valuable learning tools, setting a new standard for responsible AI usage.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "China approves Apple Intelligence for iPhones, with Alibaba, Baidu emerging as partners",
-      "link": "https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners?utm_source=rss_feed",
-      "published_date": "2026-07-15T11:00:30+00:00",
-      "summary": "China's approval of Apple's AI service for iPhones marks a significant breakthrough in the tech landscape, enabling advanced features like email summarization and image editing while fostering collaboration with major local players Alibaba and Baidu, which could reshape the competitive dynamics in the Chinese smartphone market. This development not only enhances Apple's offerings but also signals a growing acceptance of foreign tech innovations within China's tightly regulated digital ecosystem.",
-      "source": "SCMP Tech",
+      "title": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "published_date": "2026-07-16T16:00:00+00:00",
+      "summary": "Google AI's latest breakthrough in connected apps rendering allows users to seamlessly integrate and interact with multiple applications directly through Search, revolutionizing the way information is accessed and enhancing productivity by streamlining workflows across platforms. This innovation not only simplifies user experience but also positions Google Search as a central hub for app connectivity, fundamentally changing how we engage with digital tools.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "published_date": "2026-07-16T16:00:00+00:00",
+      "summary": "Google's latest updates to Google Vids, featuring Gemini Omni and Personal Avatars, empower users to seamlessly create, edit, and star in their own videos, revolutionizing content creation by making it more accessible and personalized than ever before. This breakthrough not only enhances user engagement but also positions Google at the forefront of the burgeoning AI-driven media landscape.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic, China and why Pax Silica architect thinks the US can keep the AI lead",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3360833/anthropic-china-and-why-pax-silica-architect-thinks-us-can-keep-ai-lead?utm_source=rss_feed",
+      "published_date": "2026-07-16T15:00:07+00:00",
+      "summary": "In a pivotal interview, US undersecretary Jacob Helberg reveals the strategic ban on foreign access to Anthropic's AI models, underscoring the United States' commitment to maintaining its technological supremacy over China in the critical arena of artificial intelligence. This move not only highlights the geopolitical stakes involved but also sets the stage for a transformative shift in global AI dynamics.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "published_date": "2026-07-15T10:51:37+00:00",
-      "summary": "NVIDIA's collaboration with Japan aims to revolutionize industries by integrating full-stack AI and robotics, leveraging the country's expertise in manufacturing and technology to drive unprecedented advancements across various sectors. This breakthrough not only solidifies Japan's position as a global AI leader but also promises to enhance productivity and innovation on a massive scale.",
+      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+      "published_date": "2026-07-16T13:00:34+00:00",
+      "summary": "NVIDIA's GeForce NOW is set to revolutionize gaming by launching 'Onimusha: Way of the Sword' alongside five new titles, eliminating the need for downloads and enhancing accessibility as the service officially debuts in India, allowing gamers immediate access without a waitlist. This breakthrough not only streamlines the gaming experience but also expands NVIDIA's reach in the global market.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "The diffusion pilot",
-      "link": "https://aeon.co/videos/an-animator-ponders-his-purpose-amid-an-ais-infinite-possibilities",
-      "published_date": "2026-07-15T10:01:00+00:00",
-      "summary": "• The rise of inexhaustible AIs challenges traditional notions of creativity and artistic purpose.  \n• Artists must navigate the tension between embracing technology and preserving their unique human expression.  \n• The quest for control in art-making becomes a philosophical exploration of identity and authenticity.  \n• As AI-generated content proliferates, the value of human artistry may shift towards emotional depth and personal narrative.  \n• Ultimately, the relationship between artist and AI invites a redefinition of what it means to create in a digital age.",
+      "title": "TSMC pledges extra US$100 billion for Arizona fab expansion amid soaring AI chip demand",
+      "link": "https://www.scmp.com/tech/tech-war/article/3360809/tsmc-pledges-extra-us100-billion-arizona-fab-expansion-amid-soaring-ai-chip-demand?utm_source=rss_feed",
+      "published_date": "2026-07-16T10:30:09+00:00",
+      "summary": "TSMC's commitment of an extra US$100 billion for its Arizona fab expansion underscores the company's aggressive strategy to capitalize on the surging demand for AI chips, elevating its total US investment to US$265 billion and positioning it as a pivotal player in the global semiconductor landscape. This move not only reflects the urgency of meeting market needs but also highlights the critical role of advanced manufacturing in driving technological innovation and economic growth.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "What remains",
+      "link": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
+      "published_date": "2026-07-16T10:01:00+00:00",
+      "summary": "• The oyster shell, often overlooked, emerges as a vital agent in combating the relentless forces of coastal erosion.  \n• This restoration project highlights the profound interconnectedness of nature and human ingenuity in addressing environmental challenges.  \n• By repurposing natural materials, we are reminded of the potential for sustainable solutions rooted in ecological wisdom.  \n• The transformation of oyster shells symbolizes a deeper philosophical reflection on resilience and the cyclical nature of life.  \n• Ultimately, this initiative invites us to reconsider our relationship with the environment and the resources we often take for granted.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "published_date": "2026-07-15T10:00:00+00:00",
-      "summary": "OpenAI's GPT-Red represents a groundbreaking advancement in AI safety by employing an automated red teaming system that utilizes self-play to enhance robustness against prompt injection and improve alignment, marking a significant step toward more secure and reliable AI systems. This innovation is crucial as it addresses critical vulnerabilities in AI deployment, ensuring safer interactions in diverse applications.",
-      "source": "OpenAI",
-      "category": "AI"
+      "title": "Loitering towards war",
+      "link": "https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent",
+      "published_date": "2026-07-16T10:00:00+00:00",
+      "summary": "• The contrasting atmospheres of Vienna's coffeehouses and Belgrade's kafanas symbolize the divergent paths of culture and conflict in Europe.  \n• Modernism flourished in Vienna, fostering creativity and intellectual discourse, while Belgrade became a breeding ground for unrest and conspiracy.  \n• This cultural dichotomy illustrates how environments can shape societal outcomes, influencing the trajectory of nations.  \n• The interplay of ideas and emotions in these spaces reflects the broader tensions that can lead to war.  \n• Ultimately, the essay posits that the seeds of conflict are often sown in the very places where ideas are exchanged.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
     }
   ]
 }
