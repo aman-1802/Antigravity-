@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-07-17T06:00:41.884401+00:00",
+  "last_updated": "2026-07-18T02:48:17.589789+00:00",
   "articles": [
+    {
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "published_date": "2026-07-17T15:00:14+00:00",
+      "summary": "NVIDIA's Vera Rubin breakthrough significantly reduces the cost per token for post-training workloads, enhancing the efficiency of agentic AI systems and setting a new standard for maximizing intelligence per dollar in the rapidly evolving landscape of artificial intelligence. This innovation not only lowers operational costs but also accelerates the deployment of advanced AI capabilities across various industries.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published_date": "2026-07-17T10:00:00+00:00",
+      "summary": "OpenAI's CFO, Sarah Friar, unveils a groundbreaking AI scorecard designed to quantify the return on investment in artificial intelligence by evaluating metrics such as useful work, cost efficiency, and reliability, marking a significant advancement in how organizations can assess the impact of AI technologies. This innovation is crucial for businesses aiming to optimize their AI strategies and maximize their technological investments in an increasingly competitive landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Transit of wonder",
+      "link": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers",
+      "published_date": "2026-07-17T10:00:00+00:00",
+      "summary": "• The rare transit of Venus serves as a cosmic reminder of our place in the universe, igniting curiosity and wonder.  \n• Each occurrence invites humanity to reflect on the ephemeral nature of existence and the beauty of fleeting moments.  \n• The event symbolizes the intersection of science and spirituality, where observation becomes a profound act of connection.  \n• As we gaze at Venus crossing the Sun, we are reminded of the shared human experience of seeking knowledge and meaning.  \n• Ultimately, the transit challenges us to embrace the unknown and find joy in the mysteries that lie beyond our comprehension.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Xi’s call on AI, Trump blasts China, US tariffs",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3360914/xis-call-ai-trump-blasts-china-us-tariffs?utm_source=rss_feed",
+      "published_date": "2026-07-17T09:01:38+00:00",
+      "summary": "Chinese President Xi Jinping's address at the World AI Conference underscores the dual-edged nature of artificial intelligence, advocating for an \"openness\" principle and stringent regulations to ensure its secure development, highlighting AI as a cornerstone of China's strategy for technological self-reliance in the face of escalating US-China tensions. This pivotal stance not only positions AI as a national priority but also signals a potential shift in the global tech landscape, as nations grapple with the implications of AI governance and competition.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese Nvidia alternatives project massive sales as AI chip demand surges",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges?utm_source=rss_feed",
+      "published_date": "2026-07-17T06:16:40+00:00",
+      "summary": "Chinese chip designers Moore Threads and Hygon Information Technology are poised for explosive revenue growth of up to 149.4% in the first half of the year, driven by a skyrocketing domestic demand for AI computing power, positioning them as formidable competitors to Nvidia in the rapidly evolving AI landscape. This breakthrough not only highlights China's ambitions in the semiconductor industry but also signals a significant shift in the global AI chip market dynamics.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Moonshot AI unveils world’s largest open-source AI model as China narrows gap with US rivals",
       "link": "https://www.scmp.com/tech/tech-trends/article/3360885/moonshot-ai-unveils-worlds-largest-open-source-ai-model-china-narrows-gap-us-rivals?utm_source=rss_feed",
@@ -8,94 +48,6 @@
       "summary": "Moonshot AI has launched the Kimi K3, the world's largest open-source AI model with 2.8 trillion parameters, positioning itself to outperform leading US systems and signaling a significant shift in the global AI landscape as China intensifies its challenge to American technological supremacy.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Top takeaways from Xi Jinping’s opening address at the World AI Conference in Shanghai",
-      "link": "https://www.scmp.com/tech/tech-war/article/3360870/top-takeaways-xi-jinpings-opening-address-world-ai-conference-shanghai?utm_source=rss_feed",
-      "published_date": "2026-07-17T03:09:11+00:00",
-      "summary": "Chinese President Xi Jinping's inaugural keynote at the World AI Conference marks a pivotal moment in the global AI landscape, as it underscores China's commitment to leading in artificial intelligence amidst escalating tensions with the U.S., particularly following President Trump's sharp criticisms. This breakthrough not only highlights the strategic importance of AI in international relations but also sets the stage for a new era of technological rivalry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "From humanoids to Huawei: what to watch as Xi attends China’s WAIC amid US AI rivalry",
-      "link": "https://www.scmp.com/tech/big-tech/article/3360800/humanoids-huawei-what-watch-xi-attends-chinas-waic-amid-us-ai-rivalry?utm_source=rss_feed",
-      "published_date": "2026-07-17T01:00:05+00:00",
-      "summary": "China's World AI Conference (WAIC) will highlight its strategic push not only to catch up with the U.S. in foundational AI models but to establish supremacy in autonomous systems, humanoid robotics, and consumer technology, underscoring the escalating tech rivalry as Beijing seeks self-sufficiency amid ongoing chip restrictions. This ambition could redefine global AI leadership and reshape competitive dynamics in technology innovation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Beijing denounces US chip curbs as threat to global supply chains",
-      "link": "https://www.scmp.com/news/us/article/3360846/beijing-denounces-us-chip-curbs-threat-global-supply-chains?utm_source=rss_feed",
-      "published_date": "2026-07-16T19:21:51+00:00",
-      "summary": "Beijing's vehement denunciation of US chip export restrictions highlights a critical geopolitical clash, as these measures threaten to disrupt global semiconductor supply chains and escalate tensions in the tech rivalry between the two superpowers. This development underscores the fragility of international trade in advanced technologies and the potential for significant economic repercussions worldwide.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published_date": "2026-07-16T16:00:00+00:00",
-      "summary": "OpenAI is revolutionizing teen engagement with AI by implementing robust safety measures in ChatGPT, including age-appropriate protections and parental controls, ensuring a secure and enriching digital experience for younger users. This breakthrough not only prioritizes safety but also empowers teens with valuable learning tools, setting a new standard for responsible AI usage.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Connect more of your apps to Search",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "published_date": "2026-07-16T16:00:00+00:00",
-      "summary": "Google AI's latest breakthrough in connected apps rendering allows users to seamlessly integrate and interact with multiple applications directly through Search, revolutionizing the way information is accessed and enhancing productivity by streamlining workflows across platforms. This innovation not only simplifies user experience but also positions Google Search as a central hub for app connectivity, fundamentally changing how we engage with digital tools.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "published_date": "2026-07-16T16:00:00+00:00",
-      "summary": "Google's latest updates to Google Vids, featuring Gemini Omni and Personal Avatars, empower users to seamlessly create, edit, and star in their own videos, revolutionizing content creation by making it more accessible and personalized than ever before. This breakthrough not only enhances user engagement but also positions Google at the forefront of the burgeoning AI-driven media landscape.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Anthropic, China and why Pax Silica architect thinks the US can keep the AI lead",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3360833/anthropic-china-and-why-pax-silica-architect-thinks-us-can-keep-ai-lead?utm_source=rss_feed",
-      "published_date": "2026-07-16T15:00:07+00:00",
-      "summary": "In a pivotal interview, US undersecretary Jacob Helberg reveals the strategic ban on foreign access to Anthropic's AI models, underscoring the United States' commitment to maintaining its technological supremacy over China in the critical arena of artificial intelligence. This move not only highlights the geopolitical stakes involved but also sets the stage for a transformative shift in global AI dynamics.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
-      "published_date": "2026-07-16T13:00:34+00:00",
-      "summary": "NVIDIA's GeForce NOW is set to revolutionize gaming by launching 'Onimusha: Way of the Sword' alongside five new titles, eliminating the need for downloads and enhancing accessibility as the service officially debuts in India, allowing gamers immediate access without a waitlist. This breakthrough not only streamlines the gaming experience but also expands NVIDIA's reach in the global market.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "TSMC pledges extra US$100 billion for Arizona fab expansion amid soaring AI chip demand",
-      "link": "https://www.scmp.com/tech/tech-war/article/3360809/tsmc-pledges-extra-us100-billion-arizona-fab-expansion-amid-soaring-ai-chip-demand?utm_source=rss_feed",
-      "published_date": "2026-07-16T10:30:09+00:00",
-      "summary": "TSMC's commitment of an extra US$100 billion for its Arizona fab expansion underscores the company's aggressive strategy to capitalize on the surging demand for AI chips, elevating its total US investment to US$265 billion and positioning it as a pivotal player in the global semiconductor landscape. This move not only reflects the urgency of meeting market needs but also highlights the critical role of advanced manufacturing in driving technological innovation and economic growth.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "What remains",
-      "link": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
-      "published_date": "2026-07-16T10:01:00+00:00",
-      "summary": "• The oyster shell, often overlooked, emerges as a vital agent in combating the relentless forces of coastal erosion.  \n• This restoration project highlights the profound interconnectedness of nature and human ingenuity in addressing environmental challenges.  \n• By repurposing natural materials, we are reminded of the potential for sustainable solutions rooted in ecological wisdom.  \n• The transformation of oyster shells symbolizes a deeper philosophical reflection on resilience and the cyclical nature of life.  \n• Ultimately, this initiative invites us to reconsider our relationship with the environment and the resources we often take for granted.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Loitering towards war",
-      "link": "https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent",
-      "published_date": "2026-07-16T10:00:00+00:00",
-      "summary": "• The contrasting atmospheres of Vienna's coffeehouses and Belgrade's kafanas symbolize the divergent paths of culture and conflict in Europe.  \n• Modernism flourished in Vienna, fostering creativity and intellectual discourse, while Belgrade became a breeding ground for unrest and conspiracy.  \n• This cultural dichotomy illustrates how environments can shape societal outcomes, influencing the trajectory of nations.  \n• The interplay of ideas and emotions in these spaces reflects the broader tensions that can lead to war.  \n• Ultimately, the essay posits that the seeds of conflict are often sown in the very places where ideas are exchanged.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
