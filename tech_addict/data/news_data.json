@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T02:48:17.589789+00:00",
+  "last_updated": "2026-07-18T05:43:11.423713+00:00",
   "articles": [
     {
       "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
@@ -38,14 +38,6 @@
       "link": "https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges?utm_source=rss_feed",
       "published_date": "2026-07-17T06:16:40+00:00",
       "summary": "Chinese chip designers Moore Threads and Hygon Information Technology are poised for explosive revenue growth of up to 149.4% in the first half of the year, driven by a skyrocketing domestic demand for AI computing power, positioning them as formidable competitors to Nvidia in the rapidly evolving AI landscape. This breakthrough not only highlights China's ambitions in the semiconductor industry but also signals a significant shift in the global AI chip market dynamics.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Moonshot AI unveils world’s largest open-source AI model as China narrows gap with US rivals",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3360885/moonshot-ai-unveils-worlds-largest-open-source-ai-model-china-narrows-gap-us-rivals?utm_source=rss_feed",
-      "published_date": "2026-07-17T04:31:25+00:00",
-      "summary": "Moonshot AI has launched the Kimi K3, the world's largest open-source AI model with 2.8 trillion parameters, positioning itself to outperform leading US systems and signaling a significant shift in the global AI landscape as China intensifies its challenge to American technological supremacy.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
