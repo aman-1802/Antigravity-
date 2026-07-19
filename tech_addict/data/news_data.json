@@ -1,43 +1,19 @@
 {
-  "last_updated": "2026-07-18T05:43:11.423713+00:00",
+  "last_updated": "2026-07-19T03:18:07.719018+00:00",
   "articles": [
     {
-      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "published_date": "2026-07-17T15:00:14+00:00",
-      "summary": "NVIDIA's Vera Rubin breakthrough significantly reduces the cost per token for post-training workloads, enhancing the efficiency of agentic AI systems and setting a new standard for maximizing intelligence per dollar in the rapidly evolving landscape of artificial intelligence. This innovation not only lowers operational costs but also accelerates the deployment of advanced AI capabilities across various industries.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "published_date": "2026-07-17T10:00:00+00:00",
-      "summary": "OpenAI's CFO, Sarah Friar, unveils a groundbreaking AI scorecard designed to quantify the return on investment in artificial intelligence by evaluating metrics such as useful work, cost efficiency, and reliability, marking a significant advancement in how organizations can assess the impact of AI technologies. This innovation is crucial for businesses aiming to optimize their AI strategies and maximize their technological investments in an increasingly competitive landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Transit of wonder",
-      "link": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers",
-      "published_date": "2026-07-17T10:00:00+00:00",
-      "summary": "• The rare transit of Venus serves as a cosmic reminder of our place in the universe, igniting curiosity and wonder.  \n• Each occurrence invites humanity to reflect on the ephemeral nature of existence and the beauty of fleeting moments.  \n• The event symbolizes the intersection of science and spirituality, where observation becomes a profound act of connection.  \n• As we gaze at Venus crossing the Sun, we are reminded of the shared human experience of seeking knowledge and meaning.  \n• Ultimately, the transit challenges us to embrace the unknown and find joy in the mysteries that lie beyond our comprehension.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Xi’s call on AI, Trump blasts China, US tariffs",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3360914/xis-call-ai-trump-blasts-china-us-tariffs?utm_source=rss_feed",
-      "published_date": "2026-07-17T09:01:38+00:00",
-      "summary": "Chinese President Xi Jinping's address at the World AI Conference underscores the dual-edged nature of artificial intelligence, advocating for an \"openness\" principle and stringent regulations to ensure its secure development, highlighting AI as a cornerstone of China's strategy for technological self-reliance in the face of escalating US-China tensions. This pivotal stance not only positions AI as a national priority but also signals a potential shift in the global tech landscape, as nations grapple with the implications of AI governance and competition.",
+      "title": "Alibaba targets Nvidia’s dominant software ecosystem with open-source AI stack",
+      "link": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed",
+      "published_date": "2026-07-18T11:00:07+00:00",
+      "summary": "Alibaba's T-Head is set to disrupt Nvidia's stronghold on AI development by open-sourcing its proprietary software stack, SAIL, which underpins its Zhenwu AI chips, thereby empowering developers and fostering innovation in the AI landscape. This strategic move not only enhances accessibility but also positions Alibaba as a formidable competitor in the rapidly evolving AI sector.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Chinese Nvidia alternatives project massive sales as AI chip demand surges",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges?utm_source=rss_feed",
-      "published_date": "2026-07-17T06:16:40+00:00",
-      "summary": "Chinese chip designers Moore Threads and Hygon Information Technology are poised for explosive revenue growth of up to 149.4% in the first half of the year, driven by a skyrocketing domestic demand for AI computing power, positioning them as formidable competitors to Nvidia in the rapidly evolving AI landscape. This breakthrough not only highlights China's ambitions in the semiconductor industry but also signals a significant shift in the global AI chip market dynamics.",
+      "title": "Chinese chip start-up Biren bets on light-based ‘supernodes’ to match Nvidia",
+      "link": "https://www.scmp.com/tech/tech-war/article/3361040/chinese-chip-start-biren-bets-light-based-supernodes-match-nvidia?utm_source=rss_feed",
+      "published_date": "2026-07-18T08:00:23+00:00",
+      "summary": "Chinese chip start-up Biren Technology has introduced innovative \"supernode\" systems that utilize optical data transmission to interconnect thousands of AI chips, potentially rivaling Nvidia and marking a significant leap in AI infrastructure capabilities amid escalating competition for enhanced computing power. This breakthrough not only addresses current hardware limitations but also positions Biren at the forefront of the rapidly evolving AI landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
