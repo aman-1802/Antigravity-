@@ -1,19 +1,11 @@
 {
-  "last_updated": "2026-07-19T06:13:21.331370+00:00",
+  "last_updated": "2026-07-20T03:32:06.339439+00:00",
   "articles": [
     {
-      "title": "Alibaba targets Nvidia’s dominant software ecosystem with open-source AI stack",
-      "link": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed",
-      "published_date": "2026-07-18T11:00:07+00:00",
-      "summary": "Alibaba's T-Head is set to disrupt Nvidia's stronghold on AI development by open-sourcing its proprietary software stack, SAIL, which underpins its Zhenwu AI chips, thereby empowering developers and fostering innovation in the AI landscape. This strategic move not only enhances accessibility but also positions Alibaba as a formidable competitor in the rapidly evolving AI sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese chip start-up Biren bets on light-based ‘supernodes’ to match Nvidia",
-      "link": "https://www.scmp.com/tech/tech-war/article/3361040/chinese-chip-start-biren-bets-light-based-supernodes-match-nvidia?utm_source=rss_feed",
-      "published_date": "2026-07-18T08:00:23+00:00",
-      "summary": "Chinese chip start-up Biren Technology has introduced innovative \"supernode\" systems that utilize optical data transmission to interconnect thousands of AI chips, potentially rivaling Nvidia and marking a significant leap in AI infrastructure capabilities amid escalating competition for enhanced computing power. This breakthrough not only addresses current hardware limitations but also positions Biren at the forefront of the rapidly evolving AI landscape.",
+      "title": "Alibaba says newest Qwen AI model is second only to Anthropic’s Claude Fable 5",
+      "link": "https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5?utm_source=rss_feed",
+      "published_date": "2026-07-19T13:20:24+00:00",
+      "summary": "Alibaba's Qwen3.8 AI model, boasting an impressive 2.4 trillion parameters, positions itself as a formidable competitor in the AI landscape, claiming the title of \"second only\" to Anthropic's Claude Fable 5, marking a significant leap in the capabilities of generative AI technologies. This advancement not only enhances Alibaba's AI offerings but also intensifies the competitive race among tech giants to dominate the rapidly evolving AI sector.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
