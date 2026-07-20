@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T03:32:06.339439+00:00",
+  "last_updated": "2026-07-20T06:33:34.781075+00:00",
   "articles": [
     {
       "title": "Alibaba says newest Qwen AI model is second only to Anthropic’s Claude Fable 5",
@@ -7,6 +7,22 @@
       "published_date": "2026-07-19T13:20:24+00:00",
       "summary": "Alibaba's Qwen3.8 AI model, boasting an impressive 2.4 trillion parameters, positions itself as a formidable competitor in the AI landscape, claiming the title of \"second only\" to Anthropic's Claude Fable 5, marking a significant leap in the capabilities of generative AI technologies. This advancement not only enhances Alibaba's AI offerings but also intensifies the competitive race among tech giants to dominate the rapidly evolving AI sector.",
       "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How Chinese tech giants from Ant to Tencent use AI agents to win over enterprise clients",
+      "link": "https://www.scmp.com/tech/big-tech/article/3361109/how-chinese-tech-giants-ant-tencent-use-ai-agents-win-over-enterprise-clients?utm_source=rss_feed",
+      "published_date": "2026-07-19T12:00:12+00:00",
+      "summary": "Chinese tech giants are intensifying their competition in the enterprise AI sector, unveiling innovative AI agent solutions at the World Artificial Intelligence Conference, which could significantly reshape business operations and client engagement across industries. This surge in AI adoption underscores the critical role of advanced technology in driving efficiency and competitiveness in the rapidly evolving market landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China plans to hit an asteroid with a Mach 26 projectile in planet defence test",
+      "link": "https://www.scmp.com/news/china/science/article/3360752/china-plans-hit-asteroid-mach-26-projectile-planet-defence-test?utm_source=rss_feed",
+      "published_date": "2026-07-19T12:00:08+00:00",
+      "summary": "China's groundbreaking planetary defense mission aims to strike an asteroid with a Mach 26 projectile, significantly surpassing NASA's Dart test by not only altering the asteroid's orbit but potentially breaking it apart, marking a pivotal advancement in global efforts to safeguard Earth from cosmic threats. This ambitious initiative underscores China's commitment to enhancing its space capabilities and addressing planetary defense challenges more aggressively.",
+      "source": "China News",
       "category": "SCMP"
     }
   ]
