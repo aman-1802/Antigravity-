@@ -1,28 +1,68 @@
 {
-  "last_updated": "2026-07-20T06:33:34.781075+00:00",
+  "last_updated": "2026-07-21T02:58:21.241913+00:00",
   "articles": [
     {
-      "title": "Alibaba says newest Qwen AI model is second only to Anthropic’s Claude Fable 5",
-      "link": "https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5?utm_source=rss_feed",
-      "published_date": "2026-07-19T13:20:24+00:00",
-      "summary": "Alibaba's Qwen3.8 AI model, boasting an impressive 2.4 trillion parameters, positions itself as a formidable competitor in the AI landscape, claiming the title of \"second only\" to Anthropic's Claude Fable 5, marking a significant leap in the capabilities of generative AI technologies. This advancement not only enhances Alibaba's AI offerings but also intensifies the competitive race among tech giants to dominate the rapidly evolving AI sector.",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "published_date": "2026-07-20T15:00:53+00:00",
+      "summary": "NVIDIA's latest advancements in Agentic and Physical AI, unveiled at SIGGRAPH, are set to revolutionize media, content creation, and robotics by enabling real-time simulations and open models that enhance graphics and interactivity, marking a significant leap forward in technology's ability to create immersive experiences.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Why China’s open-weight AI model Kimi K3 is sparking anxiety in Silicon Valley",
+      "link": "https://www.scmp.com/tech/tech-war/article/3361142/why-chinas-open-weight-ai-model-kimi-k3-sparking-anxiety-silicon-valley?utm_source=rss_feed",
+      "published_date": "2026-07-20T14:00:12+00:00",
+      "summary": "China's Moonshot AI has unveiled the Kimi K3, a groundbreaking 2.8 trillion-parameter AI model that significantly narrows the technological gap with the U.S., intensifying concerns in Silicon Valley about China's rapid advancements in frontier AI and its commitment to an open-source approach. This development not only showcases China's potential to lead in AI innovation but also poses a formidable challenge to the dominance of American tech giants.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "How Chinese tech giants from Ant to Tencent use AI agents to win over enterprise clients",
-      "link": "https://www.scmp.com/tech/big-tech/article/3361109/how-chinese-tech-giants-ant-tencent-use-ai-agents-win-over-enterprise-clients?utm_source=rss_feed",
-      "published_date": "2026-07-19T12:00:12+00:00",
-      "summary": "Chinese tech giants are intensifying their competition in the enterprise AI sector, unveiling innovative AI agent solutions at the World Artificial Intelligence Conference, which could significantly reshape business operations and client engagement across industries. This surge in AI adoption underscores the critical role of advanced technology in driving efficiency and competitiveness in the rapidly evolving market landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+      "link": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+      "published_date": "2026-07-20T13:00:02+00:00",
+      "summary": "Microsoft's expansion of Azure AI and high-performance computing infrastructure in collaboration with AMD marks a significant leap in addressing the surging demand for specialized AI workloads, positioning Azure as a leading platform capable of supporting increasingly complex and compute-intensive applications. This breakthrough not only enhances Azure's capabilities but also sets a new standard for cloud infrastructure in the rapidly evolving AI landscape.",
+      "source": "Microsoft",
+      "category": "AI"
     },
     {
-      "title": "China plans to hit an asteroid with a Mach 26 projectile in planet defence test",
-      "link": "https://www.scmp.com/news/china/science/article/3360752/china-plans-hit-asteroid-mach-26-projectile-planet-defence-test?utm_source=rss_feed",
-      "published_date": "2026-07-19T12:00:08+00:00",
-      "summary": "China's groundbreaking planetary defense mission aims to strike an asteroid with a Mach 26 projectile, significantly surpassing NASA's Dart test by not only altering the asteroid's orbit but potentially breaking it apart, marking a pivotal advancement in global efforts to safeguard Earth from cosmic threats. This ambitious initiative underscores China's commitment to enhancing its space capabilities and addressing planetary defense challenges more aggressively.",
-      "source": "China News",
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "published_date": "2026-07-20T10:59:23+00:00",
+      "summary": "Bristol Myers Squibb is set to revolutionize the life sciences sector by launching its second NVIDIA DGX SuperPOD, dubbed the \"SuperDuperPOD,\" which will enhance its already formidable AI capabilities and drive groundbreaking advancements in pharmaceutical research and development. This strategic move underscores the growing importance of AI in accelerating drug discovery and improving patient outcomes.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "The Skinner revolution",
+      "link": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control",
+      "published_date": "2026-07-20T10:01:00+00:00",
+      "summary": "• B.F. Skinner's radical behaviorism challenges traditional notions of free will, suggesting that human actions are largely shaped by environmental stimuli.  \n• His controversial experiments raise ethical questions about manipulation and control in the pursuit of behavioral modification.  \n• Skinner's work invites us to reconsider the nature of human agency and the extent to which our choices are predetermined by external factors.  \n• The Skinner revolution emphasizes the power of reinforcement in shaping behavior, prompting a reevaluation of moral responsibility in human actions.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published_date": "2026-07-20T10:00:00+00:00",
+      "summary": "OpenAI reveals critical insights from the deployment of long-horizon AI models, uncovering significant safety risks and failures while demonstrating how iterative improvements can enhance safeguards, underscoring the urgent need for robust alignment strategies in advanced AI systems. This breakthrough is pivotal as it addresses the complexities of ensuring AI safety over extended operational periods, a challenge that could redefine the future of AI deployment.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Beyond Greece and Rome",
+      "link": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
+      "published_date": "2026-07-20T10:00:00+00:00",
+      "summary": "• The traditional focus on Greece and Rome is being expanded to include a diverse array of ancient cultures, enriching our understanding of history.  \n• This broader perspective challenges the Eurocentric narrative, revealing the interconnectedness of civilizations across continents.  \n• By embracing a wider array of sources, we uncover the complexities and nuances of ancient societies often overlooked in mainstream discourse.  \n• The shift invites us to reconsider the foundations of modern thought and culture, acknowledging the contributions of various ancient peoples.  \n• Ultimately, this reimagining of the ancient world encourages a more inclusive and holistic approach to historical study.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Moonshot AI pushes China closer to US in frontier tech",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3361203/moonshot-ai-pushes-china-closer-us-frontier-tech?utm_source=rss_feed",
+      "published_date": "2026-07-20T09:12:59+00:00",
+      "summary": "Moonshot AI's Kimi K3 has generated unprecedented demand, signaling a significant leap in China's AI capabilities that could shift the global balance in frontier technology and challenge U.S. dominance. This breakthrough not only highlights the rapid advancements in China's tech landscape but also raises critical questions about the future of international AI competition.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     }
   ]
