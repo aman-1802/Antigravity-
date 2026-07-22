@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-22T02:56:06.783674+00:00",
+  "last_updated": "2026-07-22T06:10:59.056389+00:00",
   "articles": [
+    {
+      "title": "Kimi K3 developer Moonshot AI expedites fundraising ahead of planned IPO, source says",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3361415/kimi-k3-developer-moonshot-ai-expedites-fundraising-ahead-planned-ipo-source-says?utm_source=rss_feed",
+      "published_date": "2026-07-22T04:05:06+00:00",
+      "summary": "Moonshot AI, the Chinese unicorn behind the Kimi K3 AI model, is rapidly advancing its fundraising efforts in anticipation of a Hong Kong IPO, aiming for a staggering $30 billion valuation, signaling a pivotal moment in the AI sector reminiscent of previous technological breakthroughs. This aggressive move underscores the growing importance of AI innovation and investment in shaping the future of the industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Can the US and its allies break China’s grip on rare earths and AI technology?",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3361372/can-us-and-its-allies-break-chinas-grip-rare-earths-and-ai-technology?utm_source=rss_feed",
@@ -16,6 +24,22 @@
       "summary": "Wistron's new manufacturing plant in Fort Worth marks a significant advancement in AI infrastructure, producing superchips that are crucial for the development of cutting-edge AI systems, thereby solidifying Texas's role as a key player in the global AI landscape. This facility not only enhances local manufacturing capabilities but also underscores the growing demand for robust AI technologies.",
       "source": "NVIDIA",
       "category": "AI"
+    },
+    {
+      "title": "China security partner Solomon Islands to sign US Coast Guard patrol deal",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3361396/china-security-partner-solomon-islands-sign-us-coast-guard-patrol-deal?utm_source=rss_feed",
+      "published_date": "2026-07-21T20:28:27+00:00",
+      "summary": "The Solomon Islands, a key ally of China in the South Pacific, is set to sign a groundbreaking deal with the US Coast Guard that will enable American patrols in its waters, marking a significant shift in regional security dynamics and highlighting the increasing competition between the US and China in the area. This development not only reinforces US influence in the Pacific but also signals a potential reevaluation of alliances by nations traditionally aligned with Beijing.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "As US-Chinese AI model gap narrows, what next for Washington?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3361393/us-chinese-ai-model-gap-narrows-what-next-washington?utm_source=rss_feed",
+      "published_date": "2026-07-21T18:38:24+00:00",
+      "summary": "The narrowing gap between US and Chinese AI models signals a pivotal shift in global technological dominance, compelling Washington to reassess its strategies in a rapidly evolving landscape where the balance of power in artificial intelligence could redefine international relations and economic competitiveness.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
     },
     {
       "title": "Introducing the ChatGPT for small business program",
@@ -42,11 +66,27 @@
       "category": "AI"
     },
     {
+      "title": "Another ‘DeepSeek moment’? What China’s Kimi K3 means for the global AI industry",
+      "link": "https://www.scmp.com/tech/big-tech/article/3361387/another-deepseek-moment-what-chinas-kimi-k3-means-global-ai-industry?utm_source=rss_feed",
+      "published_date": "2026-07-21T14:24:30+00:00",
+      "summary": "The launch of Moonshot AI's Kimi K3 signals a potential turning point in the global AI landscape, as it challenges the notion that China's access to advanced chips limits its ability to compete with U.S. AI models, a shift that could have profound economic implications worth trillions of dollars. This development reignites the debate on whether architectural innovations from Chinese developers could redefine the competitive dynamics in the AI industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "China’s Kimi K3 fuels fears safety curbs are holding back US AI",
       "link": "https://www.scmp.com/tech/tech-trends/article/3361358/chinas-kimi-k3-fuels-fears-safety-curbs-are-holding-back-us-ai?utm_source=rss_feed",
       "published_date": "2026-07-21T14:00:14+00:00",
       "summary": "China's Moonshot AI has unveiled the Kimi K3, a groundbreaking 2.8 trillion-parameter model that matches the cybersecurity capabilities of top US systems like OpenAI's GPT-5.6 Sol, raising alarms in Washington over the potential competitive disadvantage posed by stringent safety regulations on American AI firms. This development not only underscores the rapid advancements in AI technology but also highlights the urgent need for a reevaluation of regulatory frameworks to maintain global leadership in the sector.",
       "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese AI agent Qiushi Engine outperforms Anthropic’s Claude Code in autonomous research",
+      "link": "https://www.scmp.com/news/china/science/article/3361370/chinese-ai-agent-outperforms-anthropics-claude-code-autonomous-research?utm_source=rss_feed",
+      "published_date": "2026-07-21T12:17:32+00:00",
+      "summary": "The Qiushi Engine, developed by Zhejiang University, has achieved a groundbreaking milestone by outperforming Anthropic's Claude Code in autonomous scientific research, marking a significant advancement in AI's capability to conduct independent research and potentially transforming the landscape of scientific discovery. This achievement not only elevates China's position in the global AI arena but also raises the stakes for future innovations in autonomous research methodologies.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
