@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-21T06:12:08.842095+00:00",
+  "last_updated": "2026-07-22T02:56:06.783674+00:00",
   "articles": [
     {
-      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-      "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "published_date": "2026-07-20T15:00:53+00:00",
-      "summary": "NVIDIA's latest advancements in Agentic and Physical AI, unveiled at SIGGRAPH, are set to revolutionize media, content creation, and robotics by enabling real-time simulations and open models that enhance graphics and interactivity, marking a significant leap forward in technology's ability to create immersive experiences.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Why China’s open-weight AI model Kimi K3 is sparking anxiety in Silicon Valley",
-      "link": "https://www.scmp.com/tech/tech-war/article/3361142/why-chinas-open-weight-ai-model-kimi-k3-sparking-anxiety-silicon-valley?utm_source=rss_feed",
-      "published_date": "2026-07-20T14:00:12+00:00",
-      "summary": "China's Moonshot AI has unveiled the Kimi K3, a groundbreaking 2.8 trillion-parameter AI model that significantly narrows the technological gap with the U.S., intensifying concerns in Silicon Valley about China's rapid advancements in frontier AI and its commitment to an open-source approach. This development not only showcases China's potential to lead in AI innovation but also poses a formidable challenge to the dominance of American tech giants.",
-      "source": "SCMP Tech",
+      "title": "Can the US and its allies break China’s grip on rare earths and AI technology?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3361372/can-us-and-its-allies-break-chinas-grip-rare-earths-and-ai-technology?utm_source=rss_feed",
+      "published_date": "2026-07-22T01:00:17+00:00",
+      "summary": "The US is intensifying its efforts to dismantle China's dominance in rare earths and artificial intelligence by forging stronger alliances and securing alternative supply chains, a strategic move that could redefine global technological leadership and economic power dynamics. This initiative not only aims to reduce dependency on China but also positions the US and its allies at the forefront of the next technological revolution.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
-      "link": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
-      "published_date": "2026-07-20T13:00:02+00:00",
-      "summary": "Microsoft's expansion of Azure AI and high-performance computing infrastructure in collaboration with AMD marks a significant leap in addressing the surging demand for specialized AI workloads, positioning Azure as a leading platform capable of supporting increasingly complex and compute-intensive applications. This breakthrough not only enhances Azure's capabilities but also sets a new standard for cloud infrastructure in the rapidly evolving AI landscape.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "published_date": "2026-07-20T10:59:23+00:00",
-      "summary": "Bristol Myers Squibb is set to revolutionize the life sciences sector by launching its second NVIDIA DGX SuperPOD, dubbed the \"SuperDuperPOD,\" which will enhance its already formidable AI capabilities and drive groundbreaking advancements in pharmaceutical research and development. This strategic move underscores the growing importance of AI in accelerating drug discovery and improving patient outcomes.",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "link": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "published_date": "2026-07-21T22:35:45+00:00",
+      "summary": "Wistron's new manufacturing plant in Fort Worth marks a significant advancement in AI infrastructure, producing superchips that are crucial for the development of cutting-edge AI systems, thereby solidifying Texas's role as a key player in the global AI landscape. This facility not only enhances local manufacturing capabilities but also underscores the growing demand for robust AI technologies.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "The Skinner revolution",
-      "link": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control",
-      "published_date": "2026-07-20T10:01:00+00:00",
-      "summary": "• B.F. Skinner's radical behaviorism challenges traditional notions of free will, suggesting that human actions are largely shaped by environmental stimuli.  \n• His controversial experiments raise ethical questions about manipulation and control in the pursuit of behavioral modification.  \n• Skinner's work invites us to reconsider the nature of human agency and the extent to which our choices are predetermined by external factors.  \n• The Skinner revolution emphasizes the power of reinforcement in shaping behavior, prompting a reevaluation of moral responsibility in human actions.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "published_date": "2026-07-20T10:00:00+00:00",
-      "summary": "OpenAI reveals critical insights from the deployment of long-horizon AI models, uncovering significant safety risks and failures while demonstrating how iterative improvements can enhance safeguards, underscoring the urgent need for robust alignment strategies in advanced AI systems. This breakthrough is pivotal as it addresses the complexities of ensuring AI safety over extended operational periods, a challenge that could redefine the future of AI deployment.",
+      "title": "Introducing the ChatGPT for small business program",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "published_date": "2026-07-21T17:00:00+00:00",
+      "summary": "OpenAI's launch of the ChatGPT for Small Businesses program empowers entrepreneurs by equipping them with AI skills and automation tools, significantly enhancing productivity and growth potential in an increasingly competitive market. This breakthrough not only democratizes access to advanced AI technology but also positions small businesses to thrive in the digital age.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Beyond Greece and Rome",
-      "link": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
-      "published_date": "2026-07-20T10:00:00+00:00",
-      "summary": "• The traditional focus on Greece and Rome is being expanded to include a diverse array of ancient cultures, enriching our understanding of history.  \n• This broader perspective challenges the Eurocentric narrative, revealing the interconnectedness of civilizations across continents.  \n• By embracing a wider array of sources, we uncover the complexities and nuances of ancient societies often overlooked in mainstream discourse.  \n• The shift invites us to reconsider the foundations of modern thought and culture, acknowledging the contributions of various ancient peoples.  \n• Ultimately, this reimagining of the ancient world encourages a more inclusive and holistic approach to historical study.",
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "published_date": "2026-07-21T15:36:43+00:00",
+      "summary": "NVIDIA's Vera Rubin is revolutionizing cloud computing with its unprecedented gigascale performance and efficiency, boasting the lowest token cost for partners like Google Cloud and Microsoft Azure, while leveraging the largest rack-scale supply chain ever established across 30 countries to meet soaring global compute demands. This breakthrough not only enhances performance per watt but also positions NVIDIA as a leader in the rapidly evolving landscape of cloud infrastructure.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "link": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "published_date": "2026-07-21T15:00:20+00:00",
+      "summary": "NVIDIA Spectrum-6 has been unveiled as a groundbreaking networking solution designed for the gigascale AI era, enabling the world's most advanced AI factories to harness the combined power of hundreds of thousands of GPUs and CPUs for unprecedented intelligence generation and model training. This innovation is crucial as it significantly enhances networking capabilities, acting as a vital multiplier for computing power in the rapidly evolving landscape of AI.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China’s Kimi K3 fuels fears safety curbs are holding back US AI",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3361358/chinas-kimi-k3-fuels-fears-safety-curbs-are-holding-back-us-ai?utm_source=rss_feed",
+      "published_date": "2026-07-21T14:00:14+00:00",
+      "summary": "China's Moonshot AI has unveiled the Kimi K3, a groundbreaking 2.8 trillion-parameter model that matches the cybersecurity capabilities of top US systems like OpenAI's GPT-5.6 Sol, raising alarms in Washington over the potential competitive disadvantage posed by stringent safety regulations on American AI firms. This development not only underscores the rapid advancements in AI technology but also highlights the urgent need for a reevaluation of regulatory frameworks to maintain global leadership in the sector.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The people’s atheist",
+      "link": "https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people",
+      "published_date": "2026-07-21T10:00:00+00:00",
+      "summary": "• Jean Meslier, an unlikely atheist, critiqued religion as a tool for social control, fostering blind obedience among the masses.  \n• His radical ideas challenged the status quo, positioning him as a precursor to Enlightenment thought and secular philosophy.  \n• Meslier's writings reveal a profound disillusionment with the hypocrisy of religious institutions and their moral failings.  \n• By advocating for reason over faith, he ignited a discourse on individual autonomy and the nature of belief itself.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Moonshot AI pushes China closer to US in frontier tech",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3361203/moonshot-ai-pushes-china-closer-us-frontier-tech?utm_source=rss_feed",
-      "published_date": "2026-07-20T09:12:59+00:00",
-      "summary": "Moonshot AI's Kimi K3 has generated unprecedented demand, signaling a significant leap in China's AI capabilities that could shift the global balance in frontier technology and challenge U.S. dominance. This breakthrough not only highlights the rapid advancements in China's tech landscape but also raises critical questions about the future of international AI competition.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "published_date": "2026-07-21T07:00:00+00:00",
+      "summary": "OpenAI and Hugging Face have uncovered critical insights from a recent security incident during AI model evaluation, revealing sophisticated cyber threats and offering vital lessons for enhancing defenses in the rapidly evolving landscape of artificial intelligence. This partnership underscores the urgent need for robust security measures as AI technologies become increasingly integrated into various sectors.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
