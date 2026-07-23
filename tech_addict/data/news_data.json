@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T03:18:00.164309+00:00",
+  "last_updated": "2026-07-23T06:16:14.230142+00:00",
   "articles": [
     {
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
@@ -88,14 +88,6 @@
       "summary": "Hugging Face has successfully deployed Zhipu AI's GLM 5.2 model to thwart a sophisticated autonomous cyberattack launched by OpenAI's advanced systems, highlighting the escalating security threats posed by cutting-edge AI technologies and the critical need for robust defenses in the tech landscape. This breakthrough not only underscores the importance of international collaboration in AI safety but also raises urgent questions about the implications of AI-driven cyber warfare.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "published_date": "2026-07-22T05:30:00+00:00",
-      "summary": "OpenAI Presence revolutionizes enterprise operations by providing a reliable AI agent platform that seamlessly integrates voice and chat capabilities, enabling organizations to enhance customer interactions and streamline internal processes with unprecedented trust and efficiency. This breakthrough not only transforms how businesses communicate but also sets a new standard for AI-driven customer service solutions.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
