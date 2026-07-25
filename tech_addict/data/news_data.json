@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-07-24T06:09:59.656623+00:00",
+  "last_updated": "2026-07-25T02:56:21.943244+00:00",
   "articles": [
+    {
+      "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
+      "link": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
+      "published_date": "2026-07-25T02:00:15+00:00",
+      "summary": "China's tech sector is undergoing a transformative shift as state-backed investments increasingly dominate, reshaping the landscape of innovation and funding in a manner that diverges sharply from the traditional Silicon Valley model. This strategic financial backing not only amplifies China's technological advancements but also signals a new era of state influence in global tech ventures.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s AI vision gives the Global South a seat at the table",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3361318/chinas-ai-vision-gives-global-south-seat-table?utm_source=rss_feed",
+      "published_date": "2026-07-24T21:30:08+00:00",
+      "summary": "China's AI vision, showcased at the ninth World Artificial Intelligence Conference, signifies a pivotal shift towards inclusive global governance in artificial intelligence, positioning the Global South as key stakeholders in shaping technology for social good amid competing Western narratives focused on security and profit. This breakthrough not only enhances China's influence in the AI landscape but also redefines the collaborative potential of emerging economies in addressing global challenges.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Huawei’s Ren Zhengfei backs Tau Scaling Law to beat US sanctions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3361772/huaweis-ren-zhengfei-backs-tau-scaling-law-beat-us-sanctions?utm_source=rss_feed",
+      "published_date": "2026-07-24T13:00:09+00:00",
+      "summary": "Huawei's founder, Ren Zhengfei, champions the Tau Scaling Law as a critical innovation in chip design that could enable the company to navigate and thrive amidst escalating US sanctions, positioning it as a potential game-changer in the global tech landscape. This breakthrough not only underscores Huawei's resilience but also highlights a strategic pivot that could redefine its competitive edge in the semiconductor industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese GPU maker confidentially files for Hong Kong IPO amid fundraising wave: sources",
+      "link": "https://www.scmp.com/business/banking-finance/article/3361754/chinese-gpu-maker-confidentially-files-hong-kong-ipo-amid-fundraising-wave-sources?utm_source=rss_feed",
+      "published_date": "2026-07-24T10:34:48+00:00",
+      "summary": "Chinese GPU maker MetaX has confidentially filed for an IPO in Hong Kong, aiming to capitalize on a burgeoning fundraising wave, which could significantly enhance its position in the competitive semiconductor market and attract global investment amid rising demand for advanced graphics technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Signal then storm",
+      "link": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain",
+      "published_date": "2026-07-24T10:00:00+00:00",
+      "summary": "• Allan Basbaum's five-decade quest reveals the intricate dance between pain perception and the nervous system's architecture.  \n• The exploration of pain not only uncovers biological mechanisms but also challenges our understanding of suffering and its significance.  \n• Basbaum's research highlights the potential for innovative therapies that could redefine our approach to pain management.  \n• The journey through the nervous system serves as a metaphor for the broader human experience of confronting and understanding pain.  \n• Ultimately, the quest to decode pain invites us to reflect on the nature of existence and the resilience of the human spirit.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
       "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
@@ -8,78 +48,6 @@
       "summary": "South Korea is strategically collaborating with NVIDIA and industry leaders at the AI Summit to define its AI future, marking a significant step in the nation's technological advancement and positioning it as a global player in artificial intelligence innovation. This partnership underscores the importance of international cooperation in driving AI development and economic growth.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "Chinese robot co-workers on the rise. Say hello to AI cobots",
-      "link": "https://www.scmp.com/plus/tech/tech-trends/article/3361664/chinese-robot-co-workers-rise-say-hello-ai-cobots?utm_source=rss_feed",
-      "published_date": "2026-07-24T02:35:52+00:00",
-      "summary": "China's rise in collaborative robots, or cobots, marks a significant breakthrough in automation, as these AI-driven machines can now seamlessly interact with human workers using natural language and intuitive controls, revolutionizing workplace efficiency and productivity. This advancement not only enhances operational capabilities but also democratizes technology access, allowing employees without coding skills to leverage sophisticated automation tools.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
-      "published_date": "2026-07-23T13:00:16+00:00",
-      "summary": "NVIDIA's GeForce NOW is revolutionizing cloud gaming by enabling instant access to new titles like 'Path of Exile: Curse of the Allflame' and major updates for Battlefield 6, eliminating download times and enhancing the gaming experience for users. This breakthrough not only expands the library of accessible games but also underscores the growing significance of cloud technology in delivering seamless entertainment.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "link": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "published_date": "2026-07-23T13:00:06+00:00",
-      "summary": "Apple's integration of Apple Maps into Ford's UEV Platform marks a significant leap in automotive navigation, enhancing user experience with seamless, real-time mapping capabilities that could redefine how drivers interact with their vehicles. This collaboration not only elevates Ford's electric vehicle offerings but also positions Apple as a key player in the automotive tech landscape.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Global AI experts push back on US ‘distillation’ claims against Moonshot’s Kimi K3 model",
-      "link": "https://www.scmp.com/tech/tech-war/article/3361625/global-ai-experts-push-back-us-distillation-claims-against-moonshots-kimi-k3-model?utm_source=rss_feed",
-      "published_date": "2026-07-23T12:30:11+00:00",
-      "summary": "Global AI experts are challenging the Trump administration's allegations that Moonshot AI's Kimi K3 model improperly distilled US models, asserting that such practices do not equate to intellectual property theft and highlighting the political motivations behind the accusations. This pushback underscores the ongoing debate over AI ownership and the implications for innovation in the tech industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies",
-      "link": "https://www.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies?utm_source=rss_feed",
-      "published_date": "2026-07-23T11:30:07+00:00",
-      "summary": "The US is taking a significant step in its tech rivalry with China by advancing legislation that bans the military from using Chinese-made humanoid robots, highlighting escalating concerns over national security and data privacy in the realm of autonomous systems. This move underscores the growing urgency for the US to safeguard its technological landscape amidst increasing competition with China.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "All the Queens houses",
-      "link": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough",
-      "published_date": "2026-07-23T10:01:00+00:00",
-      "summary": "• The diverse architectural styles of Queens' homes reflect a rich tapestry of cultural influences, showcasing the neighborhood's global identity.  \n• Each residence serves as a canvas, revealing the personal narratives and dreams of its inhabitants through unique design choices.  \n• The juxtaposition of various cultural motifs invites reflection on the interconnectedness of communities in a modern urban landscape.  \n• These homes stand as testaments to the idea that identity is not static but rather a fluid interplay of heritage and personal expression.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China’s tech firms turn the global AI boom into opportunity amid fierce rivalry at home",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3361596/chinas-tech-firms-turn-global-ai-boom-opportunity-amid-fierce-rivalry-home?utm_source=rss_feed",
-      "published_date": "2026-07-23T10:00:17+00:00",
-      "summary": "Chinese tech firms are seizing the global AI boom by expanding their international presence through advanced cloud-based software and foundation models, capitalizing on a dramatic increase in tech exports that reflects their competitive edge in a rapidly evolving market. This strategic shift not only enhances their global influence but also positions them as key players in the future of AI technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The savage bites back",
-      "link": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism",
-      "published_date": "2026-07-23T10:00:00+00:00",
-      "summary": "• Anthropophagy, as a cultural practice, reclaims and reinterprets colonial narratives through the act of consumption and transformation.  \n• This Brazilian modernist movement challenges the dichotomy of civilization versus savagery, revealing the complexities of identity and power.  \n• By embracing cannibalism metaphorically, societies can digest and repurpose foreign influences, fostering a unique cultural synthesis.  \n• The act of 'biting back' symbolizes resistance against colonial oppression, turning historical trauma into a source of strength and creativity.  \n• Ultimately, anthropophagy invites a deeper reflection on how cultures evolve through the interplay of dominance and adaptation.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China’s new chip stores data with a single electron, breaking AI memory bottleneck",
-      "link": "https://www.scmp.com/news/china/science/article/3361580/chinas-new-chip-stores-data-single-electron-breaking-ai-memory-bottleneck?utm_source=rss_feed",
-      "published_date": "2026-07-23T09:00:12+00:00",
-      "summary": "A groundbreaking development from Fudan University has achieved a monumental leap in data storage technology by enabling chips to store information using just a single electron, potentially revolutionizing AI memory systems and overcoming the longstanding limitations of traditional DRAM, which requires around 200,000 electrons per bit. This breakthrough not only enhances efficiency but also paves the way for more powerful and compact computing solutions in the future.",
-      "source": "China News",
-      "category": "SCMP"
     }
   ]
 }
