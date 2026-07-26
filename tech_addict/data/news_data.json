@@ -1,45 +1,21 @@
 {
-  "last_updated": "2026-07-25T06:02:01.682277+00:00",
+  "last_updated": "2026-07-26T03:22:49.416317+00:00",
   "articles": [
     {
-      "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
-      "link": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
-      "published_date": "2026-07-25T02:00:15+00:00",
-      "summary": "China's tech sector is undergoing a transformative shift as state-backed investments increasingly dominate, reshaping the landscape of innovation and funding in a manner that diverges sharply from the traditional Silicon Valley model. This strategic financial backing not only amplifies China's technological advancements but also signals a new era of state influence in global tech ventures.",
-      "source": "SCMP Tech",
+      "title": "How Chinese scientists created an alloy that can survive 2,400 degrees Celsius",
+      "link": "https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed",
+      "published_date": "2026-07-26T03:19:53+00:00",
+      "summary": "Chinese scientists have achieved a groundbreaking advancement by developing an alloy that can withstand temperatures of up to 2,400 degrees Celsius, utilizing tantalum to maintain its strength under extreme conditions, a breakthrough that could revolutionize materials used in aerospace, hypersonic vehicles, and nuclear reactors. This innovation challenges existing limits of metal durability, potentially transforming industries reliant on high-performance materials.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
-      "title": "China’s AI vision gives the Global South a seat at the table",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3361318/chinas-ai-vision-gives-global-south-seat-table?utm_source=rss_feed",
-      "published_date": "2026-07-24T21:30:08+00:00",
-      "summary": "China's AI vision, showcased at the ninth World Artificial Intelligence Conference, signifies a pivotal shift towards inclusive global governance in artificial intelligence, positioning the Global South as key stakeholders in shaping technology for social good amid competing Western narratives focused on security and profit. This breakthrough not only enhances China's influence in the AI landscape but also redefines the collaborative potential of emerging economies in addressing global challenges.",
+      "title": "What is a supernode, and why does it matter for the China-US tech rivalry?",
+      "link": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
+      "published_date": "2026-07-25T13:00:08+00:00",
+      "summary": "The emergence of \"supernodes,\" which integrate hundreds or thousands of chips to function as a single supercomputer, marks a pivotal advancement in AI technology, underscoring the intensifying China-US tech rivalry as both nations race to dominate the next generation of artificial intelligence infrastructure. This breakthrough not only enhances computational power but also signifies a strategic shift in how countries approach AI development and deployment.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Huawei’s Ren Zhengfei backs Tau Scaling Law to beat US sanctions",
-      "link": "https://www.scmp.com/tech/big-tech/article/3361772/huaweis-ren-zhengfei-backs-tau-scaling-law-beat-us-sanctions?utm_source=rss_feed",
-      "published_date": "2026-07-24T13:00:09+00:00",
-      "summary": "Huawei's founder, Ren Zhengfei, champions the Tau Scaling Law as a critical innovation in chip design that could enable the company to navigate and thrive amidst escalating US sanctions, positioning it as a potential game-changer in the global tech landscape. This breakthrough not only underscores Huawei's resilience but also highlights a strategic pivot that could redefine its competitive edge in the semiconductor industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese GPU maker confidentially files for Hong Kong IPO amid fundraising wave: sources",
-      "link": "https://www.scmp.com/business/banking-finance/article/3361754/chinese-gpu-maker-confidentially-files-hong-kong-ipo-amid-fundraising-wave-sources?utm_source=rss_feed",
-      "published_date": "2026-07-24T10:34:48+00:00",
-      "summary": "Chinese GPU maker MetaX has confidentially filed for an IPO in Hong Kong, aiming to capitalize on a burgeoning fundraising wave, which could significantly enhance its position in the competitive semiconductor market and attract global investment amid rising demand for advanced graphics technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Signal then storm",
-      "link": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain",
-      "published_date": "2026-07-24T10:00:00+00:00",
-      "summary": "• Allan Basbaum's five-decade quest reveals the intricate dance between pain perception and the nervous system's architecture.  \n• The exploration of pain not only uncovers biological mechanisms but also challenges our understanding of suffering and its significance.  \n• Basbaum's research highlights the potential for innovative therapies that could redefine our approach to pain management.  \n• The journey through the nervous system serves as a metaphor for the broader human experience of confronting and understanding pain.  \n• Ultimately, the quest to decode pain invites us to reflect on the nature of existence and the resilience of the human spirit.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
