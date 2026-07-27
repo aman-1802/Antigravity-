@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-07-27T03:32:37.957189+00:00",
+  "last_updated": "2026-07-27T06:49:28.327120+00:00",
   "articles": [
-    {
-      "title": "CXMT shares rise 472% as DRAM maker becomes largest China-listed firm by total market cap",
-      "link": "https://www.scmp.com/tech/big-tech/article/3361926/chinas-cxmt-shares-rise-472-star-market-debut-valuing-dram-maker-us489-billion?utm_source=rss_feed",
-      "published_date": "2026-07-27T01:46:37+00:00",
-      "summary": "ChangXin Memory Technologies (CXMT) has made a historic debut on the Shanghai market, skyrocketing 472% to achieve a staggering market capitalization of 3.31 trillion yuan, positioning it as the largest publicly listed firm in China and underscoring the nation's growing dominance in the semiconductor industry. This breakthrough not only highlights the rapid advancement of China's tech sector but also signals a significant shift in the global memory chip market landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
     {
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
       "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
@@ -16,6 +8,14 @@
       "summary": "NVIDIA's integration of the Vera CPU with advanced electronic design automation tools from Cadence and Synopsys promises to revolutionize the pace of next-generation CPU and GPU development, addressing the escalating complexity of modern chip design and significantly enhancing performance in AI systems. This breakthrough not only accelerates engineering workflows but also positions NVIDIA at the forefront of the semiconductor industry’s evolution.",
       "source": "NVIDIA",
       "category": "AI"
+    },
+    {
+      "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng?utm_source=rss_feed",
+      "published_date": "2026-07-26T12:00:08+00:00",
+      "summary": "Liang Wenfeng, the elusive founder of DeepSeek, has revealed ambitious plans for his AI start-up, signaling a potential shift in the tech landscape as he prioritizes innovation over publicity in a market saturated with attention-seeking entrepreneurs. This approach could redefine success in the industry, emphasizing the importance of substance and strategic vision in the pursuit of technological advancement.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     }
   ]
 }
