@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-07-26T06:21:02.257967+00:00",
+  "last_updated": "2026-07-27T03:32:37.957189+00:00",
   "articles": [
     {
-      "title": "What is a supernode, and why does it matter for the China-US tech rivalry?",
-      "link": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
-      "published_date": "2026-07-25T13:00:08+00:00",
-      "summary": "The emergence of \"supernodes,\" which integrate hundreds or thousands of chips to function as a single supercomputer, marks a pivotal advancement in AI technology, underscoring the intensifying China-US tech rivalry as both nations race to dominate the next generation of artificial intelligence infrastructure. This breakthrough not only enhances computational power but also signifies a strategic shift in how countries approach AI development and deployment.",
+      "title": "CXMT shares rise 472% as DRAM maker becomes largest China-listed firm by total market cap",
+      "link": "https://www.scmp.com/tech/big-tech/article/3361926/chinas-cxmt-shares-rise-472-star-market-debut-valuing-dram-maker-us489-billion?utm_source=rss_feed",
+      "published_date": "2026-07-27T01:46:37+00:00",
+      "summary": "ChangXin Memory Technologies (CXMT) has made a historic debut on the Shanghai market, skyrocketing 472% to achieve a staggering market capitalization of 3.31 trillion yuan, positioning it as the largest publicly listed firm in China and underscoring the nation's growing dominance in the semiconductor industry. This breakthrough not only highlights the rapid advancement of China's tech sector but also signals a significant shift in the global memory chip market landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "published_date": "2026-07-27T00:45:42+00:00",
+      "summary": "NVIDIA's integration of the Vera CPU with advanced electronic design automation tools from Cadence and Synopsys promises to revolutionize the pace of next-generation CPU and GPU development, addressing the escalating complexity of modern chip design and significantly enhancing performance in AI systems. This breakthrough not only accelerates engineering workflows but also positions NVIDIA at the forefront of the semiconductor industry’s evolution.",
+      "source": "NVIDIA",
+      "category": "AI"
     }
   ]
 }
