@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-28T02:48:44.603267+00:00",
+  "last_updated": "2026-07-28T06:09:16.852134+00:00",
   "articles": [
+    {
+      "title": "Chinese AI developers may shift to ‘paid weights’ commercial licensing: Goldman Sachs",
+      "link": "https://www.scmp.com/tech/big-tech/article/3362032/chinese-ai-developers-may-shift-paid-weights-commercial-licensing-goldman-sachs?utm_source=rss_feed",
+      "published_date": "2026-07-28T02:00:09+00:00",
+      "summary": "Chinese AI developers are poised to revolutionize their business models by potentially implementing commercial licensing fees for their open-weight models, a shift that could significantly increase revenue as their technologies rapidly approach the performance levels of leading US counterparts. This move not only underscores the growing competitiveness of China's AI sector but also highlights a pivotal moment in the global AI landscape, where monetization strategies are evolving to meet soaring demand.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Rethinking security for the age of AI",
       "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
@@ -55,14 +63,6 @@
       "published_date": "2026-07-27T09:00:07+00:00",
       "summary": "The formation of the Open Secure AI Alliance by industry leaders marks a pivotal advancement in AI safety and security, leveraging open source software to enhance transparency and collaboration across critical sectors, ultimately fortifying cybersecurity in an increasingly digital economy. This initiative not only strengthens the foundational infrastructure of technology but also promotes a collective approach to safeguarding AI innovations against emerging threats.",
       "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "How AI is expanding what people do at work",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "published_date": "2026-07-27T03:30:00+00:00",
-      "summary": "OpenAI's latest research reveals that AI, particularly through tools like ChatGPT, is revolutionizing the workplace by enabling employees to tackle a broader range of tasks and redefining traditional job roles, ultimately enhancing productivity and innovation. This breakthrough underscores the transformative potential of AI in shaping the future of work.",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
