@@ -1,69 +1,133 @@
 {
-  "last_updated": "2026-07-28T06:09:16.852134+00:00",
+  "last_updated": "2026-07-29T02:55:23.209221+00:00",
   "articles": [
     {
-      "title": "Chinese AI developers may shift to ‘paid weights’ commercial licensing: Goldman Sachs",
-      "link": "https://www.scmp.com/tech/big-tech/article/3362032/chinese-ai-developers-may-shift-paid-weights-commercial-licensing-goldman-sachs?utm_source=rss_feed",
-      "published_date": "2026-07-28T02:00:09+00:00",
-      "summary": "Chinese AI developers are poised to revolutionize their business models by potentially implementing commercial licensing fees for their open-weight models, a shift that could significantly increase revenue as their technologies rapidly approach the performance levels of leading US counterparts. This move not only underscores the growing competitiveness of China's AI sector but also highlights a pivotal moment in the global AI landscape, where monetization strategies are evolving to meet soaring demand.",
-      "source": "SCMP Tech",
+      "title": "Should China aim for the lead in making AI rules for the world?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362160/should-china-aim-lead-making-ai-rules-world?utm_source=rss_feed",
+      "published_date": "2026-07-29T01:00:13+00:00",
+      "summary": "China's Moonshot AI has unveiled its Kimi K3 model, which rivals leading US AI technologies in power and affordability, prompting calls for Beijing to establish global AI regulations amid a growing policy divide in the United States. This breakthrough not only positions China as a potential leader in AI governance but also highlights the urgent need for international standards in an increasingly competitive technological landscape.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Rethinking security for the age of AI",
-      "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
-      "published_date": "2026-07-27T16:30:09+00:00",
-      "summary": "Microsoft's Project Perception introduces a revolutionary Cyber Stack designed to address the evolving landscape of cybersecurity, where autonomous systems are increasingly capable of reasoning and adapting, making traditional security measures inadequate against rapidly advancing threats. This breakthrough is crucial as it aims to counteract the decreasing cost of cyber offenses and the escalating complexity of securing digital environments.",
+      "title": "US bans new Chinese robots, power inverters in latest tech crackdown",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362185/us-bans-new-chinese-robots-power-inverters-latest-tech-crackdown?utm_source=rss_feed",
+      "published_date": "2026-07-28T22:11:16+00:00",
+      "summary": "The Trump administration's recent ban on new Chinese robots and power inverters marks a significant escalation in tech-related national security measures, aiming to safeguard U.S. supply chains from potential vulnerabilities posed by foreign-made advanced technologies. This move not only underscores the growing geopolitical tensions but also highlights the critical importance of securing emerging technologies in an increasingly competitive global landscape.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang meets US officials as scrutiny grows over China chip access",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362184/nvidia-ceo-jensen-huang-meets-us-officials-scrutiny-grows-over-china-chip-access?utm_source=rss_feed",
+      "published_date": "2026-07-28T21:21:58+00:00",
+      "summary": "Nvidia CEO Jensen Huang's meetings with US officials highlight growing concerns over the use of American chip technology in advancing China's AI capabilities, underscoring the critical intersection of national security and technological innovation in the global landscape. This development could reshape the future of international tech relations and regulatory frameworks.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published_date": "2026-07-28T17:00:00+00:00",
+      "summary": "A groundbreaking report reveals that scientists are leveraging AI coding agents to revolutionize scientific computing, significantly speeding up software development and unlocking new discoveries in genomics and other fields, marking a pivotal shift in research methodologies. This advancement not only enhances efficiency but also opens new frontiers in scientific exploration and innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation",
+      "link": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+      "published_date": "2026-07-28T16:00:10+00:00",
+      "summary": "Microsoft's FY26 marked a pivotal shift as businesses transitioned from merely experimenting with AI to leveraging it for tangible outcomes, fostering innovation and growth while giving rise to Frontier Firms that prioritize human ambition and integrate AI at their core. This transformation underscores the critical role of AI in driving strategic advancements across industries, setting a new standard for competitive excellence.",
       "source": "Microsoft",
       "category": "AI"
     },
     {
-      "title": "From Moonshot to Enflame: how Tencent is betting big on China’s AI champions",
-      "link": "https://www.scmp.com/tech/big-tech/article/3362013/moonshot-enflame-how-tencent-betting-big-chinas-ai-champions?utm_source=rss_feed",
-      "published_date": "2026-07-27T14:30:06+00:00",
-      "summary": "Tencent is shifting its investment strategy from traditional internet assets to focus heavily on China's leading artificial intelligence companies, exemplified by its recent $3 billion backing of Kuaishou’s AI video unit, Kling AI. This pivot underscores the tech giant's commitment to harnessing AI's transformative potential, positioning itself at the forefront of a rapidly evolving technological landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "published_date": "2026-07-28T16:00:00+00:00",
+      "summary": "Google AI's Gemini 3.6 introduces Managed Agents with advanced features like Flash, hooks, and triggers, revolutionizing the way developers can create responsive and dynamic applications by enabling seamless integration and automation. This breakthrough not only enhances user experience but also significantly accelerates the development process, positioning Google at the forefront of AI-driven innovation.",
+      "source": "Google AI",
+      "category": "AI"
     },
     {
-      "title": "What CXMT must do to grow global memory market share and build on its surge: analysts",
-      "link": "https://www.scmp.com/tech/big-tech/article/3362012/what-cxmt-must-do-grow-global-memory-market-share-and-build-its-surge-analysts?utm_source=rss_feed",
-      "published_date": "2026-07-27T13:00:07+00:00",
-      "summary": "ChangXin Memory Technologies (CXMT) is poised for explosive growth, with analysts predicting its global DRAM market share could reach 18% by 2028, potentially doubling its stock price as it solidifies its position as the leading Chinese chipmaker and the most valuable company on the mainland market. This breakthrough not only highlights CXMT's rapid ascent but also underscores the shifting dynamics in the global semiconductor industry, where Chinese firms are gaining significant traction.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "In search of the northern cassowary",
-      "link": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
-      "published_date": "2026-07-27T10:01:00+00:00",
-      "summary": "• The northern cassowary, a magnificent yet elusive bird, embodies the intricate balance of its rainforest ecosystem.  \n• As a keystone species, the cassowary's survival is crucial for the regeneration of various plant species, highlighting the interconnectedness of life.  \n• The quest to find this bird reflects humanity's deeper longing to connect with nature and understand our role within it.  \n• The cassowary's plight serves as a poignant reminder of the fragility of biodiversity and the urgent need for conservation efforts.  \n• In seeking the northern cassowary, we confront our own existential questions about preservation, loss, and the legacy we leave behind.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Profits in China’s chipmaking sector soar 2,500% in first half amid AI boom",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362002/profits-chinas-chipmaking-sector-soar-2500-first-half-amid-ai-boom?utm_source=rss_feed",
-      "published_date": "2026-07-27T10:00:31+00:00",
-      "summary": "China's chipmaking sector has experienced an astonishing 2,579.5% profit increase in the first half of 2026, driven by an explosive demand for artificial intelligence and computing power, highlighting the critical role of semiconductor production in the AI revolution. This surge underscores the transformative impact of AI technologies on global supply chains and economic landscapes.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The taming of Black thought",
-      "link": "https://aeon.co/essays/epistemic-convergence-in-the-study-of-world-philosophies",
-      "published_date": "2026-07-27T10:00:00+00:00",
-      "summary": "• The integration of Black philosophers into Western curricula often strips their ideas of their original radical context.  \n• This dilution transforms potent critiques of systemic oppression into palatable narratives that reinforce the status quo.  \n• The academic canon's embrace of Black thought risks commodifying it, reducing its transformative potential.  \n• True engagement with Black philosophy requires confronting uncomfortable truths rather than seeking comfort in familiar interpretations.  \n• The challenge lies in recognizing and amplifying the revolutionary essence of Black thought within predominantly Eurocentric frameworks.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "published_date": "2026-07-27T09:00:07+00:00",
-      "summary": "The formation of the Open Secure AI Alliance by industry leaders marks a pivotal advancement in AI safety and security, leveraging open source software to enhance transparency and collaboration across critical sectors, ultimately fortifying cybersecurity in an increasingly digital economy. This initiative not only strengthens the foundational infrastructure of technology but also promotes a collective approach to safeguarding AI innovations against emerging threats.",
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "published_date": "2026-07-28T15:00:19+00:00",
+      "summary": "NVIDIA's Jetson platform revolutionizes AI deployment by delivering powerful computing capabilities in an ultra-compact form, enabling seamless integration of advanced AI solutions in diverse environments. This breakthrough not only enhances accessibility for developers but also accelerates innovation across industries, making AI more ubiquitous than ever.",
       "source": "NVIDIA",
       "category": "AI"
+    },
+    {
+      "title": "From CXMT to Zhipu: How Alibaba’s investment pays off with a growing AI and chip portfolio",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362156/cxmt-zhipu-how-alibabas-investment-pays-growing-ai-and-chip-portfolio?utm_source=rss_feed",
+      "published_date": "2026-07-28T13:30:06+00:00",
+      "summary": "Alibaba's strategic investment in ChangXin Memory Technologies and Zhipu AI has yielded significant returns, positioning the tech giant as a key player in the rapidly evolving AI and semiconductor landscape, with CXMT's recent listing further solidifying its status as a major industrial shareholder. This breakthrough not only enhances Alibaba's portfolio but also underscores the growing importance of domestic chip production in China's tech ecosystem.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "published_date": "2026-07-28T13:00:00+00:00",
+      "summary": "Google AI's new Search feature, AI Mode, revolutionizes how users engage with the real world by seamlessly integrating fun activities and personalized recommendations, enhancing everyday experiences and promoting a more active lifestyle. This breakthrough not only transforms search functionality but also encourages users to explore and enjoy their surroundings in innovative ways.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "published_date": "2026-07-28T13:00:00+00:00",
+      "summary": "Google AI has unveiled innovative ways to leverage Google Search for hosting the ultimate dinner party, transforming how users plan and execute gatherings by seamlessly integrating search capabilities with event preparation. This breakthrough not only enhances the user experience but also positions Google as a central tool in personal event planning, emphasizing the growing intersection of technology and social interaction.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Apple Upgrade launches in the United States",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "published_date": "2026-07-28T12:20:23+00:00",
+      "summary": "Apple has launched its innovative Upgrade program, allowing customers in the United States to lease hardware directly from the Apple Store, revolutionizing the way consumers access and upgrade their devices while enhancing affordability and convenience in the tech market. This strategic move not only strengthens Apple's ecosystem but also positions the company to capture a larger share of the growing leasing trend in consumer electronics.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Moonshot’s Kimi K3 triggers Silicon Valley debate over bans on Chinese open source models",
+      "link": "https://www.scmp.com/tech/article/3362143/moonshots-kimi-k3-triggers-silicon-valley-debate-over-bans-chinese-open-source-models?utm_source=rss_feed",
+      "published_date": "2026-07-28T12:00:13+00:00",
+      "summary": "China's Moonshot AI has ignited a significant debate in Silicon Valley by releasing its Kimi K3 model as open source, challenging existing norms and fostering competition in the AI landscape, particularly against Nvidia's dominance. This strategic move not only democratizes access to advanced AI technology but also underscores the growing importance of non-Nvidia ecosystems in shaping the future of artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China woos Slovakia with AI, robotics pitch as EU trade friction mounts",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362147/china-woos-slovakia-ai-robotics-pitch-eu-trade-friction-mounts?utm_source=rss_feed",
+      "published_date": "2026-07-28T11:03:46+00:00",
+      "summary": "China is strategically positioning itself as a key partner for Slovakia in advanced technologies like AI and robotics amid escalating trade tensions with the EU, highlighting a significant shift in geopolitical alliances that could reshape economic dynamics in the region. This collaboration not only underscores Slovakia's unique stance within the EU but also signals China's intent to deepen its influence in Central and Eastern Europe.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "The light narrows",
+      "link": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code",
+      "published_date": "2026-07-28T10:00:00+00:00",
+      "summary": "• The author's journey into jiu-jitsu serves as a poignant response to the profound grief of losing a father.  \n• Defeat on the mat mirrors the internal struggles of vulnerability and identity in the face of loss.  \n• Low testosterone becomes a metaphor for the broader existential crises that accompany aging and mortality.  \n• The temptation of a chemical \"cheat code\" raises ethical questions about authenticity and the human experience.  \n• Ultimately, the essay explores the intersection of physicality, grief, and the search for meaning in life's inevitable challenges.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China chip dreams still face long road even after breakthrough",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3362124/china-chip-dreams-still-face-long-road-even-after-breakthrough?utm_source=rss_feed",
+      "published_date": "2026-07-28T09:02:39+00:00",
+      "summary": "China's advancement in mass-producing deep ultraviolet immersion lithography machines signifies a pivotal move towards technological self-sufficiency in chipmaking, yet the nation still faces significant challenges on its path to becoming a global leader in semiconductor technology. This breakthrough could reshape the competitive landscape of the chip industry, but the road ahead remains fraught with obstacles.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Anthropic CEO urges Washington to tighten China chip export bans",
+      "link": "https://www.scmp.com/tech/big-tech/article/3362105/anthropic-ceo-amodei-urges-washington-tighten-china-chip-export-bans?utm_source=rss_feed",
+      "published_date": "2026-07-28T07:10:57+00:00",
+      "summary": "Anthropic CEO Dario Amodei is calling for stricter chip export bans to China, emphasizing that such measures are essential to maintain the US's competitive edge in artificial intelligence and prevent the potential military misuse of advanced AI technologies by Beijing. This push highlights the critical intersection of technology and national security in the evolving global landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     }
   ]
 }
