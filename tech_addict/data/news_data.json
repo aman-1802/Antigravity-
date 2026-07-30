@@ -1,12 +1,108 @@
 {
-  "last_updated": "2026-07-29T06:14:33.502049+00:00",
+  "last_updated": "2026-07-30T02:41:00.177218+00:00",
   "articles": [
     {
-      "title": "Pentagon official hails ‘stronger’ military ties with PLA at anniversary event",
-      "link": "https://www.scmp.com/news/china/military/article/3362210/pentagon-official-hails-stronger-military-ties-pla-anniversary-event?utm_source=rss_feed",
-      "published_date": "2026-07-29T04:30:12+00:00",
-      "summary": "A senior Pentagon official has announced a significant improvement in military communication with China, highlighting a rare positive development in US-China relations amid ongoing strategic tensions. This breakthrough underscores a critical effort to enhance dialogue and cooperation between the world's two leading military powers, potentially reducing the risk of conflict.",
+      "title": "Can China’s EV boom give it decisive edge in geopolitical tech war?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362313/can-chinas-ev-boom-give-it-decisive-edge-geopolitical-tech-war?utm_source=rss_feed",
+      "published_date": "2026-07-29T21:27:32+00:00",
+      "summary": "China's burgeoning electric vehicle industry could serve as a powerful geopolitical tool, enabling the nation to exert influence over countries reliant on its technology and supply chains, fundamentally reshaping global power dynamics. This strategic dominance not only positions China at the forefront of the EV market but also allows it to leverage its technological supremacy in critical geopolitical negotiations.",
       "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "US sanctions mainland China, Hong Kong shipping firms over Iranian oil deliveries",
+      "link": "https://www.scmp.com/news/us/article/3362307/us-sanctions-chinese-hong-kong-shipping-firms-over-iranian-oil-deliveries?utm_source=rss_feed",
+      "published_date": "2026-07-29T15:42:52+00:00",
+      "summary": "The United States has escalated its economic pressure on Iran by sanctioning several mainland Chinese and Hong Kong shipping firms involved in transporting Iranian oil, highlighting a significant expansion of its sanctions regime and naval blockade aimed at curbing Tehran's oil exports. This move not only intensifies the geopolitical tensions surrounding Iran's oil trade but also signals a robust commitment from Washington to counteract sanctions evasion strategies in the region.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Why US-led alliance might struggle to rein in Beijing’s growing 6G influence",
+      "link": "https://www.scmp.com/economy/china-economy/article/3362252/why-us-led-alliance-might-struggle-rein-beijings-growing-6g-influence?utm_source=rss_feed",
+      "published_date": "2026-07-29T15:00:08+00:00",
+      "summary": "The US-led alliance of 24 countries aims to counter China's expanding influence in the development of 6G technology, yet analysts warn that immediate challenges may hinder its effectiveness in shaping global standards and commercial deployment. This struggle underscores the geopolitical stakes of next-generation technology, which will play a crucial role in future economic and security landscapes.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published_date": "2026-07-29T15:00:00+00:00",
+      "summary": "OpenAI's recent adjustments to two API settings have dramatically enhanced GPT-5.6's performance on the ARC-AGI-3 benchmark, tripling its scores by optimizing reasoning retention and enabling data compaction, a breakthrough that underscores the potential for more efficient and effective AI systems. This advancement not only showcases the power of fine-tuning in AI development but also sets a new standard for future benchmarks in artificial general intelligence.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Can the US fend off China’s subsea drones? Its coastguard looks for answers",
+      "link": "https://www.scmp.com/news/china/military/article/3362267/can-us-fend-chinas-subsea-drones-its-coastguard-looks-answers?utm_source=rss_feed",
+      "published_date": "2026-07-29T13:00:10+00:00",
+      "summary": "The U.S. Coast Guard is urgently exploring advanced technologies to detect and neutralize China's rapidly advancing autonomous underwater drones, underscoring a critical vulnerability in American defense capabilities amid escalating maritime tensions. This initiative reflects a significant shift in national security strategy as the U.S. seeks to safeguard its interests against an increasingly sophisticated adversary.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "US foreign robot ban to benefit Tesla, other American developers, analysts say",
+      "link": "https://www.scmp.com/tech/tech-war/article/3362277/what-will-us-foreign-robot-ban-mean-chinas-world-leading-start-ups?utm_source=rss_feed",
+      "published_date": "2026-07-29T12:30:15+00:00",
+      "summary": "The recent U.S. ban on foreign-made advanced robotic devices is poised to significantly advantage American companies like Tesla, as it restricts Chinese robotics firms from entering the U.S. market, thereby fostering domestic innovation and competition in the robotics sector. This strategic move not only strengthens national security but also positions American developers to capitalize on a burgeoning industry with reduced foreign competition.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares",
+      "link": "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares?utm_source=rss_feed",
+      "published_date": "2026-07-29T11:00:16+00:00",
+      "summary": "China's ChangXin Memory Technologies (CXMT) is poised to disrupt the semiconductor market with a significant $9.8 billion stock offering aimed at expanding its production of DRAM chips, challenging established giants like Nvidia, Micron, and SK Hynix by providing cost-effective alternatives that could reshape the global AI supply chain. This breakthrough not only signals China's growing influence in technology but also threatens to upend the dominance of foreign tech leaders in a critical industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How to spot pseudoscience",
+      "link": "https://aeon.co/videos/three-handy-tools-for-separating-pseudoscience-from-the-real-deal",
+      "published_date": "2026-07-29T10:01:00+00:00",
+      "summary": "• The proliferation of pseudoscience challenges our ability to discern credible knowledge in an age overflowing with information.  \n• Critical thinking serves as a vital tool in distinguishing genuine scientific inquiry from misleading claims masquerading as facts.  \n• Understanding the scientific method is essential for recognizing the rigorous processes that underpin authentic research.  \n• An awareness of cognitive biases can help individuals navigate the seductive allure of pseudoscientific narratives.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "published_date": "2026-07-29T10:00:00+00:00",
+      "summary": "OpenAI is revolutionizing the landscape of scientific research by providing 100,000 academic researchers with complimentary access to its most advanced AI models, significantly enhancing collaboration and accelerating the pace of discovery across various fields. This groundbreaking initiative promises to transform how researchers generate insights and solve complex problems, potentially leading to unprecedented advancements in science.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Chinese AI start-up Moonshot seeks influential ambassadors to widen Kimi’s global reach",
+      "link": "https://www.scmp.com/tech/article/3362261/chinese-ai-start-moonshot-seeks-influential-ambassadors-widen-kimis-global-reach?utm_source=rss_feed",
+      "published_date": "2026-07-29T09:30:19+00:00",
+      "summary": "Chinese AI start-up Moonshot is launching the \"Kimi Ambassador Program\" to leverage the impressive performance of its Kimi K3 model, which rivals leading American systems, in a bid to expand its global influence and foster community engagement among developers and creators. This initiative highlights the company's ambition to capitalize on the increasing interest in Kimi K3 and drive widespread adoption in the competitive AI landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China should lean into its defining AI advantage – accessibility",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3361895/china-should-lean-its-defining-ai-advantage-accessibility?utm_source=rss_feed",
+      "published_date": "2026-07-29T08:30:06+00:00",
+      "summary": "China's emerging strength in artificial intelligence lies in its ability to deliver advanced AI solutions at accessible prices, positioning the country to dominate a market where affordability is key to widespread adoption and integration into everyday infrastructure. This shift not only enhances China's competitive edge but also democratizes access to AI technology globally.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "A new peak in US-China tech rivalry? Tibet drone hub launches on Mount Everest",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362159/new-peak-us-china-tech-rivalry-tibet-drone-hub-launches-mount-everest?utm_source=rss_feed",
+      "published_date": "2026-07-29T08:00:09+00:00",
+      "summary": "China's establishment of a drone research hub on Mount Everest underscores a significant escalation in the US-China tech rivalry, as it aims to leverage the region's high-altitude conditions for advanced drone development, potentially reshaping the balance of technological power. This strategic move not only enhances China's military and surveillance capabilities but also signals a bold assertion of its technological ambitions in a critical geopolitical landscape.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese AI chip giant Cambricon sets US$14.8b revenue goal tied to staff incentive plan",
+      "link": "https://www.scmp.com/tech/article/3362223/chinese-ai-chip-giant-cambricon-sets-us148b-revenue-goal-tied-staff-incentive-plan?utm_source=rss_feed",
+      "published_date": "2026-07-29T06:21:19+00:00",
+      "summary": "Cambricon Technologies, a leading Chinese AI chip manufacturer, aims to achieve a staggering US$14.8 billion in revenue over the next three years, a nearly 20-fold increase from its previous target, reflecting the explosive growth and competitive momentum within the domestic AI chip market. This ambitious goal is tied to a new employee stock incentive plan, underscoring the company's commitment to harnessing talent in a rapidly evolving technological landscape.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
@@ -14,118 +110,6 @@
       "link": "https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report?utm_source=rss_feed",
       "published_date": "2026-07-29T02:59:49+00:00",
       "summary": "China is solidifying its dominance in humanoid robotics, with six of the top ten most innovative start-ups globally, as highlighted by a recent patent analysis, signaling a significant shift in technological leadership amidst increasing U.S. import restrictions. This breakthrough not only underscores China's rapid advancements in robotics but also raises critical implications for global competitiveness in this transformative sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US bans new Chinese robots, power inverters in latest tech crackdown",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3362185/us-bans-new-chinese-robots-power-inverters-latest-tech-crackdown?utm_source=rss_feed",
-      "published_date": "2026-07-28T22:11:16+00:00",
-      "summary": "The Trump administration's recent ban on new Chinese robots and power inverters marks a significant escalation in tech-related national security measures, aiming to safeguard U.S. supply chains from potential vulnerabilities posed by foreign-made advanced technologies. This move not only underscores the growing geopolitical tensions but also highlights the critical importance of securing emerging technologies in an increasingly competitive global landscape.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang meets US officials as scrutiny grows over China chip access",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3362184/nvidia-ceo-jensen-huang-meets-us-officials-scrutiny-grows-over-china-chip-access?utm_source=rss_feed",
-      "published_date": "2026-07-28T21:21:58+00:00",
-      "summary": "Nvidia CEO Jensen Huang's meetings with US officials highlight growing concerns over the use of American chip technology in advancing China's AI capabilities, underscoring the critical intersection of national security and technological innovation in the global landscape. This development could reshape the future of international tech relations and regulatory frameworks.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "link": "https://openai.com/index/scientific-computing-agentic-ai",
-      "published_date": "2026-07-28T17:00:00+00:00",
-      "summary": "A groundbreaking report reveals that scientists are leveraging AI coding agents to revolutionize scientific computing, significantly speeding up software development and unlocking new discoveries in genomics and other fields, marking a pivotal shift in research methodologies. This advancement not only enhances efficiency but also opens new frontiers in scientific exploration and innovation.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation",
-      "link": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
-      "published_date": "2026-07-28T16:00:10+00:00",
-      "summary": "Microsoft's FY26 marked a pivotal shift as businesses transitioned from merely experimenting with AI to leveraging it for tangible outcomes, fostering innovation and growth while giving rise to Frontier Firms that prioritize human ambition and integrate AI at their core. This transformation underscores the critical role of AI in driving strategic advancements across industries, setting a new standard for competitive excellence.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "published_date": "2026-07-28T16:00:00+00:00",
-      "summary": "Google AI's Gemini 3.6 introduces Managed Agents with advanced features like Flash, hooks, and triggers, revolutionizing the way developers can create responsive and dynamic applications by enabling seamless integration and automation. This breakthrough not only enhances user experience but also significantly accelerates the development process, positioning Google at the forefront of AI-driven innovation.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "published_date": "2026-07-28T15:00:19+00:00",
-      "summary": "NVIDIA's Jetson platform revolutionizes AI deployment by delivering powerful computing capabilities in an ultra-compact form, enabling seamless integration of advanced AI solutions in diverse environments. This breakthrough not only enhances accessibility for developers but also accelerates innovation across industries, making AI more ubiquitous than ever.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "From CXMT to Zhipu: How Alibaba’s investment pays off with a growing AI and chip portfolio",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362156/cxmt-zhipu-how-alibabas-investment-pays-growing-ai-and-chip-portfolio?utm_source=rss_feed",
-      "published_date": "2026-07-28T13:30:06+00:00",
-      "summary": "Alibaba's strategic investment in ChangXin Memory Technologies and Zhipu AI has yielded significant returns, positioning the tech giant as a key player in the rapidly evolving AI and semiconductor landscape, with CXMT's recent listing further solidifying its status as a major industrial shareholder. This breakthrough not only enhances Alibaba's portfolio but also underscores the growing importance of domestic chip production in China's tech ecosystem.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "published_date": "2026-07-28T13:00:00+00:00",
-      "summary": "Google AI's new Search feature, AI Mode, revolutionizes how users engage with the real world by seamlessly integrating fun activities and personalized recommendations, enhancing everyday experiences and promoting a more active lifestyle. This breakthrough not only transforms search functionality but also encourages users to explore and enjoy their surroundings in innovative ways.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "published_date": "2026-07-28T13:00:00+00:00",
-      "summary": "Google AI has unveiled innovative ways to leverage Google Search for hosting the ultimate dinner party, transforming how users plan and execute gatherings by seamlessly integrating search capabilities with event preparation. This breakthrough not only enhances the user experience but also positions Google as a central tool in personal event planning, emphasizing the growing intersection of technology and social interaction.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Apple Upgrade launches in the United States",
-      "link": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "published_date": "2026-07-28T12:20:23+00:00",
-      "summary": "Apple has launched its innovative Upgrade program, allowing customers in the United States to lease hardware directly from the Apple Store, revolutionizing the way consumers access and upgrade their devices while enhancing affordability and convenience in the tech market. This strategic move not only strengthens Apple's ecosystem but also positions the company to capture a larger share of the growing leasing trend in consumer electronics.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Moonshot’s Kimi K3 triggers Silicon Valley debate over bans on Chinese open source models",
-      "link": "https://www.scmp.com/tech/article/3362143/moonshots-kimi-k3-triggers-silicon-valley-debate-over-bans-chinese-open-source-models?utm_source=rss_feed",
-      "published_date": "2026-07-28T12:00:13+00:00",
-      "summary": "China's Moonshot AI has ignited a significant debate in Silicon Valley by releasing its Kimi K3 model as open source, challenging existing norms and fostering competition in the AI landscape, particularly against Nvidia's dominance. This strategic move not only democratizes access to advanced AI technology but also underscores the growing importance of non-Nvidia ecosystems in shaping the future of artificial intelligence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The light narrows",
-      "link": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code",
-      "published_date": "2026-07-28T10:00:00+00:00",
-      "summary": "• The author's journey into jiu-jitsu serves as a poignant response to the profound grief of losing a father.  \n• Defeat on the mat mirrors the internal struggles of vulnerability and identity in the face of loss.  \n• Low testosterone becomes a metaphor for the broader existential crises that accompany aging and mortality.  \n• The temptation of a chemical \"cheat code\" raises ethical questions about authenticity and the human experience.  \n• Ultimately, the essay explores the intersection of physicality, grief, and the search for meaning in life's inevitable challenges.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China chip dreams still face long road even after breakthrough",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3362124/china-chip-dreams-still-face-long-road-even-after-breakthrough?utm_source=rss_feed",
-      "published_date": "2026-07-28T09:02:39+00:00",
-      "summary": "China's advancement in mass-producing deep ultraviolet immersion lithography machines signifies a pivotal move towards technological self-sufficiency in chipmaking, yet the nation still faces significant challenges on its path to becoming a global leader in semiconductor technology. This breakthrough could reshape the competitive landscape of the chip industry, but the road ahead remains fraught with obstacles.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Anthropic CEO urges Washington to tighten China chip export bans",
-      "link": "https://www.scmp.com/tech/big-tech/article/3362105/anthropic-ceo-amodei-urges-washington-tighten-china-chip-export-bans?utm_source=rss_feed",
-      "published_date": "2026-07-28T07:10:57+00:00",
-      "summary": "Anthropic CEO Dario Amodei is calling for stricter chip export bans to China, emphasizing that such measures are essential to maintain the US's competitive edge in artificial intelligence and prevent the potential military misuse of advanced AI technologies by Beijing. This push highlights the critical intersection of technology and national security in the evolving global landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
