@@ -1,92 +1,100 @@
 {
-  "last_updated": "2026-07-30T06:07:15.584716+00:00",
+  "last_updated": "2026-07-31T03:22:36.453944+00:00",
   "articles": [
     {
-      "title": "Can China’s EV boom give it decisive edge in geopolitical tech war?",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3362313/can-chinas-ev-boom-give-it-decisive-edge-geopolitical-tech-war?utm_source=rss_feed",
-      "published_date": "2026-07-29T21:27:32+00:00",
-      "summary": "China's burgeoning electric vehicle industry could serve as a powerful geopolitical tool, enabling the nation to exert influence over countries reliant on its technology and supply chains, fundamentally reshaping global power dynamics. This strategic dominance not only positions China at the forefront of the EV market but also allows it to leverage its technological supremacy in critical geopolitical negotiations.",
+      "title": "Will US red tape and other infrastructure delays give China the lead in AI race?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362471/will-us-red-tape-and-other-infrastructure-delays-give-china-lead-ai-race?utm_source=rss_feed",
+      "published_date": "2026-07-31T03:00:53+00:00",
+      "summary": "The U.S. risks falling behind China in the artificial intelligence race due to bureaucratic delays in establishing critical AI infrastructure, highlighting the urgent need for substantial investment to secure a competitive edge in this strategic technological arena.",
       "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Why US-led alliance might struggle to rein in Beijing’s growing 6G influence",
-      "link": "https://www.scmp.com/economy/china-economy/article/3362252/why-us-led-alliance-might-struggle-rein-beijings-growing-6g-influence?utm_source=rss_feed",
-      "published_date": "2026-07-29T15:00:08+00:00",
-      "summary": "The US-led alliance of 24 countries aims to counter China's expanding influence in the development of 6G technology, yet analysts warn that immediate challenges may hinder its effectiveness in shaping global standards and commercial deployment. This struggle underscores the geopolitical stakes of next-generation technology, which will play a crucial role in future economic and security landscapes.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published_date": "2026-07-29T15:00:00+00:00",
-      "summary": "OpenAI's recent adjustments to two API settings have dramatically enhanced GPT-5.6's performance on the ARC-AGI-3 benchmark, tripling its scores by optimizing reasoning retention and enabling data compaction, a breakthrough that underscores the potential for more efficient and effective AI systems. This advancement not only showcases the power of fine-tuning in AI development but also sets a new standard for future benchmarks in artificial general intelligence.",
-      "source": "OpenAI",
+      "title": "Apple reports third quarter results",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "published_date": "2026-07-30T20:30:21+00:00",
+      "summary": "Apple's third-quarter financial results for fiscal 2026 reveal significant growth and innovation, underscoring the company's resilience and strategic positioning in an increasingly competitive tech landscape. This performance not only highlights Apple's ability to adapt but also sets the stage for future advancements that could redefine industry standards.",
+      "source": "Apple",
       "category": "AI"
     },
     {
-      "title": "Can the US fend off China’s subsea drones? Its coastguard looks for answers",
-      "link": "https://www.scmp.com/news/china/military/article/3362267/can-us-fend-chinas-subsea-drones-its-coastguard-looks-answers?utm_source=rss_feed",
-      "published_date": "2026-07-29T13:00:10+00:00",
-      "summary": "The U.S. Coast Guard is urgently exploring advanced technologies to detect and neutralize China's rapidly advancing autonomous underwater drones, underscoring a critical vulnerability in American defense capabilities amid escalating maritime tensions. This initiative reflects a significant shift in national security strategy as the U.S. seeks to safeguard its interests against an increasingly sophisticated adversary.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "US foreign robot ban to benefit Tesla, other American developers, analysts say",
-      "link": "https://www.scmp.com/tech/tech-war/article/3362277/what-will-us-foreign-robot-ban-mean-chinas-world-leading-start-ups?utm_source=rss_feed",
-      "published_date": "2026-07-29T12:30:15+00:00",
-      "summary": "The recent U.S. ban on foreign-made advanced robotic devices is poised to significantly advantage American companies like Tesla, as it restricts Chinese robotics firms from entering the U.S. market, thereby fostering domestic innovation and competition in the robotics sector. This strategic move not only strengthens national security but also positions American developers to capitalize on a burgeoning industry with reduced foreign competition.",
+      "title": "Unitree to launch IPO next week as US-China robotics rivalry intensifies",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362441/unitree-launch-ipo-next-week-us-china-robotics-rivalry-intensifies?utm_source=rss_feed",
+      "published_date": "2026-07-30T16:24:39+00:00",
+      "summary": "Unitree Robotics is set to launch its IPO in Shanghai next week, marking a significant moment in the escalating US-China robotics rivalry as the company aims to capitalize on the growing demand for advanced robotics technology. This move not only highlights the competitive landscape but also positions Unitree as a key player in the global robotics market.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares",
-      "link": "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares?utm_source=rss_feed",
-      "published_date": "2026-07-29T11:00:16+00:00",
-      "summary": "China's ChangXin Memory Technologies (CXMT) is poised to disrupt the semiconductor market with a significant $9.8 billion stock offering aimed at expanding its production of DRAM chips, challenging established giants like Nvidia, Micron, and SK Hynix by providing cost-effective alternatives that could reshape the global AI supply chain. This breakthrough not only signals China's growing influence in technology but also threatens to upend the dominance of foreign tech leaders in a critical industry.",
+      "title": "US scientist Elsa Reichmanis defends global collaboration amid scrutiny of science exchange",
+      "link": "https://www.scmp.com/tech/tech-war/article/3362398/us-scientist-elsa-reichmanis-defends-global-collaboration-amid-scrutiny-science-exchange?utm_source=rss_feed",
+      "published_date": "2026-07-30T14:00:09+00:00",
+      "summary": "Elsa Reichmanis, a leading American materials scientist, champions the necessity of global scientific collaboration despite geopolitical tensions, emphasizing that such partnerships are crucial for advancing technology and benefiting society as a whole, particularly in the semiconductor industry. Her recent recognition by China underscores the importance of viewing science as a universal language that transcends national rivalries.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "How to spot pseudoscience",
-      "link": "https://aeon.co/videos/three-handy-tools-for-separating-pseudoscience-from-the-real-deal",
-      "published_date": "2026-07-29T10:01:00+00:00",
-      "summary": "• The proliferation of pseudoscience challenges our ability to discern credible knowledge in an age overflowing with information.  \n• Critical thinking serves as a vital tool in distinguishing genuine scientific inquiry from misleading claims masquerading as facts.  \n• Understanding the scientific method is essential for recognizing the rigorous processes that underpin authentic research.  \n• An awareness of cognitive biases can help individuals navigate the seductive allure of pseudoscientific narratives.",
+      "title": "China’s smart-vacuum giants swept up in US robot ban, hitting top options for Americans",
+      "link": "https://www.scmp.com/tech/policy/article/3362418/chinas-smart-vacuum-giants-swept-us-robot-ban-hitting-top-options-americans?utm_source=rss_feed",
+      "published_date": "2026-07-30T13:30:12+00:00",
+      "summary": "The recent US ban on importing foreign advanced robotic devices, including popular Chinese smart vacuums, threatens to disrupt the American market by limiting consumer options and potentially reshaping the landscape of home automation. This significant regulatory move underscores the growing tensions in tech trade and its direct impact on everyday consumer products.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+      "published_date": "2026-07-30T13:00:20+00:00",
+      "summary": "NVIDIA's GeForce NOW transforms everyday laptops into powerful gaming machines, enabling students to seamlessly switch between studying and playing high-performance games like Halo: Campaign Evolved, thus redefining the capabilities of portable devices during the back-to-school season. This breakthrough not only enhances the gaming experience but also maximizes productivity, making it a game-changer for multitasking students.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Mud below, sun above",
+      "link": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away",
+      "published_date": "2026-07-30T10:01:00+00:00",
+      "summary": "• Bể represents the resilience of marginalized communities, showcasing the often-invisible labor that sustains urban life.  \n• The elderly women recyclers embody a profound connection to the environment, transforming waste into resources with their skilled hands.  \n• Their work challenges societal perceptions of value, revealing how the overlooked can hold the key to sustainability.  \n• In a world fixated on progress, Bể's story invites reflection on the dignity of labor and the wisdom of experience.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "published_date": "2026-07-29T10:00:00+00:00",
-      "summary": "OpenAI is revolutionizing the landscape of scientific research by providing 100,000 academic researchers with complimentary access to its most advanced AI models, significantly enhancing collaboration and accelerating the pace of discovery across various fields. This groundbreaking initiative promises to transform how researchers generate insights and solve complex problems, potentially leading to unprecedented advancements in science.",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "published_date": "2026-07-30T10:00:00+00:00",
+      "summary": "OpenAI's introduction of GPT-5.6 marks a significant breakthrough in AI efficiency, offering lower pricing for its Luna and Terra models, which empowers enterprises to scale AI workflows more effectively than ever before. This advancement not only enhances accessibility but also sets a new standard in the price-performance ratio of AI technologies.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Chinese AI start-up Moonshot seeks influential ambassadors to widen Kimi’s global reach",
-      "link": "https://www.scmp.com/tech/article/3362261/chinese-ai-start-moonshot-seeks-influential-ambassadors-widen-kimis-global-reach?utm_source=rss_feed",
-      "published_date": "2026-07-29T09:30:19+00:00",
-      "summary": "Chinese AI start-up Moonshot is launching the \"Kimi Ambassador Program\" to leverage the impressive performance of its Kimi K3 model, which rivals leading American systems, in a bid to expand its global influence and foster community engagement among developers and creators. This initiative highlights the company's ambition to capitalize on the increasing interest in Kimi K3 and drive widespread adoption in the competitive AI landscape.",
+      "title": "How art invented humanity",
+      "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "published_date": "2026-07-30T10:00:00+00:00",
+      "summary": "• The act of creating art marked a pivotal moment in human evolution, intertwining self-expression with identity formation.  \n• Cave paintings served as a mirror reflecting the inner workings of early human consciousness and societal values.  \n• Art became a fundamental tool for communication, transcending the limitations of spoken language and fostering community bonds.  \n• The creative impulse not only shaped individual identities but also laid the groundwork for cultural narratives and shared experiences.  \n• Through art, humanity discovered its capacity for imagination, prompting a continuous exploration of existence and meaning.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "As AI spending soars, can China’s tech giants deliver long-term profits?",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362384/ai-spending-soars-can-chinas-tech-giants-deliver-long-term-profits?utm_source=rss_feed",
+      "published_date": "2026-07-30T09:00:10+00:00",
+      "summary": "As China's tech giants ramp up their investments in artificial intelligence, they face the critical challenge of demonstrating that these substantial expenditures will translate into long-term profitability, mirroring the scrutiny faced by their US counterparts. This pivotal moment in the AI landscape could redefine the financial viability of major tech players and shape the future of global investment in the sector.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "China should lean into its defining AI advantage – accessibility",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3361895/china-should-lean-its-defining-ai-advantage-accessibility?utm_source=rss_feed",
-      "published_date": "2026-07-29T08:30:06+00:00",
-      "summary": "China's emerging strength in artificial intelligence lies in its ability to deliver advanced AI solutions at accessible prices, positioning the country to dominate a market where affordability is key to widespread adoption and integration into everyday infrastructure. This shift not only enhances China's competitive edge but also democratizes access to AI technology globally.",
+      "title": "China’s AI road map",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3362387/chinas-ai-road-map?utm_source=rss_feed",
+      "published_date": "2026-07-30T08:40:50+00:00",
+      "summary": "China's ambitious AI road map outlines a strategic vision to become a global leader in artificial intelligence by 2030, emphasizing innovation and integration across industries, which could reshape the global tech landscape and intensify competition with other leading nations. This initiative not only highlights China's commitment to harnessing AI for economic growth but also raises critical questions about ethical implications and geopolitical dynamics in the tech arena.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "A new peak in US-China tech rivalry? Tibet drone hub launches on Mount Everest",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3362159/new-peak-us-china-tech-rivalry-tibet-drone-hub-launches-mount-everest?utm_source=rss_feed",
-      "published_date": "2026-07-29T08:00:09+00:00",
-      "summary": "China's establishment of a drone research hub on Mount Everest underscores a significant escalation in the US-China tech rivalry, as it aims to leverage the region's high-altitude conditions for advanced drone development, potentially reshaping the balance of technological power. This strategic move not only enhances China's military and surveillance capabilities but also signals a bold assertion of its technological ambitions in a critical geopolitical landscape.",
-      "source": "Diplomacy & Defence",
+      "title": "BYD to debut first humanoid robots in August as rivalry with Tesla intensifies",
+      "link": "https://www.scmp.com/business/china-business/article/3362362/byd-debut-first-humanoid-robots-august-rivalry-tesla-intensifies?utm_source=rss_feed",
+      "published_date": "2026-07-30T08:00:14+00:00",
+      "summary": "BYD is set to launch its first humanoid robots in August, marking a significant step into the embodied artificial intelligence market and intensifying competition with Tesla, as these robots promise interactive experiences that could redefine customer engagement in the electric vehicle sector. This breakthrough not only showcases BYD's innovation but also highlights the growing convergence of automotive technology and robotics in shaping the future of mobility.",
+      "source": "SCMP China Tech",
       "category": "SCMP"
     }
   ]
