@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-31T03:22:36.453944+00:00",
+  "last_updated": "2026-07-31T06:31:08.610102+00:00",
   "articles": [
+    {
+      "title": "Xi Jinping urges Chinese armed forces to ‘strengthen military application’ of AI",
+      "link": "https://www.scmp.com/news/china/military/article/3362496/xi-jinping-urges-chinese-armed-forces-strengthen-military-application-ai?utm_source=rss_feed",
+      "published_date": "2026-07-31T06:25:40+00:00",
+      "summary": "Chinese President Xi Jinping's directive for the People's Liberation Army to intensify the military application of artificial intelligence marks a pivotal shift towards an intelligent military framework, underscoring China's commitment to leveraging advanced technologies for strategic dominance. This initiative not only enhances national defense capabilities but also signals a broader geopolitical maneuver in the global arms race for AI integration in military operations.",
+      "source": "China News",
+      "category": "SCMP"
+    },
     {
       "title": "Will US red tape and other infrastructure delays give China the lead in AI race?",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3362471/will-us-red-tape-and-other-infrastructure-delays-give-china-lead-ai-race?utm_source=rss_feed",
@@ -34,20 +42,20 @@
       "category": "SCMP"
     },
     {
-      "title": "China’s smart-vacuum giants swept up in US robot ban, hitting top options for Americans",
-      "link": "https://www.scmp.com/tech/policy/article/3362418/chinas-smart-vacuum-giants-swept-us-robot-ban-hitting-top-options-americans?utm_source=rss_feed",
-      "published_date": "2026-07-30T13:30:12+00:00",
-      "summary": "The recent US ban on importing foreign advanced robotic devices, including popular Chinese smart vacuums, threatens to disrupt the American market by limiting consumer options and potentially reshaping the landscape of home automation. This significant regulatory move underscores the growing tensions in tech trade and its direct impact on everyday consumer products.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
       "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
       "published_date": "2026-07-30T13:00:20+00:00",
       "summary": "NVIDIA's GeForce NOW transforms everyday laptops into powerful gaming machines, enabling students to seamlessly switch between studying and playing high-performance games like Halo: Campaign Evolved, thus redefining the capabilities of portable devices during the back-to-school season. This breakthrough not only enhances the gaming experience but also maximizes productivity, making it a game-changer for multitasking students.",
       "source": "NVIDIA",
       "category": "AI"
+    },
+    {
+      "title": "ByteDance’s US$4b projected AI revenue tops China as it restructures office tool Lark",
+      "link": "https://www.scmp.com/tech/article/3362417/bytedances-us4b-projected-ai-revenue-tops-china-it-restructures-office-tool-lark?utm_source=rss_feed",
+      "published_date": "2026-07-30T12:30:16+00:00",
+      "summary": "ByteDance's projected annual AI revenue of US$4 billion has positioned it as a leader in China, following a strategic restructuring of its office tool Lark to enhance its AI capabilities for corporate clients, signaling a significant shift in the competitive landscape of enterprise collaboration. This move not only underscores the company's commitment to AI innovation but also highlights its potential to redefine productivity tools in the corporate sector.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "Mud below, sun above",
@@ -87,14 +95,6 @@
       "published_date": "2026-07-30T08:40:50+00:00",
       "summary": "China's ambitious AI road map outlines a strategic vision to become a global leader in artificial intelligence by 2030, emphasizing innovation and integration across industries, which could reshape the global tech landscape and intensify competition with other leading nations. This initiative not only highlights China's commitment to harnessing AI for economic growth but also raises critical questions about ethical implications and geopolitical dynamics in the tech arena.",
       "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "BYD to debut first humanoid robots in August as rivalry with Tesla intensifies",
-      "link": "https://www.scmp.com/business/china-business/article/3362362/byd-debut-first-humanoid-robots-august-rivalry-tesla-intensifies?utm_source=rss_feed",
-      "published_date": "2026-07-30T08:00:14+00:00",
-      "summary": "BYD is set to launch its first humanoid robots in August, marking a significant step into the embodied artificial intelligence market and intensifying competition with Tesla, as these robots promise interactive experiences that could redefine customer engagement in the electric vehicle sector. This breakthrough not only showcases BYD's innovation but also highlights the growing convergence of automotive technology and robotics in shaping the future of mobility.",
-      "source": "SCMP China Tech",
       "category": "SCMP"
     }
   ]
