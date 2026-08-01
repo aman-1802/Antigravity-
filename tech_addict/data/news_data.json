@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T03:20:47.487885+00:00",
+  "last_updated": "2026-08-01T06:15:12.380229+00:00",
   "articles": [
     {
       "title": "How global AI boom is intensifying US-China undersea stand-off",
@@ -30,6 +30,14 @@
       "link": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
       "published_date": "2026-07-31T11:00:25+00:00",
       "summary": "OpenAI has dramatically reduced prices for its GPT-5.6 models by up to 80% to counter the competitive threat posed by lower-cost Chinese AI rivals, a strategic move that could reshape the landscape of AI accessibility and innovation. This aggressive pricing strategy not only aims to retain market share but also signals a pivotal shift in the AI industry, emphasizing the importance of affordability in driving widespread adoption.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model",
+      "link": "https://www.scmp.com/tech/article/3362540/video-ai-minimax-challenges-bytedance-low-price-open-weights-new-h3-model?utm_source=rss_feed",
+      "published_date": "2026-07-31T10:30:07+00:00",
+      "summary": "MiniMax has unveiled its groundbreaking H3 multimodal video generation model, positioning itself as a formidable competitor to ByteDance by offering open weights and lower prices, thereby challenging the closed-source dominance in the AI video editing landscape. This development not only highlights MiniMax's ambition to reshape the industry but also underscores the escalating competition among tech giants in the rapidly evolving field of AI.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
