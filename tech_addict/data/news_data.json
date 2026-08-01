@@ -1,100 +1,60 @@
 {
-  "last_updated": "2026-07-31T06:31:08.610102+00:00",
+  "last_updated": "2026-08-01T03:20:47.487885+00:00",
   "articles": [
+    {
+      "title": "How global AI boom is intensifying US-China undersea stand-off",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362288/how-global-ai-boom-intensifying-us-china-undersea-stand?utm_source=rss_feed",
+      "published_date": "2026-07-31T15:00:07+00:00",
+      "summary": "The escalating US-China rivalry has transformed into a critical struggle for control over undersea fibre-optic cables, essential for the burgeoning global AI landscape, as nearly 99 percent of intercontinental data traffic relies on these networks, making their security and governance a pivotal issue in international relations. This intensifying battle not only highlights the strategic importance of digital infrastructure but also underscores the geopolitical stakes involved in the race for AI supremacy.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "published_date": "2026-07-31T15:00:00+00:00",
+      "summary": "OpenAI is pioneering responsible AI governance in Europe by implementing robust safety, security, transparency, and provenance practices, ensuring compliance with the evolving EU AI Act and setting a critical standard for ethical AI development. This initiative not only enhances trust in AI technologies but also positions Europe as a leader in responsible AI innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Building abundant intelligence",
+      "link": "https://openai.com/index/building-abundant-intelligence",
+      "published_date": "2026-07-31T15:00:00+00:00",
+      "summary": "OpenAI's \"Building Abundant Intelligence\" initiative introduces a comprehensive strategy to enhance the capabilities of advanced AI, making it not only more powerful and cost-effective but also accessible to a broader audience, potentially revolutionizing industries and democratizing technology. This breakthrough could redefine the landscape of AI applications, fostering innovation and efficiency across various sectors.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
+      "published_date": "2026-07-31T11:00:25+00:00",
+      "summary": "OpenAI has dramatically reduced prices for its GPT-5.6 models by up to 80% to counter the competitive threat posed by lower-cost Chinese AI rivals, a strategic move that could reshape the landscape of AI accessibility and innovation. This aggressive pricing strategy not only aims to retain market share but also signals a pivotal shift in the AI industry, emphasizing the importance of affordability in driving widespread adoption.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Resist the technocrats",
+      "link": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international",
+      "published_date": "2026-07-31T10:00:00+00:00",
+      "summary": "• Technocrats often disguise their authority as mere adherence to expertise, masking the political implications of their decisions.  \n• The reliance on expert opinion can lead to a dangerous abdication of democratic responsibility among citizens.  \n• Questioning the motives behind technocratic governance is essential to reclaiming agency in the face of seemingly objective authority.  \n• The interplay between knowledge and power reveals that expertise can be manipulated to serve specific interests rather than the common good.  \n• Embracing skepticism towards technocratic narratives invites a more engaged and informed citizenry in shaping societal futures.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "link": "https://openai.com/index/unive",
+      "published_date": "2026-07-31T07:00:00+00:00",
+      "summary": "Univé has successfully transformed its workforce into an AI-ready powerhouse by leveraging ChatGPT Enterprise, integrating strong leadership, responsible governance, and fostering employee-driven innovation, setting a new standard for scalable workplace transformation. This breakthrough not only enhances operational efficiency but also positions Univé at the forefront of the AI revolution in the corporate landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "Xi Jinping urges Chinese armed forces to ‘strengthen military application’ of AI",
       "link": "https://www.scmp.com/news/china/military/article/3362496/xi-jinping-urges-chinese-armed-forces-strengthen-military-application-ai?utm_source=rss_feed",
       "published_date": "2026-07-31T06:25:40+00:00",
       "summary": "Chinese President Xi Jinping's directive for the People's Liberation Army to intensify the military application of artificial intelligence marks a pivotal shift towards an intelligent military framework, underscoring China's commitment to leveraging advanced technologies for strategic dominance. This initiative not only enhances national defense capabilities but also signals a broader geopolitical maneuver in the global arms race for AI integration in military operations.",
       "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Will US red tape and other infrastructure delays give China the lead in AI race?",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3362471/will-us-red-tape-and-other-infrastructure-delays-give-china-lead-ai-race?utm_source=rss_feed",
-      "published_date": "2026-07-31T03:00:53+00:00",
-      "summary": "The U.S. risks falling behind China in the artificial intelligence race due to bureaucratic delays in establishing critical AI infrastructure, highlighting the urgent need for substantial investment to secure a competitive edge in this strategic technological arena.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Apple reports third quarter results",
-      "link": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "published_date": "2026-07-30T20:30:21+00:00",
-      "summary": "Apple's third-quarter financial results for fiscal 2026 reveal significant growth and innovation, underscoring the company's resilience and strategic positioning in an increasingly competitive tech landscape. This performance not only highlights Apple's ability to adapt but also sets the stage for future advancements that could redefine industry standards.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Unitree to launch IPO next week as US-China robotics rivalry intensifies",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362441/unitree-launch-ipo-next-week-us-china-robotics-rivalry-intensifies?utm_source=rss_feed",
-      "published_date": "2026-07-30T16:24:39+00:00",
-      "summary": "Unitree Robotics is set to launch its IPO in Shanghai next week, marking a significant moment in the escalating US-China robotics rivalry as the company aims to capitalize on the growing demand for advanced robotics technology. This move not only highlights the competitive landscape but also positions Unitree as a key player in the global robotics market.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US scientist Elsa Reichmanis defends global collaboration amid scrutiny of science exchange",
-      "link": "https://www.scmp.com/tech/tech-war/article/3362398/us-scientist-elsa-reichmanis-defends-global-collaboration-amid-scrutiny-science-exchange?utm_source=rss_feed",
-      "published_date": "2026-07-30T14:00:09+00:00",
-      "summary": "Elsa Reichmanis, a leading American materials scientist, champions the necessity of global scientific collaboration despite geopolitical tensions, emphasizing that such partnerships are crucial for advancing technology and benefiting society as a whole, particularly in the semiconductor industry. Her recent recognition by China underscores the importance of viewing science as a universal language that transcends national rivalries.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-      "published_date": "2026-07-30T13:00:20+00:00",
-      "summary": "NVIDIA's GeForce NOW transforms everyday laptops into powerful gaming machines, enabling students to seamlessly switch between studying and playing high-performance games like Halo: Campaign Evolved, thus redefining the capabilities of portable devices during the back-to-school season. This breakthrough not only enhances the gaming experience but also maximizes productivity, making it a game-changer for multitasking students.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "ByteDance’s US$4b projected AI revenue tops China as it restructures office tool Lark",
-      "link": "https://www.scmp.com/tech/article/3362417/bytedances-us4b-projected-ai-revenue-tops-china-it-restructures-office-tool-lark?utm_source=rss_feed",
-      "published_date": "2026-07-30T12:30:16+00:00",
-      "summary": "ByteDance's projected annual AI revenue of US$4 billion has positioned it as a leader in China, following a strategic restructuring of its office tool Lark to enhance its AI capabilities for corporate clients, signaling a significant shift in the competitive landscape of enterprise collaboration. This move not only underscores the company's commitment to AI innovation but also highlights its potential to redefine productivity tools in the corporate sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Mud below, sun above",
-      "link": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away",
-      "published_date": "2026-07-30T10:01:00+00:00",
-      "summary": "• Bể represents the resilience of marginalized communities, showcasing the often-invisible labor that sustains urban life.  \n• The elderly women recyclers embody a profound connection to the environment, transforming waste into resources with their skilled hands.  \n• Their work challenges societal perceptions of value, revealing how the overlooked can hold the key to sustainability.  \n• In a world fixated on progress, Bể's story invites reflection on the dignity of labor and the wisdom of experience.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "published_date": "2026-07-30T10:00:00+00:00",
-      "summary": "OpenAI's introduction of GPT-5.6 marks a significant breakthrough in AI efficiency, offering lower pricing for its Luna and Terra models, which empowers enterprises to scale AI workflows more effectively than ever before. This advancement not only enhances accessibility but also sets a new standard in the price-performance ratio of AI technologies.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How art invented humanity",
-      "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "published_date": "2026-07-30T10:00:00+00:00",
-      "summary": "• The act of creating art marked a pivotal moment in human evolution, intertwining self-expression with identity formation.  \n• Cave paintings served as a mirror reflecting the inner workings of early human consciousness and societal values.  \n• Art became a fundamental tool for communication, transcending the limitations of spoken language and fostering community bonds.  \n• The creative impulse not only shaped individual identities but also laid the groundwork for cultural narratives and shared experiences.  \n• Through art, humanity discovered its capacity for imagination, prompting a continuous exploration of existence and meaning.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "As AI spending soars, can China’s tech giants deliver long-term profits?",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362384/ai-spending-soars-can-chinas-tech-giants-deliver-long-term-profits?utm_source=rss_feed",
-      "published_date": "2026-07-30T09:00:10+00:00",
-      "summary": "As China's tech giants ramp up their investments in artificial intelligence, they face the critical challenge of demonstrating that these substantial expenditures will translate into long-term profitability, mirroring the scrutiny faced by their US counterparts. This pivotal moment in the AI landscape could redefine the financial viability of major tech players and shape the future of global investment in the sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s AI road map",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3362387/chinas-ai-road-map?utm_source=rss_feed",
-      "published_date": "2026-07-30T08:40:50+00:00",
-      "summary": "China's ambitious AI road map outlines a strategic vision to become a global leader in artificial intelligence by 2030, emphasizing innovation and integration across industries, which could reshape the global tech landscape and intensify competition with other leading nations. This initiative not only highlights China's commitment to harnessing AI for economic growth but also raises critical questions about ethical implications and geopolitical dynamics in the tech arena.",
-      "source": "SCMP Tech",
       "category": "SCMP"
     }
   ]
