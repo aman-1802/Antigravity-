@@ -1,68 +1,12 @@
 {
-  "last_updated": "2026-08-01T06:15:12.380229+00:00",
+  "last_updated": "2026-08-02T03:20:45.719230+00:00",
   "articles": [
     {
-      "title": "How global AI boom is intensifying US-China undersea stand-off",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3362288/how-global-ai-boom-intensifying-us-china-undersea-stand?utm_source=rss_feed",
-      "published_date": "2026-07-31T15:00:07+00:00",
-      "summary": "The escalating US-China rivalry has transformed into a critical struggle for control over undersea fibre-optic cables, essential for the burgeoning global AI landscape, as nearly 99 percent of intercontinental data traffic relies on these networks, making their security and governance a pivotal issue in international relations. This intensifying battle not only highlights the strategic importance of digital infrastructure but also underscores the geopolitical stakes involved in the race for AI supremacy.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "published_date": "2026-07-31T15:00:00+00:00",
-      "summary": "OpenAI is pioneering responsible AI governance in Europe by implementing robust safety, security, transparency, and provenance practices, ensuring compliance with the evolving EU AI Act and setting a critical standard for ethical AI development. This initiative not only enhances trust in AI technologies but also positions Europe as a leader in responsible AI innovation.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Building abundant intelligence",
-      "link": "https://openai.com/index/building-abundant-intelligence",
-      "published_date": "2026-07-31T15:00:00+00:00",
-      "summary": "OpenAI's \"Building Abundant Intelligence\" initiative introduces a comprehensive strategy to enhance the capabilities of advanced AI, making it not only more powerful and cost-effective but also accessible to a broader audience, potentially revolutionizing industries and democratizing technology. This breakthrough could redefine the landscape of AI applications, fostering innovation and efficiency across various sectors.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
-      "published_date": "2026-07-31T11:00:25+00:00",
-      "summary": "OpenAI has dramatically reduced prices for its GPT-5.6 models by up to 80% to counter the competitive threat posed by lower-cost Chinese AI rivals, a strategic move that could reshape the landscape of AI accessibility and innovation. This aggressive pricing strategy not only aims to retain market share but also signals a pivotal shift in the AI industry, emphasizing the importance of affordability in driving widespread adoption.",
+      "title": "What a visit to China’s AI labs reveals about the battle for global soft power",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362548/what-visit-chinas-ai-labs-reveals-about-battle-global-soft-power?utm_source=rss_feed",
+      "published_date": "2026-08-01T10:30:07+00:00",
+      "summary": "China's AI labs are not just technological hubs but strategic battlegrounds for global soft power, as they illustrate the intricate interplay between innovation, privacy, and ethics in shaping the future of artificial intelligence. This unique cartographic representation highlights the critical role of major players like Huawei in a rapidly evolving landscape where the stakes extend far beyond technology to influence global dynamics.",
       "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model",
-      "link": "https://www.scmp.com/tech/article/3362540/video-ai-minimax-challenges-bytedance-low-price-open-weights-new-h3-model?utm_source=rss_feed",
-      "published_date": "2026-07-31T10:30:07+00:00",
-      "summary": "MiniMax has unveiled its groundbreaking H3 multimodal video generation model, positioning itself as a formidable competitor to ByteDance by offering open weights and lower prices, thereby challenging the closed-source dominance in the AI video editing landscape. This development not only highlights MiniMax's ambition to reshape the industry but also underscores the escalating competition among tech giants in the rapidly evolving field of AI.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Resist the technocrats",
-      "link": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international",
-      "published_date": "2026-07-31T10:00:00+00:00",
-      "summary": "• Technocrats often disguise their authority as mere adherence to expertise, masking the political implications of their decisions.  \n• The reliance on expert opinion can lead to a dangerous abdication of democratic responsibility among citizens.  \n• Questioning the motives behind technocratic governance is essential to reclaiming agency in the face of seemingly objective authority.  \n• The interplay between knowledge and power reveals that expertise can be manipulated to serve specific interests rather than the common good.  \n• Embracing skepticism towards technocratic narratives invites a more engaged and informed citizenry in shaping societal futures.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "link": "https://openai.com/index/unive",
-      "published_date": "2026-07-31T07:00:00+00:00",
-      "summary": "Univé has successfully transformed its workforce into an AI-ready powerhouse by leveraging ChatGPT Enterprise, integrating strong leadership, responsible governance, and fostering employee-driven innovation, setting a new standard for scalable workplace transformation. This breakthrough not only enhances operational efficiency but also positions Univé at the forefront of the AI revolution in the corporate landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Xi Jinping urges Chinese armed forces to ‘strengthen military application’ of AI",
-      "link": "https://www.scmp.com/news/china/military/article/3362496/xi-jinping-urges-chinese-armed-forces-strengthen-military-application-ai?utm_source=rss_feed",
-      "published_date": "2026-07-31T06:25:40+00:00",
-      "summary": "Chinese President Xi Jinping's directive for the People's Liberation Army to intensify the military application of artificial intelligence marks a pivotal shift towards an intelligent military framework, underscoring China's commitment to leveraging advanced technologies for strategic dominance. This initiative not only enhances national defense capabilities but also signals a broader geopolitical maneuver in the global arms race for AI integration in military operations.",
-      "source": "China News",
       "category": "SCMP"
     }
   ]
