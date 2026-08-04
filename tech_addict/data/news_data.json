@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-04T02:51:51.943130+00:00",
+  "last_updated": "2026-08-04T06:11:06.162326+00:00",
   "articles": [
+    {
+      "title": "Apple is getting this wrong",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published_date": "2026-08-03T22:00:00+00:00",
+      "summary": "OpenAI's response to Apple's unfounded lawsuit not only debunks false claims about its workforce but also reveals critical internal communications, highlighting the growing tensions between tech giants and the implications for innovation and competition in the industry. This confrontation underscores the need for transparency and accountability in the rapidly evolving tech landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
       "link": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
@@ -8,14 +16,6 @@
       "summary": "Apple TV is set to revolutionize sports streaming by exclusively broadcasting the Leagues Cup, a groundbreaking tournament that unites 36 clubs from Major League Soccer and Liga MX, marking a significant step in enhancing the viewing experience for soccer fans across North America. This partnership not only elevates Apple TV's content offerings but also underscores the growing convergence of technology and sports entertainment.",
       "source": "Apple",
       "category": "AI"
-    },
-    {
-      "title": "Chinese military unveils AI system to plan and coordinate mass air strikes",
-      "link": "https://www.scmp.com/news/china/military/article/3362824/chinese-military-unveils-ai-system-plan-and-coordinate-mass-air-strikes?utm_source=rss_feed",
-      "published_date": "2026-08-03T13:00:13+00:00",
-      "summary": "The Chinese military has introduced an AI-enabled system capable of orchestrating mass air strikes involving over 100 units, revolutionizing battle planning by optimizing target prioritization and coordination, which underscores Beijing's strategic advancements in military technology. This breakthrough not only enhances operational efficiency but also signifies a pivotal shift in modern warfare dynamics.",
-      "source": "China News",
-      "category": "SCMP"
     },
     {
       "title": "China tightens chip-design protection and clarifies rights to spur innovation",
@@ -56,14 +56,6 @@
       "summary": "OpenAI's GPT-Live revolutionizes voice AI by enabling seamless, real-time interactions through a turnless speech model and low-latency architecture, paving the way for more intuitive and engaging conversational experiences. This breakthrough not only enhances user engagement but also sets a new standard for the responsiveness of AI systems in everyday applications.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "Potential US ban on Chinese AI models could cost American businesses US$12b a year: report",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362583/potential-us-ban-chinese-ai-models-could-cost-american-businesses-us12b-year-report?utm_source=rss_feed",
-      "published_date": "2026-08-03T03:00:07+00:00",
-      "summary": "A potential US ban on Chinese AI models could lead to a staggering annual loss of up to $12 billion for American businesses, highlighting the critical reliance on cost-effective Chinese technology solutions in the rapidly evolving AI landscape. This significant economic impact underscores the delicate balance between national security concerns and the financial viability of US tech firms.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
