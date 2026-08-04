@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-08-03T06:44:41.032233+00:00",
+  "last_updated": "2026-08-04T02:51:51.943130+00:00",
   "articles": [
+    {
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "link": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "published_date": "2026-08-03T14:59:10+00:00",
+      "summary": "Apple TV is set to revolutionize sports streaming by exclusively broadcasting the Leagues Cup, a groundbreaking tournament that unites 36 clubs from Major League Soccer and Liga MX, marking a significant step in enhancing the viewing experience for soccer fans across North America. This partnership not only elevates Apple TV's content offerings but also underscores the growing convergence of technology and sports entertainment.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Chinese military unveils AI system to plan and coordinate mass air strikes",
+      "link": "https://www.scmp.com/news/china/military/article/3362824/chinese-military-unveils-ai-system-plan-and-coordinate-mass-air-strikes?utm_source=rss_feed",
+      "published_date": "2026-08-03T13:00:13+00:00",
+      "summary": "The Chinese military has introduced an AI-enabled system capable of orchestrating mass air strikes involving over 100 units, revolutionizing battle planning by optimizing target prioritization and coordination, which underscores Beijing's strategic advancements in military technology. This breakthrough not only enhances operational efficiency but also signifies a pivotal shift in modern warfare dynamics.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "China tightens chip-design protection and clarifies rights to spur innovation",
+      "link": "https://www.scmp.com/tech/policy/article/3362825/china-tightens-chip-design-protection-and-clarifies-rights-spur-innovation?utm_source=rss_feed",
+      "published_date": "2026-08-03T12:18:43+00:00",
+      "summary": "China's recent revision of chip-design protection regulations marks a significant step towards achieving technological self-sufficiency, as it establishes clearer rights and penalties to foster innovation in the face of US export controls. This strategic move not only aims to bolster domestic semiconductor capabilities but also signals China's commitment to strengthening its position in the global tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s DeepSeek beefs up agentic AI with ‘harness’ tests as V4 model jolts Silicon Valley",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362792/chinas-deepseek-beefs-agentic-ai-harness-tests-v4-model-jolts-silicon-valley?utm_source=rss_feed",
+      "published_date": "2026-08-03T11:00:07+00:00",
+      "summary": "DeepSeek's introduction of the \"harness\" software aims to transform large language models into autonomous AI agents, marking a significant leap in agentic technology and challenging Silicon Valley with the cost-efficient capabilities of its new V4 Flash model. This breakthrough not only enhances the functionality of AI systems but also invites open-source collaboration, potentially reshaping the landscape of AI development.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Ani Liu: eye heart womb",
+      "link": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art",
+      "published_date": "2026-08-03T10:01:00+00:00",
+      "summary": "• Ani Liu's work challenges societal norms by exploring the intersections of science, art, and motherhood.  \n• Through her taboo-breaking creations, she interrogates the dynamics of power and control over the human body.  \n• Liu's artistic expression serves as a medium for personal and collective reflection on bodily autonomy.  \n• The fusion of her identities as a scientist and artist invites a deeper understanding of the human experience.  \n• Her art compels viewers to reconsider their perceptions of vulnerability and strength in the context of motherhood.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Thucydides the perspicacious",
+      "link": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
+      "published_date": "2026-08-03T10:00:00+00:00",
+      "summary": "• Thucydides reveals that power dynamics in war often obscure moral truths, challenging the notion that strength equates to justice.  \n• His insights suggest that the pursuit of power can lead to a collective moral blindness among states.  \n• The historian emphasizes the cyclical nature of human behavior, where the quest for dominance perpetuates conflict.  \n• Thucydides' work serves as a timeless reminder of the ethical dilemmas inherent in political ambition and warfare.  \n• Ultimately, his analysis invites reflection on the responsibilities of power and the fragility of peace in human affairs.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published_date": "2026-08-03T07:00:00+00:00",
+      "summary": "OpenAI's GPT-Live revolutionizes voice AI by enabling seamless, real-time interactions through a turnless speech model and low-latency architecture, paving the way for more intuitive and engaging conversational experiences. This breakthrough not only enhances user engagement but also sets a new standard for the responsiveness of AI systems in everyday applications.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "Potential US ban on Chinese AI models could cost American businesses US$12b a year: report",
       "link": "https://www.scmp.com/tech/tech-trends/article/3362583/potential-us-ban-chinese-ai-models-could-cost-american-businesses-us12b-year-report?utm_source=rss_feed",
