@@ -1,61 +1,77 @@
 {
-  "last_updated": "2026-08-04T06:11:06.162326+00:00",
+  "last_updated": "2026-08-05T02:48:46.953010+00:00",
   "articles": [
     {
-      "title": "Apple is getting this wrong",
-      "link": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published_date": "2026-08-03T22:00:00+00:00",
-      "summary": "OpenAI's response to Apple's unfounded lawsuit not only debunks false claims about its workforce but also reveals critical internal communications, highlighting the growing tensions between tech giants and the implications for innovation and competition in the industry. This confrontation underscores the need for transparency and accountability in the rapidly evolving tech landscape.",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published_date": "2026-08-04T19:00:00+00:00",
+      "summary": "OpenAI has unveiled significant advancements in third-party cybersecurity evaluations of its models, introducing robust new safeguards that enhance the integrity and reliability of AI testing, a critical step in ensuring the responsible deployment of artificial intelligence in an increasingly vulnerable digital landscape.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "link": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "published_date": "2026-08-03T14:59:10+00:00",
-      "summary": "Apple TV is set to revolutionize sports streaming by exclusively broadcasting the Leagues Cup, a groundbreaking tournament that unites 36 clubs from Major League Soccer and Liga MX, marking a significant step in enhancing the viewing experience for soccer fans across North America. This partnership not only elevates Apple TV's content offerings but also underscores the growing convergence of technology and sports entertainment.",
-      "source": "Apple",
+      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+      "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+      "published_date": "2026-08-04T16:00:56+00:00",
+      "summary": "NVIDIA's collaboration with the NSF to establish State and Regional AI Hubs marks a significant leap in democratizing access to advanced AI resources, fostering innovation and education across the U.S. This initiative not only enhances research capabilities but also aligns with national goals to cultivate a robust AI workforce and infrastructure.",
+      "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "China tightens chip-design protection and clarifies rights to spur innovation",
-      "link": "https://www.scmp.com/tech/policy/article/3362825/china-tightens-chip-design-protection-and-clarifies-rights-spur-innovation?utm_source=rss_feed",
-      "published_date": "2026-08-03T12:18:43+00:00",
-      "summary": "China's recent revision of chip-design protection regulations marks a significant step towards achieving technological self-sufficiency, as it establishes clearer rights and penalties to foster innovation in the face of US export controls. This strategic move not only aims to bolster domestic semiconductor capabilities but also signals China's commitment to strengthening its position in the global tech landscape.",
+      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+      "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "published_date": "2026-08-04T15:00:49+00:00",
+      "summary": "NVIDIA's Alpamayo 2 Super revolutionizes the landscape for robotaxis and autonomous vehicles by enabling them to effectively navigate rare and complex scenarios that traditional systems struggle with, significantly enhancing their safety and reliability in unpredictable environments. This breakthrough is crucial as it addresses the critical challenges in AV deployment, paving the way for widespread commercial use.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "As AI Increases Demands on Memory, Storage Steps Up",
+      "link": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+      "published_date": "2026-08-04T15:00:47+00:00",
+      "summary": "NVIDIA reveals that the escalating demands of AI are not just about increasing storage capacity but require innovative storage architectures that can efficiently manage and secure massive datasets, fundamentally reshaping how we approach data management in the AI era. This breakthrough is crucial as it addresses the limitations of traditional memory systems, enabling more powerful and insightful AI applications.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+      "published_date": "2026-08-04T13:00:47+00:00",
+      "summary": "The Open Secure AI Alliance, comprising over 120 organizations, has unveiled the SAFE guidelines aimed at enhancing cybersecurity transparency for agentic AI, a crucial development as the industry grapples with increasing security threats. This initiative, launched at the Black Hat conference, underscores the urgent need for standardized practices to safeguard AI systems in an era of rapid technological advancement.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "published_date": "2026-08-04T13:00:00+00:00",
+      "summary": "In July 2026, Google AI unveiled groundbreaking advancements that redefine the capabilities of artificial intelligence, showcasing innovations that promise to enhance productivity and creativity across industries. This leap forward not only solidifies Google's leadership in AI technology but also sets a new standard for what is possible in human-computer interaction.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "As US and China compete over AI, middle powers can craft a third path",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3362786/us-and-china-compete-over-ai-middle-powers-can-craft-third-path?utm_source=rss_feed",
+      "published_date": "2026-08-04T12:30:06+00:00",
+      "summary": "The emergence of the World Artificial Intelligence Cooperation Organization (WAICO) signifies a pivotal shift in the global AI landscape, enabling middle powers to forge an independent path amid the escalating rivalry between the US and China, thus redefining international cooperation and governance in technology. This breakthrough not only enhances collaboration among diverse nations but also challenges the dominance of superpowers in shaping the future of AI.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "China’s DeepSeek beefs up agentic AI with ‘harness’ tests as V4 model jolts Silicon Valley",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362792/chinas-deepseek-beefs-agentic-ai-harness-tests-v4-model-jolts-silicon-valley?utm_source=rss_feed",
-      "published_date": "2026-08-03T11:00:07+00:00",
-      "summary": "DeepSeek's introduction of the \"harness\" software aims to transform large language models into autonomous AI agents, marking a significant leap in agentic technology and challenging Silicon Valley with the cost-efficient capabilities of its new V4 Flash model. This breakthrough not only enhances the functionality of AI systems but also invites open-source collaboration, potentially reshaping the landscape of AI development.",
+      "title": "Towards an AI for Africa",
+      "link": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
+      "published_date": "2026-08-04T10:00:00+00:00",
+      "summary": "• Western AI often neglects the communal and relational ethos central to African philosophy, particularly the concept of Ubuntu.  \n• The imposition of foreign technological frameworks risks undermining local cultures and values that prioritize interconnectedness.  \n• An African-centered AI could foster a more inclusive and holistic approach to technology, aligning with the continent's diverse ethical landscapes.  \n• Embracing indigenous knowledge systems could lead to innovative AI solutions that resonate with the lived experiences of African communities.  \n• The challenge lies in balancing technological advancement with the preservation of cultural identity and social cohesion in the face of globalization.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Chinese chip-tool maker AMEC says first-half profit to nearly quadruple amid soaring demand",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3362918/chinese-chip-tool-maker-amec-says-first-half-profit-nearly-quadruple-amid-soaring-demand?utm_source=rss_feed",
+      "published_date": "2026-08-04T09:00:24+00:00",
+      "summary": "Advanced Micro-Fabrication Equipment China (AMEC) is poised to nearly quadruple its first-half profits to approximately $400 million, driven by surging demand for domestic semiconductors amid ongoing US sanctions, highlighting a significant shift in the global chip manufacturing landscape. This remarkable growth underscores China's increasing self-sufficiency in technology and its potential to reshape the semiconductor industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Ani Liu: eye heart womb",
-      "link": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art",
-      "published_date": "2026-08-03T10:01:00+00:00",
-      "summary": "• Ani Liu's work challenges societal norms by exploring the intersections of science, art, and motherhood.  \n• Through her taboo-breaking creations, she interrogates the dynamics of power and control over the human body.  \n• Liu's artistic expression serves as a medium for personal and collective reflection on bodily autonomy.  \n• The fusion of her identities as a scientist and artist invites a deeper understanding of the human experience.  \n• Her art compels viewers to reconsider their perceptions of vulnerability and strength in the context of motherhood.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Thucydides the perspicacious",
-      "link": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
-      "published_date": "2026-08-03T10:00:00+00:00",
-      "summary": "• Thucydides reveals that power dynamics in war often obscure moral truths, challenging the notion that strength equates to justice.  \n• His insights suggest that the pursuit of power can lead to a collective moral blindness among states.  \n• The historian emphasizes the cyclical nature of human behavior, where the quest for dominance perpetuates conflict.  \n• Thucydides' work serves as a timeless reminder of the ethical dilemmas inherent in political ambition and warfare.  \n• Ultimately, his analysis invites reflection on the responsibilities of power and the fragility of peace in human affairs.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "published_date": "2026-08-03T07:00:00+00:00",
-      "summary": "OpenAI's GPT-Live revolutionizes voice AI by enabling seamless, real-time interactions through a turnless speech model and low-latency architecture, paving the way for more intuitive and engaging conversational experiences. This breakthrough not only enhances user engagement but also sets a new standard for the responsiveness of AI systems in everyday applications.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
