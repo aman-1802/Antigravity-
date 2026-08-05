@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-05T02:48:46.953010+00:00",
+  "last_updated": "2026-08-05T06:06:48.533055+00:00",
   "articles": [
+    {
+      "title": "Tencent ramps up overseas AI push with wider roll-out of flagship Hy3 model",
+      "link": "https://www.scmp.com/tech/tech-war/article/3362991/tencent-ramps-overseas-ai-push-wider-rollout-flagship-hy3-model?utm_source=rss_feed",
+      "published_date": "2026-08-05T02:58:48+00:00",
+      "summary": "Tencent is significantly expanding the global availability of its flagship Hy3 artificial intelligence model, positioning itself as a formidable competitor against leading tech firms by offering the model for free through its various platforms. This strategic move not only enhances Tencent's international presence but also democratizes access to advanced AI capabilities, potentially reshaping the competitive landscape in the tech industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
       "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
@@ -32,6 +40,14 @@
       "summary": "NVIDIA reveals that the escalating demands of AI are not just about increasing storage capacity but require innovative storage architectures that can efficiently manage and secure massive datasets, fundamentally reshaping how we approach data management in the AI era. This breakthrough is crucial as it addresses the limitations of traditional memory systems, enabling more powerful and insightful AI applications.",
       "source": "NVIDIA",
       "category": "AI"
+    },
+    {
+      "title": "Top Huawei chip scientist opens up on strategy, ‘blind arrogance’ and his war-hero mindset",
+      "link": "https://www.scmp.com/tech/big-tech/article/3362960/top-huawei-chip-scientist-opens-strategy-blind-arrogance-and-his-war-hero-mindset?utm_source=rss_feed",
+      "published_date": "2026-08-04T14:29:31+00:00",
+      "summary": "Liao Heng, a leading chip scientist at Huawei, reveals his transformative journey from skepticism to spearheading China's semiconductor ambitions, emphasizing the critical need to overcome complacency in the face of global competition. His insights underscore a pivotal moment for China's tech industry as it seeks to establish itself as a powerhouse in semiconductor innovation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
