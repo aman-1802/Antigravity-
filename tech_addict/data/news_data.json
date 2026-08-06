@@ -1,12 +1,20 @@
 {
-  "last_updated": "2026-08-06T02:51:54.946774+00:00",
+  "last_updated": "2026-08-06T06:11:20.269371+00:00",
   "articles": [
     {
-      "title": "China urged to protect underwater cables amid growing fears of ocean sabotage",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3363061/china-urged-protect-underwater-cables-amid-growing-fears-ocean-sabotage?utm_source=rss_feed",
-      "published_date": "2026-08-05T14:00:13+00:00",
-      "summary": "China is being urged to implement protective legislation for its underwater fiber-optic cables in response to escalating global concerns over potential sabotage of these vital conduits that facilitate 99 percent of intercontinental data transfer, underscoring the critical need for safeguarding digital infrastructure in an increasingly interconnected world.",
-      "source": "China News",
+      "title": "China’s retaliation against US shows depth of its trade war strategy, analysts say",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3363101/chinas-retaliation-against-us-shows-depth-its-trade-war-strategy-analysts-say?utm_source=rss_feed",
+      "published_date": "2026-08-05T23:12:24+00:00",
+      "summary": "China's recent export controls and sanctions against U.S. companies reveal a sophisticated and expansive economic strategy, highlighting Beijing's readiness to leverage its trade arsenal in response to American measures, which could significantly escalate the ongoing trade war. This development not only underscores the depth of China's retaliatory capabilities but also signals a pivotal shift in the dynamics of international trade relations.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "US hawks push Trump on multibillion-dollar Taiwan arms deal ahead of Xi summit",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3363085/us-hawks-push-trump-multibillion-dollar-taiwan-arms-deal-ahead-xi-summit?utm_source=rss_feed",
+      "published_date": "2026-08-05T15:00:10+00:00",
+      "summary": "The U.S. is poised to escalate tensions with China by proposing a multibillion-dollar arms deal for Taiwan, potentially overshadowing an upcoming summit between President Trump and Xi Jinping, and highlighting the deepening rift in U.S.-China relations amid ongoing trade disputes. This significant military support underscores America's commitment to Taiwan's defense and could provoke a strong response from Beijing, further complicating diplomatic efforts.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
@@ -42,18 +50,10 @@
       "category": "Aeon"
     },
     {
-      "title": "China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources?utm_source=rss_feed",
-      "published_date": "2026-08-05T07:24:12+00:00",
-      "summary": "Chinese unicorn Moonshot AI is poised to revolutionize the tech landscape with a potential $50 billion valuation as it prepares for a Hong Kong IPO by year-end, signaling a significant shift in the global AI investment arena and highlighting China's growing influence in cutting-edge technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Tencent ramps up overseas AI push with wider roll-out of flagship Hy3 model",
-      "link": "https://www.scmp.com/tech/tech-war/article/3362991/tencent-ramps-overseas-ai-push-wider-rollout-flagship-hy3-model?utm_source=rss_feed",
-      "published_date": "2026-08-05T02:58:48+00:00",
-      "summary": "Tencent is significantly expanding the global availability of its flagship Hy3 artificial intelligence model, positioning itself as a formidable competitor against leading tech firms by offering the model for free through its various platforms. This strategic move not only enhances Tencent's international presence but also democratizes access to advanced AI capabilities, potentially reshaping the competitive landscape in the tech industry.",
+      "title": "Chinese data centre component firms hammered as US drafts ban",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3363048/chinese-data-centre-component-firms-hammered-us-drafts-ban?utm_source=rss_feed",
+      "published_date": "2026-08-05T09:22:20+00:00",
+      "summary": "The U.S. Federal Communications Commission's proposed ban on Chinese-made optical transceivers, crucial for data centers fueling AI advancements, has led to a significant drop in shares for firms like Zhongji Innolight, highlighting escalating tensions over data security and technology competition. This move not only threatens the financial stability of Chinese component manufacturers but also underscores the broader implications for global supply chains in the rapidly evolving AI landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
