@@ -1,91 +1,59 @@
 {
-  "last_updated": "2026-08-05T06:06:48.533055+00:00",
+  "last_updated": "2026-08-06T02:51:54.946774+00:00",
   "articles": [
+    {
+      "title": "China urged to protect underwater cables amid growing fears of ocean sabotage",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3363061/china-urged-protect-underwater-cables-amid-growing-fears-ocean-sabotage?utm_source=rss_feed",
+      "published_date": "2026-08-05T14:00:13+00:00",
+      "summary": "China is being urged to implement protective legislation for its underwater fiber-optic cables in response to escalating global concerns over potential sabotage of these vital conduits that facilitate 99 percent of intercontinental data transfer, underscoring the critical need for safeguarding digital infrastructure in an increasingly interconnected world.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA and Partners Build in America, for America",
+      "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "published_date": "2026-08-05T13:00:47+00:00",
+      "summary": "NVIDIA and its partners are spearheading a transformative investment in American manufacturing and infrastructure, aiming to bolster healthcare, scientific innovation, and industrial productivity, thereby reinforcing the U.S.'s position as a global technology leader. This initiative not only enhances domestic supply chains and energy grids but also cultivates a skilled workforce essential for future advancements.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Disputes over AI, robotics, trade mount ahead of planned Xi-Trump summit in US",
+      "link": "https://www.scmp.com/economy/policy/article/3363062/disputes-over-ai-robotics-trade-mount-ahead-planned-xi-trump-summit-us?utm_source=rss_feed",
+      "published_date": "2026-08-05T13:00:13+00:00",
+      "summary": "As tensions escalate ahead of the Xi-Trump summit, the emergence of disputes over artificial intelligence and robotics highlights a critical juncture in US-China relations, potentially reshaping global trade dynamics and technological collaboration. This growing rift underscores the urgent need for dialogue to address the implications of these advancements on economic ties and international stability.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
+      "link": "https://www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs?utm_source=rss_feed",
+      "published_date": "2026-08-05T10:30:19+00:00",
+      "summary": "Goldman Sachs has significantly increased its revenue forecast for China's AI market to US$13 billion, driven by remarkable advancements in technology and cost efficiency from key players, underscoring the rapid evolution and growing competitiveness of the sector. This projection highlights the transformative potential of AI in driving economic growth and innovation in China.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The last ice age",
+      "link": "https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot",
+      "published_date": "2026-08-05T10:01:00+00:00",
+      "summary": "• The journey to Vatnajökull glacier serves as a poignant reminder of the transient beauty of nature amidst the looming threat of climate change.  \n• Storytelling emerges as a powerful tool for understanding and connecting with the complex realities of our environmental crises.  \n• The personal narrative intertwines familial history with the broader narrative of climate change, highlighting our shared responsibility to the planet.  \n• Reflecting on the past allows us to confront the present challenges of climate change with a sense of urgency and purpose.  \n• The glacier, a symbol of both majesty and fragility, compels us to reconsider our relationship with the natural world and our role in its preservation.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources",
+      "link": "https://www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources?utm_source=rss_feed",
+      "published_date": "2026-08-05T07:24:12+00:00",
+      "summary": "Chinese unicorn Moonshot AI is poised to revolutionize the tech landscape with a potential $50 billion valuation as it prepares for a Hong Kong IPO by year-end, signaling a significant shift in the global AI investment arena and highlighting China's growing influence in cutting-edge technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Tencent ramps up overseas AI push with wider roll-out of flagship Hy3 model",
       "link": "https://www.scmp.com/tech/tech-war/article/3362991/tencent-ramps-overseas-ai-push-wider-rollout-flagship-hy3-model?utm_source=rss_feed",
       "published_date": "2026-08-05T02:58:48+00:00",
       "summary": "Tencent is significantly expanding the global availability of its flagship Hy3 artificial intelligence model, positioning itself as a formidable competitor against leading tech firms by offering the model for free through its various platforms. This strategic move not only enhances Tencent's international presence but also democratizes access to advanced AI capabilities, potentially reshaping the competitive landscape in the tech industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "published_date": "2026-08-04T19:00:00+00:00",
-      "summary": "OpenAI has unveiled significant advancements in third-party cybersecurity evaluations of its models, introducing robust new safeguards that enhance the integrity and reliability of AI testing, a critical step in ensuring the responsible deployment of artificial intelligence in an increasingly vulnerable digital landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-      "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-      "published_date": "2026-08-04T16:00:56+00:00",
-      "summary": "NVIDIA's collaboration with the NSF to establish State and Regional AI Hubs marks a significant leap in democratizing access to advanced AI resources, fostering innovation and education across the U.S. This initiative not only enhances research capabilities but also aligns with national goals to cultivate a robust AI workforce and infrastructure.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-      "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "published_date": "2026-08-04T15:00:49+00:00",
-      "summary": "NVIDIA's Alpamayo 2 Super revolutionizes the landscape for robotaxis and autonomous vehicles by enabling them to effectively navigate rare and complex scenarios that traditional systems struggle with, significantly enhancing their safety and reliability in unpredictable environments. This breakthrough is crucial as it addresses the critical challenges in AV deployment, paving the way for widespread commercial use.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "As AI Increases Demands on Memory, Storage Steps Up",
-      "link": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-      "published_date": "2026-08-04T15:00:47+00:00",
-      "summary": "NVIDIA reveals that the escalating demands of AI are not just about increasing storage capacity but require innovative storage architectures that can efficiently manage and secure massive datasets, fundamentally reshaping how we approach data management in the AI era. This breakthrough is crucial as it addresses the limitations of traditional memory systems, enabling more powerful and insightful AI applications.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Top Huawei chip scientist opens up on strategy, ‘blind arrogance’ and his war-hero mindset",
-      "link": "https://www.scmp.com/tech/big-tech/article/3362960/top-huawei-chip-scientist-opens-strategy-blind-arrogance-and-his-war-hero-mindset?utm_source=rss_feed",
-      "published_date": "2026-08-04T14:29:31+00:00",
-      "summary": "Liao Heng, a leading chip scientist at Huawei, reveals his transformative journey from skepticism to spearheading China's semiconductor ambitions, emphasizing the critical need to overcome complacency in the face of global competition. His insights underscore a pivotal moment for China's tech industry as it seeks to establish itself as a powerhouse in semiconductor innovation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "published_date": "2026-08-04T13:00:47+00:00",
-      "summary": "The Open Secure AI Alliance, comprising over 120 organizations, has unveiled the SAFE guidelines aimed at enhancing cybersecurity transparency for agentic AI, a crucial development as the industry grapples with increasing security threats. This initiative, launched at the Black Hat conference, underscores the urgent need for standardized practices to safeguard AI systems in an era of rapid technological advancement.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "published_date": "2026-08-04T13:00:00+00:00",
-      "summary": "In July 2026, Google AI unveiled groundbreaking advancements that redefine the capabilities of artificial intelligence, showcasing innovations that promise to enhance productivity and creativity across industries. This leap forward not only solidifies Google's leadership in AI technology but also sets a new standard for what is possible in human-computer interaction.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "As US and China compete over AI, middle powers can craft a third path",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3362786/us-and-china-compete-over-ai-middle-powers-can-craft-third-path?utm_source=rss_feed",
-      "published_date": "2026-08-04T12:30:06+00:00",
-      "summary": "The emergence of the World Artificial Intelligence Cooperation Organization (WAICO) signifies a pivotal shift in the global AI landscape, enabling middle powers to forge an independent path amid the escalating rivalry between the US and China, thus redefining international cooperation and governance in technology. This breakthrough not only enhances collaboration among diverse nations but also challenges the dominance of superpowers in shaping the future of AI.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Towards an AI for Africa",
-      "link": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
-      "published_date": "2026-08-04T10:00:00+00:00",
-      "summary": "• Western AI often neglects the communal and relational ethos central to African philosophy, particularly the concept of Ubuntu.  \n• The imposition of foreign technological frameworks risks undermining local cultures and values that prioritize interconnectedness.  \n• An African-centered AI could foster a more inclusive and holistic approach to technology, aligning with the continent's diverse ethical landscapes.  \n• Embracing indigenous knowledge systems could lead to innovative AI solutions that resonate with the lived experiences of African communities.  \n• The challenge lies in balancing technological advancement with the preservation of cultural identity and social cohesion in the face of globalization.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Chinese chip-tool maker AMEC says first-half profit to nearly quadruple amid soaring demand",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3362918/chinese-chip-tool-maker-amec-says-first-half-profit-nearly-quadruple-amid-soaring-demand?utm_source=rss_feed",
-      "published_date": "2026-08-04T09:00:24+00:00",
-      "summary": "Advanced Micro-Fabrication Equipment China (AMEC) is poised to nearly quadruple its first-half profits to approximately $400 million, driven by surging demand for domestic semiconductors amid ongoing US sanctions, highlighting a significant shift in the global chip manufacturing landscape. This remarkable growth underscores China's increasing self-sufficiency in technology and its potential to reshape the semiconductor industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
