@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T02:50:06.931286+00:00",
+  "last_updated": "2026-08-07T05:14:51.064585+00:00",
   "articles": [
     {
       "title": "Aug 7, 2026Product",
@@ -24,14 +24,6 @@
       "summary": "NVIDIA's commitment to an open ecosystem for AI, as demonstrated by its collaboration with over 200 organizations in advocating for \"Open Weights and American AI Leadership,\" signifies a pivotal shift towards democratizing AI advancements, emphasizing that true leadership lies in widespread accessibility and integration across diverse sectors rather than reliance on singular models. This breakthrough could redefine how industries leverage AI, fostering innovation and collaboration on an unprecedented scale.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "China’s MLCC supply chain expanding rapidly amid surge in global AI demand",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3363190/chinas-mlcc-supply-chain-expanding-rapidly-amid-surge-global-ai-demand?utm_source=rss_feed",
-      "published_date": "2026-08-06T11:30:08+00:00",
-      "summary": "China's rapid expansion of its multilayer ceramic capacitor (MLCC) supply chain, driven by soaring global demand for AI technologies, positions the country as a pivotal player in the electronics sector, crucial for powering the next wave of artificial intelligence applications. This surge in production capacity not only underscores the strategic importance of MLCCs in modern electronics but also reflects China's growing influence in the global tech landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     },
     {
       "title": "The great arc",
