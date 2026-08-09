@@ -1,44 +1,20 @@
 {
-  "last_updated": "2026-08-08T04:35:37.789619+00:00",
+  "last_updated": "2026-08-09T02:00:26.268146+00:00",
   "articles": [
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published_date": "2026-08-07T15:20:00+00:00",
-      "summary": "OpenAI is unveiling groundbreaking cybersecurity evaluations for its Astra platform, marking a significant advancement in critical cyber capabilities that aim to enhance safeguards and security controls, thereby setting a new standard for protecting digital infrastructures. This initiative not only addresses current vulnerabilities but also positions OpenAI at the forefront of cybersecurity innovation in an increasingly complex threat landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363351/cambricon-posts-108-surge-first-half-revenue-amid-chinas-massive-ai-chip-drive?utm_source=rss_feed",
-      "published_date": "2026-08-07T12:54:54+00:00",
-      "summary": "Cambricon Technologies has achieved a remarkable 108% increase in first-half revenue, driven by China's aggressive initiative to replace foreign AI hardware, highlighting the nation's commitment to becoming self-sufficient in advanced technology and signaling a significant shift in the global AI chip landscape. This surge, with profits soaring 122.6% to 2.3 billion yuan, underscores the growing demand for domestic AI solutions amid geopolitical tensions.",
-      "source": "SCMP Tech",
+      "title": "How Beijing’s hypersonic ‘carrier killers’ could distract US forces in a Taiwan conflict",
+      "link": "https://www.scmp.com/news/china/military/article/3363386/how-chinas-hypersonic-carrier-killers-could-distract-us-forces-taiwan-conflict?utm_source=rss_feed",
+      "published_date": "2026-08-08T14:00:05+00:00",
+      "summary": "Beijing's development of hypersonic anti-ship missiles, exemplified by the recent launch from a Type 052D destroyer, significantly enhances its naval capabilities and poses a strategic challenge to US forces, potentially diverting their attention during a Taiwan conflict. This advancement underscores China's growing military prowess and its implications for regional security dynamics.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
-      "title": "Beyond lithography: Chinese chip toolmaker achieves wafer polishing breakthrough",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3363308/beyond-lithography-chinese-chip-toolmaker-achieves-wafer-polishing-breakthrough?utm_source=rss_feed",
-      "published_date": "2026-08-07T10:30:07+00:00",
-      "summary": "Chinese chip-tool developer Hwatsing Technology has achieved a significant breakthrough in wafer polishing, introducing an ultra-precise metrology system for six-inch wafers that enhances the manufacturing process of silicon discs, highlighting China's growing capabilities in semiconductor production despite ongoing reliance on foreign technology for more complex procedures. This advancement not only strengthens China's position in the global chip industry but also paves the way for greater self-sufficiency in semiconductor manufacturing.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Sasquatch science",
-      "link": "https://aeon.co/essays/the-surprisingly-scientific-methods-of-bigfooters",
-      "published_date": "2026-08-07T10:00:00+00:00",
-      "summary": "• The quest for Sasquatch challenges the boundaries of scientific inquiry, revealing the tension between belief and empirical evidence.  \n• Enthusiasts of Bigfoot embody a paradox, merging folklore with rigorous investigation in their pursuit of the elusive creature.  \n• The search for Sasquatch invites reflection on the nature of evidence, questioning what constitutes valid proof in the realm of the unknown.  \n• Engaging with the myth of Bigfoot allows for a deeper exploration of human curiosity and the desire to connect with the mysteries of nature.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "published_date": "2026-08-07T09:00:00+00:00",
-      "summary": "HSP GRUPPE is revolutionizing the tax advisory landscape by leveraging ChatGPT Enterprise to enhance productivity and work quality, ultimately freeing up resources to better serve clients. This breakthrough not only streamlines operations but also sets a new standard for efficiency in the financial services sector.",
-      "source": "OpenAI",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "published_date": "2026-08-08T10:24:54+00:00",
+      "summary": "Firebird has unveiled the CIS region's largest AI factory in Armenia, marking a significant advancement in AI infrastructure by leveraging NVIDIA's accelerated computing and Dell Technologies' high-performance systems, positioning Armenia as a pivotal hub in the global AI landscape. This breakthrough not only enhances regional technological capabilities but also underscores the growing importance of AI in driving economic development and innovation.",
+      "source": "NVIDIA",
       "category": "AI"
     }
   ]
