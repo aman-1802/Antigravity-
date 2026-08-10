@@ -1,12 +1,28 @@
 {
-  "last_updated": "2026-08-10T02:04:58.785721+00:00",
+  "last_updated": "2026-08-10T05:06:20.872068+00:00",
   "articles": [
     {
-      "title": "China is using AI facial ID to track migrating fish in Tibet’s largest river",
-      "link": "https://www.scmp.com/news/china/science/article/3363112/china-using-ai-facial-id-track-migrating-fish-tibets-largest-river?utm_source=rss_feed",
-      "published_date": "2026-08-10T02:00:14+00:00",
-      "summary": "China's innovative use of AI facial recognition technology to monitor migrating fish in Tibet's largest river marks a significant leap in wildlife conservation, transforming labor-intensive tracking methods into a streamlined, efficient system that enhances the protection of unique aquatic species in the region. This breakthrough not only underscores the potential of AI in environmental monitoring but also highlights China's commitment to preserving biodiversity amidst infrastructural development.",
-      "source": "China News",
+      "title": "China’s top AI is still trained on Nvidia chips. What is delaying a switch to local tech?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech?utm_source=rss_feed",
+      "published_date": "2026-08-10T05:00:23+00:00",
+      "summary": "China's leading AI models remain reliant on Nvidia chips due to the high costs and engineering challenges of transitioning to local semiconductor technology, highlighting a significant hurdle in the nation's ambition for technological self-sufficiency. This dependency underscores the ongoing struggle between rapid AI development and the quest for domestic innovation in critical hardware.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking",
+      "link": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
+      "published_date": "2026-08-10T05:00:21+00:00",
+      "summary": "The inclusion of ChangXin Memory Technologies (CXMT) in the MSCI China All Shares Index marks a significant breakthrough for the company, potentially solidifying its status as the leading stock in the onshore market and attracting substantial passive investment inflows, which underscores the growing importance of China's semiconductor industry in the global landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
+      "published_date": "2026-08-09T11:20:44+00:00",
+      "summary": "Moore Threads, a Chinese AI chip developer, is set to list in Hong Kong following a staggering 147% surge in first-half revenue, highlighting the escalating demand for domestic computing power and positioning the company as a formidable competitor to Nvidia in the global market. This strategic move aims to bolster its international presence and secure vital capital to fuel further growth.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
