@@ -1,6 +1,110 @@
 {
-  "last_updated": "2026-08-10T05:06:20.872068+00:00",
+  "last_updated": "2026-08-11T01:59:59.416053+00:00",
   "articles": [
+    {
+      "title": "China moves to join Brazil’s WTO fight over Trump’s forced labour tariffs",
+      "link": "https://www.scmp.com/news/us/article/3363585/china-moves-join-brazils-wto-fight-over-trumps-forced-labour-tariffs?utm_source=rss_feed",
+      "published_date": "2026-08-10T22:05:12+00:00",
+      "summary": "China's strategic request to join Brazil's WTO challenge against U.S. tariffs signals a significant shift in global trade dynamics, as it underscores Beijing's intent to protect its economic interests and potentially reshape international trade rules in response to American protectionism. This development not only highlights the growing tensions between major economies but also raises the stakes for future trade negotiations and alliances.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Nvidia to team with Wall Street on US$500 billion package for AI infrastructure projects",
+      "link": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed",
+      "published_date": "2026-08-10T18:18:48+00:00",
+      "summary": "Nvidia is set to collaborate with major Wall Street investment firms on a groundbreaking $500 billion initiative to enhance AI infrastructure, marking a significant leap in funding that could accelerate the development and deployment of AI technologies across various sectors. This unprecedented partnership underscores the growing recognition of AI's transformative potential and the urgent need for robust infrastructure to support its expansion.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "published_date": "2026-08-10T17:00:00+00:00",
+      "summary": "OpenAI CFO Sarah Friar reveals transformative insights on creating an AI-native finance function, emphasizing the profound impact of automation on forecasting accuracy and financial controls, which could redefine efficiency and profitability in the finance sector. This approach not only enhances operational effectiveness but also sets a new standard for measuring AI's return on investment in business environments.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "published_date": "2026-08-10T14:59:21+00:00",
+      "summary": "Apple and Major League Baseball have partnered to announce a September schedule for \"Friday Night Baseball,\" marking a significant expansion of Apple's sports streaming offerings and enhancing its competitive edge in the live sports broadcasting arena. This collaboration not only elevates the viewing experience for baseball fans but also underscores the growing importance of exclusive sports content in attracting subscribers to streaming platforms.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Evolve your marketing with new AI tools",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "published_date": "2026-08-10T14:30:00+00:00",
+      "summary": "Google AI has unveiled groundbreaking Advisor UI tools in Google Ads and Google Analytics, revolutionizing marketing strategies by leveraging advanced artificial intelligence to optimize ad performance and enhance data-driven decision-making, ultimately empowering businesses to achieve unprecedented growth and efficiency.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "published_date": "2026-08-10T14:00:00+00:00",
+      "summary": "OpenAI has pledged to Governor Abbott its dedication to establishing a responsible AI infrastructure in Texas, emphasizing the importance of reliable and transparent growth that prioritizes the welfare of Texans. This initiative signals a significant step towards ensuring that AI development aligns with ethical standards and community benefits in one of the nation's leading tech hubs.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Powerful anti-drone laser spotted on PLA amphibious ship in South China Sea",
+      "link": "https://www.scmp.com/news/china/military/article/3363564/powerful-anti-drone-laser-spotted-pla-amphibious-ship-south-china-sea?utm_source=rss_feed",
+      "published_date": "2026-08-10T13:03:37+00:00",
+      "summary": "China has unveiled its most advanced laser weapon, the Liaoyuan-1, aboard a Type 071 amphibious landing ship in the South China Sea, significantly enhancing its near-shore anti-drone capabilities and bolstering military readiness in a region fraught with tensions. This breakthrough not only underscores China's commitment to modernizing its naval forces but also raises the stakes in potential conflicts over contested waters.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "link": "https://openai.com/index/model-ml",
+      "published_date": "2026-08-10T12:00:00+00:00",
+      "summary": "Model ML's integration of GPT-5.6 Sol revolutionizes finance operations by streamlining the entire process from research and analysis to the creation of editable, traceable PowerPoint decks and Excel workbooks, significantly enhancing efficiency and accuracy in financial workflows. This breakthrough not only accelerates decision-making but also empowers finance professionals with advanced AI capabilities, setting a new standard in the industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "AgiBot overtakes Unitree as top global humanoid robot vendor in first half amid IPO push",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push?utm_source=rss_feed",
+      "published_date": "2026-08-10T11:30:09+00:00",
+      "summary": "AgiBot has emerged as the leading global humanoid robot vendor in the first half of 2026, eclipsing Unitree Robotics with a remarkable 44 percent market share, a significant milestone that underscores the rapid growth and competitive landscape of the humanoid robotics sector as both companies gear up for IPOs amid a burgeoning physical AI revolution.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Khosheutovsky khurul",
+      "link": "https://aeon.co/videos/the-strange-circuitous-history-of-europes-oldest-buddhist-temple",
+      "published_date": "2026-08-10T10:01:00+00:00",
+      "summary": "• The Khosheutovsky khurul stands as a testament to the intersection of culture, memory, and spirituality in a foreign land.  \n• Its existence challenges conventional narratives of European history by incorporating Buddhist influences into a predominantly Christian landscape.  \n• The temple symbolizes the resilience of identity and faith amidst the complexities of war and colonization.  \n• In honoring the Kalmyk regiment, it reflects on the often-overlooked contributions of marginalized communities in shaping history.  \n• The architectural anomaly invites contemplation on how places of worship can bridge diverse cultural legacies and foster understanding.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "published_date": "2026-08-10T10:00:00+00:00",
+      "summary": "OpenAI has unveiled GPT-5.6-Cyber, a groundbreaking cybersecurity model designed for vulnerability research and exploit validation, significantly enhancing the capabilities of the Daybreak Red platform as the urgency for robust cyber defense intensifies. This innovation not only empowers security professionals with advanced tools but also addresses the critical need for proactive measures in an increasingly hostile digital landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Putting frontier cyber models in more trusted hands",
+      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "published_date": "2026-08-10T10:00:00+00:00",
+      "summary": "OpenAI's new initiative allows approved Daybreak partners to leverage advanced frontier cyber models, significantly enhancing the delivery of secure and governed cybersecurity services, which is crucial for protecting sensitive data in an increasingly digital world. This breakthrough not only democratizes access to cutting-edge cybersecurity technology but also strengthens trust in digital security solutions.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How we meet the future",
+      "link": "https://aeon.co/essays/when-is-stereotyping-a-handy-tool-and-when-is-it-a-sin",
+      "published_date": "2026-08-10T10:00:00+00:00",
+      "summary": "• Generalizations help us navigate the complexity of the world, but they can lead to oversimplification and misunderstanding.  \n• The tension between the need for categorization and the dangers of stereotyping reveals the intricacies of human perception.  \n• Stereotyping may provide a cognitive shortcut, yet it often obscures the rich diversity of individual experiences.  \n• Our ability to predict and prepare for the future hinges on balancing generalizations with an appreciation for nuance.  \n• Embracing complexity can empower us to engage more authentically with others, fostering deeper connections in an increasingly interconnected world.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "China’s top AI is still trained on Nvidia chips. What is delaying a switch to local tech?",
       "link": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech?utm_source=rss_feed",
@@ -14,30 +118,6 @@
       "link": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
       "published_date": "2026-08-10T05:00:21+00:00",
       "summary": "The inclusion of ChangXin Memory Technologies (CXMT) in the MSCI China All Shares Index marks a significant breakthrough for the company, potentially solidifying its status as the leading stock in the onshore market and attracting substantial passive investment inflows, which underscores the growing importance of China's semiconductor industry in the global landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
-      "published_date": "2026-08-09T11:20:44+00:00",
-      "summary": "Moore Threads, a Chinese AI chip developer, is set to list in Hong Kong following a staggering 147% surge in first-half revenue, highlighting the escalating demand for domestic computing power and positioning the company as a formidable competitor to Nvidia in the global market. This strategic move aims to bolster its international presence and secure vital capital to fuel further growth.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China races to develop brain-computer interfaces that can be inserted in 10 minutes",
-      "link": "https://www.scmp.com/business/companies/article/3363443/china-races-develop-brain-computer-interfaces-can-be-inserted-10-minutes?utm_source=rss_feed",
-      "published_date": "2026-08-09T09:50:10+00:00",
-      "summary": "Chinese start-ups are rapidly advancing brain-computer interfaces that can be implanted in just 10 minutes through a minimally invasive procedure, positioning the nation to compete with established players like Neuralink and revolutionizing how patients interact with technology using only their thoughts. This breakthrough not only accelerates the accessibility of BCIs but also highlights China's commitment to leading in cutting-edge neurotechnology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s AI models spooked Wall Street. But they may turbocharge industry growth",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363381/chinas-ai-models-spooked-wall-street-they-may-turbocharge-industry-growth?utm_source=rss_feed",
-      "published_date": "2026-08-09T09:00:06+00:00",
-      "summary": "China's advancements in affordable open-weight AI models have unsettled Wall Street, yet analysts predict that the significant drop in model costs will ultimately fuel unprecedented growth in the global AI industry by driving demand for AI systems.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
