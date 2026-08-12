@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T02:12:57.503407+00:00",
+  "last_updated": "2026-08-12T05:15:05.308821+00:00",
   "articles": [
     {
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
@@ -8,14 +8,6 @@
       "summary": "NVIDIA's groundbreaking initiative to transform AI factory compute into an investable asset class, backed by partnerships with financial giants like BlackRock and Goldman Sachs, aims to mobilize over $500 billion in capital for AI infrastructure development, marking a pivotal shift in how AI technologies are funded and scaled. This move not only solidifies NVIDIA's leadership in the AI sector but also opens new avenues for investment and innovation in the rapidly evolving tech landscape.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "US faults China over opaque overseas lending, warns of emerging-market debt risks",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3363707/us-faults-china-over-opaque-overseas-lending-warns-emerging-market-debt-risks?utm_source=rss_feed",
-      "published_date": "2026-08-11T20:55:55+00:00",
-      "summary": "The United States has raised alarms over China's opaque overseas lending practices, highlighting that the resulting lack of transparency could lead to significant debt risks and defaults in emerging markets, a situation that could destabilize global financial systems. This warning underscores the urgent need for improved financial transparency to safeguard against potential economic crises.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
     },
     {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -34,14 +26,6 @@
       "category": "AI"
     },
     {
-      "title": "China’s hypersonic weapons can be guided by the stars if GPS fails: report",
-      "link": "https://www.scmp.com/news/china/science/article/3363612/chinas-hypersonic-weapons-can-be-guided-stars-if-gps-fails-report?utm_source=rss_feed",
-      "published_date": "2026-08-11T15:00:06+00:00",
-      "summary": "China has achieved a significant breakthrough in hypersonic weaponry by developing a star-based navigation system that enables these weapons to operate effectively even when GPS or BeiDou satellite systems are compromised, enhancing their reliability and strategic advantage in modern warfare. This advancement not only underscores China's growing military capabilities but also poses a formidable challenge to global defense systems reliant on satellite navigation.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
       "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
       "link": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
       "published_date": "2026-08-11T13:59:21+00:00",
@@ -56,14 +40,6 @@
       "summary": "NVIDIA is revolutionizing the AI landscape by empowering local developers and enthusiasts with open source models and intelligent agents, facilitating the creation and customization of advanced AI applications that can be run directly on personal devices. This initiative not only enhances accessibility but also accelerates innovation in the AI community, marking a significant shift towards decentralized AI development.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "China is pitching its AI models to Europe, but is it enough to avoid 2-horse race with US?",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3363649/china-pitching-its-ai-models-europe-it-enough-avoid-2-horse-race-us?utm_source=rss_feed",
-      "published_date": "2026-08-11T13:00:10+00:00",
-      "summary": "China's aggressive pitch of its AI models to Europe highlights a critical juncture in the global tech landscape, as the continent grapples with the challenge of establishing a distinct third pole in the face of a burgeoning US-China rivalry, which could redefine international technological alliances and supply chains. This development underscores the urgency for Europe to innovate and collaborate to avoid being overshadowed in the race for AI supremacy.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
     },
     {
       "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
