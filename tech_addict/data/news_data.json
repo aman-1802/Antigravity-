@@ -1,101 +1,53 @@
 {
-  "last_updated": "2026-08-12T05:15:05.308821+00:00",
+  "last_updated": "2026-08-13T02:17:31.573858+00:00",
   "articles": [
     {
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "published_date": "2026-08-12T00:38:21+00:00",
-      "summary": "NVIDIA's groundbreaking initiative to transform AI factory compute into an investable asset class, backed by partnerships with financial giants like BlackRock and Goldman Sachs, aims to mobilize over $500 billion in capital for AI infrastructure development, marking a pivotal shift in how AI technologies are funded and scaled. This move not only solidifies NVIDIA's leadership in the AI sector but also opens new avenues for investment and innovation in the rapidly evolving tech landscape.",
+      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "link": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "published_date": "2026-08-12T14:00:00+00:00",
+      "summary": "NVIDIA CEO Jensen Huang has been named the top CEO on Glassdoor's 2026 list, achieving an impressive 99% employee approval rating, a testament to his leadership during a pivotal era of AI innovation and evolving workplace expectations. This recognition underscores the critical role of effective leadership in driving technological advancement and employee satisfaction in the competitive tech landscape.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "published_date": "2026-08-11T17:00:00+00:00",
-      "summary": "Google AI's groundbreaking AMIE system showcases unprecedented real-time clinical video consultation capabilities, revolutionizing telemedicine by enabling instant, AI-assisted medical evaluations and potentially transforming patient care accessibility and efficiency.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-      "link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-      "published_date": "2026-08-11T15:00:06+00:00",
-      "summary": "NVIDIA reveals that the future of accelerated computing hinges on a revolutionary power architecture that transcends traditional AC delivery, addressing critical challenges in compute performance and efficiency as demand for AI capabilities surges. This breakthrough is essential for unlocking the full potential of next-generation GPUs and ensuring scalable, high-density computing environments.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "published_date": "2026-08-11T13:59:21+00:00",
-      "summary": "Apple Arcade enhances its gaming portfolio with the introduction of Block Blast!+ and Art of Fauna: Cozy Puzzles+, offering subscribers fresh, engaging puzzle experiences that elevate the platform's appeal in the competitive gaming landscape. This expansion not only enriches user engagement but also solidifies Apple Arcade's commitment to delivering high-quality, diverse content to its audience.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-      "published_date": "2026-08-11T13:00:25+00:00",
-      "summary": "NVIDIA is revolutionizing the AI landscape by empowering local developers and enthusiasts with open source models and intelligent agents, facilitating the creation and customization of advanced AI applications that can be run directly on personal devices. This initiative not only enhances accessibility but also accelerates innovation in the AI community, marking a significant shift towards decentralized AI development.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "published_date": "2026-08-11T13:00:05+00:00",
-      "summary": "NVIDIA's launch of the Nemotron 3.5 Lightning marks a significant leap in agentic AI technology, offering unparalleled efficiency and control for long-running autonomous applications, which is crucial as the industry shifts towards more sophisticated AI deployments. This breakthrough not only enhances performance but also empowers developers with the flexibility to tailor AI solutions to their specific needs.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Alibaba tests paid AI appetite with US$30 annual office-assistant subscription",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363656/alibaba-tests-paid-ai-appetite-us30-annual-qwenwork-subscription?utm_source=rss_feed",
-      "published_date": "2026-08-11T11:30:07+00:00",
-      "summary": "Alibaba is pioneering the monetization of AI with its Qwen app, introducing a tiered subscription model for its digital office assistant, which could redefine how businesses and consumers value and invest in AI technology. This move not only tests market readiness for paid AI services but also positions Alibaba at the forefront of a potentially lucrative sector in the tech landscape.",
+      "title": "Fund backed by China memory giant YMTC invests in push for alternative chipmaking route",
+      "link": "https://www.scmp.com/tech/article/3363797/fund-backed-china-memory-giant-ymtc-invests-push-alternative-chipmaking-route?utm_source=rss_feed",
+      "published_date": "2026-08-12T13:00:07+00:00",
+      "summary": "A venture capital fund backed by China's leading NAND flash memory producer, YMTC, has invested in SOI Micro, a domestic semiconductor manufacturer pioneering fully depleted silicon-on-insulator technology, marking a significant step towards establishing an alternative chipmaking ecosystem in China. This breakthrough is crucial as it enhances the country's semiconductor capabilities and reduces reliance on foreign technology amid ongoing global supply chain challenges.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Alibaba says modular design delivers AI data centres in 100 days at 10% lower cost",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363637/alibaba-says-modular-design-delivers-ai-data-centres-100-days-10-lower-cost?utm_source=rss_feed",
-      "published_date": "2026-08-11T10:00:16+00:00",
-      "summary": "Alibaba's innovative modular design enables the rapid construction of AI data centres in just 100 days, significantly reducing costs by 10%, a breakthrough that positions the company to meet the soaring demand for AI infrastructure more efficiently than ever before.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published_date": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI is testing ads in ChatGPT to sustain free access, introducing a model that ensures clear labeling, maintains answer independence, and prioritizes user privacy and control, potentially reshaping the landscape of AI interaction and monetization. This breakthrough could redefine how users engage with AI while balancing revenue generation and user experience.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Daybreak models are now available on AWS",
-      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "published_date": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI's Daybreak cybersecurity models are now accessible on AWS via Amazon Bedrock, revolutionizing enterprise security workflows by integrating advanced AI capabilities to enhance threat detection and response. This partnership marks a significant leap forward in leveraging cutting-edge technology to safeguard organizations against evolving cyber threats.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "A second sexual revolution",
-      "link": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
-      "published_date": "2026-08-11T10:00:00+00:00",
-      "summary": "• Shere Hite's Report revolutionized the understanding of female sexuality by amplifying women's voices and experiences.  \n• Prior to Hite, sexologists largely ignored women's desires, perpetuating a one-dimensional view of sexual pleasure.  \n• The report challenged societal norms, revealing the complexities of female sexual satisfaction and dissatisfaction.  \n• Hite's work ignited a broader conversation about gender dynamics and the necessity of inclusive sexual discourse.  \n• Ultimately, the second sexual revolution redefined intimacy, urging society to embrace a more nuanced understanding of sexual relationships.",
+      "title": "Bouncy brothers",
+      "link": "https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream",
+      "published_date": "2026-08-12T10:01:00+00:00",
+      "summary": "• The bouncy house business symbolizes the delicate balance between familial bonds and the pressures of entrepreneurial success.  \n• As the brothers navigate challenges, their relationship reveals the complexities of loyalty and ambition intertwined.  \n• The inflatable structure serves as a metaphor for the highs and lows of life, reflecting both joy and instability.  \n• Ultimately, the brothers' journey prompts reflection on what it truly means to succeed in a world that often prioritizes profit over personal connections.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Meta to challenge China’s open-weight AI dominance amid US regulatory fears",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363638/meta-challenge-chinas-open-weight-ai-dominance-amid-us-regulatory-fears?utm_source=rss_feed",
-      "published_date": "2026-08-11T07:30:39+00:00",
-      "summary": "Meta Platforms is set to disrupt China's lead in open-weight AI with the launch of Muse Glimmer, a powerful 30-billion-parameter model that can operate on personal computers, positioning itself as a viable alternative for American customers wary of impending regulatory challenges. This strategic move not only enhances Meta's competitive edge but also underscores the growing importance of open-source AI in the global tech landscape.",
+      "title": "Tencent capex jumps 176% on AI push as revenue beats estimates",
+      "link": "https://www.scmp.com/tech/big-tech/article/3363786/tencent-capex-jumps-176-ai-push-revenue-beats-estimates?utm_source=rss_feed",
+      "published_date": "2026-08-12T09:26:53+00:00",
+      "summary": "Tencent's staggering 176% increase in capital expenditure to bolster its AI initiatives has not only propelled its revenue to an impressive 204.8 billion yuan, surpassing analyst expectations, but also underscores the company's commitment to leading the AI revolution in the tech industry. This strategic investment positions Tencent at the forefront of innovation, potentially reshaping its market influence and growth trajectory.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "Chinese AI start-up ModelBest, partner to Samsung and Huawei, launches pre-IPO process",
+      "link": "https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing?utm_source=rss_feed",
+      "published_date": "2026-08-12T07:26:50+00:00",
+      "summary": "Chinese AI start-up ModelBest has initiated its pre-IPO process, positioning itself to capitalize on the surging demand for compact AI models that operate locally on devices, while strategically addressing China's chip shortages with lightweight, optimized systems. This breakthrough could redefine the landscape of AI deployment in consumer technology and automotive sectors, potentially reshaping market dynamics in the face of geopolitical challenges.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "published_date": "2026-08-12T06:00:00+00:00",
+      "summary": "OpenAI's latest research highlights a transformative shift in enterprise AI adoption, showcasing how companies are leveraging agentic AI tools like ChatGPT and Codex to not just assist but actively execute tasks, positioning themselves at the forefront of innovation and efficiency in the competitive landscape. This breakthrough underscores the potential for AI to redefine operational capabilities and drive significant business growth.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
