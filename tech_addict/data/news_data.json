@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-13T02:17:31.573858+00:00",
+  "last_updated": "2026-08-13T05:18:08.734569+00:00",
   "articles": [
+    {
+      "title": "China’s YMTC breaks into global top 3 flash-memory suppliers for first time",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3363854/chinas-ymtc-breaks-global-top-three-flash-memory-suppliers-first-time?utm_source=rss_feed",
+      "published_date": "2026-08-13T05:00:08+00:00",
+      "summary": "Yangtze Memory Technologies Corp (YMTC) has achieved a historic milestone by becoming the world's third-largest NAND flash memory supplier, capturing 14 percent of global shipments, which underscores China's growing prowess in the semiconductor industry and its strategic push to compete with established global players in high-value data-center storage.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "US-China rivalry takes flight over scramble for contracts at Ethiopia’s Bishoftu airport",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3363853/us-china-rivalry-takes-flight-over-scramble-contracts-ethiopias-bishoftu-airport?utm_source=rss_feed",
+      "published_date": "2026-08-13T04:24:37+00:00",
+      "summary": "Ethiopia's ambitious $12.5 billion Bishoftu International Airport project is igniting a fierce geopolitical battle between the US and China, as both nations vie for influence in Africa's burgeoning trade and travel landscape. This mega-airport not only positions Ethiopia as a critical hub but also underscores the escalating rivalry between superpowers in securing strategic infrastructure contracts on the continent.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s ‘brain chip’ drive accelerates with slew of state-backed initiatives",
+      "link": "https://www.scmp.com/business/china-business/article/3363799/chinas-brain-chip-drive-accelerates-slew-state-backed-initiatives?utm_source=rss_feed",
+      "published_date": "2026-08-13T04:00:11+00:00",
+      "summary": "China is rapidly advancing its brain-computer interface technology through a series of state-backed initiatives, positioning itself to potentially realize Elon Musk's vision of treating chronic health conditions with brain chips faster than any other country. This coordinated effort not only highlights China's commitment to innovation in healthcare but also raises significant implications for the future of medical treatments and neurotechnology on a global scale.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
       "link": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
@@ -34,10 +58,10 @@
       "category": "SCMP"
     },
     {
-      "title": "Chinese AI start-up ModelBest, partner to Samsung and Huawei, launches pre-IPO process",
-      "link": "https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing?utm_source=rss_feed",
-      "published_date": "2026-08-12T07:26:50+00:00",
-      "summary": "Chinese AI start-up ModelBest has initiated its pre-IPO process, positioning itself to capitalize on the surging demand for compact AI models that operate locally on devices, while strategically addressing China's chip shortages with lightweight, optimized systems. This breakthrough could redefine the landscape of AI deployment in consumer technology and automotive sectors, potentially reshaping market dynamics in the face of geopolitical challenges.",
+      "title": "Zuckerberg cites China threat to US lead in AI manifesto",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3363781/zuckerberg-cites-china-threat-us-lead-ai-manifesto?utm_source=rss_feed",
+      "published_date": "2026-08-12T09:21:28+00:00",
+      "summary": "Mark Zuckerberg's extensive manifesto on artificial intelligence warns that overregulation could jeopardize U.S. leadership in the field, emphasizing the need for open-weight models to counter China's advancing capabilities, which he argues are crucial for national prosperity and security. This call to action highlights the urgent need for a balanced approach to AI governance to maintain competitive advantage on the global stage.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
