@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-14T02:13:18.250260+00:00",
+  "last_updated": "2026-08-14T05:15:00.492691+00:00",
   "articles": [
+    {
+      "title": "SMIC weighs more capacity as AI-related chip demand exceeds forecasts",
+      "link": "https://www.scmp.com/tech/big-tech/article/3363996/smic-weighs-more-capacity-ai-related-chip-demand-exceeds-forecasts?utm_source=rss_feed",
+      "published_date": "2026-08-14T05:00:14+00:00",
+      "summary": "SMIC is considering expanding its manufacturing capacity in response to an unexpected surge in demand for mature-node chips essential for AI processors, highlighting the critical role of semiconductor supply in supporting the booming global AI infrastructure. This move underscores the escalating competition and urgency within the tech industry to meet the insatiable appetite for AI technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Apple opens Advanced Manufacturing Center in Houston",
       "link": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
@@ -16,22 +24,6 @@
       "summary": "Google AI's Sheets canvas revolutionizes data interaction by transforming traditional spreadsheets into dynamic, visually engaging experiences, enabling users to manipulate and present data in innovative ways that enhance understanding and decision-making. This breakthrough not only streamlines data analysis but also empowers users to communicate insights more effectively, marking a significant advancement in productivity tools.",
       "source": "Google AI",
       "category": "AI"
-    },
-    {
-      "title": "Chinese missile AI tracks F-22, F-35-like heat signatures with over 90% accuracy",
-      "link": "https://www.scmp.com/news/china/science/article/3363843/chinese-missile-ai-tracks-f-22-f-35-heat-signatures-over-90-accuracy?utm_source=rss_feed",
-      "published_date": "2026-08-13T14:00:07+00:00",
-      "summary": "Chinese missile technology has achieved a groundbreaking advancement by utilizing AI to accurately track heat signatures of advanced stealth fighters like the F-22 and F-35 with over 90% precision, potentially undermining the effectiveness of traditional countermeasures such as flares and significantly altering aerial combat dynamics. This development not only enhances missile targeting capabilities but also raises critical concerns about the future of air superiority for stealth aircraft.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3363927/alibaba-adds-commercial-restrictions-open-weight-qwen38-max-ai-model?utm_source=rss_feed",
-      "published_date": "2026-08-13T13:30:07+00:00",
-      "summary": "Alibaba's release of its flagship AI model Qwen3.8-Max as a free download marks a significant shift in accessibility for developers, while the introduction of commercial licensing for large enterprises underscores the company's strategy to monetize its innovations and regulate usage in high-revenue applications. This dual approach not only democratizes AI technology but also positions Alibaba to capitalize on the burgeoning demand for AI solutions among large businesses.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     },
     {
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
@@ -88,22 +80,6 @@
       "summary": "OpenAI has appointed Dali Rajic as Chief Revenue Officer, a strategic move aimed at maximizing the commercial potential of AI for businesses worldwide, signaling a significant step in the company's mission to integrate advanced AI solutions into various industries. This leadership change underscores OpenAI's commitment to driving revenue growth and enhancing the value proposition of its innovative technologies.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "China’s YMTC breaks into global top 3 flash-memory suppliers for first time",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3363854/chinas-ymtc-breaks-global-top-three-flash-memory-suppliers-first-time?utm_source=rss_feed",
-      "published_date": "2026-08-13T05:00:08+00:00",
-      "summary": "Yangtze Memory Technologies Corp (YMTC) has achieved a historic milestone by becoming the world's third-largest NAND flash memory supplier, capturing 14 percent of global shipments, which underscores China's growing prowess in the semiconductor industry and its strategic push to compete with established global players in high-value data-center storage.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s ‘brain chip’ drive accelerates with slew of state-backed initiatives",
-      "link": "https://www.scmp.com/business/china-business/article/3363799/chinas-brain-chip-drive-accelerates-slew-state-backed-initiatives?utm_source=rss_feed",
-      "published_date": "2026-08-13T04:00:11+00:00",
-      "summary": "China is rapidly advancing its brain-computer interface technology through a series of state-backed initiatives, positioning itself to potentially realize Elon Musk's vision of treating chronic health conditions with brain chips faster than any other country. This coordinated effort not only highlights China's commitment to innovation in healthcare but also raises significant implications for the future of medical treatments and neurotechnology on a global scale.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
