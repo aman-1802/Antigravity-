@@ -1,6 +1,86 @@
 {
-  "last_updated": "2026-08-14T05:15:00.492691+00:00",
+  "last_updated": "2026-08-15T01:25:36.362794+00:00",
   "articles": [
+    {
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "published_date": "2026-08-14T17:13:05+00:00",
+      "summary": "Indonesia has launched its first university-based AI technology center in Yogyakarta, a significant step towards cultivating local AI talent and positioning the nation as a leader in the global AI landscape. This initiative, driven by a collaboration between the Ministry of Communication and Digital Affairs, Indosat, NVIDIA, and Universitas Gadjah Mada, underscores Indonesia's commitment to shaping its AI future.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China, Brazil to launch 24/7 disaster early warning satellite for South America",
+      "link": "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america?utm_source=rss_feed",
+      "published_date": "2026-08-14T14:00:08+00:00",
+      "summary": "China and Brazil are set to revolutionize disaster preparedness in South America with a groundbreaking 24/7 meteorological satellite, enhancing real-time monitoring and early warning capabilities for environmental hazards across the continent. This collaboration marks a significant leap in international space cooperation, promising to safeguard lives and infrastructure in a region prone to natural disasters.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "US-China AI decoupling ‘manageable’ for trade – but tech curbs a ‘wild card’: Citi",
+      "link": "https://www.scmp.com/economy/global-economy/article/3364073/us-china-ai-decoupling-manageable-trade-tech-curbs-wild-card-citi?utm_source=rss_feed",
+      "published_date": "2026-08-14T13:00:12+00:00",
+      "summary": "Citi analysts assert that while US-China tech tensions may not significantly disrupt China's AI exports, new restrictions on access to advanced AI models could fundamentally alter the global tech landscape, highlighting the unpredictable nature of these evolving trade dynamics.",
+      "source": "SCMP China Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "US team sent to Taiwan to train coastguards amid surge in mainland Chinese activity",
+      "link": "https://www.scmp.com/news/china/military/article/3364096/us-team-sent-taiwan-train-coastguards-amid-surge-mainland-chinese-activity?utm_source=rss_feed",
+      "published_date": "2026-08-14T12:09:00+00:00",
+      "summary": "The United States has initiated a groundbreaking training program for Taiwan's coastguards amid escalating Chinese maritime activity, underscoring a significant shift in regional security dynamics and enhancing Taiwan's defensive capabilities. This collaboration not only strengthens bilateral ties but also serves as a strategic countermeasure to China's increasing assertiveness in the region.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Launch of DeepSeek’s Harness marks its strategic pivot towards autonomous agentic AI",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364082/launch-deepseeks-harness-marks-its-strategic-pivot-towards-autonomous-agentic-ai?utm_source=rss_feed",
+      "published_date": "2026-08-14T11:03:52+00:00",
+      "summary": "DeepSeek's launch of Harness signifies a pivotal shift towards autonomous agentic AI, enabling developers to transform AI models into self-operating agents that can execute complex tasks and interact with external software, potentially revolutionizing the landscape of AI applications. This breakthrough not only positions DeepSeek at the forefront of AI innovation but also sets the stage for a new era of intelligent automation across industries.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence?utm_source=rss_feed",
+      "published_date": "2026-08-14T11:03:30+00:00",
+      "summary": "Zhipu's launch of the GLM-5.3 model marks a significant leap in China's cybersecurity capabilities, achieving an impressive 84.5 percent success rate in identifying security flaws, surpassing Anthropic's Mythos and positioning China to compete more aggressively in the global AI defense landscape. This breakthrough underscores the escalating race between nations to harness AI for enhanced cyber defense.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Miles ahead: China team boosts atom entanglement distance record fourfold",
+      "link": "https://www.scmp.com/news/china/science/article/3364045/miles-ahead-china-team-boosts-atom-entanglement-distance-record-fourfold?utm_source=rss_feed",
+      "published_date": "2026-08-14T11:00:10+00:00",
+      "summary": "Chinese scientists have shattered the record for quantum entanglement distance by achieving a remarkable 420km, more than quadrupling previous benchmarks and paving the way for revolutionary intercity quantum networks that could transform secure communication. This breakthrough not only pushes the boundaries of quantum physics but also sets the stage for practical applications in advanced technology and information security.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "The neverending house",
+      "link": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
+      "published_date": "2026-08-14T10:00:00+00:00",
+      "summary": "• The self-built homes in Santiago embody a fluidity that reflects the dynamic nature of identity and existence.  \n• Each structure serves as a canvas for personal expression, revealing the intricate relationship between space and self.  \n• The precariousness of these homes symbolizes the constant negotiation between stability and transformation in life.  \n• In their unfinished state, these houses challenge conventional notions of completion and permanence in our lives.  \n• Ultimately, they invite us to reconsider the essence of home as a living entity that evolves alongside its inhabitants.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China’s richest province taps Alibaba to power its AI and chip push",
+      "link": "https://www.scmp.com/tech/policy/article/3364053/chinas-richest-province-taps-alibaba-power-its-ai-and-chip-push?utm_source=rss_feed",
+      "published_date": "2026-08-14T09:15:43+00:00",
+      "summary": "Guangdong province, China's wealthiest region, is partnering with Alibaba to spearhead a transformative initiative in artificial intelligence and semiconductor development, signaling a significant leap in the province's digital infrastructure and public service capabilities. This collaboration not only enhances Guangdong's technological landscape but also positions Alibaba as a pivotal player in the nation's AI and chip industry evolution.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "SMIC eyes expansion amid AI boom, Zhu Rongji dies, Shein nears IPO",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3364024/smic-eyes-expansion-amid-ai-boom-zhu-rongji-dies-shein-nears-ipo?utm_source=rss_feed",
+      "published_date": "2026-08-14T09:00:30+00:00",
+      "summary": "SMIC, China's leading contract chipmaker, is set to expand its capacity in response to surging demand driven by the AI boom, significantly boosting its earnings and stock value, which underscores the critical role of semiconductor supply in the rapidly evolving tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "SMIC weighs more capacity as AI-related chip demand exceeds forecasts",
       "link": "https://www.scmp.com/tech/big-tech/article/3363996/smic-weighs-more-capacity-ai-related-chip-demand-exceeds-forecasts?utm_source=rss_feed",
@@ -10,76 +90,12 @@
       "category": "SCMP"
     },
     {
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "published_date": "2026-08-13T18:30:29+00:00",
-      "summary": "Apple's new Advanced Manufacturing Center in Houston marks a significant investment in local innovation, providing free training and resources to empower small- and medium-sized businesses, which could revolutionize the manufacturing landscape and enhance economic growth in the region. This initiative underscores Apple's commitment to fostering technological advancement and supporting the next generation of manufacturers.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "published_date": "2026-08-13T16:45:00+00:00",
-      "summary": "Google AI's Sheets canvas revolutionizes data interaction by transforming traditional spreadsheets into dynamic, visually engaging experiences, enabling users to manipulate and present data in innovative ways that enhance understanding and decision-making. This breakthrough not only streamlines data analysis but also empowers users to communicate insights more effectively, marking a significant advancement in productivity tools.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-      "published_date": "2026-08-13T13:00:33+00:00",
-      "summary": "NVIDIA's GeForce NOW has officially launched its native Linux app and introduced significant cloud optimizations, enhancing streaming responsiveness and frame rates, marking a pivotal advancement in cloud gaming accessibility for Linux and Chromebook users just as the back-to-school season begins. This breakthrough not only expands the platform's reach but also elevates the gaming experience, setting a new standard for cloud-based gaming performance.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong?utm_source=rss_feed",
-      "published_date": "2026-08-13T11:00:10+00:00",
-      "summary": "The remarkable triple-digit profit growth of China's leading chipmakers, SMIC and Hua Hong, driven by soaring domestic demand for AI chips unaffected by US export restrictions, underscores a pivotal shift in the global semiconductor landscape, positioning China as a formidable player in the AI technology race. This surge not only highlights the resilience of China's tech industry but also signals potential challenges for US dominance in semiconductor manufacturing.",
-      "source": "SCMP Tech",
+      "title": "How AI is helping to open a new chapter for ancient Chinese literature",
+      "link": "https://www.scmp.com/news/china/politics/article/3363939/how-ai-helping-open-new-chapter-ancient-chinese-literature?utm_source=rss_feed",
+      "published_date": "2026-08-14T04:00:15+00:00",
+      "summary": "AI is revolutionizing the field of ancient Chinese literature by streamlining the labor-intensive processes of deciphering, preserving, and recovering texts, thereby unlocking centuries of knowledge and making it more accessible than ever before. This breakthrough not only enhances scholarly research but also ensures the survival of fragile manuscripts for future generations.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "published_date": "2026-08-13T11:00:00+00:00",
-      "summary": "Startups are leveraging the groundbreaking capabilities of GPT-5.6 to accelerate development and reduce costs by utilizing advanced model selection and enhanced Responses API features, marking a significant leap in AI agent efficiency and effectiveness. This innovation not only streamlines the building process but also empowers businesses to harness AI's full potential in a competitive landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Where the earth meets the sky",
-      "link": "https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space",
-      "published_date": "2026-08-13T10:01:00+00:00",
-      "summary": "• The New Mexico observatory serves as a bridge between time, allowing us to explore both ancient histories and potential futures.  \n• It challenges our perception of time, suggesting that the past and future are intricately woven into our present experience.  \n• By gazing into the cosmos, we confront our insignificance and the vastness of existence, igniting a sense of wonder.  \n• This unique vantage point encourages a deeper reflection on humanity's role within the universe and our responsibility to the planet.  \n• Ultimately, the observatory invites us to contemplate the cyclical nature of time and our interconnectedness with all that exists.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "link": "https://openai.com/index/previewing-ultrafast",
-      "published_date": "2026-08-13T10:00:00+00:00",
-      "summary": "OpenAI's new Ultrafast mode for GPT-5.6 Sol, leveraging Cerebras technology, enables processing speeds of up to 14 times faster, achieving an impressive output of 750 tokens per second, which could revolutionize real-time applications and enhance user experiences across various sectors. This breakthrough not only accelerates AI capabilities but also sets a new standard for performance in the industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Mecca and the mall",
-      "link": "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall",
-      "published_date": "2026-08-13T10:00:00+00:00",
-      "summary": "• The pilgrimage to Mecca reveals the tension between sacred spaces and commercialism, challenging the essence of spiritual experience.  \n• The transformation of Mecca into a modern consumer landscape raises questions about the authenticity of faith in a commodified world.  \n• As traditional markers of spirituality fade, the quest for meaning becomes increasingly intertwined with material culture.  \n• This journey reflects a broader societal shift where the sacred is often overshadowed by the allure of the mall, prompting introspection on what constitutes true fulfillment.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "published_date": "2026-08-13T09:00:00+00:00",
-      "summary": "OpenAI has appointed Dali Rajic as Chief Revenue Officer, a strategic move aimed at maximizing the commercial potential of AI for businesses worldwide, signaling a significant step in the company's mission to integrate advanced AI solutions into various industries. This leadership change underscores OpenAI's commitment to driving revenue growth and enhancing the value proposition of its innovative technologies.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
