@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-15T01:25:36.362794+00:00",
+  "last_updated": "2026-08-15T04:04:53.338065+00:00",
   "articles": [
+    {
+      "title": "Open-weight Chinese AI models gain foothold in Europe despite Brussels’ trepidation",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364085/open-weight-chinese-ai-models-gain-foothold-europe-despite-brussels-trepidation?utm_source=rss_feed",
+      "published_date": "2026-08-15T03:00:13+00:00",
+      "summary": "Chinese open-weight AI models are making significant inroads in Europe, prompting businesses to reconsider their reliance on proprietary US technologies; this shift could enhance operational control while challenging the continent's technological sovereignty.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The US’ future policymakers are questioning the standard ‘China threat’ playbook",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3364108/us-future-policymakers-are-questioning-standard-china-threat-playbook?utm_source=rss_feed",
+      "published_date": "2026-08-15T02:00:55+00:00",
+      "summary": "The emerging skepticism among future US policymakers regarding the traditional 'China threat' narrative signals a potential shift in diplomatic strategy, which could reshape America's approach to its most significant global competitor and redefine international relations in the coming decades. This change is crucial as it reflects a generation that views engagement over confrontation, potentially leading to more nuanced and cooperative interactions with China.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese drone maker DJI gets another shot at Pentagon blacklist removal",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal?utm_source=rss_feed",
+      "published_date": "2026-08-14T20:23:55+00:00",
+      "summary": "A US appeals court has granted Chinese drone manufacturer DJI a pivotal opportunity to contest its designation on a Pentagon blacklist, potentially reshaping the landscape of military drone procurement and US-China tech relations. This development underscores the ongoing tensions between national security concerns and the burgeoning drone industry, highlighting the stakes involved in the intersection of technology and geopolitics.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
       "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
@@ -10,27 +34,11 @@
       "category": "AI"
     },
     {
-      "title": "China, Brazil to launch 24/7 disaster early warning satellite for South America",
-      "link": "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america?utm_source=rss_feed",
-      "published_date": "2026-08-14T14:00:08+00:00",
-      "summary": "China and Brazil are set to revolutionize disaster preparedness in South America with a groundbreaking 24/7 meteorological satellite, enhancing real-time monitoring and early warning capabilities for environmental hazards across the continent. This collaboration marks a significant leap in international space cooperation, promising to safeguard lives and infrastructure in a region prone to natural disasters.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
       "title": "US-China AI decoupling ‘manageable’ for trade – but tech curbs a ‘wild card’: Citi",
       "link": "https://www.scmp.com/economy/global-economy/article/3364073/us-china-ai-decoupling-manageable-trade-tech-curbs-wild-card-citi?utm_source=rss_feed",
       "published_date": "2026-08-14T13:00:12+00:00",
       "summary": "Citi analysts assert that while US-China tech tensions may not significantly disrupt China's AI exports, new restrictions on access to advanced AI models could fundamentally alter the global tech landscape, highlighting the unpredictable nature of these evolving trade dynamics.",
       "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US team sent to Taiwan to train coastguards amid surge in mainland Chinese activity",
-      "link": "https://www.scmp.com/news/china/military/article/3364096/us-team-sent-taiwan-train-coastguards-amid-surge-mainland-chinese-activity?utm_source=rss_feed",
-      "published_date": "2026-08-14T12:09:00+00:00",
-      "summary": "The United States has initiated a groundbreaking training program for Taiwan's coastguards amid escalating Chinese maritime activity, underscoring a significant shift in regional security dynamics and enhancing Taiwan's defensive capabilities. This collaboration not only strengthens bilateral ties but also serves as a strategic countermeasure to China's increasing assertiveness in the region.",
-      "source": "China News",
       "category": "SCMP"
     },
     {
@@ -87,14 +95,6 @@
       "published_date": "2026-08-14T05:00:14+00:00",
       "summary": "SMIC is considering expanding its manufacturing capacity in response to an unexpected surge in demand for mature-node chips essential for AI processors, highlighting the critical role of semiconductor supply in supporting the booming global AI infrastructure. This move underscores the escalating competition and urgency within the tech industry to meet the insatiable appetite for AI technology.",
       "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How AI is helping to open a new chapter for ancient Chinese literature",
-      "link": "https://www.scmp.com/news/china/politics/article/3363939/how-ai-helping-open-new-chapter-ancient-chinese-literature?utm_source=rss_feed",
-      "published_date": "2026-08-14T04:00:15+00:00",
-      "summary": "AI is revolutionizing the field of ancient Chinese literature by streamlining the labor-intensive processes of deciphering, preserving, and recovering texts, thereby unlocking centuries of knowledge and making it more accessible than ever before. This breakthrough not only enhances scholarly research but also ensures the survival of fragile manuscripts for future generations.",
-      "source": "Diplomacy & Defence",
       "category": "SCMP"
     }
   ]
