@@ -1,99 +1,27 @@
 {
-  "last_updated": "2026-08-15T04:04:53.338065+00:00",
+  "last_updated": "2026-08-16T01:36:21.353807+00:00",
   "articles": [
+    {
+      "title": "China’s 1MW perovskite solar farm beats silicon system in industrial-scale test",
+      "link": "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed",
+      "published_date": "2026-08-15T22:00:10+00:00",
+      "summary": "China's groundbreaking 1MW perovskite solar farm has outperformed traditional silicon systems in industrial-scale tests, marking a pivotal advancement toward the commercialization of low-cost, high-efficiency solar panels that could revolutionize the renewable energy landscape. This achievement, driven by a collaborative effort from researchers at Nanjing University and Canadian partners, introduces a super-stable coating that addresses critical defects in perovskite technology, potentially transforming solar energy production.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Global leaders must wake up to threat of unbridled AI adoption",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3363725/global-leaders-must-wake-threat-unbridled-ai-adoption?utm_source=rss_feed",
+      "published_date": "2026-08-15T08:30:07+00:00",
+      "summary": "The article warns that the unchecked adoption of artificial intelligence poses a grave risk, highlighting the urgent need for responsible leadership to navigate its potential benefits and dangers, particularly in Western nations. This critical juncture could determine whether AI serves as a catalyst for global prosperity or a source of unprecedented challenges.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Open-weight Chinese AI models gain foothold in Europe despite Brussels’ trepidation",
       "link": "https://www.scmp.com/tech/tech-trends/article/3364085/open-weight-chinese-ai-models-gain-foothold-europe-despite-brussels-trepidation?utm_source=rss_feed",
       "published_date": "2026-08-15T03:00:13+00:00",
       "summary": "Chinese open-weight AI models are making significant inroads in Europe, prompting businesses to reconsider their reliance on proprietary US technologies; this shift could enhance operational control while challenging the continent's technological sovereignty.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The US’ future policymakers are questioning the standard ‘China threat’ playbook",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3364108/us-future-policymakers-are-questioning-standard-china-threat-playbook?utm_source=rss_feed",
-      "published_date": "2026-08-15T02:00:55+00:00",
-      "summary": "The emerging skepticism among future US policymakers regarding the traditional 'China threat' narrative signals a potential shift in diplomatic strategy, which could reshape America's approach to its most significant global competitor and redefine international relations in the coming decades. This change is crucial as it reflects a generation that views engagement over confrontation, potentially leading to more nuanced and cooperative interactions with China.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese drone maker DJI gets another shot at Pentagon blacklist removal",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal?utm_source=rss_feed",
-      "published_date": "2026-08-14T20:23:55+00:00",
-      "summary": "A US appeals court has granted Chinese drone manufacturer DJI a pivotal opportunity to contest its designation on a Pentagon blacklist, potentially reshaping the landscape of military drone procurement and US-China tech relations. This development underscores the ongoing tensions between national security concerns and the burgeoning drone industry, highlighting the stakes involved in the intersection of technology and geopolitics.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "published_date": "2026-08-14T17:13:05+00:00",
-      "summary": "Indonesia has launched its first university-based AI technology center in Yogyakarta, a significant step towards cultivating local AI talent and positioning the nation as a leader in the global AI landscape. This initiative, driven by a collaboration between the Ministry of Communication and Digital Affairs, Indosat, NVIDIA, and Universitas Gadjah Mada, underscores Indonesia's commitment to shaping its AI future.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "US-China AI decoupling ‘manageable’ for trade – but tech curbs a ‘wild card’: Citi",
-      "link": "https://www.scmp.com/economy/global-economy/article/3364073/us-china-ai-decoupling-manageable-trade-tech-curbs-wild-card-citi?utm_source=rss_feed",
-      "published_date": "2026-08-14T13:00:12+00:00",
-      "summary": "Citi analysts assert that while US-China tech tensions may not significantly disrupt China's AI exports, new restrictions on access to advanced AI models could fundamentally alter the global tech landscape, highlighting the unpredictable nature of these evolving trade dynamics.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Launch of DeepSeek’s Harness marks its strategic pivot towards autonomous agentic AI",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364082/launch-deepseeks-harness-marks-its-strategic-pivot-towards-autonomous-agentic-ai?utm_source=rss_feed",
-      "published_date": "2026-08-14T11:03:52+00:00",
-      "summary": "DeepSeek's launch of Harness signifies a pivotal shift towards autonomous agentic AI, enabling developers to transform AI models into self-operating agents that can execute complex tasks and interact with external software, potentially revolutionizing the landscape of AI applications. This breakthrough not only positions DeepSeek at the forefront of AI innovation but also sets the stage for a new era of intelligent automation across industries.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence?utm_source=rss_feed",
-      "published_date": "2026-08-14T11:03:30+00:00",
-      "summary": "Zhipu's launch of the GLM-5.3 model marks a significant leap in China's cybersecurity capabilities, achieving an impressive 84.5 percent success rate in identifying security flaws, surpassing Anthropic's Mythos and positioning China to compete more aggressively in the global AI defense landscape. This breakthrough underscores the escalating race between nations to harness AI for enhanced cyber defense.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Miles ahead: China team boosts atom entanglement distance record fourfold",
-      "link": "https://www.scmp.com/news/china/science/article/3364045/miles-ahead-china-team-boosts-atom-entanglement-distance-record-fourfold?utm_source=rss_feed",
-      "published_date": "2026-08-14T11:00:10+00:00",
-      "summary": "Chinese scientists have shattered the record for quantum entanglement distance by achieving a remarkable 420km, more than quadrupling previous benchmarks and paving the way for revolutionary intercity quantum networks that could transform secure communication. This breakthrough not only pushes the boundaries of quantum physics but also sets the stage for practical applications in advanced technology and information security.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "The neverending house",
-      "link": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
-      "published_date": "2026-08-14T10:00:00+00:00",
-      "summary": "• The self-built homes in Santiago embody a fluidity that reflects the dynamic nature of identity and existence.  \n• Each structure serves as a canvas for personal expression, revealing the intricate relationship between space and self.  \n• The precariousness of these homes symbolizes the constant negotiation between stability and transformation in life.  \n• In their unfinished state, these houses challenge conventional notions of completion and permanence in our lives.  \n• Ultimately, they invite us to reconsider the essence of home as a living entity that evolves alongside its inhabitants.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China’s richest province taps Alibaba to power its AI and chip push",
-      "link": "https://www.scmp.com/tech/policy/article/3364053/chinas-richest-province-taps-alibaba-power-its-ai-and-chip-push?utm_source=rss_feed",
-      "published_date": "2026-08-14T09:15:43+00:00",
-      "summary": "Guangdong province, China's wealthiest region, is partnering with Alibaba to spearhead a transformative initiative in artificial intelligence and semiconductor development, signaling a significant leap in the province's digital infrastructure and public service capabilities. This collaboration not only enhances Guangdong's technological landscape but also positions Alibaba as a pivotal player in the nation's AI and chip industry evolution.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "SMIC eyes expansion amid AI boom, Zhu Rongji dies, Shein nears IPO",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3364024/smic-eyes-expansion-amid-ai-boom-zhu-rongji-dies-shein-nears-ipo?utm_source=rss_feed",
-      "published_date": "2026-08-14T09:00:30+00:00",
-      "summary": "SMIC, China's leading contract chipmaker, is set to expand its capacity in response to surging demand driven by the AI boom, significantly boosting its earnings and stock value, which underscores the critical role of semiconductor supply in the rapidly evolving tech landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "SMIC weighs more capacity as AI-related chip demand exceeds forecasts",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363996/smic-weighs-more-capacity-ai-related-chip-demand-exceeds-forecasts?utm_source=rss_feed",
-      "published_date": "2026-08-14T05:00:14+00:00",
-      "summary": "SMIC is considering expanding its manufacturing capacity in response to an unexpected surge in demand for mature-node chips essential for AI processors, highlighting the critical role of semiconductor supply in supporting the booming global AI infrastructure. This move underscores the escalating competition and urgency within the tech industry to meet the insatiable appetite for AI technology.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
