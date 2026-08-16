@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-16T01:36:21.353807+00:00",
+  "last_updated": "2026-08-16T04:08:32.001394+00:00",
   "articles": [
     {
-      "title": "China’s 1MW perovskite solar farm beats silicon system in industrial-scale test",
-      "link": "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed",
-      "published_date": "2026-08-15T22:00:10+00:00",
-      "summary": "China's groundbreaking 1MW perovskite solar farm has outperformed traditional silicon systems in industrial-scale tests, marking a pivotal advancement toward the commercialization of low-cost, high-efficiency solar panels that could revolutionize the renewable energy landscape. This achievement, driven by a collaborative effort from researchers at Nanjing University and Canadian partners, introduces a super-stable coating that addresses critical defects in perovskite technology, potentially transforming solar energy production.",
+      "title": "China’s ‘electric eel’ sensor allows robots to feel an object without touching it",
+      "link": "https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it?utm_source=rss_feed",
+      "published_date": "2026-08-16T04:00:10+00:00",
+      "summary": "Chinese scientists have developed an innovative 'electric eel' sensor that enables robots to detect and analyze objects without physical contact, mimicking the natural radar used by electric eels in murky waters. This breakthrough could revolutionize robotics by enhancing object recognition and interaction capabilities, paving the way for safer and more efficient automation in various environments.",
       "source": "China News",
       "category": "SCMP"
     },
@@ -14,14 +14,6 @@
       "link": "https://www.scmp.com/opinion/world-opinion/article/3363725/global-leaders-must-wake-threat-unbridled-ai-adoption?utm_source=rss_feed",
       "published_date": "2026-08-15T08:30:07+00:00",
       "summary": "The article warns that the unchecked adoption of artificial intelligence poses a grave risk, highlighting the urgent need for responsible leadership to navigate its potential benefits and dangers, particularly in Western nations. This critical juncture could determine whether AI serves as a catalyst for global prosperity or a source of unprecedented challenges.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Open-weight Chinese AI models gain foothold in Europe despite Brussels’ trepidation",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364085/open-weight-chinese-ai-models-gain-foothold-europe-despite-brussels-trepidation?utm_source=rss_feed",
-      "published_date": "2026-08-15T03:00:13+00:00",
-      "summary": "Chinese open-weight AI models are making significant inroads in Europe, prompting businesses to reconsider their reliance on proprietary US technologies; this shift could enhance operational control while challenging the continent's technological sovereignty.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
