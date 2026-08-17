@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T01:27:55.620769+00:00",
+  "last_updated": "2026-08-17T04:12:03.513034+00:00",
   "articles": [
     {
       "title": "Hong Kong firm bets on Chinese open-weight models to rival CoreWeave",
@@ -14,14 +14,6 @@
       "link": "https://www.scmp.com/news/china/science/article/3364176/chinese-brain-reading-ai-model-may-help-predict-depression-risk-4-years-advance?utm_source=rss_feed",
       "published_date": "2026-08-16T10:00:19+00:00",
       "summary": "Chinese scientists have created a groundbreaking AI model capable of predicting the risk of depression up to four years in advance, offering a potential game-changer in public health by enabling early intervention for the 332 million people affected by Major Depressive Disorder globally. This innovative approach could significantly improve treatment outcomes and preventive strategies in mental health care.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s ‘electric eel’ sensor allows robots to feel an object without touching it",
-      "link": "https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it?utm_source=rss_feed",
-      "published_date": "2026-08-16T04:00:10+00:00",
-      "summary": "Chinese scientists have developed an innovative 'electric eel' sensor that enables robots to detect and analyze objects without physical contact, mimicking the natural radar used by electric eels in murky waters. This breakthrough could revolutionize robotics by enhancing object recognition and interaction capabilities, paving the way for safer and more efficient automation in various environments.",
       "source": "China News",
       "category": "SCMP"
     }
