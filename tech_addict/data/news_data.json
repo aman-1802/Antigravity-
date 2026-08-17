@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-08-16T04:08:32.001394+00:00",
+  "last_updated": "2026-08-17T01:27:55.620769+00:00",
   "articles": [
+    {
+      "title": "Hong Kong firm bets on Chinese open-weight models to rival CoreWeave",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+      "published_date": "2026-08-17T01:00:13+00:00",
+      "summary": "A Hong Kong firm is positioning itself to disrupt the global AI market by leveraging high-performance, cost-effective Chinese open-weight models, potentially shifting businesses away from traditional Silicon Valley providers and creating a billion-dollar opportunity in the process. This development underscores a significant shift in the competitive landscape of artificial intelligence, highlighting the growing influence of Chinese technology on a global scale.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese brain-reading AI model may help predict depression risk 4 years in advance",
+      "link": "https://www.scmp.com/news/china/science/article/3364176/chinese-brain-reading-ai-model-may-help-predict-depression-risk-4-years-advance?utm_source=rss_feed",
+      "published_date": "2026-08-16T10:00:19+00:00",
+      "summary": "Chinese scientists have created a groundbreaking AI model capable of predicting the risk of depression up to four years in advance, offering a potential game-changer in public health by enabling early intervention for the 332 million people affected by Major Depressive Disorder globally. This innovative approach could significantly improve treatment outcomes and preventive strategies in mental health care.",
+      "source": "China News",
+      "category": "SCMP"
+    },
     {
       "title": "China’s ‘electric eel’ sensor allows robots to feel an object without touching it",
       "link": "https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it?utm_source=rss_feed",
       "published_date": "2026-08-16T04:00:10+00:00",
       "summary": "Chinese scientists have developed an innovative 'electric eel' sensor that enables robots to detect and analyze objects without physical contact, mimicking the natural radar used by electric eels in murky waters. This breakthrough could revolutionize robotics by enhancing object recognition and interaction capabilities, paving the way for safer and more efficient automation in various environments.",
       "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Global leaders must wake up to threat of unbridled AI adoption",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3363725/global-leaders-must-wake-threat-unbridled-ai-adoption?utm_source=rss_feed",
-      "published_date": "2026-08-15T08:30:07+00:00",
-      "summary": "The article warns that the unchecked adoption of artificial intelligence poses a grave risk, highlighting the urgent need for responsible leadership to navigate its potential benefits and dangers, particularly in Western nations. This critical juncture could determine whether AI serves as a catalyst for global prosperity or a source of unprecedented challenges.",
-      "source": "SCMP Tech",
       "category": "SCMP"
     }
   ]
