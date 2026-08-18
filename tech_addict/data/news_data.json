@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-18T01:24:07.230100+00:00",
+  "last_updated": "2026-08-18T04:08:12.778581+00:00",
   "articles": [
     {
-      "title": "The next silicon? AI data centre material faces price spike amid China supply crunch",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364327/next-silicon-ai-data-centre-material-faces-price-spike-amid-china-supply-crunch?utm_source=rss_feed",
-      "published_date": "2026-08-17T14:00:30+00:00",
-      "summary": "The skyrocketing demand for indium phosphide, a critical material for ultra-fast data transmission in AI-driven data centers, is causing prices to surge amid a supply crunch in China, highlighting the material's pivotal role in the future of technology infrastructure. This breakthrough underscores the growing intersection of AI and advanced materials, which could reshape the landscape of data communication.",
+      "title": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed",
+      "published_date": "2026-08-17T17:30:11+00:00",
+      "summary": "Nvidia's unprecedented commitment of up to $105 billion to guarantee OpenAI's Ohio data center lease marks a significant investment in AI infrastructure, underscoring the company's pivotal role in shaping the future of artificial intelligence and data processing capabilities. This strategic move not only bolsters OpenAI's operational capacity but also highlights the escalating competition in the AI sector, where access to robust computing resources is crucial for innovation.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
@@ -86,22 +86,6 @@
       "link": "https://openai.com/index/openai-joins-ports-pike-project",
       "published_date": "2026-08-17T05:00:00+00:00",
       "summary": "OpenAI's participation in the PORTS-Pike project marks a significant commitment to community investment, poised to create thousands of jobs in Southern Ohio, thereby driving economic growth and technological advancement in the region. This collaboration underscores the importance of integrating AI development with local workforce initiatives, setting a precedent for future partnerships.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Chinese robots on the march despite tech war hurdles",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles?utm_source=rss_feed",
-      "published_date": "2026-08-17T04:15:11+00:00",
-      "summary": "Chinese robotics are making significant strides, showcased by innovative products like stair-climbing vacuum robots and lifelike humanoid models, yet geopolitical tensions may prevent American consumers from accessing these groundbreaking technologies, highlighting a growing divide in the global tech landscape. This development underscores the urgency for the U.S. to bolster its own robotics sector to remain competitive.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "published_date": "2026-08-17T03:15:00+00:00",
-      "summary": "OpenAI is pioneering a transformative approach by funding 14 independent projects aimed at developing innovative AI policies that could significantly enhance economic opportunities and bolster societal resilience in an era defined by advanced intelligence technologies. This initiative not only addresses the pressing challenges of the Intelligence Age but also sets a precedent for how AI can be harnessed for widespread societal benefit.",
       "source": "OpenAI",
       "category": "AI"
     }
