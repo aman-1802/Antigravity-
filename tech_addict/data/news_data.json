@@ -1,21 +1,109 @@
 {
-  "last_updated": "2026-08-17T04:12:03.513034+00:00",
+  "last_updated": "2026-08-18T01:24:07.230100+00:00",
   "articles": [
     {
-      "title": "Hong Kong firm bets on Chinese open-weight models to rival CoreWeave",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
-      "published_date": "2026-08-17T01:00:13+00:00",
-      "summary": "A Hong Kong firm is positioning itself to disrupt the global AI market by leveraging high-performance, cost-effective Chinese open-weight models, potentially shifting businesses away from traditional Silicon Valley providers and creating a billion-dollar opportunity in the process. This development underscores a significant shift in the competitive landscape of artificial intelligence, highlighting the growing influence of Chinese technology on a global scale.",
+      "title": "The next silicon? AI data centre material faces price spike amid China supply crunch",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364327/next-silicon-ai-data-centre-material-faces-price-spike-amid-china-supply-crunch?utm_source=rss_feed",
+      "published_date": "2026-08-17T14:00:30+00:00",
+      "summary": "The skyrocketing demand for indium phosphide, a critical material for ultra-fast data transmission in AI-driven data centers, is causing prices to surge amid a supply crunch in China, highlighting the material's pivotal role in the future of technology infrastructure. This breakthrough underscores the growing intersection of AI and advanced materials, which could reshape the landscape of data communication.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Chinese brain-reading AI model may help predict depression risk 4 years in advance",
-      "link": "https://www.scmp.com/news/china/science/article/3364176/chinese-brain-reading-ai-model-may-help-predict-depression-risk-4-years-advance?utm_source=rss_feed",
-      "published_date": "2026-08-16T10:00:19+00:00",
-      "summary": "Chinese scientists have created a groundbreaking AI model capable of predicting the risk of depression up to four years in advance, offering a potential game-changer in public health by enabling early intervention for the 332 million people affected by Major Depressive Disorder globally. This innovative approach could significantly improve treatment outcomes and preventive strategies in mental health care.",
-      "source": "China News",
+      "title": "Securing the Infrastructure of Intelligence",
+      "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+      "published_date": "2026-08-17T12:34:51+00:00",
+      "summary": "NVIDIA's latest insights reveal that AI factories are revolutionizing the infrastructure of intelligence by transforming compute into a vital revenue stream, highlighting the necessity for a comprehensive ecosystem of advanced resources to sustain the burgeoning AI economy. This breakthrough underscores the critical role of integrated technology in driving innovation across all sectors, positioning AI as a cornerstone of future growth.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "The World Famous Gopher Hole Museum",
+      "link": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction",
+      "published_date": "2026-08-17T10:01:00+00:00",
+      "summary": "• The Gopher Hole Museum serves as a poignant reminder of a bygone era, encapsulating the essence of a community through its quirky taxidermy.  \n• Each gopher display reflects the town's history, blending humor with nostalgia in a unique tribute to local culture.  \n• The museum highlights the tension between preservation and progress, questioning what it means to remember a place that has faded away.  \n• In a world increasingly driven by change, the museum invites reflection on the value of memory and the stories that define our identities.  \n• Ultimately, the Gopher Hole Museum stands as a testament to the resilience of small towns, illustrating how even the most unconventional artifacts can evoke profound connections to the past.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Can China follow its own ‘technological path’ amid growing AI rivalry with US?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3364296/can-china-follow-its-own-technological-path-amid-growing-ai-rivalry-us?utm_source=rss_feed",
+      "published_date": "2026-08-17T10:00:16+00:00",
+      "summary": "China's pursuit of an independent technological trajectory, particularly in artificial intelligence, could redefine the global tech landscape as it seeks to overcome US export restrictions, with Huawei's Atlas 950 SuperPoD computing system exemplifying this strategic shift. This development not only highlights the intensifying AI rivalry but also raises critical questions about the future balance of technological power between the two nations.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
+    },
+    {
+      "title": "Worm munch matters",
+      "link": "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
+      "published_date": "2026-08-17T10:00:00+00:00",
+      "summary": "• The hidden world of soil organisms reveals a complex web of life that sustains our ecosystems.  \n• Listening to the sounds of worms and other soil dwellers offers a new perspective on their crucial role in nutrient cycling.  \n• The interplay between these subterranean creatures and plant life underscores the interconnectedness of all living systems.  \n• Understanding soil life challenges our perception of nature, urging us to appreciate the unseen forces that support our existence.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "CXMT value tops 4 trillion yuan as AI-fuelled memory rally lifts China’s chip champion",
+      "link": "https://www.scmp.com/tech/article/3364288/cxmt-tops-4-trillion-yuan-ai-fuelled-memory-rally-lifts-chinas-chip-champion?utm_source=rss_feed",
+      "published_date": "2026-08-17T09:00:17+00:00",
+      "summary": "ChangXin Memory Technologies (CXMT) has achieved a groundbreaking market capitalization of 4.13 trillion yuan, propelled by a 12 percent surge in shares driven by the AI-fueled memory chip rally, solidifying its position as China's most valuable listed company and a key player in the global semiconductor landscape. This milestone underscores the critical role of advanced memory solutions in the rapidly evolving AI sector, highlighting CXMT's potential to shape the future of technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "published_date": "2026-08-17T08:00:00+00:00",
+      "summary": "Google AI's latest advancements with Gemini and Pixel technology promise to revolutionize sports engagement by delivering immersive, high-definition visuals that bring fans closer to the action than ever before, enhancing both viewing experiences and fan interaction. This breakthrough not only elevates the way we experience sports but also sets a new standard for how technology can transform live events into dynamic, interactive experiences.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
+      "published_date": "2026-08-17T06:40:22+00:00",
+      "summary": "Ingenic Semiconductor's IPO in Hong Kong, aiming to raise up to HK$3.22 billion, marks a significant milestone as it joins a surge of mainland Chinese chipmakers seeking capital for global expansion, highlighting the increasing importance of Hong Kong as a financial hub for the semiconductor industry. This move not only underscores Ingenic's growth ambitions but also reflects the broader trend of China's strategic push to enhance its technological prowess on the international stage.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "AI chipmaker Biren projects up to 22-fold revenue surge amid China’s hi-tech boom",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom?utm_source=rss_feed",
+      "published_date": "2026-08-17T06:39:48+00:00",
+      "summary": "Chinese AI chipmaker Biren Technology anticipates a staggering revenue increase of up to 2,107% in the first half of 2026, highlighting the explosive demand for domestic chips amid China's burgeoning high-tech sector and positioning itself alongside industry leaders like Hygon and Cambricon. This remarkable growth underscores the critical role of home-grown technology in the global AI hardware landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The Defender’s Window",
+      "link": "https://openai.com/index/the-defenders-window",
+      "published_date": "2026-08-17T05:30:00+00:00",
+      "summary": "OpenAI's latest initiative, \"The Defender’s Window,\" reveals groundbreaking advancements in AI-driven cybersecurity, equipping security teams with innovative tools to outsmart attackers and fortify defenses in an increasingly complex digital landscape. This development is crucial as it not only enhances protective measures but also sets a new standard for proactive security strategies in the face of evolving cyber threats.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "published_date": "2026-08-17T05:00:00+00:00",
+      "summary": "OpenAI's participation in the PORTS-Pike project marks a significant commitment to community investment, poised to create thousands of jobs in Southern Ohio, thereby driving economic growth and technological advancement in the region. This collaboration underscores the importance of integrating AI development with local workforce initiatives, setting a precedent for future partnerships.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Chinese robots on the march despite tech war hurdles",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles?utm_source=rss_feed",
+      "published_date": "2026-08-17T04:15:11+00:00",
+      "summary": "Chinese robotics are making significant strides, showcased by innovative products like stair-climbing vacuum robots and lifelike humanoid models, yet geopolitical tensions may prevent American consumers from accessing these groundbreaking technologies, highlighting a growing divide in the global tech landscape. This development underscores the urgency for the U.S. to bolster its own robotics sector to remain competitive.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "published_date": "2026-08-17T03:15:00+00:00",
+      "summary": "OpenAI is pioneering a transformative approach by funding 14 independent projects aimed at developing innovative AI policies that could significantly enhance economic opportunities and bolster societal resilience in an era defined by advanced intelligence technologies. This initiative not only addresses the pressing challenges of the Intelligence Age but also sets a precedent for how AI can be harnessed for widespread societal benefit.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
