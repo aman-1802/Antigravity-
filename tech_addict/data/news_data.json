@@ -1,91 +1,83 @@
 {
-  "last_updated": "2026-08-18T04:08:12.778581+00:00",
+  "last_updated": "2026-08-19T01:25:56.552444+00:00",
   "articles": [
     {
-      "title": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed",
-      "published_date": "2026-08-17T17:30:11+00:00",
-      "summary": "Nvidia's unprecedented commitment of up to $105 billion to guarantee OpenAI's Ohio data center lease marks a significant investment in AI infrastructure, underscoring the company's pivotal role in shaping the future of artificial intelligence and data processing capabilities. This strategic move not only bolsters OpenAI's operational capacity but also highlights the escalating competition in the AI sector, where access to robust computing resources is crucial for innovation.",
-      "source": "SCMP Tech",
+      "title": "China’s LandSpace beats SpaceX with steel-booster recovery after orbital launch",
+      "link": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch?utm_source=rss_feed",
+      "published_date": "2026-08-19T00:28:33+00:00",
+      "summary": "China's LandSpace has achieved a groundbreaking milestone by successfully recovering a stainless-steel booster after an orbital launch, positioning itself ahead of SpaceX in the race for reusable rocket technology and significantly advancing the potential for lower-cost space access. This achievement not only establishes Zhuque-3 as China's first commercial rocket to reach orbit with a recovered first stage but also underscores the rapid evolution of the global space industry.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
-      "title": "Securing the Infrastructure of Intelligence",
-      "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-      "published_date": "2026-08-17T12:34:51+00:00",
-      "summary": "NVIDIA's latest insights reveal that AI factories are revolutionizing the infrastructure of intelligence by transforming compute into a vital revenue stream, highlighting the necessity for a comprehensive ecosystem of advanced resources to sustain the burgeoning AI economy. This breakthrough underscores the critical role of integrated technology in driving innovation across all sectors, positioning AI as a cornerstone of future growth.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The World Famous Gopher Hole Museum",
-      "link": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction",
-      "published_date": "2026-08-17T10:01:00+00:00",
-      "summary": "• The Gopher Hole Museum serves as a poignant reminder of a bygone era, encapsulating the essence of a community through its quirky taxidermy.  \n• Each gopher display reflects the town's history, blending humor with nostalgia in a unique tribute to local culture.  \n• The museum highlights the tension between preservation and progress, questioning what it means to remember a place that has faded away.  \n• In a world increasingly driven by change, the museum invites reflection on the value of memory and the stories that define our identities.  \n• Ultimately, the Gopher Hole Museum stands as a testament to the resilience of small towns, illustrating how even the most unconventional artifacts can evoke profound connections to the past.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Can China follow its own ‘technological path’ amid growing AI rivalry with US?",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3364296/can-china-follow-its-own-technological-path-amid-growing-ai-rivalry-us?utm_source=rss_feed",
-      "published_date": "2026-08-17T10:00:16+00:00",
-      "summary": "China's pursuit of an independent technological trajectory, particularly in artificial intelligence, could redefine the global tech landscape as it seeks to overcome US export restrictions, with Huawei's Atlas 950 SuperPoD computing system exemplifying this strategic shift. This development not only highlights the intensifying AI rivalry but also raises critical questions about the future balance of technological power between the two nations.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Worm munch matters",
-      "link": "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
-      "published_date": "2026-08-17T10:00:00+00:00",
-      "summary": "• The hidden world of soil organisms reveals a complex web of life that sustains our ecosystems.  \n• Listening to the sounds of worms and other soil dwellers offers a new perspective on their crucial role in nutrient cycling.  \n• The interplay between these subterranean creatures and plant life underscores the interconnectedness of all living systems.  \n• Understanding soil life challenges our perception of nature, urging us to appreciate the unseen forces that support our existence.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "CXMT value tops 4 trillion yuan as AI-fuelled memory rally lifts China’s chip champion",
-      "link": "https://www.scmp.com/tech/article/3364288/cxmt-tops-4-trillion-yuan-ai-fuelled-memory-rally-lifts-chinas-chip-champion?utm_source=rss_feed",
-      "published_date": "2026-08-17T09:00:17+00:00",
-      "summary": "ChangXin Memory Technologies (CXMT) has achieved a groundbreaking market capitalization of 4.13 trillion yuan, propelled by a 12 percent surge in shares driven by the AI-fueled memory chip rally, solidifying its position as China's most valuable listed company and a key player in the global semiconductor landscape. This milestone underscores the critical role of advanced memory solutions in the rapidly evolving AI sector, highlighting CXMT's potential to shape the future of technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "published_date": "2026-08-17T08:00:00+00:00",
-      "summary": "Google AI's latest advancements with Gemini and Pixel technology promise to revolutionize sports engagement by delivering immersive, high-definition visuals that bring fans closer to the action than ever before, enhancing both viewing experiences and fan interaction. This breakthrough not only elevates the way we experience sports but also sets a new standard for how technology can transform live events into dynamic, interactive experiences.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
-      "published_date": "2026-08-17T06:40:22+00:00",
-      "summary": "Ingenic Semiconductor's IPO in Hong Kong, aiming to raise up to HK$3.22 billion, marks a significant milestone as it joins a surge of mainland Chinese chipmakers seeking capital for global expansion, highlighting the increasing importance of Hong Kong as a financial hub for the semiconductor industry. This move not only underscores Ingenic's growth ambitions but also reflects the broader trend of China's strategic push to enhance its technological prowess on the international stage.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "AI chipmaker Biren projects up to 22-fold revenue surge amid China’s hi-tech boom",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom?utm_source=rss_feed",
-      "published_date": "2026-08-17T06:39:48+00:00",
-      "summary": "Chinese AI chipmaker Biren Technology anticipates a staggering revenue increase of up to 2,107% in the first half of 2026, highlighting the explosive demand for domestic chips amid China's burgeoning high-tech sector and positioning itself alongside industry leaders like Hygon and Cambricon. This remarkable growth underscores the critical role of home-grown technology in the global AI hardware landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The Defender’s Window",
-      "link": "https://openai.com/index/the-defenders-window",
-      "published_date": "2026-08-17T05:30:00+00:00",
-      "summary": "OpenAI's latest initiative, \"The Defender’s Window,\" reveals groundbreaking advancements in AI-driven cybersecurity, equipping security teams with innovative tools to outsmart attackers and fortify defenses in an increasingly complex digital landscape. This development is crucial as it not only enhances protective measures but also sets a new standard for proactive security strategies in the face of evolving cyber threats.",
+      "title": "Strengthening democratic oversight in national security",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "published_date": "2026-08-18T19:00:00+00:00",
+      "summary": "OpenAI's new initiative aims to enhance democratic oversight of AI in national security by equipping government institutions with essential tools, training, and expertise, marking a significant step towards ensuring accountability and transparency in the deployment of advanced technologies in critical areas. This breakthrough is crucial as it addresses the growing concerns over the ethical implications and governance of AI in safeguarding national interests.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
-      "link": "https://openai.com/index/openai-joins-ports-pike-project",
-      "published_date": "2026-08-17T05:00:00+00:00",
-      "summary": "OpenAI's participation in the PORTS-Pike project marks a significant commitment to community investment, poised to create thousands of jobs in Southern Ohio, thereby driving economic growth and technological advancement in the region. This collaboration underscores the importance of integrating AI development with local workforce initiatives, setting a precedent for future partnerships.",
+      "title": "Apple announces changes for apps in the European Union",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "published_date": "2026-08-18T15:59:46+00:00",
+      "summary": "Apple's announcement of revised business terms for apps in the European Union marks a significant shift in its operational strategy, reflecting its commitment to compliance with regulatory demands and potentially reshaping the app marketplace dynamics in one of the world's largest economies. This breakthrough not only demonstrates Apple's adaptability but also sets a precedent for how tech giants navigate increasingly stringent regulations.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364380/meet-chinese-ai-star-who-splashed-reported-us70m-california-mansion?utm_source=rss_feed",
+      "published_date": "2026-08-18T14:00:05+00:00",
+      "summary": "Tony Wu Yuhuai, co-founder of Elon Musk's AI lab, has made headlines by purchasing a $70 million mansion in California, marking the largest property deal in the Bay Area this year and highlighting the significant influence of Chinese talent in the rapidly evolving AI landscape. This extravagant acquisition not only underscores the wealth generated in the tech sector but also amplifies discussions about the pivotal role of international innovators in shaping the future of artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu?utm_source=rss_feed",
+      "published_date": "2026-08-18T12:00:05+00:00",
+      "summary": "Alibaba's Qwen3.8-27B, a lightweight AI model with 27 billion parameters, has achieved performance levels comparable to larger competitors like OpenAI's GPT-5.6 Luna, demonstrating that powerful AI can now be accessible on everyday hardware and signaling a significant shift in the competitive landscape of AI development. This breakthrough not only empowers local developers but also challenges the dominance of established players in the AI space.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai",
+      "published_date": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI's partnership with CodeAI marks a groundbreaking initiative to enhance AI literacy among students, equipping them with critical thinking skills and the ability to responsibly harness and influence AI technology, which is essential for navigating an increasingly automated future. This collaboration not only empowers the next generation but also sets a precedent for educational frameworks in the age of artificial intelligence.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "published_date": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI is revolutionizing the development of frontier AI models by implementing advanced monitoring and alignment safeguards, ensuring that the pace of innovation is matched by robust security measures to mitigate potential cyber risks. This breakthrough not only enhances the safety of AI technologies but also sets a new standard for responsible advancement in the field.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "link": "https://openai.com/index/chatgpt-for-teens",
+      "published_date": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI has launched ChatGPT for Teens, an innovative AI tool designed to enhance critical thinking and learning among adolescents while incorporating robust safety features and parental controls, marking a significant step towards responsible AI usage in education. This breakthrough not only empowers teens to engage with technology confidently but also addresses the pressing need for protective measures in digital learning environments.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "In praise of zealotry",
+      "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
+      "published_date": "2026-08-18T10:00:00+00:00",
+      "summary": "• Early feminists challenged societal norms by embracing passionate debate over polite discourse, asserting the importance of their voices.  \n• Mary Astell and Catharine Macaulay exemplified zealotry as a tool for social change, rejecting the expectation of feminine submission in intellectual discussions.  \n• The essay posits that fervor in advocacy can catalyze progress, suggesting that true change often requires a departure from decorum.  \n• By prioritizing conviction over civility, these feminists illuminated the power of unwavering commitment to one's beliefs in the face of opposition.  \n• Ultimately, the piece advocates for the value of zealotry in activism, encouraging a re-evaluation of how passion can drive transformative dialogue.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://openai.com/index/asana",
+      "published_date": "2026-08-18T07:00:00+00:00",
+      "summary": "Asana revolutionized its engineering process by leveraging OpenAI Codex to overhaul an outdated testing system in just two weeks, achieving what would typically require five years of work for a mere $12,000. This breakthrough not only accelerates software development timelines but also demonstrates the transformative potential of AI in optimizing operational efficiency.",
       "source": "OpenAI",
       "category": "AI"
     }
