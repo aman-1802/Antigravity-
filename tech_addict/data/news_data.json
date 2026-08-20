@@ -1,91 +1,51 @@
 {
-  "last_updated": "2026-08-19T04:08:24.992621+00:00",
+  "last_updated": "2026-08-20T01:25:26.591747+00:00",
   "articles": [
     {
-      "title": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
-      "published_date": "2026-08-19T01:57:38+00:00",
-      "summary": "Unitree Robotics achieved a staggering 629% surge in its share price during its Shanghai debut, propelling its valuation to an impressive US$66 billion and underscoring the growing global interest in advanced robotics technology. This remarkable market performance not only highlights Unitree's position as a leader in humanoid robotics but also signals a significant shift in investor confidence towards the future of automation and AI-driven innovations.",
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "published_date": "2026-08-19T19:00:00+00:00",
+      "summary": "OpenAI's commitment to Zero Data Retention for eligible API customers marks a significant breakthrough in AI safety, enabling advanced models to operate without compromising user data privacy, thereby setting a new standard for ethical AI deployment. This initiative not only enhances trust among users but also paves the way for safer AI applications in sensitive environments.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "published_date": "2026-08-19T19:00:00+00:00",
+      "summary": "Google AI has unveiled five innovative features designed to enhance the learning experience through Search, including tools like \"Add Notebook\" and \"Ask Google,\" which empower users to organize information and engage with content more interactively. This breakthrough not only streamlines the learning process but also transforms how individuals access and retain knowledge in an increasingly digital world.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Making better robots depends on better data capture, Chinese firm 51World says",
+      "link": "https://www.scmp.com/tech/article/3364587/making-better-robots-depends-better-data-capture-chinese-firm-51world-says?utm_source=rss_feed",
+      "published_date": "2026-08-19T12:30:06+00:00",
+      "summary": "Chinese tech firm 51World has unveiled innovative data-collection tools aimed at overcoming the critical shortage of high-quality training data that hampers the development of intelligent humanoid robots, potentially revolutionizing the field of embodied AI and accelerating advancements in robotics. This breakthrough is crucial as it addresses a significant bottleneck, enabling machines to better perceive, reason, and interact with the physical world.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "China’s LandSpace beats SpaceX with steel-booster recovery after orbital launch",
-      "link": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch?utm_source=rss_feed",
-      "published_date": "2026-08-19T00:28:33+00:00",
-      "summary": "China's LandSpace has achieved a groundbreaking milestone by successfully recovering a stainless-steel booster after an orbital launch, positioning itself ahead of SpaceX in the race for reusable rocket technology and significantly advancing the potential for lower-cost space access. This achievement not only establishes Zhuque-3 as China's first commercial rocket to reach orbit with a recovered first stage but also underscores the rapid evolution of the global space industry.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "published_date": "2026-08-18T19:00:00+00:00",
-      "summary": "OpenAI's new initiative aims to enhance democratic oversight of AI in national security by equipping government institutions with essential tools, training, and expertise, marking a significant step towards ensuring accountability and transparency in the deployment of advanced technologies in critical areas. This breakthrough is crucial as it addresses the growing concerns over the ethical implications and governance of AI in safeguarding national interests.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Apple announces changes for apps in the European Union",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "published_date": "2026-08-18T15:59:46+00:00",
-      "summary": "Apple's announcement of revised business terms for apps in the European Union marks a significant shift in its operational strategy, reflecting its commitment to compliance with regulatory demands and potentially reshaping the app marketplace dynamics in one of the world's largest economies. This breakthrough not only demonstrates Apple's adaptability but also sets a precedent for how tech giants navigate increasingly stringent regulations.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364380/meet-chinese-ai-star-who-splashed-reported-us70m-california-mansion?utm_source=rss_feed",
-      "published_date": "2026-08-18T14:00:05+00:00",
-      "summary": "Tony Wu Yuhuai, co-founder of Elon Musk's AI lab, has made headlines by purchasing a $70 million mansion in California, marking the largest property deal in the Bay Area this year and highlighting the significant influence of Chinese talent in the rapidly evolving AI landscape. This extravagant acquisition not only underscores the wealth generated in the tech sector but also amplifies discussions about the pivotal role of international innovators in shaping the future of artificial intelligence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu?utm_source=rss_feed",
-      "published_date": "2026-08-18T12:00:05+00:00",
-      "summary": "Alibaba's Qwen3.8-27B, a lightweight AI model with 27 billion parameters, has achieved performance levels comparable to larger competitors like OpenAI's GPT-5.6 Luna, demonstrating that powerful AI can now be accessible on everyday hardware and signaling a significant shift in the competitive landscape of AI development. This breakthrough not only empowers local developers but also challenges the dominance of established players in the AI space.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "published_date": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI's partnership with CodeAI marks a groundbreaking initiative to enhance AI literacy among students, equipping them with critical thinking skills and the ability to responsibly harness and influence AI technology, which is essential for navigating an increasingly automated future. This collaboration not only empowers the next generation but also sets a precedent for educational frameworks in the age of artificial intelligence.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "published_date": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI is revolutionizing the development of frontier AI models by implementing advanced monitoring and alignment safeguards, ensuring that the pace of innovation is matched by robust security measures to mitigate potential cyber risks. This breakthrough not only enhances the safety of AI technologies but also sets a new standard for responsible advancement in the field.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "published_date": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI has launched ChatGPT for Teens, an innovative AI tool designed to enhance critical thinking and learning among adolescents while incorporating robust safety features and parental controls, marking a significant step towards responsible AI usage in education. This breakthrough not only empowers teens to engage with technology confidently but also addresses the pressing need for protective measures in digital learning environments.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "In praise of zealotry",
-      "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
-      "published_date": "2026-08-18T10:00:00+00:00",
-      "summary": "• Early feminists challenged societal norms by embracing passionate debate over polite discourse, asserting the importance of their voices.  \n• Mary Astell and Catharine Macaulay exemplified zealotry as a tool for social change, rejecting the expectation of feminine submission in intellectual discussions.  \n• The essay posits that fervor in advocacy can catalyze progress, suggesting that true change often requires a departure from decorum.  \n• By prioritizing conviction over civility, these feminists illuminated the power of unwavering commitment to one's beliefs in the face of opposition.  \n• Ultimately, the piece advocates for the value of zealotry in activism, encouraging a re-evaluation of how passion can drive transformative dialogue.",
+      "title": "The conscience files",
+      "link": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park",
+      "published_date": "2026-08-19T10:01:00+00:00",
+      "summary": "• Visitors to the Petrified Forest National Park confront their own moral dilemmas as they return stolen souvenirs, revealing the deep connection between nature and human conscience.  \n• The act of mailing back these artifacts symbolizes a longing for redemption and a desire to restore balance with the natural world.  \n• Each returned item carries a story, reflecting the complex interplay between personal guilt and the collective responsibility towards the environment.  \n• The phenomenon highlights how our interactions with nature can evoke profound emotional responses, prompting reflections on ownership and stewardship.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "link": "https://openai.com/index/asana",
-      "published_date": "2026-08-18T07:00:00+00:00",
-      "summary": "Asana revolutionized its engineering process by leveraging OpenAI Codex to overhaul an outdated testing system in just two weeks, achieving what would typically require five years of work for a mere $12,000. This breakthrough not only accelerates software development timelines but also demonstrates the transformative potential of AI in optimizing operational efficiency.",
+      "title": "China joins Musk’s SpaceX with reusable rocket breakthroughs",
+      "link": "https://www.scmp.com/plus/news/china/science/article/3364562/china-joins-musks-spacex-reusable-rocket-breakthroughs?utm_source=rss_feed",
+      "published_date": "2026-08-19T09:11:24+00:00",
+      "summary": "China's LandSpace has achieved a significant milestone by successfully launching and recovering its Zhuque-3 rocket, marking a pivotal advancement in the nation's quest for reusable rocket technology that promises to drastically reduce the costs of space exploration. This breakthrough not only positions China alongside SpaceX in the reusable rocket arena but also enhances its capabilities in satellite deployment and space infrastructure development.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "published_date": "2026-08-19T07:00:00+00:00",
+      "summary": "Replit's launch of Free Mode, utilizing the advanced capabilities of GPT-5.6 Luna, democratizes software development by allowing users to transform their ideas into functional applications without the burden of token expenses, significantly lowering the barrier to entry for aspiring developers. This breakthrough not only enhances accessibility but also fosters innovation in the tech landscape.",
       "source": "OpenAI",
       "category": "AI"
     }
