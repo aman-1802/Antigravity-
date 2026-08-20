@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T01:25:26.591747+00:00",
+  "last_updated": "2026-08-20T04:08:35.417762+00:00",
   "articles": [
     {
       "title": "Offering Zero Data Retention for frontier models",
@@ -22,6 +22,14 @@
       "link": "https://www.scmp.com/tech/article/3364587/making-better-robots-depends-better-data-capture-chinese-firm-51world-says?utm_source=rss_feed",
       "published_date": "2026-08-19T12:30:06+00:00",
       "summary": "Chinese tech firm 51World has unveiled innovative data-collection tools aimed at overcoming the critical shortage of high-quality training data that hampers the development of intelligent humanoid robots, potentially revolutionizing the field of embodied AI and accelerating advancements in robotics. This breakthrough is crucial as it addresses a significant bottleneck, enabling machines to better perceive, reason, and interact with the physical world.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "From spectacle to scale: why China’s robotics firms face a ‘critical juncture’",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture?utm_source=rss_feed",
+      "published_date": "2026-08-19T12:00:10+00:00",
+      "summary": "China's robotics industry is at a pivotal moment as it transitions from captivating showcases of humanoid robots to a focus on scalable, practical applications, signaling a shift that could redefine its global competitiveness and economic impact. This critical juncture highlights the need for innovation that goes beyond spectacle to address real-world challenges, potentially reshaping industries and driving significant investment.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
