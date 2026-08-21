@@ -1,61 +1,53 @@
 {
-  "last_updated": "2026-08-20T04:08:35.417762+00:00",
+  "last_updated": "2026-08-21T01:35:34.405492+00:00",
   "articles": [
     {
-      "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "published_date": "2026-08-19T19:00:00+00:00",
-      "summary": "OpenAI's commitment to Zero Data Retention for eligible API customers marks a significant breakthrough in AI safety, enabling advanced models to operate without compromising user data privacy, thereby setting a new standard for ethical AI deployment. This initiative not only enhances trust among users but also paves the way for safer AI applications in sensitive environments.",
-      "source": "OpenAI",
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "published_date": "2026-08-20T13:00:24+00:00",
+      "summary": "NVIDIA's GeForce NOW has integrated support for the Firefox browser, revolutionizing cloud gaming by allowing users to access high-performance PC games directly from their browser without the need for a dedicated app, thus making gaming more accessible than ever. This breakthrough not only enhances convenience for gamers on various devices but also signifies a major step forward in the evolution of cloud-based gaming platforms.",
+      "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "5 new ways to level up your learning with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "published_date": "2026-08-19T19:00:00+00:00",
-      "summary": "Google AI has unveiled five innovative features designed to enhance the learning experience through Search, including tools like \"Add Notebook\" and \"Ask Google,\" which empower users to organize information and engage with content more interactively. This breakthrough not only streamlines the learning process but also transforms how individuals access and retain knowledge in an increasingly digital world.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Making better robots depends on better data capture, Chinese firm 51World says",
-      "link": "https://www.scmp.com/tech/article/3364587/making-better-robots-depends-better-data-capture-chinese-firm-51world-says?utm_source=rss_feed",
-      "published_date": "2026-08-19T12:30:06+00:00",
-      "summary": "Chinese tech firm 51World has unveiled innovative data-collection tools aimed at overcoming the critical shortage of high-quality training data that hampers the development of intelligent humanoid robots, potentially revolutionizing the field of embodied AI and accelerating advancements in robotics. This breakthrough is crucial as it addresses a significant bottleneck, enabling machines to better perceive, reason, and interact with the physical world.",
+      "title": "Chinese AI chips fall short on coding, forcing firms to stretch scarce Nvidia supply",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364700/chinese-ai-chips-fall-short-coding-forcing-firms-stretch-scarce-nvidia-supply?utm_source=rss_feed",
+      "published_date": "2026-08-20T12:30:12+00:00",
+      "summary": "Chinese AI companies are adapting their software to manage soaring demand for inference tasks, as they grapple with a shortage of high-end Nvidia chips, highlighting the urgent need for advancements in domestic AI hardware to sustain growth in the sector. This situation underscores the critical reliance on foreign technology and the challenges faced by local firms in achieving self-sufficiency in AI capabilities.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "From spectacle to scale: why China’s robotics firms face a ‘critical juncture’",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture?utm_source=rss_feed",
-      "published_date": "2026-08-19T12:00:10+00:00",
-      "summary": "China's robotics industry is at a pivotal moment as it transitions from captivating showcases of humanoid robots to a focus on scalable, practical applications, signaling a shift that could redefine its global competitiveness and economic impact. This critical juncture highlights the need for innovation that goes beyond spectacle to address real-world challenges, potentially reshaping industries and driving significant investment.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The conscience files",
-      "link": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park",
-      "published_date": "2026-08-19T10:01:00+00:00",
-      "summary": "• Visitors to the Petrified Forest National Park confront their own moral dilemmas as they return stolen souvenirs, revealing the deep connection between nature and human conscience.  \n• The act of mailing back these artifacts symbolizes a longing for redemption and a desire to restore balance with the natural world.  \n• Each returned item carries a story, reflecting the complex interplay between personal guilt and the collective responsibility towards the environment.  \n• The phenomenon highlights how our interactions with nature can evoke profound emotional responses, prompting reflections on ownership and stewardship.",
+      "title": "A vocabulary for the future: touch",
+      "link": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
+      "published_date": "2026-08-20T10:01:00+00:00",
+      "summary": "• Touch transcends mere physical sensation, inviting profound exploration of existence and interconnectedness.  \n• The act of touching reveals the intricate relationship between the observer and the observed, challenging our understanding of reality.  \n• Words associated with touch can evoke emotional and intellectual responses, bridging the gap between the tangible and the abstract.  \n• Engaging with touch prompts a reevaluation of how we perceive time, space, and our place within the universe.  \n• Ultimately, touch serves as a metaphorical lens through which we can examine the complexities of human experience and knowledge.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "China joins Musk’s SpaceX with reusable rocket breakthroughs",
-      "link": "https://www.scmp.com/plus/news/china/science/article/3364562/china-joins-musks-spacex-reusable-rocket-breakthroughs?utm_source=rss_feed",
-      "published_date": "2026-08-19T09:11:24+00:00",
-      "summary": "China's LandSpace has achieved a significant milestone by successfully launching and recovering its Zhuque-3 rocket, marking a pivotal advancement in the nation's quest for reusable rocket technology that promises to drastically reduce the costs of space exploration. This breakthrough not only positions China alongside SpaceX in the reusable rocket arena but also enhances its capabilities in satellite deployment and space infrastructure development.",
-      "source": "China News",
-      "category": "SCMP"
+      "title": "Dolphins and other lovers",
+      "link": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+      "published_date": "2026-08-20T10:00:00+00:00",
+      "summary": "• The Andoque people recognize the duality of beauty and danger in the forest's creatures, particularly dolphins.  \n• This perspective challenges modern views that often separate nature into categories of good and bad.  \n• The essay invites reflection on the complexities of relationships between humans and the wild.  \n• It suggests that understanding nature requires embracing its inherent contradictions and mysteries.  \n• Ultimately, the Andoque's wisdom serves as a reminder of the interconnectedness of all life forms.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
     },
     {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "link": "https://openai.com/index/replit",
-      "published_date": "2026-08-19T07:00:00+00:00",
-      "summary": "Replit's launch of Free Mode, utilizing the advanced capabilities of GPT-5.6 Luna, democratizes software development by allowing users to transform their ideas into functional applications without the burden of token expenses, significantly lowering the barrier to entry for aspiring developers. This breakthrough not only enhances accessibility but also fosters innovation in the tech landscape.",
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "published_date": "2026-08-20T07:00:00+00:00",
+      "summary": "OpenAI has launched AI Futures, a groundbreaking blog that delves into the profound implications of transformative AI on power dynamics, governance structures, economic systems, and personal liberties, highlighting the urgent need for thoughtful discourse on these critical issues. This initiative is crucial as it aims to guide society through the complexities of an AI-driven future, ensuring that technological advancements align with democratic values and human rights.",
       "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink",
+      "link": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
+      "published_date": "2026-08-20T06:00:29+00:00",
+      "summary": "SpaceSail has secured a groundbreaking 7 billion yuan (US$1 billion) in funding to rapidly develop its low-Earth-orbit satellite network, positioning China to directly compete with Elon Musk's Starlink and significantly enhance its capabilities in global satellite internet services. This funding marks a pivotal moment for China's ambitions in the satellite sector, potentially reshaping the landscape of global connectivity.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     }
   ]
 }
