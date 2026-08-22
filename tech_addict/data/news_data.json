@@ -1,51 +1,35 @@
 {
-  "last_updated": "2026-08-21T04:10:08.193627+00:00",
+  "last_updated": "2026-08-22T01:24:54.326891+00:00",
   "articles": [
     {
-      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-      "published_date": "2026-08-20T13:00:24+00:00",
-      "summary": "NVIDIA's GeForce NOW has integrated support for the Firefox browser, revolutionizing cloud gaming by allowing users to access high-performance PC games directly from their browser without the need for a dedicated app, thus making gaming more accessible than ever. This breakthrough not only enhances convenience for gamers on various devices but also signifies a major step forward in the evolution of cloud-based gaming platforms.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Chinese AI chips fall short on coding, forcing firms to stretch scarce Nvidia supply",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364700/chinese-ai-chips-fall-short-coding-forcing-firms-stretch-scarce-nvidia-supply?utm_source=rss_feed",
-      "published_date": "2026-08-20T12:30:12+00:00",
-      "summary": "Chinese AI companies are adapting their software to manage soaring demand for inference tasks, as they grapple with a shortage of high-end Nvidia chips, highlighting the urgent need for advancements in domestic AI hardware to sustain growth in the sector. This situation underscores the critical reliance on foreign technology and the challenges faced by local firms in achieving self-sufficiency in AI capabilities.",
-      "source": "SCMP Tech",
+      "title": "China and US push Southeast Asia over their AI blocs. Will it test region’s non-alignment?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3364853/china-and-us-push-southeast-asia-over-their-ai-blocs-will-it-test-regions-non-alignment?utm_source=rss_feed",
+      "published_date": "2026-08-21T15:00:05+00:00",
+      "summary": "The escalating competition between the US and China for influence in Southeast Asia is shifting to the realm of artificial intelligence, challenging the region's longstanding commitment to non-alignment as both superpowers vie to secure allegiance for their respective AI initiatives. This pivotal moment not only underscores the strategic importance of AI in global geopolitics but also raises critical questions about the future of regional autonomy amidst great-power rivalry.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "A vocabulary for the future: touch",
-      "link": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
-      "published_date": "2026-08-20T10:01:00+00:00",
-      "summary": "• Touch transcends mere physical sensation, inviting profound exploration of existence and interconnectedness.  \n• The act of touching reveals the intricate relationship between the observer and the observed, challenging our understanding of reality.  \n• Words associated with touch can evoke emotional and intellectual responses, bridging the gap between the tangible and the abstract.  \n• Engaging with touch prompts a reevaluation of how we perceive time, space, and our place within the universe.  \n• Ultimately, touch serves as a metaphorical lens through which we can examine the complexities of human experience and knowledge.",
+      "title": "Why China’s reusable rocket breakthrough matters for the PLA’s ‘kill chain’",
+      "link": "https://www.scmp.com/news/china/military/article/3364878/why-chinas-reusable-rocket-breakthrough-matters-plas-kill-chain?utm_source=rss_feed",
+      "published_date": "2026-08-21T13:12:24+00:00",
+      "summary": "China's recent success in recovering reusable rockets marks a significant advancement in its aerospace capabilities, potentially enhancing the People's Liberation Army's operational effectiveness by bolstering the resilience of its satellite-supported \"kill chain\" in combat scenarios. This breakthrough not only underscores China's growing technological prowess but also raises strategic implications for military engagements in the region.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "The fog of hunger",
+      "link": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
+      "published_date": "2026-08-21T10:00:00+00:00",
+      "summary": "• Societal norms instill in women a lifelong struggle with appetite suppression, leading to a complex relationship with food.  \n• The psychological toll of hunger restriction manifests as a cognitive fog, obscuring clarity and self-perception.  \n• This internalized discipline often results in a paradox where the pursuit of control over one's body leads to greater disempowerment.  \n• The essay invites reflection on how cultural expectations shape not just eating habits, but broader aspects of identity and agency.  \n• Ultimately, it challenges us to reconsider the implications of appetite regulation on mental health and personal freedom.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Dolphins and other lovers",
-      "link": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-      "published_date": "2026-08-20T10:00:00+00:00",
-      "summary": "• The Andoque people recognize the duality of beauty and danger in the forest's creatures, particularly dolphins.  \n• This perspective challenges modern views that often separate nature into categories of good and bad.  \n• The essay invites reflection on the complexities of relationships between humans and the wild.  \n• It suggests that understanding nature requires embracing its inherent contradictions and mysteries.  \n• Ultimately, the Andoque's wisdom serves as a reminder of the interconnectedness of all life forms.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Introducing AI Futures",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "published_date": "2026-08-20T07:00:00+00:00",
-      "summary": "OpenAI has launched AI Futures, a groundbreaking blog that delves into the profound implications of transformative AI on power dynamics, governance structures, economic systems, and personal liberties, highlighting the urgent need for thoughtful discourse on these critical issues. This initiative is crucial as it aims to guide society through the complexities of an AI-driven future, ensuring that technological advancements align with democratic values and human rights.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink",
-      "link": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
-      "published_date": "2026-08-20T06:00:29+00:00",
-      "summary": "SpaceSail has secured a groundbreaking 7 billion yuan (US$1 billion) in funding to rapidly develop its low-Earth-orbit satellite network, positioning China to directly compete with Elon Musk's Starlink and significantly enhance its capabilities in global satellite internet services. This funding marks a pivotal moment for China's ambitions in the satellite sector, potentially reshaping the landscape of global connectivity.",
+      "title": "China clears Geely for landmark satellite IoT test to spur commercial space sector",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364781/china-clears-geely-landmark-satellite-iot-test-spur-commercial-space-sector?utm_source=rss_feed",
+      "published_date": "2026-08-21T06:00:19+00:00",
+      "summary": "China's approval of Geely's satellite IoT trial marks a pivotal moment for the country's commercial space sector, signaling a significant shift towards privatization and innovation in satellite communications. This breakthrough not only enhances Geely's technological ambitions but also opens the floodgates for private investment in a rapidly evolving market.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
