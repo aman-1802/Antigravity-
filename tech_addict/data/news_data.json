@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-23T01:38:12.233061+00:00",
+  "last_updated": "2026-08-23T04:09:28.403691+00:00",
   "articles": [
+    {
+      "title": "Nvidia customers notified of AI-related price rises above 15%",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364945/nvidia-customers-notified-ai-related-price-rises-above-15?utm_source=rss_feed",
+      "published_date": "2026-08-22T21:54:25+00:00",
+      "summary": "Nvidia is set to increase prices of its AI chip servers by over 15% due to soaring memory chip costs, a move that could significantly impact the affordability and accessibility of advanced AI technologies for its major customers. This price hike underscores the growing demand for AI infrastructure amid rising production costs, potentially reshaping the competitive landscape in the tech industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent",
       "link": "https://www.scmp.com/tech/big-tech/article/3364689/pay-perks-equity-chinas-ai-chip-firms-lead-way-offering-rewards-lock-talent?utm_source=rss_feed",
