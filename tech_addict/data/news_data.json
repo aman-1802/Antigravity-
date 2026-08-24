@@ -1,19 +1,27 @@
 {
-  "last_updated": "2026-08-23T04:09:28.403691+00:00",
+  "last_updated": "2026-08-24T01:36:39.416837+00:00",
   "articles": [
     {
-      "title": "Nvidia customers notified of AI-related price rises above 15%",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364945/nvidia-customers-notified-ai-related-price-rises-above-15?utm_source=rss_feed",
-      "published_date": "2026-08-22T21:54:25+00:00",
-      "summary": "Nvidia is set to increase prices of its AI chip servers by over 15% due to soaring memory chip costs, a move that could significantly impact the affordability and accessibility of advanced AI technologies for its major customers. This price hike underscores the growing demand for AI infrastructure amid rising production costs, potentially reshaping the competitive landscape in the tech industry.",
+      "title": "China’s overlooked internet army is quietly embedding AI into everyday businesses",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
+      "published_date": "2026-08-23T11:00:06+00:00",
+      "summary": "China's lesser-known tech companies are strategically embedding customized AI systems into everyday business operations, creating a significant shift that could redefine consumer experiences across various sectors and challenge the dominance of established global players. This grassroots innovation not only enhances efficiency and personalization but also positions China as a formidable force in the global AI landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Pay, perks, equity: China’s AI, chip firms lead way in offering rewards to lock in talent",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364689/pay-perks-equity-chinas-ai-chip-firms-lead-way-offering-rewards-lock-talent?utm_source=rss_feed",
-      "published_date": "2026-08-22T07:00:06+00:00",
-      "summary": "China's semiconductor and AI firms are pioneering innovative equity incentive plans, including zero-cost share awards, to secure top talent in a fiercely competitive market, highlighting a strategic shift that could reshape the tech landscape amid rising US-China tensions. This aggressive approach not only reflects the companies' response to a booming market but also underscores the critical importance of retaining skilled personnel in an era of rapid technological advancement.",
+      "title": "Chinese robots tackle tennis, smash track records at World Humanoid Robot Games",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games?utm_source=rss_feed",
+      "published_date": "2026-08-23T10:52:51+00:00",
+      "summary": "Chinese humanoid robots showcased remarkable agility and resilience at the World Humanoid Robot Games by successfully competing in tennis matches against human players, demonstrating advanced motor skills and adaptability that could revolutionize robotics in sports and beyond. This breakthrough not only highlights the potential for robots to engage in complex physical activities but also raises the bar for future developments in humanoid technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Alibaba to issue US$10 billion in new shares for huge AI push amid strong investor demand",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push?utm_source=rss_feed",
+      "published_date": "2026-08-23T05:18:31+00:00",
+      "summary": "Alibaba's groundbreaking decision to issue US$10 billion in new shares to bolster its AI capabilities marks a significant shift from e-commerce dominance to a formidable player in the global AI landscape, driven by robust investor confidence. This strategic investment aims to enhance its full-stack AI infrastructure, positioning Alibaba at the forefront of technological innovation.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
