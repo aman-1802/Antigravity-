@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-24T01:36:39.416837+00:00",
+  "last_updated": "2026-08-24T04:21:56.664343+00:00",
   "articles": [
+    {
+      "title": "A rural city, once known for livestock, now provides China’s AI computing fuel",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel?utm_source=rss_feed",
+      "published_date": "2026-08-24T02:00:17+00:00",
+      "summary": "Ulanqab, once a pastoral hub in China, has transformed into a critical provider of AI computing power by harnessing its abundant wind energy, marking a significant shift in its economic landscape and highlighting the intersection of renewable energy and advanced technology. This breakthrough not only underscores the city's adaptability but also positions it as a key player in the global AI race, showcasing the potential of rural areas to contribute to cutting-edge industries.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "China’s overlooked internet army is quietly embedding AI into everyday businesses",
       "link": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
