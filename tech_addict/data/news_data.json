@@ -1,35 +1,67 @@
 {
-  "last_updated": "2026-08-24T04:21:56.664343+00:00",
+  "last_updated": "2026-08-25T01:26:13.910093+00:00",
   "articles": [
     {
-      "title": "A rural city, once known for livestock, now provides China’s AI computing fuel",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel?utm_source=rss_feed",
-      "published_date": "2026-08-24T02:00:17+00:00",
-      "summary": "Ulanqab, once a pastoral hub in China, has transformed into a critical provider of AI computing power by harnessing its abundant wind energy, marking a significant shift in its economic landscape and highlighting the intersection of renewable energy and advanced technology. This breakthrough not only underscores the city's adaptability but also positions it as a key player in the global AI race, showcasing the potential of rural areas to contribute to cutting-edge industries.",
+      "title": "How XPUs Meet a World-Class AI Factory",
+      "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+      "published_date": "2026-08-24T15:00:54+00:00",
+      "summary": "NVIDIA reveals that the future of AI production hinges on the integration of custom XPUs into a cohesive factory-like infrastructure, drastically improving efficiency and cost-effectiveness in generating intelligence at scale. This paradigm shift is crucial for hyperscalers and AI-native companies aiming to optimize their operations and maximize output in an increasingly competitive landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "published_date": "2026-08-24T15:00:41+00:00",
+      "summary": "NVIDIA's introduction of the Groq 3 LPX in full production marks a pivotal advancement in AI inference, emphasizing a collaborative ecosystem rather than isolated breakthroughs, and significantly enhances the Vera Rubin NVL72's capabilities with rapid token generation for agentic systems, setting the stage for the next era of intelligent automation.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+      "published_date": "2026-08-24T15:00:19+00:00",
+      "summary": "NVIDIA's Vera Rubin NVL72 has achieved a groundbreaking efficiency standard, delivering up to 30 times more work per watt for AI agents, a significant advancement that addresses the high energy demands of complex agentic AI workloads, which can consume 15 times more tokens than basic chat requests. This leap in efficiency not only enhances the performance of AI in critical applications like investment research but also sets a new benchmark for sustainable AI development.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m",
+      "link": "https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m?utm_source=rss_feed",
+      "published_date": "2026-08-24T13:29:25+00:00",
+      "summary": "Xpeng has raised a staggering US$900 million for its robotics unit, Dogotix, positioning itself to directly challenge Tesla in the rapidly evolving field of embodied AI, a move that underscores the growing significance of robotics in the electric vehicle industry. This landmark funding not only highlights the potential of Chinese innovation but also sets the stage for intense competition in the future of smart mobility.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "China’s overlooked internet army is quietly embedding AI into everyday businesses",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
-      "published_date": "2026-08-23T11:00:06+00:00",
-      "summary": "China's lesser-known tech companies are strategically embedding customized AI systems into everyday business operations, creating a significant shift that could redefine consumer experiences across various sectors and challenge the dominance of established global players. This grassroots innovation not only enhances efficiency and personalization but also positions China as a formidable force in the global AI landscape.",
+      "title": "China’s advanced chip supply to surge by 2035 despite equipment bottlenecks, Goldman says",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+      "published_date": "2026-08-24T12:00:13+00:00",
+      "summary": "China is poised to significantly reduce its advanced chip deficit by 2035, with production of cutting-edge wafers expected to surge at an astonishing 46 percent annually, although persistent lithography challenges may hinder complete semiconductor self-sufficiency. This breakthrough underscores China's accelerating technological capabilities and its potential to reshape the global semiconductor landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Chinese robots tackle tennis, smash track records at World Humanoid Robot Games",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games?utm_source=rss_feed",
-      "published_date": "2026-08-23T10:52:51+00:00",
-      "summary": "Chinese humanoid robots showcased remarkable agility and resilience at the World Humanoid Robot Games by successfully competing in tennis matches against human players, demonstrating advanced motor skills and adaptability that could revolutionize robotics in sports and beyond. This breakthrough not only highlights the potential for robots to engage in complex physical activities but also raises the bar for future developments in humanoid technology.",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published_date": "2026-08-24T12:00:00+00:00",
+      "summary": "OpenAI's release of GPT-5.6 in Kiro revolutionizes software development by significantly enhancing price-performance, enabling developers to plan, build, review, and test applications more efficiently than ever before. This breakthrough not only streamlines the development process but also makes advanced AI tools more accessible, driving innovation in the tech industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Nexperia’s China unit pivots to domestic 12-inch wafers in pursuit of ‘100%’ independence",
+      "link": "https://www.scmp.com/tech/tech-war/article/3365049/nexperias-china-unit-pivots-domestic-12-inch-wafers-pursuit-100-independence?utm_source=rss_feed",
+      "published_date": "2026-08-24T08:12:26+00:00",
+      "summary": "Nexperia's China unit is making a groundbreaking shift to exclusively utilize domestic 12-inch silicon wafers, aiming for complete operational independence from its European headquarters amidst ongoing disputes. This strategic pivot not only enhances China's semiconductor self-sufficiency but also positions Nexperia to better serve global markets in an increasingly competitive landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Alibaba to issue US$10 billion in new shares for huge AI push amid strong investor demand",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push?utm_source=rss_feed",
-      "published_date": "2026-08-23T05:18:31+00:00",
-      "summary": "Alibaba's groundbreaking decision to issue US$10 billion in new shares to bolster its AI capabilities marks a significant shift from e-commerce dominance to a formidable player in the global AI landscape, driven by robust investor confidence. This strategic investment aims to enhance its full-stack AI infrastructure, positioning Alibaba at the forefront of technological innovation.",
+      "title": "Can China’s flash memory giant YMTC smash Shanghai Star Market IPO records?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed",
+      "published_date": "2026-08-24T04:34:59+00:00",
+      "summary": "China's semiconductor powerhouse, Yangtze Memory Technologies Corporation (YMTC), is poised to potentially shatter IPO records on Shanghai's Star Market as its parent company, CCSH Corporation, plans a massive share offering, underscoring the nation's aggressive push to dominate the global flash memory sector. This landmark listing not only highlights China's growing technological prowess but also signals a pivotal moment in the global semiconductor landscape, where competition is intensifying.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
