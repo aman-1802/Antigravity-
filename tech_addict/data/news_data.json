@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-25T01:26:13.910093+00:00",
+  "last_updated": "2026-08-25T04:09:01.006959+00:00",
   "articles": [
+    {
+      "title": "US targets China’s telecoms grip in Venezuela with new sanctions carve-out",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3365115/us-targets-chinas-telecoms-grip-venezuela-new-sanctions-carve-out?utm_source=rss_feed",
+      "published_date": "2026-08-24T20:23:21+00:00",
+      "summary": "The United States is strategically excluding Chinese telecom giants from Venezuela's telecommunications sector, allowing for new investments and technology from Western suppliers, a move that could significantly disrupt China's dominance and facilitate the expansion of 5G networks in the region. This breakthrough not only opens up a lucrative market but also represents a critical shift in geopolitical influence amid rising tensions between the US and China.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
     {
       "title": "How XPUs Meet a World-Class AI Factory",
       "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
@@ -31,6 +39,14 @@
       "published_date": "2026-08-24T13:29:25+00:00",
       "summary": "Xpeng has raised a staggering US$900 million for its robotics unit, Dogotix, positioning itself to directly challenge Tesla in the rapidly evolving field of embodied AI, a move that underscores the growing significance of robotics in the electric vehicle industry. This landmark funding not only highlights the potential of Chinese innovation but also sets the stage for intense competition in the future of smart mobility.",
       "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "US, China diplomats clash over tech spying and trade hub claims in Latin America",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3365055/us-china-diplomats-clash-over-tech-spying-and-trade-hub-claims-latin-america?utm_source=rss_feed",
+      "published_date": "2026-08-24T13:00:06+00:00",
+      "summary": "The escalating diplomatic clash between the US and China over alleged espionage by Chinese tech firms in Latin America highlights a critical turning point in global tech governance, as both nations vie for influence in a region increasingly seen as a strategic battleground for technological supremacy. This confrontation not only underscores the rising tensions between the two superpowers but also raises significant concerns about national security and the integrity of technological infrastructure in emerging markets.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
