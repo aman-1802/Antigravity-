@@ -1,91 +1,67 @@
 {
-  "last_updated": "2026-08-26T04:10:47.391510+00:00",
+  "last_updated": "2026-08-27T08:23:41.423328+00:00",
   "articles": [
     {
-      "title": "Huawei, HP settle disputes with multi-year Wi-fi patent cross-licensing deal",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365229/huawei-hp-settle-disputes-multi-year-wi-fi-patent-cross-licensing-deal?utm_source=rss_feed",
-      "published_date": "2026-08-26T02:00:12+00:00",
-      "summary": "Huawei and HP have forged a groundbreaking multi-year Wi-Fi patent cross-licensing agreement, allowing both tech giants to leverage each other's innovations, which underscores Huawei's commitment to independent technological advancement and enhances HP's competitive edge in the PC market.",
+      "title": "Nvidia ships first H200 chips to China, but forecasts no data-centre computing revenue",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365383/nvidia-ships-first-h200s-china-forecasts-no-data-centre-computing-revenue?utm_source=rss_feed",
+      "published_date": "2026-08-27T02:00:56+00:00",
+      "summary": "Nvidia's shipment of H200 data-centre processors to China marks a significant shift in its operations following a lengthy export ban, yet the company anticipates minimal impact on its substantial data-centre revenue, highlighting the ongoing complexities of international tech trade amidst regulatory challenges.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "published_date": "2026-08-25T16:00:00+00:00",
-      "summary": "Google AI unveils innovative ways to enhance home decor through its advanced search capabilities, allowing users to seamlessly discover and visualize stylish furniture options like ombre rainbow pieces, transforming the way we curate our living spaces. This breakthrough not only simplifies the design process but also empowers consumers to create personalized environments that reflect their unique tastes.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-      "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-      "published_date": "2026-08-25T15:30:48+00:00",
-      "summary": "NVIDIA is set to revolutionize PC gaming with the introduction of RTX Spark at Gamescom, showcasing enhanced visual quality and anti-cheat technologies through partnerships with major publishers like Electronic Arts and Ubisoft, signaling a transformative leap in gaming experiences. This breakthrough not only elevates the graphical fidelity of blockbuster titles but also fortifies the integrity of competitive gaming, making it a pivotal moment for the industry.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "published_date": "2026-08-25T13:00:23+00:00",
-      "summary": "Apple's latest Mac Studio, powered by the groundbreaking M5 Max and M5 Ultra chips, promises to revolutionize computing with unprecedented AI capabilities and lightning-fast graphics, setting a new standard for performance in creative and professional workflows. This advancement not only enhances productivity but also positions Apple at the forefront of the tech industry's push towards more powerful and efficient computing solutions.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "published_date": "2026-08-25T12:59:36+00:00",
-      "summary": "Apple's latest Mac mini, now equipped with the groundbreaking M6 and robust M5 Pro chips, promises a significant leap in performance and versatility, redefining expectations for compact desktop computing. This advancement not only enhances user experience but also solidifies Apple's commitment to pushing the boundaries of technology in smaller form factors.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "published_date": "2026-08-25T12:58:13+00:00",
-      "summary": "Apple's introduction of the M6 chip in the Mac mini and the M5 Ultra in the Mac Studio marks a significant advancement in computing power and artificial intelligence, setting a new standard for performance that could redefine user experiences across various applications. This breakthrough not only enhances processing speed but also positions Apple at the forefront of AI innovation in personal computing.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "‘Normal stability’: US-China Track 1.5 talks offer formula for ties",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3365226/normal-stability-us-china-track-15-talks-offer-formula-ties?utm_source=rss_feed",
-      "published_date": "2026-08-25T11:43:52+00:00",
-      "summary": "In a significant diplomatic breakthrough, senior Chinese official Liu Haixing has called for the US and China to pursue \"normal stability with controllable disagreements,\" emphasizing the need to expand shared interests and move away from zero-sum dynamics, a shift that could redefine their complex relationship and foster greater global cooperation.",
+      "title": "Bill Gates warns of AI’s impact, urges the US and China to cooperate",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3365377/bill-gates-warns-ais-impact-urges-us-and-china-cooperate?utm_source=rss_feed",
+      "published_date": "2026-08-26T22:11:34+00:00",
+      "summary": "Bill Gates emphasizes the urgent need for US-China collaboration to navigate the profound societal changes brought by rapidly advancing AI technology, warning that it could either serve as a transformative equalizer or exacerbate global injustices. This pivotal moment in AI development demands immediate attention from world leaders to shape its trajectory for the betterment of humanity.",
       "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "DeepSeek leads surge in low-cost Chinese open-weight models on US platform",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3365204/deepseek-leads-surge-low-cost-chinese-open-weight-models-us-platform?utm_source=rss_feed",
-      "published_date": "2026-08-25T10:30:07+00:00",
-      "summary": "DeepSeek's innovative low-cost open-weight AI model has propelled a significant shift in the market, capturing over half of the token volume on a major US web development platform and highlighting a growing preference for affordable AI solutions amid rising costs of proprietary alternatives. This breakthrough not only underscores the increasing competitiveness of Chinese AI technology but also signals a potential democratization of AI access for businesses.",
+      "title": "US seizes Chinese hacking platforms targeting Nasa, Fed and Senate",
+      "link": "https://www.scmp.com/news/us/article/3365376/us-seizes-chinese-hacking-platforms-targeting-nasa-fed-and-senate?utm_source=rss_feed",
+      "published_date": "2026-08-26T21:58:46+00:00",
+      "summary": "The U.S. Justice Department and FBI have successfully seized two Chinese state-sponsored hacking platforms that targeted vital American institutions, including NASA and the Federal Reserve, marking a significant step in countering cyber threats to national security and critical infrastructure. This breakthrough underscores the escalating cyber warfare landscape and the urgent need for robust defenses against state-sponsored cyber espionage.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "published_date": "2026-08-26T21:05:30+00:00",
+      "summary": "NVIDIA's introduction of NVLink Fusion with NVHBM custom high-bandwidth memory represents a pivotal advancement in AI infrastructure, enabling seamless integration of compute, memory, and networking to meet the escalating demands of trillion-parameter workloads and usher in a new era of AI innovation. This breakthrough is crucial for hyperscalers and AI developers aiming to enhance performance and efficiency in their systems.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China vows payback for US Iran sanctions, testing stability ahead of Xi-Trump summit",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3365355/china-vows-payback-us-iran-sanctions-testing-stability-ahead-xi-trump-summit?utm_source=rss_feed",
+      "published_date": "2026-08-26T14:00:12+00:00",
+      "summary": "China's commitment to retaliate against U.S. sanctions on Iranian entities signals a potential destabilization of U.S.-China relations, creating a critical flashpoint just weeks before the pivotal Xi-Trump summit, while ongoing diplomatic dialogues may provide a necessary avenue for de-escalation.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "AI boom, profit surge fuel China’s ambitious chip assembly buildout",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3365337/ai-boom-profit-surge-fuel-chinas-ambitious-chip-assembly-buildout?utm_source=rss_feed",
+      "published_date": "2026-08-26T10:30:08+00:00",
+      "summary": "China's top semiconductor packaging firms are embarking on a multibillion-dollar expansion to meet soaring AI demand and bolster tech self-sufficiency, signaling a pivotal shift in the global chip landscape that could redefine competitive dynamics in the industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Why is Xiaomi doubling down on in-house chips amid a profit slump?",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3365179/why-xiaomi-doubling-down-house-chips-despite-profit-slump?utm_source=rss_feed",
-      "published_date": "2026-08-25T07:31:02+00:00",
-      "summary": "Xiaomi is intensifying its investment in in-house chip development, unveiling the advanced Xring O3 AI processor for smartphones, which aims to enhance complex AI capabilities despite current profit challenges, signaling a strategic shift that could redefine the tech landscape in mobile and automotive sectors. This bold move underscores the company's commitment to innovation and self-sufficiency in an increasingly competitive market.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The full stack behind abundant intelligence",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "published_date": "2026-08-25T07:05:00+00:00",
-      "summary": "OpenAI's CFO Sarah Friar reveals a groundbreaking synergy between advancements in chips, computing power, and AI models that significantly enhances the scalability and affordability of intelligent solutions, marking a pivotal moment in the evolution of artificial intelligence. This breakthrough not only democratizes access to advanced AI capabilities but also sets the stage for unprecedented innovation across various industries.",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published_date": "2026-08-26T10:00:00+00:00",
+      "summary": "OpenAI is significantly enhancing educational resources by expanding ChatGPT for Teachers to 55 U.S. school districts, providing over 100,000 educators with secure AI tools and comprehensive training, which could revolutionize teaching methods and improve student engagement across the nation. This breakthrough not only empowers teachers but also sets a precedent for integrating advanced technology into the educational landscape.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "link": "https://openai.com/index/jalapeno-first-results",
-      "published_date": "2026-08-25T07:00:00+00:00",
-      "summary": "OpenAI's Jalapeño chip revolutionizes AI inference by achieving unprecedented speed and efficiency, significantly enhancing throughput and reducing latency for contemporary models, setting a new industry standard. This breakthrough not only accelerates AI applications but also optimizes energy consumption, making advanced AI more accessible and sustainable.",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "published_date": "2026-08-26T10:00:00+00:00",
+      "summary": "OpenAI's latest report reveals a groundbreaking shift in education as ChatGPT empowers students and educators to engage in continuous learning, transcending traditional classroom boundaries and fostering an environment of perpetual knowledge acquisition. This innovation not only enhances educational outcomes but also redefines the role of technology in lifelong learning.",
       "source": "OpenAI",
       "category": "AI"
     }
