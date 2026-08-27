@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-08-27T08:23:41.423328+00:00",
+  "last_updated": "2026-08-27T14:29:50.508522+00:00",
   "articles": [
+    {
+      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "link": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "published_date": "2026-08-27T13:59:18+00:00",
+      "summary": "Apple Arcade's Sneaky Sasquatch is set to revolutionize the gaming experience by infusing the beloved Subway Surfers+ with its unique charm and aesthetic, showcasing the platform's commitment to innovative cross-game collaborations that enhance user engagement and broaden gameplay horizons. This breakthrough not only enriches the gaming landscape but also highlights Apple's strategy to keep its offerings fresh and appealing to a diverse audience.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+      "published_date": "2026-08-27T13:00:33+00:00",
+      "summary": "NVIDIA's GeForce NOW is set to revolutionize cloud gaming with the introduction of DLSS 4.5 technology, offering gamers unprecedented customization and expanded access across multiple devices and platforms, which could redefine how PC games are played in the cloud. This breakthrough not only enhances the gaming experience but also positions NVIDIA at the forefront of the rapidly evolving gaming landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+      "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+      "published_date": "2026-08-27T13:00:17+00:00",
+      "summary": "NVIDIA has launched Vera, its first CPU specifically designed for AI agents, marking a significant advancement in computing power tailored for artificial intelligence applications, which could redefine performance standards in the AI ecosystem. This breakthrough not only enhances processing capabilities but also positions NVIDIA at the forefront of the rapidly evolving AI landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Gates pitches US-China AI cooperation ahead of Xi meeting",
+      "link": "https://www.scmp.com/plus/tech/policy/article/3365454/gates-pitches-us-china-ai-cooperation-ahead-xi-meeting?utm_source=rss_feed",
+      "published_date": "2026-08-27T09:06:19+00:00",
+      "summary": "Bill Gates is advocating for US-China collaboration on artificial intelligence risks ahead of a potential meeting with President Xi Jinping, emphasizing the urgent need for global cooperation to address the challenges posed by AI technology. This initiative could reshape international relations and set a precedent for how major powers manage technological advancements and their associated risks.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Zhipu AI shares jump as viral Ox Alpha model revealed as GLM-5.3-Flash on Chinese chips",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365433/zhipu-ai-shares-jump-viral-ox-alpha-model-revealed-glm-53-flash-chinese-chips?utm_source=rss_feed",
+      "published_date": "2026-08-27T08:30:12+00:00",
+      "summary": "Zhipu AI's unveiling of the GLM-5.3-Flash model, powered entirely by 100,000 domestically produced chips, marks a significant leap in AI capabilities, showcasing China's growing prowess in the tech sector and setting a new benchmark for performance in artificial intelligence. This breakthrough, demonstrated through the processing of 62 trillion tokens prior to its release, underscores the potential for rapid advancements in AI applications and market competitiveness.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "published_date": "2026-08-27T03:00:00+00:00",
+      "summary": "OpenAI's strategic expansion into Brazil marks a significant commitment to fostering AI innovation and adoption, empowering local developers and businesses to harness cutting-edge technology for transformative growth. This initiative not only enhances OpenAI's global footprint but also positions Brazil as a burgeoning hub for artificial intelligence advancements.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "Nvidia ships first H200 chips to China, but forecasts no data-centre computing revenue",
       "link": "https://www.scmp.com/tech/big-tech/article/3365383/nvidia-ships-first-h200s-china-forecasts-no-data-centre-computing-revenue?utm_source=rss_feed",
@@ -31,38 +79,6 @@
       "published_date": "2026-08-26T21:05:30+00:00",
       "summary": "NVIDIA's introduction of NVLink Fusion with NVHBM custom high-bandwidth memory represents a pivotal advancement in AI infrastructure, enabling seamless integration of compute, memory, and networking to meet the escalating demands of trillion-parameter workloads and usher in a new era of AI innovation. This breakthrough is crucial for hyperscalers and AI developers aiming to enhance performance and efficiency in their systems.",
       "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China vows payback for US Iran sanctions, testing stability ahead of Xi-Trump summit",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3365355/china-vows-payback-us-iran-sanctions-testing-stability-ahead-xi-trump-summit?utm_source=rss_feed",
-      "published_date": "2026-08-26T14:00:12+00:00",
-      "summary": "China's commitment to retaliate against U.S. sanctions on Iranian entities signals a potential destabilization of U.S.-China relations, creating a critical flashpoint just weeks before the pivotal Xi-Trump summit, while ongoing diplomatic dialogues may provide a necessary avenue for de-escalation.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "AI boom, profit surge fuel China’s ambitious chip assembly buildout",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3365337/ai-boom-profit-surge-fuel-chinas-ambitious-chip-assembly-buildout?utm_source=rss_feed",
-      "published_date": "2026-08-26T10:30:08+00:00",
-      "summary": "China's top semiconductor packaging firms are embarking on a multibillion-dollar expansion to meet soaring AI demand and bolster tech self-sufficiency, signaling a pivotal shift in the global chip landscape that could redefine competitive dynamics in the industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published_date": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI is significantly enhancing educational resources by expanding ChatGPT for Teachers to 55 U.S. school districts, providing over 100,000 educators with secure AI tools and comprehensive training, which could revolutionize teaching methods and improve student engagement across the nation. This breakthrough not only empowers teachers but also sets a precedent for integrating advanced technology into the educational landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
-      "published_date": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI's latest report reveals a groundbreaking shift in education as ChatGPT empowers students and educators to engage in continuous learning, transcending traditional classroom boundaries and fostering an environment of perpetual knowledge acquisition. This innovation not only enhances educational outcomes but also redefines the role of technology in lifelong learning.",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
