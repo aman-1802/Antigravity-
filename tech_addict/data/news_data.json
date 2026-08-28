@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-28T10:24:42.717553+00:00",
+  "last_updated": "2026-08-28T15:35:52.760981+00:00",
   "articles": [
+    {
+      "title": "China’s chip supply chain ‘safer’ as self-sufficiency push gains traction, says top planner",
+      "link": "https://www.scmp.com/tech/tech-war/article/3365641/chinas-chip-supply-chain-safer-self-sufficiency-push-gains-traction-says-top-planner?utm_source=rss_feed",
+      "published_date": "2026-08-28T12:32:21+00:00",
+      "summary": "China's semiconductor supply chain has achieved significant advancements in self-sufficiency, as reported by the nation's top economic planner, indicating a shift from isolated innovations to a cohesive industrial ecosystem, which is crucial in mitigating the impacts of US export controls. This progress not only enhances national security but also positions China as a formidable player in the global semiconductor landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+      "published_date": "2026-08-28T11:06:12+00:00",
+      "summary": "ChangXin Memory Technologies (CXMT) has achieved an astonishing 870% revenue increase, reaching 150.31 billion yuan, following its recent blockbuster IPO, solidifying its position as China's leading DRAM manufacturer and marking a significant milestone in the country's semiconductor industry. This breakthrough not only underscores the effectiveness of CXMT's aggressive expansion strategy but also highlights China's growing dominance in the global tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
       "link": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
@@ -47,38 +63,6 @@
       "published_date": "2026-08-27T16:00:00+00:00",
       "summary": "Google AI has unveiled three innovative features in Search that revolutionize travel planning and booking, leveraging advanced AI to streamline the user experience and make personalized travel recommendations more accessible than ever. This breakthrough not only enhances convenience for travelers but also positions Google as a leader in the integration of AI into everyday decision-making processes.",
       "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "link": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "published_date": "2026-08-27T13:59:18+00:00",
-      "summary": "Apple Arcade's Sneaky Sasquatch is set to revolutionize the gaming experience by infusing the beloved Subway Surfers+ with its unique charm and aesthetic, showcasing the platform's commitment to innovative cross-game collaborations that enhance user engagement and broaden gameplay horizons. This breakthrough not only enriches the gaming landscape but also highlights Apple's strategy to keep its offerings fresh and appealing to a diverse audience.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
-      "published_date": "2026-08-27T13:00:33+00:00",
-      "summary": "NVIDIA's GeForce NOW is set to revolutionize cloud gaming with the introduction of DLSS 4.5 technology, offering gamers unprecedented customization and expanded access across multiple devices and platforms, which could redefine how PC games are played in the cloud. This breakthrough not only enhances the gaming experience but also positions NVIDIA at the forefront of the rapidly evolving gaming landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Alibaba pushes into South America’s AI market with launch of Brazil data centres",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365491/alibaba-pushes-south-americas-ai-market-launch-brazil-data-centres?utm_source=rss_feed",
-      "published_date": "2026-08-27T13:00:20+00:00",
-      "summary": "Alibaba's launch of its first data centres in Brazil marks a significant expansion into South America's AI market, positioning the company to capitalize on the region's burgeoning digital economy while intensifying the competitive landscape in the global AI race against the US. This strategic move not only enhances Alibaba's infrastructure capabilities but also underscores the growing importance of emerging markets in the tech industry's future.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "published_date": "2026-08-27T13:00:17+00:00",
-      "summary": "NVIDIA has launched Vera, its first CPU specifically designed for AI agents, marking a significant advancement in computing power tailored for artificial intelligence applications, which could redefine performance standards in the AI ecosystem. This breakthrough not only enhances processing capabilities but also positions NVIDIA at the forefront of the rapidly evolving AI landscape.",
-      "source": "NVIDIA",
       "category": "AI"
     }
   ]
