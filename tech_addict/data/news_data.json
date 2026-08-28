@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-08-27T14:29:50.508522+00:00",
+  "last_updated": "2026-08-28T10:24:42.717553+00:00",
   "articles": [
+    {
+      "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
+      "link": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+      "published_date": "2026-08-28T08:00:14+00:00",
+      "summary": "MiniMax's significant expansion of its cloud computing agreement with Alibaba, raising the purchase ceiling by 220% to $1.2 billion, highlights the explosive demand for computing power among China's leading AI developers, marking a pivotal moment in the race to advance artificial intelligence capabilities. This surge in investment not only reflects MiniMax's aggressive growth strategy but also signals a broader trend in the AI sector's escalating reliance on robust cloud infrastructure.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China Life’s revenue surges as top insurer ramps up investment in AI, chips and biotech",
+      "link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
+      "published_date": "2026-08-28T06:00:07+00:00",
+      "summary": "China Life Insurance has achieved unprecedented financial success, with a staggering 81.5% revenue increase and over 228% net profit surge, driven by its strategic investments in AI, semiconductor technology, and biotechnology, positioning itself as a key player in the innovation landscape and a vital partner for future enterprises. This breakthrough not only underscores the insurer's robust growth but also highlights the transformative potential of integrating advanced technologies into traditional sectors.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s commercial space sector expands global footprint with Thailand deal",
+      "link": "https://www.scmp.com/tech/article/3365534/chinas-commercial-space-sector-expands-global-footprint-thailand-deal?utm_source=rss_feed",
+      "published_date": "2026-08-28T05:00:12+00:00",
+      "summary": "China's GalaxySpace has achieved a significant milestone by successfully launching its first turnkey satellite export to Southeast Asia, marking a strategic expansion of its commercial space sector and enhancing its competitive stance against global leaders like SpaceX. This breakthrough not only solidifies China's influence in the international space industry but also strengthens technological collaboration with Thailand, potentially reshaping the dynamics of regional space initiatives.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China thinks big on brain-computer interfaces after world-first surgery",
+      "link": "https://www.scmp.com/plus/tech/big-tech/article/3365525/china-thinks-big-brain-computer-interfaces-after-world-first-surgery?utm_source=rss_feed",
+      "published_date": "2026-08-28T03:17:36+00:00",
+      "summary": "Chinese surgeons have achieved a groundbreaking milestone by performing the world's first commercial surgery to implant an invasive brain-computer interface in a spinal cord injury patient, marking a significant advancement in neurotechnology that positions China as a formidable competitor to US firms like Neuralink. This development is further underscored by the launch of the first commercial insurance policy for BCI surgeries, signaling a new era of medical innovation and accessibility.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "published_date": "2026-08-28T02:00:00+00:00",
+      "summary": "OpenAI's collaboration with Thailand's MHESI to launch an eight-week accelerator program is set to transform the landscape for health, wellness, and education startups by turning innovative AI prototypes into reliable products, thereby fostering a new wave of technological advancement in the region. This initiative not only empowers local entrepreneurs but also positions Thailand as a burgeoning hub for AI-driven solutions.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "published_date": "2026-08-27T16:00:00+00:00",
+      "summary": "Google AI has unveiled three innovative features in Search that revolutionize travel planning and booking, leveraging advanced AI to streamline the user experience and make personalized travel recommendations more accessible than ever. This breakthrough not only enhances convenience for travelers but also positions Google as a leader in the integration of AI into everyday decision-making processes.",
+      "source": "Google AI",
+      "category": "AI"
+    },
     {
       "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
       "link": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
@@ -18,66 +66,18 @@
       "category": "AI"
     },
     {
+      "title": "Alibaba pushes into South America’s AI market with launch of Brazil data centres",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365491/alibaba-pushes-south-americas-ai-market-launch-brazil-data-centres?utm_source=rss_feed",
+      "published_date": "2026-08-27T13:00:20+00:00",
+      "summary": "Alibaba's launch of its first data centres in Brazil marks a significant expansion into South America's AI market, positioning the company to capitalize on the region's burgeoning digital economy while intensifying the competitive landscape in the global AI race against the US. This strategic move not only enhances Alibaba's infrastructure capabilities but also underscores the growing importance of emerging markets in the tech industry's future.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
       "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
       "published_date": "2026-08-27T13:00:17+00:00",
       "summary": "NVIDIA has launched Vera, its first CPU specifically designed for AI agents, marking a significant advancement in computing power tailored for artificial intelligence applications, which could redefine performance standards in the AI ecosystem. This breakthrough not only enhances processing capabilities but also positions NVIDIA at the forefront of the rapidly evolving AI landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Gates pitches US-China AI cooperation ahead of Xi meeting",
-      "link": "https://www.scmp.com/plus/tech/policy/article/3365454/gates-pitches-us-china-ai-cooperation-ahead-xi-meeting?utm_source=rss_feed",
-      "published_date": "2026-08-27T09:06:19+00:00",
-      "summary": "Bill Gates is advocating for US-China collaboration on artificial intelligence risks ahead of a potential meeting with President Xi Jinping, emphasizing the urgent need for global cooperation to address the challenges posed by AI technology. This initiative could reshape international relations and set a precedent for how major powers manage technological advancements and their associated risks.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Zhipu AI shares jump as viral Ox Alpha model revealed as GLM-5.3-Flash on Chinese chips",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365433/zhipu-ai-shares-jump-viral-ox-alpha-model-revealed-glm-53-flash-chinese-chips?utm_source=rss_feed",
-      "published_date": "2026-08-27T08:30:12+00:00",
-      "summary": "Zhipu AI's unveiling of the GLM-5.3-Flash model, powered entirely by 100,000 domestically produced chips, marks a significant leap in AI capabilities, showcasing China's growing prowess in the tech sector and setting a new benchmark for performance in artificial intelligence. This breakthrough, demonstrated through the processing of 62 trillion tokens prior to its release, underscores the potential for rapid advancements in AI applications and market competitiveness.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "published_date": "2026-08-27T03:00:00+00:00",
-      "summary": "OpenAI's strategic expansion into Brazil marks a significant commitment to fostering AI innovation and adoption, empowering local developers and businesses to harness cutting-edge technology for transformative growth. This initiative not only enhances OpenAI's global footprint but also positions Brazil as a burgeoning hub for artificial intelligence advancements.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Nvidia ships first H200 chips to China, but forecasts no data-centre computing revenue",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365383/nvidia-ships-first-h200s-china-forecasts-no-data-centre-computing-revenue?utm_source=rss_feed",
-      "published_date": "2026-08-27T02:00:56+00:00",
-      "summary": "Nvidia's shipment of H200 data-centre processors to China marks a significant shift in its operations following a lengthy export ban, yet the company anticipates minimal impact on its substantial data-centre revenue, highlighting the ongoing complexities of international tech trade amidst regulatory challenges.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Bill Gates warns of AI’s impact, urges the US and China to cooperate",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3365377/bill-gates-warns-ais-impact-urges-us-and-china-cooperate?utm_source=rss_feed",
-      "published_date": "2026-08-26T22:11:34+00:00",
-      "summary": "Bill Gates emphasizes the urgent need for US-China collaboration to navigate the profound societal changes brought by rapidly advancing AI technology, warning that it could either serve as a transformative equalizer or exacerbate global injustices. This pivotal moment in AI development demands immediate attention from world leaders to shape its trajectory for the betterment of humanity.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "US seizes Chinese hacking platforms targeting Nasa, Fed and Senate",
-      "link": "https://www.scmp.com/news/us/article/3365376/us-seizes-chinese-hacking-platforms-targeting-nasa-fed-and-senate?utm_source=rss_feed",
-      "published_date": "2026-08-26T21:58:46+00:00",
-      "summary": "The U.S. Justice Department and FBI have successfully seized two Chinese state-sponsored hacking platforms that targeted vital American institutions, including NASA and the Federal Reserve, marking a significant step in countering cyber threats to national security and critical infrastructure. This breakthrough underscores the escalating cyber warfare landscape and the urgent need for robust defenses against state-sponsored cyber espionage.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-      "published_date": "2026-08-26T21:05:30+00:00",
-      "summary": "NVIDIA's introduction of NVLink Fusion with NVHBM custom high-bandwidth memory represents a pivotal advancement in AI infrastructure, enabling seamless integration of compute, memory, and networking to meet the escalating demands of trillion-parameter workloads and usher in a new era of AI innovation. This breakthrough is crucial for hyperscalers and AI developers aiming to enhance performance and efficiency in their systems.",
       "source": "NVIDIA",
       "category": "AI"
     }
