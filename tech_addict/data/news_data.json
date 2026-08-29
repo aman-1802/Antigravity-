@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T15:35:52.760981+00:00",
+  "last_updated": "2026-08-29T06:25:03.642115+00:00",
   "articles": [
     {
       "title": "China’s chip supply chain ‘safer’ as self-sufficiency push gains traction, says top planner",
@@ -16,54 +16,6 @@
       "summary": "ChangXin Memory Technologies (CXMT) has achieved an astonishing 870% revenue increase, reaching 150.31 billion yuan, following its recent blockbuster IPO, solidifying its position as China's leading DRAM manufacturer and marking a significant milestone in the country's semiconductor industry. This breakthrough not only underscores the effectiveness of CXMT's aggressive expansion strategy but also highlights China's growing dominance in the global tech landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
-      "link": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
-      "published_date": "2026-08-28T08:00:14+00:00",
-      "summary": "MiniMax's significant expansion of its cloud computing agreement with Alibaba, raising the purchase ceiling by 220% to $1.2 billion, highlights the explosive demand for computing power among China's leading AI developers, marking a pivotal moment in the race to advance artificial intelligence capabilities. This surge in investment not only reflects MiniMax's aggressive growth strategy but also signals a broader trend in the AI sector's escalating reliance on robust cloud infrastructure.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China Life’s revenue surges as top insurer ramps up investment in AI, chips and biotech",
-      "link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
-      "published_date": "2026-08-28T06:00:07+00:00",
-      "summary": "China Life Insurance has achieved unprecedented financial success, with a staggering 81.5% revenue increase and over 228% net profit surge, driven by its strategic investments in AI, semiconductor technology, and biotechnology, positioning itself as a key player in the innovation landscape and a vital partner for future enterprises. This breakthrough not only underscores the insurer's robust growth but also highlights the transformative potential of integrating advanced technologies into traditional sectors.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s commercial space sector expands global footprint with Thailand deal",
-      "link": "https://www.scmp.com/tech/article/3365534/chinas-commercial-space-sector-expands-global-footprint-thailand-deal?utm_source=rss_feed",
-      "published_date": "2026-08-28T05:00:12+00:00",
-      "summary": "China's GalaxySpace has achieved a significant milestone by successfully launching its first turnkey satellite export to Southeast Asia, marking a strategic expansion of its commercial space sector and enhancing its competitive stance against global leaders like SpaceX. This breakthrough not only solidifies China's influence in the international space industry but also strengthens technological collaboration with Thailand, potentially reshaping the dynamics of regional space initiatives.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China thinks big on brain-computer interfaces after world-first surgery",
-      "link": "https://www.scmp.com/plus/tech/big-tech/article/3365525/china-thinks-big-brain-computer-interfaces-after-world-first-surgery?utm_source=rss_feed",
-      "published_date": "2026-08-28T03:17:36+00:00",
-      "summary": "Chinese surgeons have achieved a groundbreaking milestone by performing the world's first commercial surgery to implant an invasive brain-computer interface in a spinal cord injury patient, marking a significant advancement in neurotechnology that positions China as a formidable competitor to US firms like Neuralink. This development is further underscored by the launch of the first commercial insurance policy for BCI surgeries, signaling a new era of medical innovation and accessibility.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "published_date": "2026-08-28T02:00:00+00:00",
-      "summary": "OpenAI's collaboration with Thailand's MHESI to launch an eight-week accelerator program is set to transform the landscape for health, wellness, and education startups by turning innovative AI prototypes into reliable products, thereby fostering a new wave of technological advancement in the region. This initiative not only empowers local entrepreneurs but also positions Thailand as a burgeoning hub for AI-driven solutions.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "3 new ways to plan and book travel in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "published_date": "2026-08-27T16:00:00+00:00",
-      "summary": "Google AI has unveiled three innovative features in Search that revolutionize travel planning and booking, leveraging advanced AI to streamline the user experience and make personalized travel recommendations more accessible than ever. This breakthrough not only enhances convenience for travelers but also positions Google as a leader in the integration of AI into everyday decision-making processes.",
-      "source": "Google AI",
-      "category": "AI"
     }
   ]
 }
