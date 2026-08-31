@@ -1,4 +1,13 @@
 {
-  "last_updated": "2026-08-30T09:25:17.182565+00:00",
-  "articles": []
+  "last_updated": "2026-08-31T04:39:44.207604+00:00",
+  "articles": [
+    {
+      "title": "CXMT joins growing list of Chinese tech firms suing US Pentagon over blacklists",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365751/cxmt-joins-growing-list-chinese-tech-firms-suing-us-pentagon-over-blacklists?utm_source=rss_feed",
+      "published_date": "2026-08-30T09:46:26+00:00",
+      "summary": "ChangXin Memory Technologies (CXMT) has entered the legal fray against the US Pentagon, challenging its blacklisting alongside other Chinese tech firms, signaling a pivotal moment where US courts may begin to question the government's authority and evidence in national security matters. This development could reshape the landscape of international tech relations and accountability in government actions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    }
+  ]
 }
