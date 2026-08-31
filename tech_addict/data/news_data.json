@@ -1,11 +1,19 @@
 {
-  "last_updated": "2026-08-31T04:39:44.207604+00:00",
+  "last_updated": "2026-08-31T10:00:38.174009+00:00",
   "articles": [
     {
-      "title": "CXMT joins growing list of Chinese tech firms suing US Pentagon over blacklists",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365751/cxmt-joins-growing-list-chinese-tech-firms-suing-us-pentagon-over-blacklists?utm_source=rss_feed",
-      "published_date": "2026-08-30T09:46:26+00:00",
-      "summary": "ChangXin Memory Technologies (CXMT) has entered the legal fray against the US Pentagon, challenging its blacklisting alongside other Chinese tech firms, signaling a pivotal moment where US courts may begin to question the government's authority and evidence in national security matters. This development could reshape the landscape of international tech relations and accountability in government actions.",
+      "title": "As China-US space race heats up, Shanghai unveils space-computing hub",
+      "link": "https://www.scmp.com/tech/tech-war/article/3365839/china-us-space-race-heats-shanghai-unveils-space-computing-hub?utm_source=rss_feed",
+      "published_date": "2026-08-31T09:30:13+00:00",
+      "summary": "Shanghai's launch of a new space-computing hub marks a significant escalation in China's efforts to establish a robust orbital data ecosystem, positioning the city as a critical player in the intensifying China-US space race and highlighting the growing importance of integrated technologies in commercial space endeavors.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s AI chip drive: MetaX and Iluvatar swing to profit, as Biren narrows losses",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365812/metax-swings-profit-chinese-ai-chipmakers-report-diverging-first-half-results?utm_source=rss_feed",
+      "published_date": "2026-08-31T06:30:24+00:00",
+      "summary": "China's AI chip industry is witnessing a significant transformation as companies like MetaX and Iluvatar achieve profitability amid a government push for self-reliance, highlighting a critical shift that could reshape the global semiconductor landscape and enhance China's technological independence. This emerging success contrasts sharply with other players still grappling with losses, underscoring the competitive dynamics within the sector.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
