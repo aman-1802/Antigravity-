@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-31T10:00:38.174009+00:00",
+  "last_updated": "2026-09-01T04:20:35.587907+00:00",
   "articles": [
+    {
+      "title": "China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365870/chinas-zai-revenue-jumps-400-total-losses-narrow-explosive-cloud-gains?utm_source=rss_feed",
+      "published_date": "2026-08-31T11:43:48+00:00",
+      "summary": "Chinese AI company Z.ai has achieved a staggering 400% revenue increase in the first half of the year, fueled by rapid growth in its open platform and API business, signaling a significant shift in the market as it narrows losses while investing heavily in R&D. This remarkable performance positions Z.ai for an anticipated 514% full-year sales growth, underscoring its potential to reshape the competitive landscape in the AI sector.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The Singapore strategies",
+      "link": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
+      "published_date": "2026-08-31T10:00:00+00:00",
+      "summary": "• Singapore exemplifies the tension between efficiency and self-sufficiency in resource management, particularly in water and food security.  \n• The city-state's innovative water strategies highlight the importance of technological advancement in overcoming natural limitations.  \n• Despite its success in water sustainability, Singapore's reliance on global food supply chains raises questions about resilience and vulnerability.  \n• The pursuit of efficiency often leads to a paradox where dependence on external sources can undermine local autonomy and security.  \n• Singapore's experience serves as a philosophical lens through which to examine the balance between modernity and the need for self-reliance in an interconnected world.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "As China-US space race heats up, Shanghai unveils space-computing hub",
       "link": "https://www.scmp.com/tech/tech-war/article/3365839/china-us-space-race-heats-shanghai-unveils-space-computing-hub?utm_source=rss_feed",
@@ -8,6 +24,14 @@
       "summary": "Shanghai's launch of a new space-computing hub marks a significant escalation in China's efforts to establish a robust orbital data ecosystem, positioning the city as a critical player in the intensifying China-US space race and highlighting the growing importance of integrated technologies in commercial space endeavors.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "published_date": "2026-08-31T07:00:00+00:00",
+      "summary": "Polimill is revolutionizing Japan's public sector by leveraging OpenAI's GPT models and Codex to create a next-generation AI infrastructure that enhances administrative efficiency and accelerates development for municipalities, marking a significant step towards smarter governance. This breakthrough not only streamlines access to vital information but also empowers local governments to make data-driven decisions, ultimately improving public services and citizen engagement.",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "China’s AI chip drive: MetaX and Iluvatar swing to profit, as Biren narrows losses",
