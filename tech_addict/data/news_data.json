@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-01T04:20:35.587907+00:00",
+  "last_updated": "2026-09-01T08:51:24.678616+00:00",
   "articles": [
+    {
+      "title": "Pallas-1 sees China’s Galactic Energy join reusable launch push, closing in on SpaceX",
+      "link": "https://www.scmp.com/tech/big-tech/article/3365964/pallas-1-sees-chinas-galactic-energy-join-reusable-launch-push-closing-spacex?utm_source=rss_feed",
+      "published_date": "2026-09-01T08:30:09+00:00",
+      "summary": "Galactic Energy's successful launch of the Pallas-1 reusable rocket signifies a pivotal advancement in China's efforts to enhance its space capabilities, positioning it closer to competing with SpaceX in the rapidly evolving space industry. This breakthrough not only underscores China's commitment to reusable launch technology but also potentially reshapes the global landscape of commercial space exploration.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Why US sanctions threats against China aren’t credible",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3365837/why-us-sanctions-threats-against-china-arent-credible?utm_source=rss_feed",
+      "published_date": "2026-09-01T08:30:06+00:00",
+      "summary": "The article reveals that US threats of sanctions against China over its ties with Iran lack credibility, as the US's own economic vulnerabilities, particularly in artificial intelligence and its bond market, could backfire and inadvertently bolster the yuan's global dominance. This shift underscores a significant geopolitical power realignment, where China's trading partners can seamlessly transition to using the yuan, diminishing the dollar's supremacy in international trade.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Xi calls on SCO members to team up for bigger global tech-security role",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3365957/xi-raises-universal-security-mission-sco-putin-modi-meet-kyrgyzstan?utm_source=rss_feed",
+      "published_date": "2026-09-01T07:32:21+00:00",
+      "summary": "Chinese President Xi Jinping has urged the Shanghai Cooperation Organisation to enhance its influence in global technology and security, highlighting its potential to counter Western military alliances and reshape international dynamics. This call for collaboration marks a significant shift in the geopolitical landscape, positioning the SCO as a pivotal player in addressing contemporary security challenges.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
     {
       "title": "China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains",
       "link": "https://www.scmp.com/tech/big-tech/article/3365870/chinas-zai-revenue-jumps-400-total-losses-narrow-explosive-cloud-gains?utm_source=rss_feed",
@@ -22,22 +46,6 @@
       "link": "https://www.scmp.com/tech/tech-war/article/3365839/china-us-space-race-heats-shanghai-unveils-space-computing-hub?utm_source=rss_feed",
       "published_date": "2026-08-31T09:30:13+00:00",
       "summary": "Shanghai's launch of a new space-computing hub marks a significant escalation in China's efforts to establish a robust orbital data ecosystem, positioning the city as a critical player in the intensifying China-US space race and highlighting the growing importance of integrated technologies in commercial space endeavors.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "link": "https://openai.com/index/polimill",
-      "published_date": "2026-08-31T07:00:00+00:00",
-      "summary": "Polimill is revolutionizing Japan's public sector by leveraging OpenAI's GPT models and Codex to create a next-generation AI infrastructure that enhances administrative efficiency and accelerates development for municipalities, marking a significant step towards smarter governance. This breakthrough not only streamlines access to vital information but also empowers local governments to make data-driven decisions, ultimately improving public services and citizen engagement.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s AI chip drive: MetaX and Iluvatar swing to profit, as Biren narrows losses",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365812/metax-swings-profit-chinese-ai-chipmakers-report-diverging-first-half-results?utm_source=rss_feed",
-      "published_date": "2026-08-31T06:30:24+00:00",
-      "summary": "China's AI chip industry is witnessing a significant transformation as companies like MetaX and Iluvatar achieve profitability amid a government push for self-reliance, highlighting a critical shift that could reshape the global semiconductor landscape and enhance China's technological independence. This emerging success contrasts sharply with other players still grappling with losses, underscoring the competitive dynamics within the sector.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
