@@ -1,51 +1,99 @@
 {
-  "last_updated": "2026-09-01T08:51:24.678616+00:00",
+  "last_updated": "2026-09-02T03:43:37.201632+00:00",
   "articles": [
+    {
+      "title": "Enflame’s US$900m IPO tests appetite for China’s ‘little dragon’ AI chipmakers",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366025/enflames-us900m-ipo-tests-appetite-chinas-little-dragon-ai-chipmakers?utm_source=rss_feed",
+      "published_date": "2026-09-02T00:30:05+00:00",
+      "summary": "Enflame Technology's upcoming $910 million IPO on Shanghai's Star Market represents a pivotal test for China's burgeoning AI chip sector, as the company seeks to demonstrate its ability to thrive amid intense competition from giants like Huawei and to diversify its reliance on Tencent. This move not only highlights the growing significance of specialized AI chips but also signals investor confidence in China's technological ambitions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Mainland China stepping up preparations for Taiwan blockade, report says",
+      "link": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says?utm_source=rss_feed",
+      "published_date": "2026-09-01T22:00:12+00:00",
+      "summary": "Mainland China's intensified preparations for a potential blockade of Taiwan, as highlighted in Taiwan's defense ministry report, signal a significant escalation in military readiness that could reshape regional security dynamics and provoke a critical response from Taiwan and its allies. This development underscores the urgent need for strategic reassessment by global powers regarding their stance on cross-strait relations.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "published_date": "2026-09-01T21:19:20+00:00",
+      "summary": "NVIDIA and CrowdStrike have unveiled SafeMind, a groundbreaking agentic cybersecurity system designed to automate defenses in response to increasingly sophisticated automated attacks, marking a pivotal moment in the evolution of cybersecurity strategies. This innovation underscores the urgent need for advanced, proactive security measures in an era where traditional defenses are no longer sufficient.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "published_date": "2026-09-01T20:45:00+00:00",
+      "summary": "Google AI's announcement of the \"Gemini 3.7 Flash\" marks a significant leap in AI capabilities, as it not only enhances the Gemini platform but also offers students unprecedented access to advanced technology at no cost for a year, potentially democratizing AI education and innovation. This initiative underscores Google's commitment to fostering a new generation of tech-savvy individuals equipped with cutting-edge tools.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "published_date": "2026-09-01T17:00:00+00:00",
+      "summary": "AI-native companies like Basis, Clay, and Exa Labs are revolutionizing operational efficiency by leveraging AI agents to streamline workflows in onboarding, account management, and developer integrations, offering enterprise leaders a transformative approach to enhance productivity and competitiveness. This breakthrough signifies a pivotal shift in how organizations can harness AI to optimize their core capabilities and drive innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "published_date": "2026-09-01T16:00:00+00:00",
+      "summary": "Google Pics revolutionizes image creation and editing within Google Workspace, enabling users to effortlessly generate and customize visuals, which could significantly enhance productivity and creativity across various professional and personal applications. This breakthrough not only streamlines the design process but also democratizes access to high-quality image tools, empowering users of all skill levels to produce stunning graphics with ease.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "published_date": "2026-09-01T13:00:00+00:00",
+      "summary": "OpenAI's Astra has achieved a groundbreaking milestone by becoming the first model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, setting a new standard for safety and security in AI deployments. This advancement not only enhances the robustness of AI systems but also significantly mitigates risks associated with their release, marking a pivotal moment in the evolution of responsible AI technology.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Call for Trump-Xi AI safety talks comes as state media slams US AI governance",
+      "link": "https://www.scmp.com/tech/policy/article/3365980/call-trump-xi-ai-safety-talks-comes-state-media-slams-us-ai-governance?utm_source=rss_feed",
+      "published_date": "2026-09-01T12:00:10+00:00",
+      "summary": "A leading OpenAI executive is urging for urgent AI safety collaboration between the US and China ahead of a pivotal summit, highlighting the critical need for international cooperation despite escalating tensions and criticism from Chinese state media regarding American AI governance. This breakthrough call for dialogue underscores the potential risks of unchecked AI development and the necessity for global standards in a rapidly evolving technological landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "published_date": "2026-09-01T12:00:00+00:00",
+      "summary": "ChatGPT's new capability to integrate with electronic health records and additional healthcare data marks a transformative leap in clinical decision-making, empowering healthcare professionals with secure, real-time access to vital patient information and medical research. This breakthrough not only enhances patient care but also streamlines workflows, potentially revolutionizing the healthcare landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "China highlights advanced wartime tech in defence mobilisation law update",
+      "link": "https://www.scmp.com/news/china/military/article/3365993/china-highlights-advanced-wartime-tech-defence-mobilisation-law-update?utm_source=rss_feed",
+      "published_date": "2026-09-01T10:06:31+00:00",
+      "summary": "China's recent amendment to its national defense mobilization law, the first in 16 years, emphasizes the integration of advanced technologies like AI and drones, enabling a swift transformation of emerging infrastructure into robust defense capabilities, which could significantly enhance its military readiness and strategic advantage.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "More nothing now",
+      "link": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
+      "published_date": "2026-09-01T10:00:00+00:00",
+      "summary": "• The essence of humanity thrives in the realm of unstructured play, where imagination flourishes without purpose.  \n• Gamification, while enticing, threatens to diminish our innate ability to engage in spontaneous creativity.  \n• The paradox of play lies in its apparent triviality, yet it is foundational to our emotional and intellectual growth.  \n• In a world increasingly driven by metrics and outcomes, reclaiming the art of pointless play becomes a radical act of self-affirmation.  \n• Embracing nothingness in our activities can lead to profound insights and a deeper connection to our true selves.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "Pallas-1 sees China’s Galactic Energy join reusable launch push, closing in on SpaceX",
       "link": "https://www.scmp.com/tech/big-tech/article/3365964/pallas-1-sees-chinas-galactic-energy-join-reusable-launch-push-closing-spacex?utm_source=rss_feed",
       "published_date": "2026-09-01T08:30:09+00:00",
       "summary": "Galactic Energy's successful launch of the Pallas-1 reusable rocket signifies a pivotal advancement in China's efforts to enhance its space capabilities, positioning it closer to competing with SpaceX in the rapidly evolving space industry. This breakthrough not only underscores China's commitment to reusable launch technology but also potentially reshapes the global landscape of commercial space exploration.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Why US sanctions threats against China aren’t credible",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3365837/why-us-sanctions-threats-against-china-arent-credible?utm_source=rss_feed",
-      "published_date": "2026-09-01T08:30:06+00:00",
-      "summary": "The article reveals that US threats of sanctions against China over its ties with Iran lack credibility, as the US's own economic vulnerabilities, particularly in artificial intelligence and its bond market, could backfire and inadvertently bolster the yuan's global dominance. This shift underscores a significant geopolitical power realignment, where China's trading partners can seamlessly transition to using the yuan, diminishing the dollar's supremacy in international trade.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Xi calls on SCO members to team up for bigger global tech-security role",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3365957/xi-raises-universal-security-mission-sco-putin-modi-meet-kyrgyzstan?utm_source=rss_feed",
-      "published_date": "2026-09-01T07:32:21+00:00",
-      "summary": "Chinese President Xi Jinping has urged the Shanghai Cooperation Organisation to enhance its influence in global technology and security, highlighting its potential to counter Western military alliances and reshape international dynamics. This call for collaboration marks a significant shift in the geopolitical landscape, positioning the SCO as a pivotal player in addressing contemporary security challenges.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365870/chinas-zai-revenue-jumps-400-total-losses-narrow-explosive-cloud-gains?utm_source=rss_feed",
-      "published_date": "2026-08-31T11:43:48+00:00",
-      "summary": "Chinese AI company Z.ai has achieved a staggering 400% revenue increase in the first half of the year, fueled by rapid growth in its open platform and API business, signaling a significant shift in the market as it narrows losses while investing heavily in R&D. This remarkable performance positions Z.ai for an anticipated 514% full-year sales growth, underscoring its potential to reshape the competitive landscape in the AI sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The Singapore strategies",
-      "link": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
-      "published_date": "2026-08-31T10:00:00+00:00",
-      "summary": "• Singapore exemplifies the tension between efficiency and self-sufficiency in resource management, particularly in water and food security.  \n• The city-state's innovative water strategies highlight the importance of technological advancement in overcoming natural limitations.  \n• Despite its success in water sustainability, Singapore's reliance on global food supply chains raises questions about resilience and vulnerability.  \n• The pursuit of efficiency often leads to a paradox where dependence on external sources can undermine local autonomy and security.  \n• Singapore's experience serves as a philosophical lens through which to examine the balance between modernity and the need for self-reliance in an interconnected world.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "As China-US space race heats up, Shanghai unveils space-computing hub",
-      "link": "https://www.scmp.com/tech/tech-war/article/3365839/china-us-space-race-heats-shanghai-unveils-space-computing-hub?utm_source=rss_feed",
-      "published_date": "2026-08-31T09:30:13+00:00",
-      "summary": "Shanghai's launch of a new space-computing hub marks a significant escalation in China's efforts to establish a robust orbital data ecosystem, positioning the city as a critical player in the intensifying China-US space race and highlighting the growing importance of integrated technologies in commercial space endeavors.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
