@@ -1,20 +1,36 @@
 {
-  "last_updated": "2026-09-02T03:43:37.201632+00:00",
+  "last_updated": "2026-09-02T08:04:47.127639+00:00",
   "articles": [
+    {
+      "title": "China’s AMEC unveils 6 chip-making machines in 1 day to speed self-reliance",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366079/chinas-amec-unveils-6-chip-making-machines-one-day-speed-self-reliance?utm_source=rss_feed",
+      "published_date": "2026-09-02T07:04:16+00:00",
+      "summary": "China's AMEC has made a significant leap in semiconductor manufacturing by unveiling six advanced chip-making machines in one day, a move aimed at bolstering the nation's self-reliance in technology amidst rising local demand. This breakthrough not only enhances China's capabilities in chip production but also signals a strategic shift towards reducing dependency on foreign technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The yield imperative: Turning AI infrastructure into useful intelligence",
+      "link": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
+      "published_date": "2026-09-02T06:00:02+00:00",
+      "summary": "Microsoft's latest insights emphasize the critical importance of \"yield\" in AI infrastructure, suggesting that maximizing efficiency and practical application will be the key metric for progress across industries, ultimately transforming AI from a theoretical concept into a powerful, actionable intelligence. This paradigm shift could redefine how businesses harness technology, driving innovation and competitive advantage in an increasingly data-driven world.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Tencent’s Hy4 model gains in open-source AI rankings after ecosystem-driven training",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366068/tencents-hy4-model-gains-open-source-ai-rankings-after-ecosystem-driven-training?utm_source=rss_feed",
+      "published_date": "2026-09-02T05:57:58+00:00",
+      "summary": "Tencent's innovative Hy4 model has surged in open-source AI rankings by leveraging its extensive product ecosystem for training, showcasing a powerful \"product-plus-model strategy\" that enhances AI agent development and reestablishes its flagship offerings among the industry's elite. This breakthrough not only underscores Tencent's competitive advantage but also highlights the transformative potential of integrating user data into AI training processes.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Enflame’s US$900m IPO tests appetite for China’s ‘little dragon’ AI chipmakers",
       "link": "https://www.scmp.com/tech/big-tech/article/3366025/enflames-us900m-ipo-tests-appetite-chinas-little-dragon-ai-chipmakers?utm_source=rss_feed",
       "published_date": "2026-09-02T00:30:05+00:00",
       "summary": "Enflame Technology's upcoming $910 million IPO on Shanghai's Star Market represents a pivotal test for China's burgeoning AI chip sector, as the company seeks to demonstrate its ability to thrive amid intense competition from giants like Huawei and to diversify its reliance on Tencent. This move not only highlights the growing significance of specialized AI chips but also signals investor confidence in China's technological ambitions.",
       "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Mainland China stepping up preparations for Taiwan blockade, report says",
-      "link": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says?utm_source=rss_feed",
-      "published_date": "2026-09-01T22:00:12+00:00",
-      "summary": "Mainland China's intensified preparations for a potential blockade of Taiwan, as highlighted in Taiwan's defense ministry report, signal a significant escalation in military readiness that could reshape regional security dynamics and provoke a critical response from Taiwan and its allies. This development underscores the urgent need for strategic reassessment by global powers regarding their stance on cross-strait relations.",
-      "source": "China News",
       "category": "SCMP"
     },
     {
@@ -74,10 +90,10 @@
       "category": "AI"
     },
     {
-      "title": "China highlights advanced wartime tech in defence mobilisation law update",
-      "link": "https://www.scmp.com/news/china/military/article/3365993/china-highlights-advanced-wartime-tech-defence-mobilisation-law-update?utm_source=rss_feed",
-      "published_date": "2026-09-01T10:06:31+00:00",
-      "summary": "China's recent amendment to its national defense mobilization law, the first in 16 years, emphasizes the integration of advanced technologies like AI and drones, enabling a swift transformation of emerging infrastructure into robust defense capabilities, which could significantly enhance its military readiness and strategic advantage.",
+      "title": "Trump envoy Daines visits Chinese AI, space firms to pave way for Xi summit in US",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3366009/trump-envoy-daines-visits-chinese-ai-space-firms-lay-groundwork-xi-summit-us?utm_source=rss_feed",
+      "published_date": "2026-09-01T11:54:57+00:00",
+      "summary": "US Senator Steve Daines' recent visit to Chinese AI and space firms is a strategic move to strengthen diplomatic ties ahead of a pivotal summit between President Trump and Chinese leader Xi Jinping, highlighting the growing importance of technology collaboration in US-China relations. This breakthrough could pave the way for enhanced cooperation in critical sectors, potentially reshaping the geopolitical landscape.",
       "source": "China News",
       "category": "SCMP"
     },
@@ -88,6 +104,14 @@
       "summary": "• The essence of humanity thrives in the realm of unstructured play, where imagination flourishes without purpose.  \n• Gamification, while enticing, threatens to diminish our innate ability to engage in spontaneous creativity.  \n• The paradox of play lies in its apparent triviality, yet it is foundational to our emotional and intellectual growth.  \n• In a world increasingly driven by metrics and outcomes, reclaiming the art of pointless play becomes a radical act of self-affirmation.  \n• Embracing nothingness in our activities can lead to profound insights and a deeper connection to our true selves.",
       "source": "Aeon Essays",
       "category": "Aeon"
+    },
+    {
+      "title": "Global investors descend on China’s Shenzhen to ride wave of AI and robotics opportunities",
+      "link": "https://www.scmp.com/business/china-business/article/3365965/global-investors-descend-chinas-shenzhen-ride-wave-ai-and-robotics-opportunities?utm_source=rss_feed",
+      "published_date": "2026-09-01T09:00:09+00:00",
+      "summary": "Shenzhen is emerging as a global hotspot for artificial intelligence and robotics, attracting significant investment from major financial institutions like HSBC, UBS, and Nomura, highlighting the city's pivotal role in shaping the future of technology amidst increasing international interest. This surge not only underscores Shenzhen's status as a tech powerhouse but also signals a transformative shift in the global investment landscape towards cutting-edge innovations.",
+      "source": "SCMP China Tech",
+      "category": "SCMP"
     },
     {
       "title": "Pallas-1 sees China’s Galactic Energy join reusable launch push, closing in on SpaceX",
