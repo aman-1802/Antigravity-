@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-09-02T08:04:47.127639+00:00",
+  "last_updated": "2026-09-03T03:42:07.459263+00:00",
   "articles": [
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "published_date": "2026-09-02T15:40:00+00:00",
+      "summary": "Google AI's Fairwind Program represents a groundbreaking proactive cyber defense initiative designed to safeguard governments and enterprises from evolving cyber threats, significantly enhancing their resilience and security posture in an increasingly hostile digital landscape. This innovative approach not only anticipates potential attacks but also empowers organizations to respond effectively, marking a pivotal shift in cybersecurity strategy.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "China urges global AI cooperation, not rivalry, ahead of Xi-Trump summit",
+      "link": "https://www.scmp.com/tech/tech-war/article/3366143/china-urges-global-ai-cooperation-not-rivalry-ahead-xi-trump-summit?utm_source=rss_feed",
+      "published_date": "2026-09-02T13:30:10+00:00",
+      "summary": "China's call for global cooperation on artificial intelligence, articulated by Science and Technology Minister Yin Hejun, underscores the urgent need to navigate the dual challenges and opportunities presented by AI amidst escalating trade and tech tensions with the U.S., highlighting the critical role of international collaboration in shaping the future of technology. This initiative could redefine global tech dynamics, fostering a more unified approach to AI governance at a time when competition threatens to overshadow collaborative progress.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "published_date": "2026-09-02T12:00:00+00:00",
+      "summary": "The ATV Big Air Tour has revolutionized its operational efficiency by leveraging ChatGPT to condense three days of marketing and merchandising tasks into just three hours, including the rapid creation of an inventory website in a mere 15 minutes. This breakthrough not only streamlines processes but also showcases the transformative potential of AI in enhancing productivity across industries.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Frontier AI at a cost: what Anthropic’s Fable 5.1 means for the US-China model race",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366125/frontier-ai-cost-what-anthropics-fable-51-means-us-china-model-race?utm_source=rss_feed",
+      "published_date": "2026-09-02T11:30:06+00:00",
+      "summary": "Anthropic's Claude Fable 5.1 has set a new benchmark in AI performance, significantly outperforming Chinese competitors in software coding and complex knowledge tasks, underscoring the escalating US-China race in advanced AI technology amidst the rise of cost-effective models from China. This breakthrough not only solidifies Anthropic's leadership in the field but also highlights the competitive landscape that could shape the future of global AI innovation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s No 2 foundry Hua Hong invests US$2b in new fab to meet surging AI-driven demand",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366104/chinas-no-2-foundry-hua-hong-invests-us2b-new-fab-meet-surging-ai-driven-demand?utm_source=rss_feed",
+      "published_date": "2026-09-02T09:30:11+00:00",
+      "summary": "Hua Hong Grace Semiconductor is investing $2 billion to build a new 12-inch specialty chip fabrication facility in Wuxi, a strategic move to capitalize on the surging domestic demand for AI infrastructure while circumventing U.S. technology restrictions. This expansion positions Hua Hong as a key player in the rapidly evolving semiconductor landscape, crucial for China's ambitions in AI and tech self-sufficiency.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "China’s AMEC unveils 6 chip-making machines in 1 day to speed self-reliance",
       "link": "https://www.scmp.com/tech/big-tech/article/3366079/chinas-amec-unveils-6-chip-making-machines-one-day-speed-self-reliance?utm_source=rss_feed",
@@ -16,110 +56,6 @@
       "summary": "Microsoft's latest insights emphasize the critical importance of \"yield\" in AI infrastructure, suggesting that maximizing efficiency and practical application will be the key metric for progress across industries, ultimately transforming AI from a theoretical concept into a powerful, actionable intelligence. This paradigm shift could redefine how businesses harness technology, driving innovation and competitive advantage in an increasingly data-driven world.",
       "source": "Microsoft",
       "category": "AI"
-    },
-    {
-      "title": "Tencent’s Hy4 model gains in open-source AI rankings after ecosystem-driven training",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366068/tencents-hy4-model-gains-open-source-ai-rankings-after-ecosystem-driven-training?utm_source=rss_feed",
-      "published_date": "2026-09-02T05:57:58+00:00",
-      "summary": "Tencent's innovative Hy4 model has surged in open-source AI rankings by leveraging its extensive product ecosystem for training, showcasing a powerful \"product-plus-model strategy\" that enhances AI agent development and reestablishes its flagship offerings among the industry's elite. This breakthrough not only underscores Tencent's competitive advantage but also highlights the transformative potential of integrating user data into AI training processes.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Enflame’s US$900m IPO tests appetite for China’s ‘little dragon’ AI chipmakers",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366025/enflames-us900m-ipo-tests-appetite-chinas-little-dragon-ai-chipmakers?utm_source=rss_feed",
-      "published_date": "2026-09-02T00:30:05+00:00",
-      "summary": "Enflame Technology's upcoming $910 million IPO on Shanghai's Star Market represents a pivotal test for China's burgeoning AI chip sector, as the company seeks to demonstrate its ability to thrive amid intense competition from giants like Huawei and to diversify its reliance on Tencent. This move not only highlights the growing significance of specialized AI chips but also signals investor confidence in China's technological ambitions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-      "published_date": "2026-09-01T21:19:20+00:00",
-      "summary": "NVIDIA and CrowdStrike have unveiled SafeMind, a groundbreaking agentic cybersecurity system designed to automate defenses in response to increasingly sophisticated automated attacks, marking a pivotal moment in the evolution of cybersecurity strategies. This innovation underscores the urgent need for advanced, proactive security measures in an era where traditional defenses are no longer sufficient.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The latest AI news we announced in August 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "published_date": "2026-09-01T20:45:00+00:00",
-      "summary": "Google AI's announcement of the \"Gemini 3.7 Flash\" marks a significant leap in AI capabilities, as it not only enhances the Gemini platform but also offers students unprecedented access to advanced technology at no cost for a year, potentially democratizing AI education and innovation. This initiative underscores Google's commitment to fostering a new generation of tech-savvy individuals equipped with cutting-edge tools.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "published_date": "2026-09-01T17:00:00+00:00",
-      "summary": "AI-native companies like Basis, Clay, and Exa Labs are revolutionizing operational efficiency by leveraging AI agents to streamline workflows in onboarding, account management, and developer integrations, offering enterprise leaders a transformative approach to enhance productivity and competitiveness. This breakthrough signifies a pivotal shift in how organizations can harness AI to optimize their core capabilities and drive innovation.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "published_date": "2026-09-01T16:00:00+00:00",
-      "summary": "Google Pics revolutionizes image creation and editing within Google Workspace, enabling users to effortlessly generate and customize visuals, which could significantly enhance productivity and creativity across various professional and personal applications. This breakthrough not only streamlines the design process but also democratizes access to high-quality image tools, empowering users of all skill levels to produce stunning graphics with ease.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "published_date": "2026-09-01T13:00:00+00:00",
-      "summary": "OpenAI's Astra has achieved a groundbreaking milestone by becoming the first model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, setting a new standard for safety and security in AI deployments. This advancement not only enhances the robustness of AI systems but also significantly mitigates risks associated with their release, marking a pivotal moment in the evolution of responsible AI technology.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Call for Trump-Xi AI safety talks comes as state media slams US AI governance",
-      "link": "https://www.scmp.com/tech/policy/article/3365980/call-trump-xi-ai-safety-talks-comes-state-media-slams-us-ai-governance?utm_source=rss_feed",
-      "published_date": "2026-09-01T12:00:10+00:00",
-      "summary": "A leading OpenAI executive is urging for urgent AI safety collaboration between the US and China ahead of a pivotal summit, highlighting the critical need for international cooperation despite escalating tensions and criticism from Chinese state media regarding American AI governance. This breakthrough call for dialogue underscores the potential risks of unchecked AI development and the necessity for global standards in a rapidly evolving technological landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "published_date": "2026-09-01T12:00:00+00:00",
-      "summary": "ChatGPT's new capability to integrate with electronic health records and additional healthcare data marks a transformative leap in clinical decision-making, empowering healthcare professionals with secure, real-time access to vital patient information and medical research. This breakthrough not only enhances patient care but also streamlines workflows, potentially revolutionizing the healthcare landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Trump envoy Daines visits Chinese AI, space firms to pave way for Xi summit in US",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3366009/trump-envoy-daines-visits-chinese-ai-space-firms-lay-groundwork-xi-summit-us?utm_source=rss_feed",
-      "published_date": "2026-09-01T11:54:57+00:00",
-      "summary": "US Senator Steve Daines' recent visit to Chinese AI and space firms is a strategic move to strengthen diplomatic ties ahead of a pivotal summit between President Trump and Chinese leader Xi Jinping, highlighting the growing importance of technology collaboration in US-China relations. This breakthrough could pave the way for enhanced cooperation in critical sectors, potentially reshaping the geopolitical landscape.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "More nothing now",
-      "link": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
-      "published_date": "2026-09-01T10:00:00+00:00",
-      "summary": "• The essence of humanity thrives in the realm of unstructured play, where imagination flourishes without purpose.  \n• Gamification, while enticing, threatens to diminish our innate ability to engage in spontaneous creativity.  \n• The paradox of play lies in its apparent triviality, yet it is foundational to our emotional and intellectual growth.  \n• In a world increasingly driven by metrics and outcomes, reclaiming the art of pointless play becomes a radical act of self-affirmation.  \n• Embracing nothingness in our activities can lead to profound insights and a deeper connection to our true selves.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Global investors descend on China’s Shenzhen to ride wave of AI and robotics opportunities",
-      "link": "https://www.scmp.com/business/china-business/article/3365965/global-investors-descend-chinas-shenzhen-ride-wave-ai-and-robotics-opportunities?utm_source=rss_feed",
-      "published_date": "2026-09-01T09:00:09+00:00",
-      "summary": "Shenzhen is emerging as a global hotspot for artificial intelligence and robotics, attracting significant investment from major financial institutions like HSBC, UBS, and Nomura, highlighting the city's pivotal role in shaping the future of technology amidst increasing international interest. This surge not only underscores Shenzhen's status as a tech powerhouse but also signals a transformative shift in the global investment landscape towards cutting-edge innovations.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Pallas-1 sees China’s Galactic Energy join reusable launch push, closing in on SpaceX",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365964/pallas-1-sees-chinas-galactic-energy-join-reusable-launch-push-closing-spacex?utm_source=rss_feed",
-      "published_date": "2026-09-01T08:30:09+00:00",
-      "summary": "Galactic Energy's successful launch of the Pallas-1 reusable rocket signifies a pivotal advancement in China's efforts to enhance its space capabilities, positioning it closer to competing with SpaceX in the rapidly evolving space industry. This breakthrough not only underscores China's commitment to reusable launch technology but also potentially reshapes the global landscape of commercial space exploration.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
