@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-03T03:42:07.459263+00:00",
+  "last_updated": "2026-09-03T08:14:14.651508+00:00",
   "articles": [
+    {
+      "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
+      "published_date": "2026-09-03T08:00:26+00:00",
+      "summary": "Nvidia's Jensen Huang and Tesla's Elon Musk are challenging global AI regulations, arguing that excessive oversight could stifle innovation amid the escalating US-China tech rivalry, highlighting the critical balance between safety and progress in artificial intelligence development. This push underscores the urgency for policymakers to craft regulations that effectively address real risks without hindering technological advancement in a fiercely competitive landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese chipmaker Enflame 4,073 times oversubscribed in Shanghai IPO amid Nvidia race",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366203/chinese-chipmaker-enflame-4073-times-oversubscribed-shanghai-ipo-amid-nvidia-race?utm_source=rss_feed",
+      "published_date": "2026-09-03T06:17:41+00:00",
+      "summary": "Enflame Technology's IPO in Shanghai has generated unprecedented interest, being oversubscribed by 4,073 times, reflecting a significant shift in investor confidence towards domestic AI chipmakers as competition heats up against Nvidia. This surge in demand not only highlights the burgeoning market for home-grown technology solutions but also signals a pivotal moment in the global semiconductor landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Proactive cyber defense for governments and enterprises",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
@@ -40,22 +56,6 @@
       "summary": "Hua Hong Grace Semiconductor is investing $2 billion to build a new 12-inch specialty chip fabrication facility in Wuxi, a strategic move to capitalize on the surging domestic demand for AI infrastructure while circumventing U.S. technology restrictions. This expansion positions Hua Hong as a key player in the rapidly evolving semiconductor landscape, crucial for China's ambitions in AI and tech self-sufficiency.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "China’s AMEC unveils 6 chip-making machines in 1 day to speed self-reliance",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366079/chinas-amec-unveils-6-chip-making-machines-one-day-speed-self-reliance?utm_source=rss_feed",
-      "published_date": "2026-09-02T07:04:16+00:00",
-      "summary": "China's AMEC has made a significant leap in semiconductor manufacturing by unveiling six advanced chip-making machines in one day, a move aimed at bolstering the nation's self-reliance in technology amidst rising local demand. This breakthrough not only enhances China's capabilities in chip production but also signals a strategic shift towards reducing dependency on foreign technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The yield imperative: Turning AI infrastructure into useful intelligence",
-      "link": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
-      "published_date": "2026-09-02T06:00:02+00:00",
-      "summary": "Microsoft's latest insights emphasize the critical importance of \"yield\" in AI infrastructure, suggesting that maximizing efficiency and practical application will be the key metric for progress across industries, ultimately transforming AI from a theoretical concept into a powerful, actionable intelligence. This paradigm shift could redefine how businesses harness technology, driving innovation and competitive advantage in an increasingly data-driven world.",
-      "source": "Microsoft",
-      "category": "AI"
     }
   ]
 }
