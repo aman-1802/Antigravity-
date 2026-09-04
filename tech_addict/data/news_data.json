@@ -1,12 +1,28 @@
 {
-  "last_updated": "2026-09-04T03:43:46.315365+00:00",
+  "last_updated": "2026-09-04T08:10:06.603033+00:00",
   "articles": [
+    {
+      "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
+      "link": "https://www.scmp.com/business/china-business/article/3366304/debunking-tina-doctrine-nomura-warns-ai-driven-rally-masks-us-vulnerabilities?utm_source=rss_feed",
+      "published_date": "2026-09-04T04:00:08+00:00",
+      "summary": "Nomura's latest report reveals that the AI-driven market rally may obscure significant vulnerabilities in the US economy, warning that a downturn in tech stocks could lead to a sharp correction in US assets and a weakening of the dollar, highlighting the precariousness of global reliance on US dollar investments. This insight underscores the urgent need for investors to reassess their exposure amid rising risks.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "US urged to consider military strikes to stop China achieving AGI first",
       "link": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first?utm_source=rss_feed",
       "published_date": "2026-09-03T22:13:33+00:00",
       "summary": "The U.S. is being urged to contemplate military action to prevent China from becoming the first nation to achieve artificial general intelligence (AGI), highlighting the escalating geopolitical stakes surrounding advanced AI technologies and the potential for state-backed espionage. This alarming call to action underscores the urgency for the U.S. to safeguard its technological supremacy and national security in the face of rapid advancements by rival nations.",
       "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s robot revolution may not arrive in the way you expect",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect?utm_source=rss_feed",
+      "published_date": "2026-09-03T21:30:08+00:00",
+      "summary": "China's robot revolution is marked by impressive engineering feats showcased at the World Robot Conference, where humanoids demonstrated capabilities ranging from sorting parcels to performing martial arts, yet the underlying implications suggest a more complex evolution in automation that may not align with conventional expectations. This breakthrough not only highlights China's rapid advancements in robotics but also raises questions about the future landscape of labor and technology integration.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
@@ -42,6 +58,14 @@
       "category": "SCMP"
     },
     {
+      "title": "Chinese military’s AI attack chain lags foreign models: researchers",
+      "link": "https://www.scmp.com/news/china/military/article/3366256/chinese-militarys-ai-attack-chain-lags-foreign-models-researchers?utm_source=rss_feed",
+      "published_date": "2026-09-03T12:00:06+00:00",
+      "summary": "Chinese researchers reveal that the Chinese military's AI capabilities are significantly behind foreign models, primarily focusing on support roles rather than direct combat applications, highlighting a critical gap in military technology that could impact national defense strategies.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "published_date": "2026-09-03T12:00:00+00:00",
@@ -72,22 +96,6 @@
       "summary": "• The clash between Andersen and Dickens symbolizes the tension between emotional authenticity and societal expectations.  \n• \"Too muchness\" serves as a lens to explore the boundaries of acceptable expression in a repressive culture.  \n• The garden becomes a metaphorical space where creativity and emotional overflow challenge conventional norms.  \n• Neuroqueering invites us to rethink the rigid classifications of behavior and identity, embracing fluidity and complexity.  \n• Ultimately, the essay prompts a reflection on how our emotional landscapes shape and are shaped by societal frameworks.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
-      "published_date": "2026-09-03T08:00:26+00:00",
-      "summary": "Nvidia's Jensen Huang and Tesla's Elon Musk are challenging global AI regulations, arguing that excessive oversight could stifle innovation amid the escalating US-China tech rivalry, highlighting the critical balance between safety and progress in artificial intelligence development. This push underscores the urgency for policymakers to craft regulations that effectively address real risks without hindering technological advancement in a fiercely competitive landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese chipmaker Enflame 4,073 times oversubscribed in Shanghai IPO amid Nvidia race",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366203/chinese-chipmaker-enflame-4073-times-oversubscribed-shanghai-ipo-amid-nvidia-race?utm_source=rss_feed",
-      "published_date": "2026-09-03T06:17:41+00:00",
-      "summary": "Enflame Technology's IPO in Shanghai has generated unprecedented interest, being oversubscribed by 4,073 times, reflecting a significant shift in investor confidence towards domestic AI chipmakers as competition heats up against Nvidia. This surge in demand not only highlights the burgeoning market for home-grown technology solutions but also signals a pivotal moment in the global semiconductor landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
