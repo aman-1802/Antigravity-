@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-09-03T08:14:14.651508+00:00",
+  "last_updated": "2026-09-04T03:43:46.315365+00:00",
   "articles": [
+    {
+      "title": "US urged to consider military strikes to stop China achieving AGI first",
+      "link": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first?utm_source=rss_feed",
+      "published_date": "2026-09-03T22:13:33+00:00",
+      "summary": "The U.S. is being urged to contemplate military action to prevent China from becoming the first nation to achieve artificial general intelligence (AGI), highlighting the escalating geopolitical stakes surrounding advanced AI technologies and the potential for state-backed espionage. This alarming call to action underscores the urgency for the U.S. to safeguard its technological supremacy and national security in the face of rapid advancements by rival nations.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "published_date": "2026-09-03T16:00:59+00:00",
+      "summary": "NVIDIA is revolutionizing local AI capabilities by unveiling advanced tools and faster inference at IFA 2026, enabling seamless deployment of intelligent agents on compact RTX Spark Windows PCs, which empowers developers and creators to harness cutting-edge technology directly on their hardware. This breakthrough not only enhances accessibility but also accelerates the shift towards decentralized AI solutions, marking a significant leap in the industry.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "published_date": "2026-09-03T13:15:00+00:00",
+      "summary": "OpenAI's launch of Daybreak for Frontline Defenders represents a groundbreaking $1 billion initiative aimed at enhancing the security of essential services through advanced cyber AI, training, and support, significantly bolstering defenses against emerging digital threats. This commitment not only empowers critical sectors but also sets a new standard for proactive cybersecurity measures in an increasingly vulnerable digital landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "published_date": "2026-09-03T13:00:35+00:00",
+      "summary": "NVIDIA's introduction of DLSS 5 in NBA 2K27 revolutionizes gaming graphics by delivering unprecedented lifelike lighting and material detail, setting a new standard for visual fidelity in sports games and enhancing the overall streaming experience on GeForce NOW. This breakthrough not only elevates gameplay immersion but also showcases the potential of AI-driven rendering technology in the gaming industry.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
+      "published_date": "2026-09-03T13:00:02+00:00",
+      "summary": "Moonshot AI, the innovative Chinese start-up behind the advanced Kimi K3 AI model, has confidentially filed for an IPO in Hong Kong, aiming to leverage public funding for its aggressive growth strategy, potentially reshaping the AI landscape by 2027. This move underscores the increasing significance of AI in global markets and highlights the company's ambition to lead in this transformative technology sector.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published_date": "2026-09-03T12:00:00+00:00",
+      "summary": "Legora's use of GPT-6 Astra to review 41 documents in mere minutes, successfully identifying all four planted errors while boosting performance by nearly 40%, marks a significant leap in efficiency and accuracy for financial workflows, showcasing the transformative potential of advanced AI in document analysis.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published_date": "2026-09-03T12:00:00+00:00",
+      "summary": "Playco's use of GPT-6 Astra to develop three themed game prototypes from a single grey box foundation has resulted in a groundbreaking 50% reduction in manual fixes, revolutionizing the game prototyping process and significantly enhancing efficiency in game development. This advancement not only streamlines production but also sets a new standard for the industry, showcasing the transformative potential of AI in creative fields.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA to Acquire Hugging Face",
+      "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "published_date": "2026-09-03T11:56:49+00:00",
+      "summary": "NVIDIA's acquisition of Hugging Face for nearly $13 billion marks a significant leap in AI development, poised to enhance Hugging Face's platform and infrastructure, thereby democratizing access to advanced AI tools for developers and institutions globally. This strategic move underscores NVIDIA's commitment to leading the AI revolution by fostering innovation and collaboration in the tech ecosystem.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Neuroqueering on the lawn",
+      "link": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance",
+      "published_date": "2026-09-03T10:00:00+00:00",
+      "summary": "• The clash between Andersen and Dickens symbolizes the tension between emotional authenticity and societal expectations.  \n• \"Too muchness\" serves as a lens to explore the boundaries of acceptable expression in a repressive culture.  \n• The garden becomes a metaphorical space where creativity and emotional overflow challenge conventional norms.  \n• Neuroqueering invites us to rethink the rigid classifications of behavior and identity, embracing fluidity and complexity.  \n• Ultimately, the essay prompts a reflection on how our emotional landscapes shape and are shaped by societal frameworks.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
       "link": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
@@ -14,46 +86,6 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3366203/chinese-chipmaker-enflame-4073-times-oversubscribed-shanghai-ipo-amid-nvidia-race?utm_source=rss_feed",
       "published_date": "2026-09-03T06:17:41+00:00",
       "summary": "Enflame Technology's IPO in Shanghai has generated unprecedented interest, being oversubscribed by 4,073 times, reflecting a significant shift in investor confidence towards domestic AI chipmakers as competition heats up against Nvidia. This surge in demand not only highlights the burgeoning market for home-grown technology solutions but also signals a pivotal moment in the global semiconductor landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "published_date": "2026-09-02T15:40:00+00:00",
-      "summary": "Google AI's Fairwind Program represents a groundbreaking proactive cyber defense initiative designed to safeguard governments and enterprises from evolving cyber threats, significantly enhancing their resilience and security posture in an increasingly hostile digital landscape. This innovative approach not only anticipates potential attacks but also empowers organizations to respond effectively, marking a pivotal shift in cybersecurity strategy.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "China urges global AI cooperation, not rivalry, ahead of Xi-Trump summit",
-      "link": "https://www.scmp.com/tech/tech-war/article/3366143/china-urges-global-ai-cooperation-not-rivalry-ahead-xi-trump-summit?utm_source=rss_feed",
-      "published_date": "2026-09-02T13:30:10+00:00",
-      "summary": "China's call for global cooperation on artificial intelligence, articulated by Science and Technology Minister Yin Hejun, underscores the urgent need to navigate the dual challenges and opportunities presented by AI amidst escalating trade and tech tensions with the U.S., highlighting the critical role of international collaboration in shaping the future of technology. This initiative could redefine global tech dynamics, fostering a more unified approach to AI governance at a time when competition threatens to overshadow collaborative progress.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "link": "https://openai.com/index/atv-big-air-tour",
-      "published_date": "2026-09-02T12:00:00+00:00",
-      "summary": "The ATV Big Air Tour has revolutionized its operational efficiency by leveraging ChatGPT to condense three days of marketing and merchandising tasks into just three hours, including the rapid creation of an inventory website in a mere 15 minutes. This breakthrough not only streamlines processes but also showcases the transformative potential of AI in enhancing productivity across industries.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Frontier AI at a cost: what Anthropic’s Fable 5.1 means for the US-China model race",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366125/frontier-ai-cost-what-anthropics-fable-51-means-us-china-model-race?utm_source=rss_feed",
-      "published_date": "2026-09-02T11:30:06+00:00",
-      "summary": "Anthropic's Claude Fable 5.1 has set a new benchmark in AI performance, significantly outperforming Chinese competitors in software coding and complex knowledge tasks, underscoring the escalating US-China race in advanced AI technology amidst the rise of cost-effective models from China. This breakthrough not only solidifies Anthropic's leadership in the field but also highlights the competitive landscape that could shape the future of global AI innovation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s No 2 foundry Hua Hong invests US$2b in new fab to meet surging AI-driven demand",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366104/chinas-no-2-foundry-hua-hong-invests-us2b-new-fab-meet-surging-ai-driven-demand?utm_source=rss_feed",
-      "published_date": "2026-09-02T09:30:11+00:00",
-      "summary": "Hua Hong Grace Semiconductor is investing $2 billion to build a new 12-inch specialty chip fabrication facility in Wuxi, a strategic move to capitalize on the surging domestic demand for AI infrastructure while circumventing U.S. technology restrictions. This expansion positions Hua Hong as a key player in the rapidly evolving semiconductor landscape, crucial for China's ambitions in AI and tech self-sufficiency.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
