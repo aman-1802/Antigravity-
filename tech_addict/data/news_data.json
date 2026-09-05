@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-05T03:43:16.607307+00:00",
+  "last_updated": "2026-09-05T07:49:32.794830+00:00",
   "articles": [
+    {
+      "title": "Talk is growing of a Tesla-SpaceX merger. Will geopolitics throw a spanner in the works?",
+      "link": "https://www.scmp.com/tech/tech-war/article/3366387/talk-growing-tesla-spacex-merger-will-geopolitics-throw-spanner-works?utm_source=rss_feed",
+      "published_date": "2026-09-04T22:00:07+00:00",
+      "summary": "Discussions are intensifying around a potential merger between Tesla and SpaceX, which could revolutionize the electric vehicle and aerospace industries, but geopolitical tensions may pose significant challenges to this ambitious union. This merger could not only streamline production and innovation but also reshape global markets, making it a pivotal moment in tech history.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "What Sputnik couldn’t do to American science, Beijing has",
       "link": "https://www.scmp.com/opinion/world-opinion/article/3366099/what-sputnik-couldnt-do-american-science-beijing-has?utm_source=rss_feed",
       "published_date": "2026-09-04T21:30:04+00:00",
       "summary": "The U.S. government's strategic investments in key technology firms, including a significant stake in Intel and partnerships with Nvidia and AMD, signal a dramatic shift towards state-directed capitalism in the tech sector, challenging decades of free-market principles and reshaping the global competitive landscape. This move not only enhances America's technological sovereignty but also positions it to better counter China's growing influence in critical industries.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "AI economics: rise of machines’ token use could work to advantage of Chinese models",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3366385/ai-economics-rise-machines-token-use-could-work-advantage-chinese-models?utm_source=rss_feed",
-      "published_date": "2026-09-04T12:00:10+00:00",
-      "summary": "The rise of autonomous AI agents, which now consume over five times the data of human users, is significantly increasing processing costs and positioning lower-priced Chinese models as formidable competitors in the global AI landscape. This shift not only highlights the transformative potential of AI in executing complex tasks independently but also underscores the economic advantages that emerging markets can leverage in the tech arena.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
