@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-09-06T03:45:53.681830+00:00",
-  "articles": []
+  "last_updated": "2026-09-06T08:04:25.300023+00:00",
+  "articles": [
+    {
+      "title": "Chinese military university urged to revise AI course to ‘educate for war’",
+      "link": "https://www.scmp.com/news/china/military/article/3366490/chinese-military-university-urged-revise-ai-course-educate-war?utm_source=rss_feed",
+      "published_date": "2026-09-06T06:00:16+00:00",
+      "summary": "China's military university is revamping its AI curriculum to focus on \"educating for war,\" integrating combat scenarios to prepare future officers for intelligent warfare, a move that underscores the country's commitment to enhancing its military capabilities through advanced technology. This shift not only reflects the growing importance of AI in modern combat but also signals a strategic pivot in military education that could reshape global defense dynamics.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "China launches plan for 3D satellite network to monitor sun and cosmic explosions",
+      "link": "https://www.scmp.com/news/china/science/article/3366483/china-launches-plan-3d-satellite-network-monitor-sun-and-cosmic-explosions?utm_source=rss_feed",
+      "published_date": "2026-09-05T13:00:06+00:00",
+      "summary": "China's ambitious initiative to establish a 3D satellite network for monitoring solar activity and cosmic explosions represents a significant leap in space observation capabilities, potentially transforming our understanding of space weather and its impact on Earth. By deploying 30 CubeSats in the coming years, this project aims to address critical gaps in global monitoring and enhance international collaboration in astrophysics.",
+      "source": "China News",
+      "category": "SCMP"
+    }
+  ]
 }
