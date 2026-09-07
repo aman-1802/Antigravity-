@@ -1,21 +1,45 @@
 {
-  "last_updated": "2026-09-06T08:04:25.300023+00:00",
+  "last_updated": "2026-09-07T03:44:53.657645+00:00",
   "articles": [
     {
-      "title": "Chinese military university urged to revise AI course to ‘educate for war’",
-      "link": "https://www.scmp.com/news/china/military/article/3366490/chinese-military-university-urged-revise-ai-course-educate-war?utm_source=rss_feed",
-      "published_date": "2026-09-06T06:00:16+00:00",
-      "summary": "China's military university is revamping its AI curriculum to focus on \"educating for war,\" integrating combat scenarios to prepare future officers for intelligent warfare, a move that underscores the country's commitment to enhancing its military capabilities through advanced technology. This shift not only reflects the growing importance of AI in modern combat but also signals a strategic pivot in military education that could reshape global defense dynamics.",
-      "source": "China News",
+      "title": "How generative AI helps SenseTime turn a profit even as Chinese peers struggle",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle?utm_source=rss_feed",
+      "published_date": "2026-09-07T02:30:05+00:00",
+      "summary": "SenseTime is achieving profitability by prioritizing practical enterprise solutions over the relentless pursuit of larger AI models, setting a new standard in the industry as its Chinese competitors struggle to find a sustainable path. This strategic shift not only highlights the potential for generative AI to drive real-world applications but also positions SenseTime as a leader in the evolving AI landscape.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "China launches plan for 3D satellite network to monitor sun and cosmic explosions",
-      "link": "https://www.scmp.com/news/china/science/article/3366483/china-launches-plan-3d-satellite-network-monitor-sun-and-cosmic-explosions?utm_source=rss_feed",
-      "published_date": "2026-09-05T13:00:06+00:00",
-      "summary": "China's ambitious initiative to establish a 3D satellite network for monitoring solar activity and cosmic explosions represents a significant leap in space observation capabilities, potentially transforming our understanding of space weather and its impact on Earth. By deploying 30 CubeSats in the coming years, this project aims to address critical gaps in global monitoring and enhance international collaboration in astrophysics.",
-      "source": "China News",
+      "title": "Punching above their weight: how China’s AI giants stretch each dollar in compute race",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race?utm_source=rss_feed",
+      "published_date": "2026-09-06T13:00:07+00:00",
+      "summary": "A new Moody's report reveals that despite the U.S. tech giants' significant spending advantage in artificial intelligence, Chinese firms are leveraging lower domestic costs and substantial state support to achieve greater computing power per dollar, potentially reshaping the competitive landscape in the AI race. This breakthrough underscores that financial investment alone may not guarantee dominance, as efficiency and strategic support play critical roles in technological advancement.",
+      "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "Huawei paper shows Tau Scaling Law chip solves overheating ahead of Kirin 2026 launch",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366543/huawei-paper-shows-tau-scaling-law-chip-solves-overheating-ahead-kirin-2026-launch?utm_source=rss_feed",
+      "published_date": "2026-09-06T12:06:42+00:00",
+      "summary": "Huawei's groundbreaking Tau Scaling Law semiconductor architecture effectively addresses overheating issues, a critical challenge for its upcoming Kirin 2026 smartphone chip, potentially revolutionizing mobile processing capabilities and reaffirming the company's position in the competitive tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "published_date": "2026-09-06T09:00:00+00:00",
+      "summary": "Jakub Pachocki highlights the urgent need for enhanced safeguards and global collaboration as AI systems become increasingly advanced, emphasizing that misalignment with human values could pose significant risks. This call to action underscores the critical importance of proactive measures in ensuring that the evolution of AI aligns with societal interests.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "published_date": "2026-09-06T08:00:00+00:00",
+      "summary": "OpenAI's innovative coding agents are revolutionizing AI research by significantly enhancing experiment velocity and tackling complex tasks, marking a pivotal shift in how breakthroughs are achieved in the field. This advancement not only accelerates research but also sets a new standard for efficiency and capability in AI development.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
