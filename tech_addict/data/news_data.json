@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-07T03:44:53.657645+00:00",
+  "last_updated": "2026-09-07T08:34:31.259257+00:00",
   "articles": [
+    {
+      "title": "China’s Moonshot and Z.ai bring AI model subscription race to Tmall’s retail shelves",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3366617/chinas-moonshot-and-zai-bring-ai-model-subscription-race-tmalls-retail-shelves?utm_source=rss_feed",
+      "published_date": "2026-09-07T08:00:13+00:00",
+      "summary": "China's leading AI developers, including Moonshot AI, are revolutionizing the consumer market by launching AI model subscription services on Alibaba's Tmall, positioning artificial intelligence alongside traditional retail products and signaling a significant shift in how consumers access and engage with AI technology. This breakthrough not only expands the reach of AI into everyday consumer experiences but also intensifies competition among developers to attract paying users in a rapidly evolving digital landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "How generative AI helps SenseTime turn a profit even as Chinese peers struggle",
       "link": "https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle?utm_source=rss_feed",
@@ -8,6 +16,14 @@
       "summary": "SenseTime is achieving profitability by prioritizing practical enterprise solutions over the relentless pursuit of larger AI models, setting a new standard in the industry as its Chinese competitors struggle to find a sustainable path. This strategic shift not only highlights the potential for generative AI to drive real-world applications but also positions SenseTime as a leader in the evolving AI landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published_date": "2026-09-07T00:00:00+00:00",
+      "summary": "OpenAI, in collaboration with AIRPPU and WAN-IFRA, has launched an AI initiative aimed at bolstering independent journalism in Ukraine, a critical move to enhance innovation and resilience in the face of ongoing challenges. This breakthrough is vital as it empowers local news organizations to maintain their independence and integrity, ensuring that essential information continues to flow amidst adversity.",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "Punching above their weight: how China’s AI giants stretch each dollar in compute race",
@@ -26,18 +42,18 @@
       "category": "SCMP"
     },
     {
+      "title": "China will never allow any country in this world to achieve AI dominance: Victor Gao",
+      "link": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao?utm_source=rss_feed",
+      "published_date": "2026-09-06T11:00:09+00:00",
+      "summary": "China is poised to counteract U.S. efforts to establish global AI supremacy, with Victor Gao highlighting concerns over the militarization of AI technologies by Washington, which he claims risks turning advancements into tools for malevolence. This stance underscores a significant geopolitical tension in the race for AI leadership, with implications for international security and ethical standards in technology development.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
       "title": "An Alien Mind",
       "link": "https://openai.com/index/an-alien-mind",
       "published_date": "2026-09-06T09:00:00+00:00",
       "summary": "Jakub Pachocki highlights the urgent need for enhanced safeguards and global collaboration as AI systems become increasingly advanced, emphasizing that misalignment with human values could pose significant risks. This call to action underscores the critical importance of proactive measures in ensuring that the evolution of AI aligns with societal interests.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "published_date": "2026-09-06T08:00:00+00:00",
-      "summary": "OpenAI's innovative coding agents are revolutionizing AI research by significantly enhancing experiment velocity and tackling complex tasks, marking a pivotal shift in how breakthroughs are achieved in the field. This advancement not only accelerates research but also sets a new standard for efficiency and capability in AI development.",
       "source": "OpenAI",
       "category": "AI"
     }
