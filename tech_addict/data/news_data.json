@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-09-07T08:34:31.259257+00:00",
+  "last_updated": "2026-09-08T03:49:47.816146+00:00",
   "articles": [
+    {
+      "title": "Huawei’s new Kirin chip puts LogicFolding to the test, with bigger ambitions in AI",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366669/huaweis-new-kirin-chip-puts-logic-folding-test-bigger-ambitions-ai?utm_source=rss_feed",
+      "published_date": "2026-09-08T02:00:18+00:00",
+      "summary": "Huawei's launch of the Kirin 9050 Pro, the first chip utilizing its innovative LogicFolding architecture, represents a significant leap in semiconductor technology that could enable the company to circumvent US sanctions by enhancing performance through advanced circuit layering, potentially reshaping the landscape of AI and mobile processing. This breakthrough not only showcases Huawei's engineering prowess but also underscores its determination to remain competitive in a constrained global market.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3366682/chinas-xiaomi-unveils-folding-phone-home-grown-chip-it-takes-apple-huawei?utm_source=rss_feed",
+      "published_date": "2026-09-07T14:39:35+00:00",
+      "summary": "Xiaomi has made a significant leap in the smartphone market by launching the 18 Fold, a cutting-edge foldable phone powered by its proprietary Xring O3 chip, positioning itself as a formidable competitor against industry giants like Apple and Huawei. This breakthrough not only highlights Xiaomi's commitment to innovation but also marks a pivotal moment in the global tech landscape as it seeks to redefine consumer expectations in mobile technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The planet is… up to something",
+      "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
+      "published_date": "2026-09-07T10:01:00+00:00",
+      "summary": "• The astronaut's perspective from the lunar flyby challenges our perception of insignificance, highlighting humanity's evolving role in the cosmos.  \n• This image serves as a reminder that our existence is intertwined with the planet's fate, prompting a reevaluation of our responsibilities.  \n• The juxtaposition of Earth's beauty against the vastness of space invites contemplation on our place within the universe.  \n• As we gaze at our home from afar, we are called to recognize the interconnectedness of all life and the urgency of stewardship.  \n• Ultimately, the photograph symbolizes a pivotal moment in human consciousness, urging us to transcend our limitations and embrace a collective purpose.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Continental divide",
+      "link": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
+      "published_date": "2026-09-07T10:00:00+00:00",
+      "summary": "• The Pan-American road symbolized an ambitious vision of unity and connectivity between North and South America.  \n• Despite its initial promise, the road has often highlighted the deep socio-economic and cultural divides that persist between the continents.  \n• The journey along the road serves as a metaphor for the complexities of intercontinental relationships, revealing both shared aspirations and stark disparities.  \n• Ultimately, the Pan-American road reflects the paradox of globalization, where the potential for fraternity is often overshadowed by historical and contemporary tensions.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "China’s Moonshot and Z.ai bring AI model subscription race to Tmall’s retail shelves",
       "link": "https://www.scmp.com/tech/tech-trends/article/3366617/chinas-moonshot-and-zai-bring-ai-model-subscription-race-tmalls-retail-shelves?utm_source=rss_feed",
@@ -8,54 +40,6 @@
       "summary": "China's leading AI developers, including Moonshot AI, are revolutionizing the consumer market by launching AI model subscription services on Alibaba's Tmall, positioning artificial intelligence alongside traditional retail products and signaling a significant shift in how consumers access and engage with AI technology. This breakthrough not only expands the reach of AI into everyday consumer experiences but also intensifies competition among developers to attract paying users in a rapidly evolving digital landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "How generative AI helps SenseTime turn a profit even as Chinese peers struggle",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle?utm_source=rss_feed",
-      "published_date": "2026-09-07T02:30:05+00:00",
-      "summary": "SenseTime is achieving profitability by prioritizing practical enterprise solutions over the relentless pursuit of larger AI models, setting a new standard in the industry as its Chinese competitors struggle to find a sustainable path. This strategic shift not only highlights the potential for generative AI to drive real-world applications but also positions SenseTime as a leader in the evolving AI landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Supporting independent journalism in Ukraine",
-      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "published_date": "2026-09-07T00:00:00+00:00",
-      "summary": "OpenAI, in collaboration with AIRPPU and WAN-IFRA, has launched an AI initiative aimed at bolstering independent journalism in Ukraine, a critical move to enhance innovation and resilience in the face of ongoing challenges. This breakthrough is vital as it empowers local news organizations to maintain their independence and integrity, ensuring that essential information continues to flow amidst adversity.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Punching above their weight: how China’s AI giants stretch each dollar in compute race",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race?utm_source=rss_feed",
-      "published_date": "2026-09-06T13:00:07+00:00",
-      "summary": "A new Moody's report reveals that despite the U.S. tech giants' significant spending advantage in artificial intelligence, Chinese firms are leveraging lower domestic costs and substantial state support to achieve greater computing power per dollar, potentially reshaping the competitive landscape in the AI race. This breakthrough underscores that financial investment alone may not guarantee dominance, as efficiency and strategic support play critical roles in technological advancement.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Huawei paper shows Tau Scaling Law chip solves overheating ahead of Kirin 2026 launch",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366543/huawei-paper-shows-tau-scaling-law-chip-solves-overheating-ahead-kirin-2026-launch?utm_source=rss_feed",
-      "published_date": "2026-09-06T12:06:42+00:00",
-      "summary": "Huawei's groundbreaking Tau Scaling Law semiconductor architecture effectively addresses overheating issues, a critical challenge for its upcoming Kirin 2026 smartphone chip, potentially revolutionizing mobile processing capabilities and reaffirming the company's position in the competitive tech landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China will never allow any country in this world to achieve AI dominance: Victor Gao",
-      "link": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao?utm_source=rss_feed",
-      "published_date": "2026-09-06T11:00:09+00:00",
-      "summary": "China is poised to counteract U.S. efforts to establish global AI supremacy, with Victor Gao highlighting concerns over the militarization of AI technologies by Washington, which he claims risks turning advancements into tools for malevolence. This stance underscores a significant geopolitical tension in the race for AI leadership, with implications for international security and ethical standards in technology development.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "An Alien Mind",
-      "link": "https://openai.com/index/an-alien-mind",
-      "published_date": "2026-09-06T09:00:00+00:00",
-      "summary": "Jakub Pachocki highlights the urgent need for enhanced safeguards and global collaboration as AI systems become increasingly advanced, emphasizing that misalignment with human values could pose significant risks. This call to action underscores the critical importance of proactive measures in ensuring that the evolution of AI aligns with societal interests.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
