@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-08T03:49:47.816146+00:00",
+  "last_updated": "2026-09-08T08:16:59.382019+00:00",
   "articles": [
+    {
+      "title": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
+      "link": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push?utm_source=rss_feed",
+      "published_date": "2026-09-08T06:00:20+00:00",
+      "summary": "China is set to quadruple its AI computing capacity by 2030, aiming for 9,800 eflops through the deployment of massive AI computing clusters, a move that underscores its commitment to becoming a global leader in artificial intelligence technology. This ambitious investment in infrastructure not only enhances China's technological prowess but also positions it strategically in the competitive global AI landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Huawei’s new Kirin chip puts LogicFolding to the test, with bigger ambitions in AI",
       "link": "https://www.scmp.com/tech/big-tech/article/3366669/huaweis-new-kirin-chip-puts-logic-folding-test-bigger-ambitions-ai?utm_source=rss_feed",
       "published_date": "2026-09-08T02:00:18+00:00",
       "summary": "Huawei's launch of the Kirin 9050 Pro, the first chip utilizing its innovative LogicFolding architecture, represents a significant leap in semiconductor technology that could enable the company to circumvent US sanctions by enhancing performance through advanced circuit layering, potentially reshaping the landscape of AI and mobile processing. This breakthrough not only showcases Huawei's engineering prowess but also underscores its determination to remain competitive in a constrained global market.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3366682/chinas-xiaomi-unveils-folding-phone-home-grown-chip-it-takes-apple-huawei?utm_source=rss_feed",
-      "published_date": "2026-09-07T14:39:35+00:00",
-      "summary": "Xiaomi has made a significant leap in the smartphone market by launching the 18 Fold, a cutting-edge foldable phone powered by its proprietary Xring O3 chip, positioning itself as a formidable competitor against industry giants like Apple and Huawei. This breakthrough not only highlights Xiaomi's commitment to innovation but also marks a pivotal moment in the global tech landscape as it seeks to redefine consumer expectations in mobile technology.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
@@ -32,14 +32,6 @@
       "summary": "• The Pan-American road symbolized an ambitious vision of unity and connectivity between North and South America.  \n• Despite its initial promise, the road has often highlighted the deep socio-economic and cultural divides that persist between the continents.  \n• The journey along the road serves as a metaphor for the complexities of intercontinental relationships, revealing both shared aspirations and stark disparities.  \n• Ultimately, the Pan-American road reflects the paradox of globalization, where the potential for fraternity is often overshadowed by historical and contemporary tensions.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China’s Moonshot and Z.ai bring AI model subscription race to Tmall’s retail shelves",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3366617/chinas-moonshot-and-zai-bring-ai-model-subscription-race-tmalls-retail-shelves?utm_source=rss_feed",
-      "published_date": "2026-09-07T08:00:13+00:00",
-      "summary": "China's leading AI developers, including Moonshot AI, are revolutionizing the consumer market by launching AI model subscription services on Alibaba's Tmall, positioning artificial intelligence alongside traditional retail products and signaling a significant shift in how consumers access and engage with AI technology. This breakthrough not only expands the reach of AI into everyday consumer experiences but also intensifies competition among developers to attract paying users in a rapidly evolving digital landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
