@@ -1,12 +1,20 @@
 {
-  "last_updated": "2026-09-09T03:54:38.875294+00:00",
+  "last_updated": "2026-09-09T08:20:02.650871+00:00",
   "articles": [
     {
-      "title": "China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3366835/us-accuses-chinese-ai-firms-malicious-copying-ai-technology?utm_source=rss_feed",
-      "published_date": "2026-09-08T20:50:57+00:00",
-      "summary": "US Treasury Secretary Scott Bessent asserts that China's reliance on central planning and technology theft will prevent it from surpassing the US in artificial intelligence, highlighting a critical competitive edge for America in the rapidly evolving tech landscape. This statement underscores the geopolitical stakes in AI development, as the US aims to maintain its leadership amid rising global tensions.",
-      "source": "Diplomacy & Defence",
+      "title": "US firm used AI to hijack WeChat account, spurring call for cyber cooperation with China",
+      "link": "https://www.scmp.com/tech/article/3366898/us-firm-used-ai-hijack-wechat-account-spurring-call-cyber-cooperation-china?utm_source=rss_feed",
+      "published_date": "2026-09-09T08:01:12+00:00",
+      "summary": "US cybersecurity researchers have unveiled a groundbreaking AI system capable of hijacking WeChat accounts through unanswered voice calls, highlighting urgent vulnerabilities in widely used digital platforms and igniting calls for enhanced cyber cooperation between the United States and China. This development underscores the escalating threat of AI-driven cyberattacks and the necessity for collaborative security measures in an increasingly interconnected digital landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Amid China’s AI shift, JD.com bets on 3 million robots to automate logistics",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366884/jdcom-deploy-3-million-robots-fully-automate-logistics?utm_source=rss_feed",
+      "published_date": "2026-09-09T06:25:50+00:00",
+      "summary": "JD.com is making a groundbreaking commitment to revolutionize its logistics operations by investing in 3 million robots, including unstaffed vehicles and delivery drones, while simultaneously retraining its workforce for technical roles, marking a significant shift in the future of automation in China's e-commerce sector. This ambitious initiative not only enhances operational efficiency but also sets a precedent for how companies can adapt to technological advancements while supporting their employees.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
@@ -64,14 +72,6 @@
       "summary": "OpenAI has launched a groundbreaking $5 million grant program aimed at funding independent research into the impact of generative AI on teen development, well-being, and safety, highlighting a critical intersection of technology and youth psychology that could shape future policy and educational practices. This initiative not only underscores the urgency of understanding AI's influence on younger generations but also positions OpenAI as a leader in fostering responsible AI innovation.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
-      "link": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push?utm_source=rss_feed",
-      "published_date": "2026-09-08T06:00:20+00:00",
-      "summary": "China is set to quadruple its AI computing capacity by 2030, aiming for 9,800 eflops through the deployment of massive AI computing clusters, a move that underscores its commitment to becoming a global leader in artificial intelligence technology. This ambitious investment in infrastructure not only enhances China's technological prowess but also positions it strategically in the competitive global AI landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
