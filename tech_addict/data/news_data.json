@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-09-08T08:16:59.382019+00:00",
+  "last_updated": "2026-09-09T03:54:38.875294+00:00",
   "articles": [
+    {
+      "title": "China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3366835/us-accuses-chinese-ai-firms-malicious-copying-ai-technology?utm_source=rss_feed",
+      "published_date": "2026-09-08T20:50:57+00:00",
+      "summary": "US Treasury Secretary Scott Bessent asserts that China's reliance on central planning and technology theft will prevent it from surpassing the US in artificial intelligence, highlighting a critical competitive edge for America in the rapidly evolving tech landscape. This statement underscores the geopolitical stakes in AI development, as the US aims to maintain its leadership amid rising global tensions.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published_date": "2026-09-08T17:00:00+00:00",
+      "summary": "MIT researchers have harnessed the power of GPT-5.6 Sol in conjunction with Codex to autonomously conduct quantum computing experiments, revolutionizing the field by enabling real-time analysis and calibration of qubits, which could significantly accelerate advancements in quantum technology. This breakthrough not only streamlines complex experimental processes but also enhances the precision and efficiency of quantum research, paving the way for transformative applications across various industries.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
+      "link": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
+      "published_date": "2026-09-08T13:59:40+00:00",
+      "summary": "Apple Arcade is set to captivate gamers with the introduction of \"Pusheen’s Place,\" a delightful cat-collecting game featuring the internet's beloved feline, alongside a diverse array of new titles, highlighting Apple's commitment to enriching its gaming platform and appealing to a broad audience. This strategic expansion not only enhances user engagement but also positions Apple Arcade as a key player in the competitive gaming landscape.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "The Work Now Within Reach",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "published_date": "2026-09-08T13:00:00+00:00",
+      "summary": "OpenAI's latest advancements in AI technology promise to significantly enhance productivity and reduce costs for businesses, enabling a transformative leap in what individuals and organizations can achieve. This breakthrough not only democratizes access to powerful tools but also paves the way for unprecedented economic growth and innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "published_date": "2026-09-08T11:30:00+00:00",
+      "summary": "ChatGPT Images 2.5 revolutionizes the creative process by transforming user-generated ideas, sketches, and reference photos into highly personalized and refined images, significantly enhancing the way individuals and businesses visualize concepts and communicate their visions. This breakthrough not only streamlines artistic expression but also empowers users to produce professional-quality visuals with unprecedented ease.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://openai.com/index/navier-stokes-solution",
+      "published_date": "2026-09-08T10:00:00+00:00",
+      "summary": "OpenAI has unveiled an AI-generated solution to the Navier–Stokes Millennium Prize Problem, a long-standing challenge in fluid dynamics, complete with a formal proof, marking a significant advancement in both mathematical research and the application of artificial intelligence in solving complex scientific problems. This breakthrough not only enhances our understanding of fluid behavior but also opens new avenues for AI's role in tackling unsolved mathematical questions.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Our eloquent hands",
+      "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common",
+      "published_date": "2026-09-08T10:00:00+00:00",
+      "summary": "• The skepticism surrounding palmistry mirrors the broader tension between science and intuition in understanding human health.  \n• Physicians, despite their dismissal of palmistry, engage in a form of interpretation that parallels the art of reading palms.  \n• The creases of our palms symbolize the intricate narratives of our lives, much like the complexities of our medical histories.  \n• Both palmistry and medicine seek to unveil deeper truths about the human experience, albeit through different lenses.  \n• Ultimately, the act of interpretation—whether through hands or health—reveals our innate desire to find meaning in the chaos of existence.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "link": "https://openai.com/index/teen-development-research-grants",
+      "published_date": "2026-09-08T09:00:00+00:00",
+      "summary": "OpenAI has launched a groundbreaking $5 million grant program aimed at funding independent research into the impact of generative AI on teen development, well-being, and safety, highlighting a critical intersection of technology and youth psychology that could shape future policy and educational practices. This initiative not only underscores the urgency of understanding AI's influence on younger generations but also positions OpenAI as a leader in fostering responsible AI innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
       "link": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push?utm_source=rss_feed",
@@ -8,30 +72,6 @@
       "summary": "China is set to quadruple its AI computing capacity by 2030, aiming for 9,800 eflops through the deployment of massive AI computing clusters, a move that underscores its commitment to becoming a global leader in artificial intelligence technology. This ambitious investment in infrastructure not only enhances China's technological prowess but also positions it strategically in the competitive global AI landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Huawei’s new Kirin chip puts LogicFolding to the test, with bigger ambitions in AI",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366669/huaweis-new-kirin-chip-puts-logic-folding-test-bigger-ambitions-ai?utm_source=rss_feed",
-      "published_date": "2026-09-08T02:00:18+00:00",
-      "summary": "Huawei's launch of the Kirin 9050 Pro, the first chip utilizing its innovative LogicFolding architecture, represents a significant leap in semiconductor technology that could enable the company to circumvent US sanctions by enhancing performance through advanced circuit layering, potentially reshaping the landscape of AI and mobile processing. This breakthrough not only showcases Huawei's engineering prowess but also underscores its determination to remain competitive in a constrained global market.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The planet is… up to something",
-      "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
-      "published_date": "2026-09-07T10:01:00+00:00",
-      "summary": "• The astronaut's perspective from the lunar flyby challenges our perception of insignificance, highlighting humanity's evolving role in the cosmos.  \n• This image serves as a reminder that our existence is intertwined with the planet's fate, prompting a reevaluation of our responsibilities.  \n• The juxtaposition of Earth's beauty against the vastness of space invites contemplation on our place within the universe.  \n• As we gaze at our home from afar, we are called to recognize the interconnectedness of all life and the urgency of stewardship.  \n• Ultimately, the photograph symbolizes a pivotal moment in human consciousness, urging us to transcend our limitations and embrace a collective purpose.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Continental divide",
-      "link": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
-      "published_date": "2026-09-07T10:00:00+00:00",
-      "summary": "• The Pan-American road symbolized an ambitious vision of unity and connectivity between North and South America.  \n• Despite its initial promise, the road has often highlighted the deep socio-economic and cultural divides that persist between the continents.  \n• The journey along the road serves as a metaphor for the complexities of intercontinental relationships, revealing both shared aspirations and stark disparities.  \n• Ultimately, the Pan-American road reflects the paradox of globalization, where the potential for fraternity is often overshadowed by historical and contemporary tensions.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
