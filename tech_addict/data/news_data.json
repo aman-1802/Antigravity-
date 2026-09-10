@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-09-09T08:20:02.650871+00:00",
+  "last_updated": "2026-09-10T03:53:38.134001+00:00",
   "articles": [
+    {
+      "title": "Apple unveils iPhone Duo",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "published_date": "2026-09-09T18:15:40+00:00",
+      "summary": "Apple has made a groundbreaking leap in smartphone technology with the unveiling of the iPhone Duo, its first foldable device, which promises to redefine user experience and portability in the mobile market. This innovation not only showcases Apple's commitment to pushing boundaries but also sets a new standard for versatility and design in smartphones.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+      "published_date": "2026-09-09T17:52:05+00:00",
+      "summary": "Apple has unveiled a groundbreaking enhancement to its health and fitness ecosystem, leveraging Apple Intelligence to transform the Apple Watch and iPhone into sophisticated, science-driven instruments for personal health management, marking a significant leap in wearable technology's role in individual wellness. This advancement not only elevates user experience but also positions Apple at the forefront of the health tech revolution, potentially reshaping how individuals monitor and improve their health.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple unveils Apple Watch Ultra 4",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "published_date": "2026-09-09T17:51:18+00:00",
+      "summary": "Apple's unveiling of the Apple Watch Ultra 4 marks a significant leap in wearable technology, integrating advanced health monitoring, fitness tracking, and audio intelligence features that cater to both sports enthusiasts and adventurers, setting a new standard for performance and functionality in smartwatches. This breakthrough not only enhances user experience but also positions Apple at the forefront of the health and fitness tech market.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "published_date": "2026-09-09T17:50:47+00:00",
+      "summary": "Apple's introduction of the Watch Series 12, featuring an all-new Health Sensing System, marks a significant advancement in wearable technology by providing the most precise heart rate monitoring available, potentially transforming personal health management and fitness tracking. This breakthrough not only enhances user experience but also positions Apple at the forefront of health-focused innovation in the tech industry.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "published_date": "2026-09-09T17:34:55+00:00",
+      "summary": "Apple's introduction of the AirPods 5 revolutionizes the audio landscape with its best-in-class open-ear Active Noise Cancellation, setting a new standard for sound quality and user experience in wireless earbuds. This breakthrough not only enhances listening enjoyment but also positions Apple as a leader in innovative audio technology.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "published_date": "2026-09-09T17:30:06+00:00",
+      "summary": "Apple's unveiling of the iPhone 18 Pro and iPhone 18 Pro Max introduces a cutting-edge pro camera system alongside significant enhancements in battery life and performance, setting a new benchmark for smartphone capabilities and user experience. This breakthrough not only elevates mobile photography but also addresses the growing demand for longer-lasting, high-performance devices in an increasingly competitive market.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published_date": "2026-09-09T17:00:00+00:00",
+      "summary": "Paul Christiano's appointment to the OpenAI Foundation Board and its Safety and Security Committee marks a significant step in enhancing AI alignment and safety standards, underscoring OpenAI's commitment to responsible AI development amidst growing global concerns about artificial intelligence risks.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "published_date": "2026-09-09T16:00:42+00:00",
+      "summary": "NVIDIA's introduction of real-time AI for broadcast and global streaming at the IBC conference marks a revolutionary leap in media technology, enabling unprecedented enhancements in live sports and entertainment experiences. This breakthrough not only transforms content creation and delivery but also sets a new standard for audience engagement in the rapidly evolving digital landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Get ready for the game with new football features in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "published_date": "2026-09-09T16:00:00+00:00",
+      "summary": "Google AI has unveiled innovative football features in Search that enhance user engagement and provide real-time insights, revolutionizing how fans interact with the sport and access game-related information. This breakthrough not only enriches the viewing experience but also positions Google as a central hub for sports enthusiasts.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "published_date": "2026-09-09T16:00:00+00:00",
+      "summary": "Google AI has achieved a remarkable breakthrough by using advanced technology to recreate a 70-year love story frame by frame, showcasing the emotional power of artificial intelligence in preserving and celebrating human relationships through cinematic storytelling. This innovation not only enhances the art of filmmaking but also opens new avenues for nostalgia and memory preservation in an increasingly digital world.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "US scrambles to match China’s air-breathing hypersonic missiles with Darpa programme",
+      "link": "https://www.scmp.com/news/china/science/article/3366908/us-scrambles-match-chinas-air-breathing-hypersonic-missiles-darpa-programme?utm_source=rss_feed",
+      "published_date": "2026-09-09T14:00:09+00:00",
+      "summary": "The United States is urgently responding to China's groundbreaking development of operational air-breathing hypersonic missiles by initiating a new program through Darpa to create its own Next Generation Hypersonic Cruise Missile, a move that could redefine military capabilities and maintain strategic parity. This shift underscores the escalating arms race in hypersonic technology, which promises to enhance speed and maneuverability in missile systems, fundamentally altering global defense dynamics.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "published_date": "2026-09-09T13:00:00+00:00",
+      "summary": "Chris Lehane emphasizes the urgent need for robust safety evidence and unified standards in AI development, asserting that the current policy window presents a critical opportunity to establish lasting regulations that can safeguard against potential risks associated with advanced AI technologies. This proactive approach is essential to ensure that innovation aligns with public safety and ethical considerations.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3366948/chinese-ai-firm-deepseek-taps-underwriters-including-citic-securities-ipo-sources?utm_source=rss_feed",
+      "published_date": "2026-09-09T12:34:42+00:00",
+      "summary": "Chinese AI firm DeepSeek is set to revolutionize the market by preparing for an initial public offering on the Shanghai Stock Exchange’s Star market, with backing from major underwriters like Citic Securities, signaling a significant leap in the commercialization of advanced artificial intelligence technologies. This move not only highlights the growing prominence of AI in China but also positions DeepSeek as a key player in the global tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published_date": "2026-09-09T11:00:00+00:00",
+      "summary": "OpenAI's GPT-6 Astra represents a groundbreaking leap in AI capabilities for the workplace, boasting enhanced reasoning and superior judgment in writing and design, which could revolutionize productivity and creativity across industries. This next-generation model not only streamlines tasks but also elevates the standard of work, making it an essential tool for businesses aiming to stay competitive in an increasingly digital landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Alibaba sends AI ‘digital employees’ to work in rival apps from ByteDance, Tencent",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366919/alibaba-sends-ai-digital-employees-work-rival-apps-bytedance-tencent?utm_source=rss_feed",
+      "published_date": "2026-09-09T10:30:06+00:00",
+      "summary": "Alibaba's launch of AI-powered \"digital employees\" that can operate within rival platforms from ByteDance and Tencent marks a significant shift in the enterprise AI landscape, empowering users to create tailored virtual workers with minimal input and intensifying competition in the sector. This breakthrough not only enhances productivity but also challenges established players by integrating AI capabilities across diverse applications.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Making revisions",
+      "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past",
+      "published_date": "2026-09-09T10:01:00+00:00",
+      "summary": "• Indigenous knowledge serves as a powerful counter-narrative to colonial histories, reshaping our understanding of land and identity.  \n• Art becomes a medium for reclaiming cultural heritage, allowing communities to express their truths beyond imposed narratives.  \n• The act of revising history through indigenous perspectives invites a deeper reflection on the nature of truth and representation.  \n• By challenging colonial cartography, indigenous voices assert their rightful place in the storytelling of their own landscapes.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Merging air, land and sea swarms – the next frontier in China’s drone technology",
+      "link": "https://www.scmp.com/news/china/military/article/3366915/merging-air-land-and-sea-swarms-next-frontier-chinas-drone-technology?utm_source=rss_feed",
+      "published_date": "2026-09-09T10:00:11+00:00",
+      "summary": "China is advancing its drone technology by integrating uncrewed platforms across air, land, and sea, transforming drone-swarm capabilities into a sophisticated, intelligent combat system. This breakthrough not only enhances military operational efficiency but also positions China at the forefront of next-generation warfare technology.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Huawei’s new chip philosophy gets run out with debut smartphone",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3366924/huaweis-new-chip-philosophy-gets-run-out-debut-smartphone?utm_source=rss_feed",
+      "published_date": "2026-09-09T09:33:29+00:00",
+      "summary": "Huawei's launch of the Mate XT 2 smartphone, powered by its innovative LogicFolding processors and the HarmonyOS 7, marks a significant shift in chip design strategy aimed at overcoming US sanctions, potentially reshaping the competitive landscape in the tech industry. This breakthrough not only highlights Huawei's resilience but also sets a new standard for smartphone capabilities and operating systems.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "US firm used AI to hijack WeChat account, spurring call for cyber cooperation with China",
       "link": "https://www.scmp.com/tech/article/3366898/us-firm-used-ai-hijack-wechat-account-spurring-call-cyber-cooperation-china?utm_source=rss_feed",
@@ -16,62 +160,6 @@
       "summary": "JD.com is making a groundbreaking commitment to revolutionize its logistics operations by investing in 3 million robots, including unstaffed vehicles and delivery drones, while simultaneously retraining its workforce for technical roles, marking a significant shift in the future of automation in China's e-commerce sector. This ambitious initiative not only enhances operational efficiency but also sets a precedent for how companies can adapt to technological advancements while supporting their employees.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "published_date": "2026-09-08T17:00:00+00:00",
-      "summary": "MIT researchers have harnessed the power of GPT-5.6 Sol in conjunction with Codex to autonomously conduct quantum computing experiments, revolutionizing the field by enabling real-time analysis and calibration of qubits, which could significantly accelerate advancements in quantum technology. This breakthrough not only streamlines complex experimental processes but also enhances the precision and efficiency of quantum research, paving the way for transformative applications across various industries.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
-      "link": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
-      "published_date": "2026-09-08T13:59:40+00:00",
-      "summary": "Apple Arcade is set to captivate gamers with the introduction of \"Pusheen’s Place,\" a delightful cat-collecting game featuring the internet's beloved feline, alongside a diverse array of new titles, highlighting Apple's commitment to enriching its gaming platform and appealing to a broad audience. This strategic expansion not only enhances user engagement but also positions Apple Arcade as a key player in the competitive gaming landscape.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "link": "https://openai.com/index/the-work-now-within-reach",
-      "published_date": "2026-09-08T13:00:00+00:00",
-      "summary": "OpenAI's latest advancements in AI technology promise to significantly enhance productivity and reduce costs for businesses, enabling a transformative leap in what individuals and organizations can achieve. This breakthrough not only democratizes access to powerful tools but also paves the way for unprecedented economic growth and innovation.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "published_date": "2026-09-08T11:30:00+00:00",
-      "summary": "ChatGPT Images 2.5 revolutionizes the creative process by transforming user-generated ideas, sketches, and reference photos into highly personalized and refined images, significantly enhancing the way individuals and businesses visualize concepts and communicate their visions. This breakthrough not only streamlines artistic expression but also empowers users to produce professional-quality visuals with unprecedented ease.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution",
-      "published_date": "2026-09-08T10:00:00+00:00",
-      "summary": "OpenAI has unveiled an AI-generated solution to the Navier–Stokes Millennium Prize Problem, a long-standing challenge in fluid dynamics, complete with a formal proof, marking a significant advancement in both mathematical research and the application of artificial intelligence in solving complex scientific problems. This breakthrough not only enhances our understanding of fluid behavior but also opens new avenues for AI's role in tackling unsolved mathematical questions.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Our eloquent hands",
-      "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common",
-      "published_date": "2026-09-08T10:00:00+00:00",
-      "summary": "• The skepticism surrounding palmistry mirrors the broader tension between science and intuition in understanding human health.  \n• Physicians, despite their dismissal of palmistry, engage in a form of interpretation that parallels the art of reading palms.  \n• The creases of our palms symbolize the intricate narratives of our lives, much like the complexities of our medical histories.  \n• Both palmistry and medicine seek to unveil deeper truths about the human experience, albeit through different lenses.  \n• Ultimately, the act of interpretation—whether through hands or health—reveals our innate desire to find meaning in the chaos of existence.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "link": "https://openai.com/index/teen-development-research-grants",
-      "published_date": "2026-09-08T09:00:00+00:00",
-      "summary": "OpenAI has launched a groundbreaking $5 million grant program aimed at funding independent research into the impact of generative AI on teen development, well-being, and safety, highlighting a critical intersection of technology and youth psychology that could shape future policy and educational practices. This initiative not only underscores the urgency of understanding AI's influence on younger generations but also positions OpenAI as a leader in fostering responsible AI innovation.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
