@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-10T03:53:38.134001+00:00",
+  "last_updated": "2026-09-10T08:20:28.595027+00:00",
   "articles": [
+    {
+      "title": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
+      "published_date": "2026-09-10T07:50:14+00:00",
+      "summary": "Moonshot AI, the Chinese start-up behind the Kimi K3 AI model, is considering dual IPOs in Hong Kong and Shanghai to significantly enhance its capital and market visibility, signaling a strategic move that could reshape investment dynamics in the burgeoning AI sector. This potential dual listing underscores the company's ambition to leverage both markets for growth and innovation in artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Apple unveils iPhone Duo",
       "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
@@ -135,30 +143,6 @@
       "published_date": "2026-09-09T10:00:11+00:00",
       "summary": "China is advancing its drone technology by integrating uncrewed platforms across air, land, and sea, transforming drone-swarm capabilities into a sophisticated, intelligent combat system. This breakthrough not only enhances military operational efficiency but also positions China at the forefront of next-generation warfare technology.",
       "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Huawei’s new chip philosophy gets run out with debut smartphone",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3366924/huaweis-new-chip-philosophy-gets-run-out-debut-smartphone?utm_source=rss_feed",
-      "published_date": "2026-09-09T09:33:29+00:00",
-      "summary": "Huawei's launch of the Mate XT 2 smartphone, powered by its innovative LogicFolding processors and the HarmonyOS 7, marks a significant shift in chip design strategy aimed at overcoming US sanctions, potentially reshaping the competitive landscape in the tech industry. This breakthrough not only highlights Huawei's resilience but also sets a new standard for smartphone capabilities and operating systems.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US firm used AI to hijack WeChat account, spurring call for cyber cooperation with China",
-      "link": "https://www.scmp.com/tech/article/3366898/us-firm-used-ai-hijack-wechat-account-spurring-call-cyber-cooperation-china?utm_source=rss_feed",
-      "published_date": "2026-09-09T08:01:12+00:00",
-      "summary": "US cybersecurity researchers have unveiled a groundbreaking AI system capable of hijacking WeChat accounts through unanswered voice calls, highlighting urgent vulnerabilities in widely used digital platforms and igniting calls for enhanced cyber cooperation between the United States and China. This development underscores the escalating threat of AI-driven cyberattacks and the necessity for collaborative security measures in an increasingly interconnected digital landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Amid China’s AI shift, JD.com bets on 3 million robots to automate logistics",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366884/jdcom-deploy-3-million-robots-fully-automate-logistics?utm_source=rss_feed",
-      "published_date": "2026-09-09T06:25:50+00:00",
-      "summary": "JD.com is making a groundbreaking commitment to revolutionize its logistics operations by investing in 3 million robots, including unstaffed vehicles and delivery drones, while simultaneously retraining its workforce for technical roles, marking a significant shift in the future of automation in China's e-commerce sector. This ambitious initiative not only enhances operational efficiency but also sets a precedent for how companies can adapt to technological advancements while supporting their employees.",
-      "source": "SCMP Tech",
       "category": "SCMP"
     }
   ]
