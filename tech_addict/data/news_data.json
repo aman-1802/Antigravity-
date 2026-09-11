@@ -1,149 +1,117 @@
 {
-  "last_updated": "2026-09-10T08:20:28.595027+00:00",
+  "last_updated": "2026-09-11T03:49:45.495177+00:00",
   "articles": [
     {
-      "title": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
-      "published_date": "2026-09-10T07:50:14+00:00",
-      "summary": "Moonshot AI, the Chinese start-up behind the Kimi K3 AI model, is considering dual IPOs in Hong Kong and Shanghai to significantly enhance its capital and market visibility, signaling a strategic move that could reshape investment dynamics in the burgeoning AI sector. This potential dual listing underscores the company's ambition to leverage both markets for growth and innovation in artificial intelligence.",
+      "title": "Enflame shares soar 188% on Shanghai debut as Nvidia challenger taps investor fever for AI",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
+      "published_date": "2026-09-11T01:45:56+00:00",
+      "summary": "Enflame Technology's shares skyrocketed 188% on its Shanghai debut, highlighting a robust investor enthusiasm for domestic AI chipmakers and positioning the Tencent-backed firm as a formidable competitor to Nvidia in the rapidly evolving AI landscape. This surge not only underscores the growing significance of AI technology in China but also signals a potential shift in the global semiconductor market dynamics.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Apple unveils iPhone Duo",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "published_date": "2026-09-09T18:15:40+00:00",
-      "summary": "Apple has made a groundbreaking leap in smartphone technology with the unveiling of the iPhone Duo, its first foldable device, which promises to redefine user experience and portability in the mobile market. This innovation not only showcases Apple's commitment to pushing boundaries but also sets a new standard for versatility and design in smartphones.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
-      "published_date": "2026-09-09T17:52:05+00:00",
-      "summary": "Apple has unveiled a groundbreaking enhancement to its health and fitness ecosystem, leveraging Apple Intelligence to transform the Apple Watch and iPhone into sophisticated, science-driven instruments for personal health management, marking a significant leap in wearable technology's role in individual wellness. This advancement not only elevates user experience but also positions Apple at the forefront of the health tech revolution, potentially reshaping how individuals monitor and improve their health.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple unveils Apple Watch Ultra 4",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "published_date": "2026-09-09T17:51:18+00:00",
-      "summary": "Apple's unveiling of the Apple Watch Ultra 4 marks a significant leap in wearable technology, integrating advanced health monitoring, fitness tracking, and audio intelligence features that cater to both sports enthusiasts and adventurers, setting a new standard for performance and functionality in smartwatches. This breakthrough not only enhances user experience but also positions Apple at the forefront of the health and fitness tech market.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-      "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "published_date": "2026-09-09T17:50:47+00:00",
-      "summary": "Apple's introduction of the Watch Series 12, featuring an all-new Health Sensing System, marks a significant advancement in wearable technology by providing the most precise heart rate monitoring available, potentially transforming personal health management and fitness tracking. This breakthrough not only enhances user experience but also positions Apple at the forefront of health-focused innovation in the tech industry.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "published_date": "2026-09-09T17:34:55+00:00",
-      "summary": "Apple's introduction of the AirPods 5 revolutionizes the audio landscape with its best-in-class open-ear Active Noise Cancellation, setting a new standard for sound quality and user experience in wireless earbuds. This breakthrough not only enhances listening enjoyment but also positions Apple as a leader in innovative audio technology.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "published_date": "2026-09-09T17:30:06+00:00",
-      "summary": "Apple's unveiling of the iPhone 18 Pro and iPhone 18 Pro Max introduces a cutting-edge pro camera system alongside significant enhancements in battery life and performance, setting a new benchmark for smartphone capabilities and user experience. This breakthrough not only elevates mobile photography but also addresses the growing demand for longer-lasting, high-performance devices in an increasingly competitive market.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "published_date": "2026-09-09T17:00:00+00:00",
-      "summary": "Paul Christiano's appointment to the OpenAI Foundation Board and its Safety and Security Committee marks a significant step in enhancing AI alignment and safety standards, underscoring OpenAI's commitment to responsible AI development amidst growing global concerns about artificial intelligence risks.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-      "published_date": "2026-09-09T16:00:42+00:00",
-      "summary": "NVIDIA's introduction of real-time AI for broadcast and global streaming at the IBC conference marks a revolutionary leap in media technology, enabling unprecedented enhancements in live sports and entertainment experiences. This breakthrough not only transforms content creation and delivery but also sets a new standard for audience engagement in the rapidly evolving digital landscape.",
+      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "published_date": "2026-09-10T16:30:35+00:00",
+      "summary": "Skild AI's groundbreaking S1 robot foundation model leverages NVIDIA's Physical AI to enable robots to learn new, complex tasks from just a single video, revolutionizing adaptability in dynamic manufacturing environments. This innovation significantly reduces the need for extensive reprogramming, allowing robots to seamlessly adjust to changing workflows and product lines.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "published_date": "2026-09-09T16:00:00+00:00",
-      "summary": "Google AI has unveiled innovative football features in Search that enhance user engagement and provide real-time insights, revolutionizing how fans interact with the sport and access game-related information. This breakthrough not only enriches the viewing experience but also positions Google as a central hub for sports enthusiasts.",
+      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+      "published_date": "2026-09-10T16:00:04+00:00",
+      "summary": "NVIDIA's advancements in physical AI are revolutionizing the robotaxi industry, which is set to explode into a $400 billion market by 2035, as autonomous fleets navigate the world's most congested urban environments, marking a significant leap towards widespread adoption of driverless technology. This breakthrough not only enhances urban mobility but also signals a transformative shift in transportation infrastructure and economic dynamics.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published_date": "2026-09-10T16:00:00+00:00",
+      "summary": "César de la Fuente's innovative use of Codex and ChatGPT to explore both living and extinct genomes for new antimicrobial molecules represents a groundbreaking approach in the fight against drug-resistant infections, potentially revolutionizing how we develop treatments for one of modern medicine's most pressing challenges. This fusion of AI and genomic research could lead to the discovery of powerful new antibiotics, significantly impacting public health and saving countless lives.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "published_date": "2026-09-10T16:00:00+00:00",
+      "summary": "Google AI introduces innovative search capabilities that empower athletes to optimize their training and preparation for races, revolutionizing how runners access tailored information and strategies. This breakthrough not only enhances performance but also democratizes access to expert insights, making elite-level training accessible to all.",
       "source": "Google AI",
       "category": "AI"
     },
     {
-      "title": "Recreating a 70-year love story frame by frame",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "published_date": "2026-09-09T16:00:00+00:00",
-      "summary": "Google AI has achieved a remarkable breakthrough by using advanced technology to recreate a 70-year love story frame by frame, showcasing the emotional power of artificial intelligence in preserving and celebrating human relationships through cinematic storytelling. This innovation not only enhances the art of filmmaking but also opens new avenues for nostalgia and memory preservation in an increasingly digital world.",
-      "source": "Google AI",
+      "title": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work",
+      "published_date": "2026-09-10T15:00:00+00:00",
+      "summary": "OpenAI's new Data agent in ChatGPT Work revolutionizes data utilization by enabling users to seamlessly connect company data, extract valuable insights, and create interactive dashboards through natural language, democratizing access to advanced analytics for all. This breakthrough empowers organizations to harness their data more effectively, driving informed decision-making and enhancing productivity.",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "US scrambles to match China’s air-breathing hypersonic missiles with Darpa programme",
-      "link": "https://www.scmp.com/news/china/science/article/3366908/us-scrambles-match-chinas-air-breathing-hypersonic-missiles-darpa-programme?utm_source=rss_feed",
-      "published_date": "2026-09-09T14:00:09+00:00",
-      "summary": "The United States is urgently responding to China's groundbreaking development of operational air-breathing hypersonic missiles by initiating a new program through Darpa to create its own Next Generation Hypersonic Cruise Missile, a move that could redefine military capabilities and maintain strategic parity. This shift underscores the escalating arms race in hypersonic technology, which promises to enhance speed and maneuverability in missile systems, fundamentally altering global defense dynamics.",
+      "title": "US Navy plans compact Silent Anvil torpedo as China’s submarine fleet surges",
+      "link": "https://www.scmp.com/news/china/military/article/3367069/us-navy-plans-compact-silent-anvil-torpedo-chinas-submarine-fleet-surges?utm_source=rss_feed",
+      "published_date": "2026-09-10T14:00:09+00:00",
+      "summary": "The US Navy is advancing its defense capabilities with the development of the Silent Anvil Air-Launched Torpedo, a compact weapon designed to enhance the reach and effectiveness of both crewed and uncrewed aircraft against China's rapidly expanding submarine fleet, underscoring a critical shift in naval warfare strategy. This breakthrough not only aims to bolster US maritime dominance but also reflects the escalating technological arms race in undersea warfare.",
       "source": "China News",
       "category": "SCMP"
     },
     {
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "published_date": "2026-09-09T13:00:00+00:00",
-      "summary": "Chris Lehane emphasizes the urgent need for robust safety evidence and unified standards in AI development, asserting that the current policy window presents a critical opportunity to establish lasting regulations that can safeguard against potential risks associated with advanced AI technologies. This proactive approach is essential to ensure that innovation aligns with public safety and ethical considerations.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3366948/chinese-ai-firm-deepseek-taps-underwriters-including-citic-securities-ipo-sources?utm_source=rss_feed",
-      "published_date": "2026-09-09T12:34:42+00:00",
-      "summary": "Chinese AI firm DeepSeek is set to revolutionize the market by preparing for an initial public offering on the Shanghai Stock Exchange’s Star market, with backing from major underwriters like Citic Securities, signaling a significant leap in the commercialization of advanced artificial intelligence technologies. This move not only highlights the growing prominence of AI in China but also positions DeepSeek as a key player in the global tech landscape.",
+      "title": "AI bottleneck-breaker: China’s Huawei touts high-speed optical module",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367093/ai-bottleneck-breaker-chinas-huawei-touts-high-speed-optical-module?utm_source=rss_feed",
+      "published_date": "2026-09-10T13:30:08+00:00",
+      "summary": "Huawei Technologies has introduced a groundbreaking 7.2-terabit-per-second optical module that aims to resolve critical bottlenecks in AI infrastructure, positioning the company at the forefront of the next-generation data center connectivity race. This innovation not only enhances data transmission speeds but also sets a new standard for the future of AI and cloud computing.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "published_date": "2026-09-09T11:00:00+00:00",
-      "summary": "OpenAI's GPT-6 Astra represents a groundbreaking leap in AI capabilities for the workplace, boasting enhanced reasoning and superior judgment in writing and design, which could revolutionize productivity and creativity across industries. This next-generation model not only streamlines tasks but also elevates the standard of work, making it an essential tool for businesses aiming to stay competitive in an increasingly digital landscape.",
-      "source": "OpenAI",
+      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+      "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+      "published_date": "2026-09-10T13:00:21+00:00",
+      "summary": "d-Matrix's adoption of NVIDIA NVLink Fusion for its Raptor XPUs marks a significant leap in AI infrastructure, enabling unprecedented scalability and performance in AI inference, which could redefine the capabilities of data centers and accelerate advancements in AI applications. This collaboration underscores the growing ecosystem of NVIDIA's AI platform, positioning it as a cornerstone for future technological innovations.",
+      "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "Alibaba sends AI ‘digital employees’ to work in rival apps from ByteDance, Tencent",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366919/alibaba-sends-ai-digital-employees-work-rival-apps-bytedance-tencent?utm_source=rss_feed",
-      "published_date": "2026-09-09T10:30:06+00:00",
-      "summary": "Alibaba's launch of AI-powered \"digital employees\" that can operate within rival platforms from ByteDance and Tencent marks a significant shift in the enterprise AI landscape, empowering users to create tailored virtual workers with minimal input and intensifying competition in the sector. This breakthrough not only enhances productivity but also challenges established players by integrating AI capabilities across diverse applications.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
+      "published_date": "2026-09-10T13:00:18+00:00",
+      "summary": "NVIDIA's GeForce NOW platform has achieved a significant breakthrough by launching WARDOGS in early access, alongside major updates for popular titles like Valheim and Bus Simulator 27, enabling gamers to access high-demand PC games without the need for expensive hardware. This development not only enhances the gaming experience but also democratizes access to cutting-edge gaming technology, making it more accessible to a broader audience.",
+      "source": "NVIDIA",
+      "category": "AI"
     },
     {
-      "title": "Making revisions",
-      "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past",
-      "published_date": "2026-09-09T10:01:00+00:00",
-      "summary": "• Indigenous knowledge serves as a powerful counter-narrative to colonial histories, reshaping our understanding of land and identity.  \n• Art becomes a medium for reclaiming cultural heritage, allowing communities to express their truths beyond imposed narratives.  \n• The act of revising history through indigenous perspectives invites a deeper reflection on the nature of truth and representation.  \n• By challenging colonial cartography, indigenous voices assert their rightful place in the storytelling of their own landscapes.",
+      "title": "The Chinese room",
+      "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
+      "published_date": "2026-09-10T10:01:00+00:00",
+      "summary": "• The Chinese room experiment challenges the notion of understanding by illustrating that syntactic manipulation does not equate to semantic comprehension.  \n• Searle's thought experiment raises profound questions about the nature of consciousness and whether machines can truly possess it.  \n• The distinction between human cognition and artificial intelligence highlights the limitations of our current understanding of consciousness itself.  \n• Engaging with the Chinese room prompts us to reflect on the essence of meaning and the criteria for genuine understanding.  \n• Ultimately, the debate surrounding AI consciousness invites us to explore the depths of our own minds and the mysteries of sentience.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Merging air, land and sea swarms – the next frontier in China’s drone technology",
-      "link": "https://www.scmp.com/news/china/military/article/3366915/merging-air-land-and-sea-swarms-next-frontier-chinas-drone-technology?utm_source=rss_feed",
-      "published_date": "2026-09-09T10:00:11+00:00",
-      "summary": "China is advancing its drone technology by integrating uncrewed platforms across air, land, and sea, transforming drone-swarm capabilities into a sophisticated, intelligent combat system. This breakthrough not only enhances military operational efficiency but also positions China at the forefront of next-generation warfare technology.",
-      "source": "China News",
-      "category": "SCMP"
+      "title": "Medieval mental health",
+      "link": "https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health",
+      "published_date": "2026-09-10T10:00:00+00:00",
+      "summary": "• Medieval mental health treatments blended natural remedies with holistic practices, emphasizing the interconnectedness of body and mind.  \n• The era recognized the therapeutic power of nature, advocating for gardens and animals as vital components of emotional well-being.  \n• Social interaction and music were deemed essential for mental health, highlighting the importance of community and creativity in healing.  \n• The diverse approaches to mental health in medieval times reflect a profound understanding of human experience, transcending mere medical intervention.  \n• This historical perspective invites a reevaluation of contemporary mental health practices, urging a return to more integrative and compassionate methods.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "published_date": "2026-09-10T07:00:00+00:00",
+      "summary": "OpenAI has launched ChatGPT for Financial Services, leveraging advanced GPT-6 Astra technology and integrated financial data to revolutionize research, modeling, and the creation of client-ready materials, marking a significant advancement in the efficiency and effectiveness of financial operations. This breakthrough not only enhances decision-making capabilities but also streamlines workflows, positioning financial institutions at the forefront of innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "published_date": "2026-09-10T07:00:00+00:00",
+      "summary": "OpenAI's partnership with the General Services Administration is set to revolutionize government operations by providing eligible federal, state, local, and tribal entities with unprecedented access to AI technology at no licensing cost and significant discounts on usage, alongside enhanced cyber defense capabilities, thereby strengthening public sector resilience and innovation.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
