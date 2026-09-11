@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-11T03:49:45.495177+00:00",
+  "last_updated": "2026-09-11T08:14:51.590659+00:00",
   "articles": [
     {
-      "title": "Enflame shares soar 188% on Shanghai debut as Nvidia challenger taps investor fever for AI",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
-      "published_date": "2026-09-11T01:45:56+00:00",
-      "summary": "Enflame Technology's shares skyrocketed 188% on its Shanghai debut, highlighting a robust investor enthusiasm for domestic AI chipmakers and positioning the Tencent-backed firm as a formidable competitor to Nvidia in the rapidly evolving AI landscape. This surge not only underscores the growing significance of AI technology in China but also signals a potential shift in the global semiconductor market dynamics.",
+      "title": "With novel chip in Huawei phone, China heads for computing reset",
+      "link": "https://www.scmp.com/plus/tech/big-tech/article/3367153/novel-chip-huawei-phone-china-heads-computing-reset?utm_source=rss_feed",
+      "published_date": "2026-09-11T05:05:57+00:00",
+      "summary": "Huawei's launch of the Mate XT 2 smartphone, powered by the groundbreaking Kirin 9050 Pro chip with a novel architecture, marks a pivotal moment in computing and positions China to redefine its AI infrastructure, potentially reshaping the global tech landscape. This innovation not only underscores Huawei's technological prowess but also signals a significant shift in the competitive dynamics of the semiconductor industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
@@ -50,14 +50,6 @@
       "category": "AI"
     },
     {
-      "title": "US Navy plans compact Silent Anvil torpedo as China’s submarine fleet surges",
-      "link": "https://www.scmp.com/news/china/military/article/3367069/us-navy-plans-compact-silent-anvil-torpedo-chinas-submarine-fleet-surges?utm_source=rss_feed",
-      "published_date": "2026-09-10T14:00:09+00:00",
-      "summary": "The US Navy is advancing its defense capabilities with the development of the Silent Anvil Air-Launched Torpedo, a compact weapon designed to enhance the reach and effectiveness of both crewed and uncrewed aircraft against China's rapidly expanding submarine fleet, underscoring a critical shift in naval warfare strategy. This breakthrough not only aims to bolster US maritime dominance but also reflects the escalating technological arms race in undersea warfare.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
       "title": "AI bottleneck-breaker: China’s Huawei touts high-speed optical module",
       "link": "https://www.scmp.com/tech/tech-trends/article/3367093/ai-bottleneck-breaker-chinas-huawei-touts-high-speed-optical-module?utm_source=rss_feed",
       "published_date": "2026-09-10T13:30:08+00:00",
@@ -96,22 +88,6 @@
       "summary": "• Medieval mental health treatments blended natural remedies with holistic practices, emphasizing the interconnectedness of body and mind.  \n• The era recognized the therapeutic power of nature, advocating for gardens and animals as vital components of emotional well-being.  \n• Social interaction and music were deemed essential for mental health, highlighting the importance of community and creativity in healing.  \n• The diverse approaches to mental health in medieval times reflect a profound understanding of human experience, transcending mere medical intervention.  \n• This historical perspective invites a reevaluation of contemporary mental health practices, urging a return to more integrative and compassionate methods.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published_date": "2026-09-10T07:00:00+00:00",
-      "summary": "OpenAI has launched ChatGPT for Financial Services, leveraging advanced GPT-6 Astra technology and integrated financial data to revolutionize research, modeling, and the creation of client-ready materials, marking a significant advancement in the efficiency and effectiveness of financial operations. This breakthrough not only enhances decision-making capabilities but also streamlines workflows, positioning financial institutions at the forefront of innovation.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "published_date": "2026-09-10T07:00:00+00:00",
-      "summary": "OpenAI's partnership with the General Services Administration is set to revolutionize government operations by providing eligible federal, state, local, and tribal entities with unprecedented access to AI technology at no licensing cost and significant discounts on usage, alongside enhanced cyber defense capabilities, thereby strengthening public sector resilience and innovation.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
