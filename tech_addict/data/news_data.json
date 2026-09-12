@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T03:53:01.773437+00:00",
+  "last_updated": "2026-09-12T08:05:20.875018+00:00",
   "articles": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -72,22 +72,6 @@
       "summary": "• The legacy of Islamic polymaths emphasizes the importance of interdisciplinary knowledge over narrow specialization.  \n• Constraints should not hinder intellectual curiosity; true innovation often arises from the interplay of diverse fields.  \n• Embracing a broad spectrum of interests fosters creativity and deeper understanding of complex problems.  \n• The historical contributions of polymaths remind us that the pursuit of knowledge is a holistic endeavor, transcending conventional boundaries.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Why AI experts are ‘freaked out’ over safety fears ahead of Xi-Trump summit",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367163/why-ai-experts-are-freaked-out-over-safety-fears-ahead-xi-trump-summit?utm_source=rss_feed",
-      "published_date": "2026-09-11T08:00:10+00:00",
-      "summary": "As concerns over cybersecurity breaches and AI model safety escalate, experts are urging a slowdown in the rapid development of artificial intelligence, fearing that hasty advancements could jeopardize both national security and America's technological supremacy in the face of rising competition from China. This critical dialogue intensifies just ahead of a pivotal summit between President Xi Jinping and US leader Donald Trump, highlighting the urgent need for a balanced approach to AI innovation and regulation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "With novel chip in Huawei phone, China heads for computing reset",
-      "link": "https://www.scmp.com/plus/tech/big-tech/article/3367153/novel-chip-huawei-phone-china-heads-computing-reset?utm_source=rss_feed",
-      "published_date": "2026-09-11T05:05:57+00:00",
-      "summary": "Huawei's launch of the Mate XT 2 smartphone, powered by the groundbreaking Kirin 9050 Pro chip with a novel architecture, marks a pivotal moment in computing and positions China to redefine its AI infrastructure, potentially reshaping the global tech landscape. This innovation not only underscores Huawei's technological prowess but also signals a significant shift in the competitive dynamics of the semiconductor industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
