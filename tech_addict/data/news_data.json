@@ -1,6 +1,86 @@
 {
-  "last_updated": "2026-09-11T08:14:51.590659+00:00",
+  "last_updated": "2026-09-12T03:53:01.773437+00:00",
   "articles": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published_date": "2026-09-14T00:00:00+00:00",
+      "summary": "Perplexity's integration of GPT-6 Astra marks a transformative leap in AI capabilities, enabling seamless end-to-end system management that significantly reduces the need for human oversight in tasks like communication, software updates, and production monitoring. This breakthrough not only enhances operational efficiency but also sets a new standard for AI's role in automating complex processes across industries.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "What is AGI? How China’s AI firms are catching up as OpenAI Astra sparks debate",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate?utm_source=rss_feed",
+      "published_date": "2026-09-12T03:00:09+00:00",
+      "summary": "Nvidia CEO Jensen Huang's assertion that artificial general intelligence (AGI) has been achieved with OpenAI's Astra has sparked a pivotal debate, highlighting a critical moment in the global AI landscape as Chinese firms intensify their pursuit of AGI amidst a cautious regulatory environment. This breakthrough not only challenges existing technological boundaries but also signals a potential shift in the balance of power in the AI race between the US and China.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+      "link": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says?utm_source=rss_feed",
+      "published_date": "2026-09-11T22:36:20+00:00",
+      "summary": "Leading Chinese AI firms are avoiding engagement with a US congressional delegation due to fears of potential sanctions, highlighting the growing tensions in US-China relations and the critical need for dialogue on artificial intelligence to navigate these challenges. This situation underscores the precarious balance between technological collaboration and geopolitical risk in an increasingly polarized global landscape.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "AI fight shadows final preparations for Xi Jinping’s White House visit to meet Donald Trump",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3367242/ai-fight-shadows-final-preparations-xi-jinpings-white-house-visit?utm_source=rss_feed",
+      "published_date": "2026-09-11T22:00:10+00:00",
+      "summary": "The impending meeting between Xi Jinping and Donald Trump is set against a backdrop of escalating tensions over artificial intelligence, with discussions underway to integrate a long-anticipated AI dialogue into their economic talks, highlighting the critical role of AI in shaping global relations and economic strategies. This breakthrough not only underscores the urgency of addressing AI governance but also reflects the broader geopolitical stakes involved in technological leadership.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "link": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "published_date": "2026-09-11T16:00:08+00:00",
+      "summary": "Apple is set to revolutionize the tech landscape with the launch of the iPhone 18 Pro, alongside a new lineup of Apple Watches and AirPods 5, offering cutting-edge features that promise to enhance user experience and connectivity. This release not only showcases Apple's commitment to innovation but also positions the company to maintain its competitive edge in the rapidly evolving smartphone and wearable markets.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published_date": "2026-09-11T16:00:00+00:00",
+      "summary": "OpenAI's GPT-6 Astra revolutionizes software testing by enabling Devin to autonomously validate its own work, significantly reducing the need for extensive code reviews and accelerating the deployment process for engineers. This breakthrough not only enhances efficiency but also empowers teams to focus on innovation rather than manual oversight.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Chinese optical transceiver makers dodge US ban for now as FCC updates rules",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367219/chinese-optical-transceiver-makers-dodge-us-ban-now-fcc-updates-rules?utm_source=rss_feed",
+      "published_date": "2026-09-11T11:30:09+00:00",
+      "summary": "Chinese optical transceiver manufacturers have temporarily sidestepped potential US bans following the FCC's recent updates to equipment authorization rules, which alleviate market concerns and maintain access to critical technology amid rising geopolitical tensions. This development is significant as it allows continued competition and innovation in the optical transceiver market, crucial for global telecommunications infrastructure.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published_date": "2026-09-11T10:00:00+00:00",
+      "summary": "OpenAI has transformed its Habitat Python library into a robust, globally distributed storage platform capable of handling over 1 billion ChatGPT users and 22 million requests per second, marking a significant leap in online storage scalability that is crucial for meeting the demands of AI-driven applications. This breakthrough not only enhances user experience but also sets a new standard for data management in the tech industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Penchants of the polymaths",
+      "link": "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation",
+      "published_date": "2026-09-11T10:00:00+00:00",
+      "summary": "• The legacy of Islamic polymaths emphasizes the importance of interdisciplinary knowledge over narrow specialization.  \n• Constraints should not hinder intellectual curiosity; true innovation often arises from the interplay of diverse fields.  \n• Embracing a broad spectrum of interests fosters creativity and deeper understanding of complex problems.  \n• The historical contributions of polymaths remind us that the pursuit of knowledge is a holistic endeavor, transcending conventional boundaries.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Why AI experts are ‘freaked out’ over safety fears ahead of Xi-Trump summit",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367163/why-ai-experts-are-freaked-out-over-safety-fears-ahead-xi-trump-summit?utm_source=rss_feed",
+      "published_date": "2026-09-11T08:00:10+00:00",
+      "summary": "As concerns over cybersecurity breaches and AI model safety escalate, experts are urging a slowdown in the rapid development of artificial intelligence, fearing that hasty advancements could jeopardize both national security and America's technological supremacy in the face of rising competition from China. This critical dialogue intensifies just ahead of a pivotal summit between President Xi Jinping and US leader Donald Trump, highlighting the urgent need for a balanced approach to AI innovation and regulation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "With novel chip in Huawei phone, China heads for computing reset",
       "link": "https://www.scmp.com/plus/tech/big-tech/article/3367153/novel-chip-huawei-phone-china-heads-computing-reset?utm_source=rss_feed",
@@ -8,86 +88,6 @@
       "summary": "Huawei's launch of the Mate XT 2 smartphone, powered by the groundbreaking Kirin 9050 Pro chip with a novel architecture, marks a pivotal moment in computing and positions China to redefine its AI infrastructure, potentially reshaping the global tech landscape. This innovation not only underscores Huawei's technological prowess but also signals a significant shift in the competitive dynamics of the semiconductor industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "published_date": "2026-09-10T16:30:35+00:00",
-      "summary": "Skild AI's groundbreaking S1 robot foundation model leverages NVIDIA's Physical AI to enable robots to learn new, complex tasks from just a single video, revolutionizing adaptability in dynamic manufacturing environments. This innovation significantly reduces the need for extensive reprogramming, allowing robots to seamlessly adjust to changing workflows and product lines.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-      "published_date": "2026-09-10T16:00:04+00:00",
-      "summary": "NVIDIA's advancements in physical AI are revolutionizing the robotaxi industry, which is set to explode into a $400 billion market by 2035, as autonomous fleets navigate the world's most congested urban environments, marking a significant leap towards widespread adoption of driverless technology. This breakthrough not only enhances urban mobility but also signals a transformative shift in transportation infrastructure and economic dynamics.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "published_date": "2026-09-10T16:00:00+00:00",
-      "summary": "César de la Fuente's innovative use of Codex and ChatGPT to explore both living and extinct genomes for new antimicrobial molecules represents a groundbreaking approach in the fight against drug-resistant infections, potentially revolutionizing how we develop treatments for one of modern medicine's most pressing challenges. This fusion of AI and genomic research could lead to the discovery of powerful new antibiotics, significantly impacting public health and saving countless lives.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "published_date": "2026-09-10T16:00:00+00:00",
-      "summary": "Google AI introduces innovative search capabilities that empower athletes to optimize their training and preparation for races, revolutionizing how runners access tailored information and strategies. This breakthrough not only enhances performance but also democratizes access to expert insights, making elite-level training accessible to all.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work",
-      "published_date": "2026-09-10T15:00:00+00:00",
-      "summary": "OpenAI's new Data agent in ChatGPT Work revolutionizes data utilization by enabling users to seamlessly connect company data, extract valuable insights, and create interactive dashboards through natural language, democratizing access to advanced analytics for all. This breakthrough empowers organizations to harness their data more effectively, driving informed decision-making and enhancing productivity.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "AI bottleneck-breaker: China’s Huawei touts high-speed optical module",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367093/ai-bottleneck-breaker-chinas-huawei-touts-high-speed-optical-module?utm_source=rss_feed",
-      "published_date": "2026-09-10T13:30:08+00:00",
-      "summary": "Huawei Technologies has introduced a groundbreaking 7.2-terabit-per-second optical module that aims to resolve critical bottlenecks in AI infrastructure, positioning the company at the forefront of the next-generation data center connectivity race. This innovation not only enhances data transmission speeds but also sets a new standard for the future of AI and cloud computing.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-      "published_date": "2026-09-10T13:00:21+00:00",
-      "summary": "d-Matrix's adoption of NVIDIA NVLink Fusion for its Raptor XPUs marks a significant leap in AI infrastructure, enabling unprecedented scalability and performance in AI inference, which could redefine the capabilities of data centers and accelerate advancements in AI applications. This collaboration underscores the growing ecosystem of NVIDIA's AI platform, positioning it as a cornerstone for future technological innovations.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-      "published_date": "2026-09-10T13:00:18+00:00",
-      "summary": "NVIDIA's GeForce NOW platform has achieved a significant breakthrough by launching WARDOGS in early access, alongside major updates for popular titles like Valheim and Bus Simulator 27, enabling gamers to access high-demand PC games without the need for expensive hardware. This development not only enhances the gaming experience but also democratizes access to cutting-edge gaming technology, making it more accessible to a broader audience.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The Chinese room",
-      "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
-      "published_date": "2026-09-10T10:01:00+00:00",
-      "summary": "• The Chinese room experiment challenges the notion of understanding by illustrating that syntactic manipulation does not equate to semantic comprehension.  \n• Searle's thought experiment raises profound questions about the nature of consciousness and whether machines can truly possess it.  \n• The distinction between human cognition and artificial intelligence highlights the limitations of our current understanding of consciousness itself.  \n• Engaging with the Chinese room prompts us to reflect on the essence of meaning and the criteria for genuine understanding.  \n• Ultimately, the debate surrounding AI consciousness invites us to explore the depths of our own minds and the mysteries of sentience.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Medieval mental health",
-      "link": "https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health",
-      "published_date": "2026-09-10T10:00:00+00:00",
-      "summary": "• Medieval mental health treatments blended natural remedies with holistic practices, emphasizing the interconnectedness of body and mind.  \n• The era recognized the therapeutic power of nature, advocating for gardens and animals as vital components of emotional well-being.  \n• Social interaction and music were deemed essential for mental health, highlighting the importance of community and creativity in healing.  \n• The diverse approaches to mental health in medieval times reflect a profound understanding of human experience, transcending mere medical intervention.  \n• This historical perspective invites a reevaluation of contemporary mental health practices, urging a return to more integrative and compassionate methods.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
