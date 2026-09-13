@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T04:01:05.078033+00:00",
+  "last_updated": "2026-09-13T08:29:45.133681+00:00",
   "articles": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -8,6 +8,14 @@
       "summary": "Perplexity's integration of GPT-6 Astra marks a transformative leap in AI capabilities, enabling seamless end-to-end system management that significantly reduces the need for human oversight in tasks like communication, software updates, and production monitoring. This breakthrough not only enhances operational efficiency but also sets a new standard for AI's role in automating complex processes across industries.",
       "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "Beijing pushes AI-assisted chip design as part of self-sufficiency drive",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive?utm_source=rss_feed",
+      "published_date": "2026-09-13T06:00:08+00:00",
+      "summary": "Beijing is leveraging AI to revolutionize semiconductor design, significantly speeding up the process and enhancing national self-sufficiency in chip production, a critical move in the global tech landscape. This strategic integration of AI by leading firms like Empyrean Technology underscores China's commitment to reducing reliance on foreign technology and advancing its position in the semiconductor industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake",
