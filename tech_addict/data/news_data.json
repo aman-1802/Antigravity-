@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T04:09:17.058614+00:00",
+  "last_updated": "2026-09-14T09:12:02.424133+00:00",
   "articles": [
     {
       "title": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
@@ -22,14 +22,6 @@
       "link": "https://www.scmp.com/tech/article/3367354/chinese-researchers-extend-future-memory-endurance-100-fold-semiconductor-advance?utm_source=rss_feed",
       "published_date": "2026-09-13T10:52:17+00:00",
       "summary": "Chinese researchers have achieved a groundbreaking advancement in semiconductor technology by extending the memory endurance of wurtzite ferroelectrics by 100-fold, enabling over 10 billion writing cycles and significantly enhancing the durability of memory chips for high-performance computing and future AI applications. This breakthrough addresses a critical reliability barrier, positioning these advanced semiconductors as essential for meeting the surging demand driven by the AI boom.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Beijing pushes AI-assisted chip design as part of self-sufficiency drive",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive?utm_source=rss_feed",
-      "published_date": "2026-09-13T06:00:08+00:00",
-      "summary": "Beijing is leveraging AI to revolutionize semiconductor design, significantly speeding up the process and enhancing national self-sufficiency in chip production, a critical move in the global tech landscape. This strategic integration of AI by leading firms like Empyrean Technology underscores China's commitment to reducing reliance on foreign technology and advancing its position in the semiconductor industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
