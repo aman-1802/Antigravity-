@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-13T08:29:45.133681+00:00",
+  "last_updated": "2026-09-14T04:09:17.058614+00:00",
   "articles": [
+    {
+      "title": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
+      "link": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry?utm_source=rss_feed",
+      "published_date": "2026-09-14T00:00:10+00:00",
+      "summary": "China's intelligence chief has highlighted the escalating national security threats posed by artificial intelligence, urging for comprehensive risk management and global governance, as the country positions itself as a leader in AI regulation amidst rising tensions with the U.S. This warning underscores the critical need for international collaboration to navigate the complexities of AI in an era of strategic rivalry.",
+      "source": "SCMP China Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -10,18 +18,18 @@
       "category": "AI"
     },
     {
-      "title": "Beijing pushes AI-assisted chip design as part of self-sufficiency drive",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive?utm_source=rss_feed",
-      "published_date": "2026-09-13T06:00:08+00:00",
-      "summary": "Beijing is leveraging AI to revolutionize semiconductor design, significantly speeding up the process and enhancing national self-sufficiency in chip production, a critical move in the global tech landscape. This strategic integration of AI by leading firms like Empyrean Technology underscores China's commitment to reducing reliance on foreign technology and advancing its position in the semiconductor industry.",
+      "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
+      "link": "https://www.scmp.com/tech/article/3367354/chinese-researchers-extend-future-memory-endurance-100-fold-semiconductor-advance?utm_source=rss_feed",
+      "published_date": "2026-09-13T10:52:17+00:00",
+      "summary": "Chinese researchers have achieved a groundbreaking advancement in semiconductor technology by extending the memory endurance of wurtzite ferroelectrics by 100-fold, enabling over 10 billion writing cycles and significantly enhancing the durability of memory chips for high-performance computing and future AI applications. This breakthrough addresses a critical reliability barrier, positioning these advanced semiconductors as essential for meeting the surging demand driven by the AI boom.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake?utm_source=rss_feed",
-      "published_date": "2026-09-13T00:00:10+00:00",
-      "summary": "The US and China are in a fierce competition to develop self-improving AI systems capable of recursively enhancing their own capabilities, a breakthrough that could redefine technological advancement and global power dynamics. This race not only highlights the potential for unprecedented innovation in AI but also raises critical implications for economic and national security.",
+      "title": "Beijing pushes AI-assisted chip design as part of self-sufficiency drive",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive?utm_source=rss_feed",
+      "published_date": "2026-09-13T06:00:08+00:00",
+      "summary": "Beijing is leveraging AI to revolutionize semiconductor design, significantly speeding up the process and enhancing national self-sufficiency in chip production, a critical move in the global tech landscape. This strategic integration of AI by leading firms like Empyrean Technology underscores China's commitment to reducing reliance on foreign technology and advancing its position in the semiconductor industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
