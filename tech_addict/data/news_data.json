@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T04:08:38.149702+00:00",
+  "last_updated": "2026-09-15T08:54:03.571696+00:00",
   "articles": [
     {
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
@@ -48,14 +48,6 @@
       "summary": "NVIDIA's Perplexity Portable Computer, now available on Windows, revolutionizes personal computing by enabling advanced AI agents to perform complex multistep tasks locally, ensuring data privacy while harnessing the power of RTX GPUs for enhanced performance. This breakthrough not only empowers users with greater control over their sensitive information but also marks a significant leap in the capabilities of AI-driven personal computing.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans?utm_source=rss_feed",
-      "published_date": "2026-09-14T13:30:06+00:00",
-      "summary": "Chinese researchers have unveiled a groundbreaking five-stage roadmap for developing recursive self-improving AI systems that could autonomously create superior versions of themselves, marking a pivotal advancement in the global AI race and raising profound implications for the future of technology and human oversight.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     },
     {
       "title": "How Fyxer built an AI executive assistant people trust",
