@@ -1,27 +1,99 @@
 {
-  "last_updated": "2026-09-14T09:12:02.424133+00:00",
+  "last_updated": "2026-09-15T04:08:38.149702+00:00",
   "articles": [
     {
-      "title": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
-      "link": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry?utm_source=rss_feed",
-      "published_date": "2026-09-14T00:00:10+00:00",
-      "summary": "China's intelligence chief has highlighted the escalating national security threats posed by artificial intelligence, urging for comprehensive risk management and global governance, as the country positions itself as a leader in AI regulation amidst rising tensions with the U.S. This warning underscores the critical need for international collaboration to navigate the complexities of AI in an era of strategic rivalry.",
-      "source": "SCMP China Tech",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "published_date": "2026-09-14T19:00:00+00:00",
+      "summary": "Astronaut Christina Koch and Google’s James Manyika engage in a groundbreaking dialogue that intertwines the realms of space exploration and advanced technology, highlighting the transformative potential of AI in enhancing our understanding of the universe and driving innovation on Earth. This conversation underscores the critical intersection of human ingenuity and technological advancement, paving the way for future discoveries that could redefine both space travel and societal progress.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Major updates for Apple’s software platforms are now available",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "published_date": "2026-09-14T17:10:12+00:00",
+      "summary": "Apple's latest software updates unveil a groundbreaking integration of Siri AI and advanced Apple Intelligence features, significantly enhancing user experience and setting a new standard for smart technology interaction. This leap forward not only streamlines everyday tasks but also positions Apple at the forefront of AI-driven innovation in consumer technology.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "link": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "published_date": "2026-09-14T17:09:41+00:00",
+      "summary": "Apple has unveiled a significantly upgraded version of Siri AI, transforming it into a more capable and personalized assistant that promises to enhance user interaction and streamline everyday tasks, marking a pivotal advancement in the realm of artificial intelligence. This breakthrough not only elevates the user experience but also positions Apple at the forefront of AI innovation in personal technology.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple’s new child safety features now available",
+      "link": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+      "published_date": "2026-09-14T17:08:48+00:00",
+      "summary": "Apple has launched an innovative suite of child safety features designed to empower parents in fostering secure digital environments for their children across all devices, marking a significant step in tech-driven child protection. This initiative not only enhances user safety but also sets a new standard for digital responsibility in the tech industry.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "DevFest is back",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "published_date": "2026-09-14T16:00:00+00:00",
+      "summary": "Google AI has announced the return of DevFest 2026, a pivotal event that unites developer communities worldwide, fostering innovation and collaboration in technology. This resurgence underscores the importance of grassroots engagement in shaping the future of software development and AI advancements.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "published_date": "2026-09-14T15:00:52+00:00",
+      "summary": "NVIDIA's Perplexity Portable Computer, now available on Windows, revolutionizes personal computing by enabling advanced AI agents to perform complex multistep tasks locally, ensuring data privacy while harnessing the power of RTX GPUs for enhanced performance. This breakthrough not only empowers users with greater control over their sensitive information but also marks a significant leap in the capabilities of AI-driven personal computing.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans?utm_source=rss_feed",
+      "published_date": "2026-09-14T13:30:06+00:00",
+      "summary": "Chinese researchers have unveiled a groundbreaking five-stage roadmap for developing recursive self-improving AI systems that could autonomously create superior versions of themselves, marking a pivotal advancement in the global AI race and raising profound implications for the future of technology and human oversight.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "published_date": "2026-09-14T00:00:00+00:00",
-      "summary": "Perplexity's integration of GPT-6 Astra marks a transformative leap in AI capabilities, enabling seamless end-to-end system management that significantly reduces the need for human oversight in tasks like communication, software updates, and production monitoring. This breakthrough not only enhances operational efficiency but also sets a new standard for AI's role in automating complex processes across industries.",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://openai.com/index/fyxer",
+      "published_date": "2026-09-14T12:00:00+00:00",
+      "summary": "Fyxer has revolutionized the AI assistant landscape by leveraging OpenAI models and user feedback to create a highly personalized executive assistant that not only organizes inboxes but also drafts emails in the user's unique voice, fostering trust and enhancing productivity. This breakthrough signifies a major step towards seamless human-AI collaboration in professional settings.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
-      "link": "https://www.scmp.com/tech/article/3367354/chinese-researchers-extend-future-memory-endurance-100-fold-semiconductor-advance?utm_source=rss_feed",
-      "published_date": "2026-09-13T10:52:17+00:00",
-      "summary": "Chinese researchers have achieved a groundbreaking advancement in semiconductor technology by extending the memory endurance of wurtzite ferroelectrics by 100-fold, enabling over 10 billion writing cycles and significantly enhancing the durability of memory chips for high-performance computing and future AI applications. This breakthrough addresses a critical reliability barrier, positioning these advanced semiconductors as essential for meeting the surging demand driven by the AI boom.",
+      "title": "Once upon a screen: explosive paradox",
+      "link": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
+      "published_date": "2026-09-14T10:01:00+00:00",
+      "summary": "• The film \"Platoon\" serves as a catalyst for exploring the deep-seated generational trauma that shapes personal and collective identities.  \n• Kevin's recollections reveal how cinematic narratives can intertwine with real-life experiences, amplifying societal issues like racism.  \n• The paradox of screen storytelling lies in its power to evoke profound emotional responses while simultaneously distancing viewers from the harsh realities depicted.  \n• This essay invites reflection on the role of art in confronting uncomfortable truths and the complexities of memory intertwined with media.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China rejects calls for ‘pacing’ on AI development, fearing it would entrench US tech lead",
+      "link": "https://www.scmp.com/tech/policy/article/3367448/china-rejects-calls-pacing-ai-development-fearing-it-would-entrench-us-tech-lead?utm_source=rss_feed",
+      "published_date": "2026-09-14T10:00:10+00:00",
+      "summary": "China's firm rejection of US calls for a slowdown in AI development underscores its determination to avoid ceding technological dominance, highlighting a critical geopolitical clash where the future of artificial intelligence innovation is at stake. This standoff not only reflects differing national priorities but also raises questions about the global balance of power in emerging technologies.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The bombarding of childhood",
+      "link": "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media",
+      "published_date": "2026-09-14T10:00:00+00:00",
+      "summary": "• The relentless stimulation of modern children's media creates an environment that overwhelms rather than nurtures young minds.  \n• This bombardment of sensory input may hinder children's ability to engage in deep thinking and reflective play.  \n• The shift from calm, imaginative experiences to chaotic content raises questions about the essence of childhood itself.  \n• As media becomes increasingly frenetic, the challenge lies in preserving the sanctity of childhood amidst this noise.  \n• Ultimately, the evolution of children's media reflects broader societal values, prompting a reevaluation of what we consider beneficial for development.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Xi touts Brics cooperation on AI as US titans flag tech risks",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks?utm_source=rss_feed",
+      "published_date": "2026-09-14T09:24:23+00:00",
+      "summary": "President Xi Jinping's push for a collaborative AI framework among Brics nations highlights China's ambition to lead in artificial intelligence development, positioning itself as a counterbalance to US technological dominance and fostering a united front in the Global South. This initiative not only aims to enhance AI capabilities across member states but also signifies a strategic move to reshape global tech governance amidst rising geopolitical tensions.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
