@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-09-16T04:05:04.896752+00:00",
+  "last_updated": "2026-09-16T08:47:37.497626+00:00",
   "articles": [
     {
-      "title": "Chinese scientists build world’s smallest CT scanner, weighing just 6kg",
-      "link": "https://www.scmp.com/news/china/science/article/3367612/chinese-scientists-build-worlds-smallest-ct-scanner-weighing-just-6kg?utm_source=rss_feed",
-      "published_date": "2026-09-16T04:00:09+00:00",
-      "summary": "Chinese scientists have unveiled the Xtomo-Cube, the world's smallest and lightest CT scanner at just 6kg, revolutionizing the field of imaging by enabling the detailed examination of tiny fossils and archaeological relics with unprecedented portability. This breakthrough not only enhances accessibility for researchers but also opens new avenues for discoveries in paleontology and archaeology.",
-      "source": "China News",
+      "title": "ByteDance’s AI-enhanced short-drama app eclipses China’s Netflix rivals combined",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367664/bytedances-ai-enhanced-short-drama-app-eclipses-chinas-netflix-rivals-combined?utm_source=rss_feed",
+      "published_date": "2026-09-16T06:00:50+00:00",
+      "summary": "ByteDance's new AI-powered short-drama app, Hongguo, has rapidly surpassed all major Chinese streaming platforms by leveraging the booming demand for short dramas and innovative AI-generated content, marking a significant shift in the competitive landscape of digital entertainment in China. This breakthrough not only highlights the transformative potential of AI in content creation but also underscores ByteDance's dominance in the media sector.",
+      "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "published_date": "2026-09-16T05:00:42+00:00",
+      "summary": "The University of Manchester's use of NVIDIA Earth-2 to forecast air pollution represents a groundbreaking shift in environmental monitoring, enabling real-time, detailed insights that could significantly reduce public health risks associated with air quality in the UK. This innovative approach not only enhances the frequency and precision of pollution assessments but also addresses the limitations of traditional, costly models, potentially saving thousands of lives.",
+      "source": "NVIDIA",
+      "category": "AI"
     },
     {
       "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
@@ -64,6 +72,14 @@
       "summary": "Google's AI & Economy ATLAS v1.0 2026 reveals groundbreaking insights into the intricate relationship between artificial intelligence and economic dynamics, offering unprecedented data that could reshape policy-making and business strategies in an increasingly automated world. This innovative tool not only enhances our understanding of AI's impact on various sectors but also empowers stakeholders to navigate the future of the economy with greater precision.",
       "source": "Google AI",
       "category": "AI"
+    },
+    {
+      "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
+      "link": "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed",
+      "published_date": "2026-09-15T12:30:14+00:00",
+      "summary": "A DeepSeek AI engineer has raised alarms about the monopolization of advanced AI by US firms Anthropic and OpenAI, likening the situation to historical precedents, which underscores the urgent need for global dialogue on AI safety as tensions rise between the US and China ahead of a pivotal meeting between their leaders. This breakthrough highlights the critical intersection of technology, ethics, and international relations, emphasizing the potential risks of concentrated AI power.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "China bets on chips and AI in new 5-year road map to challenge US tech dominance",
