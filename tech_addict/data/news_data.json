@@ -1,93 +1,109 @@
 {
-  "last_updated": "2026-09-15T08:54:03.571696+00:00",
+  "last_updated": "2026-09-16T04:05:04.896752+00:00",
   "articles": [
     {
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "published_date": "2026-09-14T19:00:00+00:00",
-      "summary": "Astronaut Christina Koch and Google’s James Manyika engage in a groundbreaking dialogue that intertwines the realms of space exploration and advanced technology, highlighting the transformative potential of AI in enhancing our understanding of the universe and driving innovation on Earth. This conversation underscores the critical intersection of human ingenuity and technological advancement, paving the way for future discoveries that could redefine both space travel and societal progress.",
-      "source": "Google AI",
-      "category": "AI"
+      "title": "Chinese scientists build world’s smallest CT scanner, weighing just 6kg",
+      "link": "https://www.scmp.com/news/china/science/article/3367612/chinese-scientists-build-worlds-smallest-ct-scanner-weighing-just-6kg?utm_source=rss_feed",
+      "published_date": "2026-09-16T04:00:09+00:00",
+      "summary": "Chinese scientists have unveiled the Xtomo-Cube, the world's smallest and lightest CT scanner at just 6kg, revolutionizing the field of imaging by enabling the detailed examination of tiny fossils and archaeological relics with unprecedented portability. This breakthrough not only enhances accessibility for researchers but also opens new avenues for discoveries in paleontology and archaeology.",
+      "source": "China News",
+      "category": "SCMP"
     },
     {
-      "title": "Major updates for Apple’s software platforms are now available",
-      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "published_date": "2026-09-14T17:10:12+00:00",
-      "summary": "Apple's latest software updates unveil a groundbreaking integration of Siri AI and advanced Apple Intelligence features, significantly enhancing user experience and setting a new standard for smart technology interaction. This leap forward not only streamlines everyday tasks but also positions Apple at the forefront of AI-driven innovation in consumer technology.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "link": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "published_date": "2026-09-14T17:09:41+00:00",
-      "summary": "Apple has unveiled a significantly upgraded version of Siri AI, transforming it into a more capable and personalized assistant that promises to enhance user interaction and streamline everyday tasks, marking a pivotal advancement in the realm of artificial intelligence. This breakthrough not only elevates the user experience but also positions Apple at the forefront of AI innovation in personal technology.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple’s new child safety features now available",
-      "link": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
-      "published_date": "2026-09-14T17:08:48+00:00",
-      "summary": "Apple has launched an innovative suite of child safety features designed to empower parents in fostering secure digital environments for their children across all devices, marking a significant step in tech-driven child protection. This initiative not only enhances user safety but also sets a new standard for digital responsibility in the tech industry.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "DevFest is back",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "published_date": "2026-09-14T16:00:00+00:00",
-      "summary": "Google AI has announced the return of DevFest 2026, a pivotal event that unites developer communities worldwide, fostering innovation and collaboration in technology. This resurgence underscores the importance of grassroots engagement in shaping the future of software development and AI advancements.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "published_date": "2026-09-14T15:00:52+00:00",
-      "summary": "NVIDIA's Perplexity Portable Computer, now available on Windows, revolutionizes personal computing by enabling advanced AI agents to perform complex multistep tasks locally, ensuring data privacy while harnessing the power of RTX GPUs for enhanced performance. This breakthrough not only empowers users with greater control over their sensitive information but also marks a significant leap in the capabilities of AI-driven personal computing.",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "link": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "published_date": "2026-09-15T22:24:34+00:00",
+      "summary": "NVIDIA's CEO Jensen Huang unveiled Koa, Salesforce's groundbreaking CRM reasoning model powered by NVIDIA's advanced technology, signaling a transformative leap in AI capabilities that promises to revolutionize data-driven decision-making for businesses. This innovation underscores a pivotal moment where AI can not only analyze vast amounts of information but also empower organizations to execute complex strategies with unprecedented efficiency.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer",
-      "published_date": "2026-09-14T12:00:00+00:00",
-      "summary": "Fyxer has revolutionized the AI assistant landscape by leveraging OpenAI models and user feedback to create a highly personalized executive assistant that not only organizes inboxes but also drafts emails in the user's unique voice, fostering trust and enhancing productivity. This breakthrough signifies a major step towards seamless human-AI collaboration in professional settings.",
-      "source": "OpenAI",
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "published_date": "2026-09-15T16:55:59+00:00",
+      "summary": "NVIDIA has revolutionized AI factory production by integrating real-time energy management systems that optimize power consumption based on demand signals, significantly enhancing efficiency and sustainability in AI operations. This breakthrough not only reduces operational costs but also positions NVIDIA at the forefront of the green technology movement in the rapidly expanding AI sector.",
+      "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "Once upon a screen: explosive paradox",
-      "link": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
-      "published_date": "2026-09-14T10:01:00+00:00",
-      "summary": "• The film \"Platoon\" serves as a catalyst for exploring the deep-seated generational trauma that shapes personal and collective identities.  \n• Kevin's recollections reveal how cinematic narratives can intertwine with real-life experiences, amplifying societal issues like racism.  \n• The paradox of screen storytelling lies in its power to evoke profound emotional responses while simultaneously distancing viewers from the harsh realities depicted.  \n• This essay invites reflection on the role of art in confronting uncomfortable truths and the complexities of memory intertwined with media.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
+      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "published_date": "2026-09-15T16:55:40+00:00",
+      "summary": "NVIDIA's recent advancements in the Vera Rubin and DSX platforms highlight a groundbreaking approach to optimizing energy efficiency in AI factories by maximizing tokens per watt, a development that could revolutionize the sustainability and performance of AI infrastructure. This innovation is particularly significant as it addresses the growing demand for energy-efficient solutions in an industry rapidly expanding in scale and complexity.",
+      "source": "NVIDIA",
+      "category": "AI"
     },
     {
-      "title": "China rejects calls for ‘pacing’ on AI development, fearing it would entrench US tech lead",
-      "link": "https://www.scmp.com/tech/policy/article/3367448/china-rejects-calls-pacing-ai-development-fearing-it-would-entrench-us-tech-lead?utm_source=rss_feed",
-      "published_date": "2026-09-14T10:00:10+00:00",
-      "summary": "China's firm rejection of US calls for a slowdown in AI development underscores its determination to avoid ceding technological dominance, highlighting a critical geopolitical clash where the future of artificial intelligence innovation is at stake. This standoff not only reflects differing national priorities but also raises questions about the global balance of power in emerging technologies.",
+      "title": "AI for Societal Impact",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "published_date": "2026-09-15T16:00:00+00:00",
+      "summary": "Google AI's latest initiative showcases how groundbreaking artificial intelligence applications are being harnessed by experts and community leaders to democratize access to AI technologies, ensuring equitable opportunities for all and driving significant societal impact. This breakthrough not only highlights the transformative potential of AI but also addresses critical issues of inclusivity and accessibility in the tech landscape.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Building AI to accelerate science and improve lives",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published_date": "2026-09-15T16:00:00+00:00",
+      "summary": "Google AI is pioneering advancements that harness artificial intelligence to revolutionize scientific research and enhance healthcare outcomes, ultimately aiming to improve lives across diverse communities. This breakthrough not only accelerates the pace of discovery but also democratizes access to cutting-edge solutions in education and medicine.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "AI for everyone in every language",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published_date": "2026-09-15T16:00:00+00:00",
+      "summary": "Google AI's latest breakthrough aims to democratize artificial intelligence by enabling seamless communication across diverse languages, making advanced AI tools accessible to a global audience and fostering inclusivity in technology. This innovation not only bridges language barriers but also empowers individuals and businesses worldwide to leverage AI's transformative potential.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "published_date": "2026-09-15T13:00:00+00:00",
+      "summary": "Google's AI & Economy ATLAS v1.0 2026 reveals groundbreaking insights into the intricate relationship between artificial intelligence and economic dynamics, offering unprecedented data that could reshape policy-making and business strategies in an increasingly automated world. This innovative tool not only enhances our understanding of AI's impact on various sectors but also empowers stakeholders to navigate the future of the economy with greater precision.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "China bets on chips and AI in new 5-year road map to challenge US tech dominance",
+      "link": "https://www.scmp.com/economy/global-economy/article/3367622/china-bets-chips-and-ai-new-5-year-road-map-challenge-us-tech-dominance?utm_source=rss_feed",
+      "published_date": "2026-09-15T12:00:02+00:00",
+      "summary": "China's new five-year roadmap emphasizes significant investments in artificial intelligence and semiconductor technology, aiming to bolster its technological self-sufficiency and challenge the United States' dominance in the tech sector. This strategic shift underscores the urgency of innovation in critical industries as geopolitical tensions escalate.",
+      "source": "SCMP China Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China is beating the US in consumer AI adoption, thanks to super apps: Morgan Stanley",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367601/china-beating-us-consumer-ai-adoption-thanks-super-apps-morgan-stanley?utm_source=rss_feed",
+      "published_date": "2026-09-15T11:00:12+00:00",
+      "summary": "China is outpacing the US in consumer AI adoption, with 80% of Chinese users engaging with AI weekly through integrated super apps from tech giants like Tencent and Alibaba, highlighting a significant shift in how AI is embedded into daily life despite American models leading in technological capability. This trend underscores the potential for China to shape the future of consumer AI, setting a new standard for user engagement and application.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "The bombarding of childhood",
-      "link": "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media",
-      "published_date": "2026-09-14T10:00:00+00:00",
-      "summary": "• The relentless stimulation of modern children's media creates an environment that overwhelms rather than nurtures young minds.  \n• This bombardment of sensory input may hinder children's ability to engage in deep thinking and reflective play.  \n• The shift from calm, imaginative experiences to chaotic content raises questions about the essence of childhood itself.  \n• As media becomes increasingly frenetic, the challenge lies in preserving the sanctity of childhood amidst this noise.  \n• Ultimately, the evolution of children's media reflects broader societal values, prompting a reevaluation of what we consider beneficial for development.",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "link": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "published_date": "2026-09-15T10:02:42+00:00",
+      "summary": "Apple TV's \"Widow's Bay\" has made history as the most decorated freshman comedy at the Emmys, contributing to Apple's record-breaking achievement of 29 wins, which positions the platform as the most-awarded network of the year. This milestone not only underscores the rising influence of streaming services in the entertainment industry but also highlights Apple's commitment to producing high-quality original content.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Chasing la dolce vita",
+      "link": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
+      "published_date": "2026-09-15T10:00:00+00:00",
+      "summary": "• The Italian diaspora navigates a complex interplay of nostalgia and identity, perpetually yearning for a connection to their ancestral roots.  \n• The concept of \"la dolce vita\" serves as a tantalizing ideal, embodying both the pleasures of life and the bittersweet nature of longing.  \n• Food emerges as a powerful symbol of cultural heritage, evoking memories and emotions that transcend time and distance.  \n• The myth of eternal return suggests that the past is never fully left behind, shaping the present and future of those in search of belonging.  \n• Ultimately, the essay explores how the ghosts of history and memory haunt the lives of expatriates, fueling their quest for a sweeter existence.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Xi touts Brics cooperation on AI as US titans flag tech risks",
-      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks?utm_source=rss_feed",
-      "published_date": "2026-09-14T09:24:23+00:00",
-      "summary": "President Xi Jinping's push for a collaborative AI framework among Brics nations highlights China's ambition to lead in artificial intelligence development, positioning itself as a counterbalance to US technological dominance and fostering a united front in the Global South. This initiative not only aims to enhance AI capabilities across member states but also signifies a strategic move to reshape global tech governance amidst rising geopolitical tensions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "published_date": "2026-09-15T09:00:42+00:00",
+      "summary": "A major children's hospital is revolutionizing cardiac care by leveraging open-source NVIDIA AI technology, enabling unprecedented precision in diagnosing and treating heart conditions in young patients. This breakthrough not only enhances patient outcomes but also sets a new standard for integrating advanced AI in pediatric healthcare.",
+      "source": "NVIDIA",
+      "category": "AI"
     }
   ]
 }
