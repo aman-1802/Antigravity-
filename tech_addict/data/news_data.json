@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-17T04:12:25.313026+00:00",
+  "last_updated": "2026-09-17T08:51:08.569573+00:00",
   "articles": [
+    {
+      "title": "Huawei quickens AI chip pace, promises next entrant 3 quarters early",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367832/huawei-quickens-ai-chip-pace-promises-next-entrant-3-quarters-early?utm_source=rss_feed",
+      "published_date": "2026-09-17T06:36:28+00:00",
+      "summary": "Huawei is accelerating the launch of its next-generation AI chip, the Ascend 960DT, now set for the first quarter of 2027, nine months ahead of schedule, marking a significant leap in performance that underscores the company's commitment to advancing China's self-sufficiency in technology. This breakthrough not only enhances Huawei's competitive edge in the AI landscape but also signals a pivotal shift in the global tech ecosystem as companies race to innovate in artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Huawei unveils latest tech to boost AI power in push to break China’s Nvidia reliance",
       "link": "https://www.scmp.com/tech/big-tech/article/3367796/huawei-unveils-latest-tech-boost-ai-power-push-break-chinas-nvidia-reliance?utm_source=rss_feed",
@@ -98,14 +106,6 @@
       "category": "AI"
     },
     {
-      "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers?utm_source=rss_feed",
-      "published_date": "2026-09-16T10:46:58+00:00",
-      "summary": "Moonshot AI, the creator of the Kimi AI models, has garnered significant global investment interest as international capital races to tap into China's cutting-edge AI development, highlighting a pivotal shift in the competitive landscape against US counterparts. This surge in funding underscores the growing recognition of China's potential to lead in frontier AI technologies.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
       "title": "The meaning of fake marble",
       "link": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
       "published_date": "2026-09-16T10:01:00+00:00",
@@ -114,19 +114,19 @@
       "category": "Aeon"
     },
     {
+      "title": "People’s Daily rejects US claims of malicious AI distillation, warns of countermeasures",
+      "link": "https://www.scmp.com/tech/article/3367717/peoples-daily-rejects-us-claims-malicious-ai-distillation-warns-countermeasures?utm_source=rss_feed",
+      "published_date": "2026-09-16T09:35:08+00:00",
+      "summary": "China's People's Daily has firmly rejected U.S. allegations of malicious AI distillation, asserting that such claims lack factual basis and warning of potential countermeasures, highlighting the escalating tensions in the global AI landscape and the implications for international tech competition. This confrontation underscores the critical importance of maintaining fair practices in an increasingly politicized technological arena.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "How workers are unlocking new ways of working",
       "link": "https://openai.com/index/unlocking-new-ways-of-working",
       "published_date": "2026-09-16T09:00:00+00:00",
       "summary": "OpenAI's latest economic research reveals that workers are increasingly integrating AI into their daily tasks, transcending traditional job roles and establishing innovative, recurring activities that could redefine workplace productivity and collaboration. This breakthrough highlights the transformative potential of AI in reshaping the future of work, making it essential for businesses to adapt and leverage these emerging practices.",
       "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "published_date": "2026-09-16T05:00:42+00:00",
-      "summary": "The University of Manchester's use of NVIDIA Earth-2 to forecast air pollution represents a groundbreaking shift in environmental monitoring, enabling real-time, detailed insights that could significantly reduce public health risks associated with air quality in the UK. This innovative approach not only enhances the frequency and precision of pollution assessments but also addresses the limitations of traditional, costly models, potentially saving thousands of lives.",
-      "source": "NVIDIA",
       "category": "AI"
     }
   ]
