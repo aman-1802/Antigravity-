@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-18T03:57:09.698313+00:00",
+  "last_updated": "2026-09-18T08:26:25.665566+00:00",
   "articles": [
+    {
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "link": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "published_date": "2026-09-18T05:02:14+00:00",
+      "summary": "Apple's latest product launch features the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5, marking a significant evolution in mobile technology and wearable innovation that promises to enhance user experience and connectivity on a global scale. This release not only reinforces Apple's dominance in the tech market but also sets new standards for performance and functionality in personal devices.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367955/china-see-major-shift-huawei-ai-model-training-2027-rotating-chair?utm_source=rss_feed",
+      "published_date": "2026-09-18T04:59:31+00:00",
+      "summary": "Huawei is poised to revolutionize AI model training in China by 2027, as its Ascend processors are set to replace Nvidia's dominance, signaling a significant shift in the country's AI infrastructure and reducing reliance on foreign technology. This transition not only underscores Huawei's growing influence in the AI sector but also highlights China's commitment to advancing its technological independence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China has gained pace in the space race by recovering rockets – but can it relaunch one?",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3367874/china-has-gained-pace-space-race-recovering-rockets-can-it-relaunch-one?utm_source=rss_feed",
+      "published_date": "2026-09-17T22:00:12+00:00",
+      "summary": "China is rapidly advancing in the space race by focusing on the recovery and potential relaunch of reusable rockets, a critical area where it seeks to challenge the US's current dominance exemplified by SpaceX's extensive experience. This strategic pivot not only signifies China's ambition to enhance its space capabilities but also highlights the increasing competition in global space exploration efforts.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Making global data easier to explore",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
@@ -56,14 +80,6 @@
       "summary": "• The computist envisions a utopia where human subjectivity is eliminated, leading to a seamless understanding of knowledge.  \n• This dream reflects a deep-seated desire for objectivity, yet it risks stripping away the richness of human experience.  \n• In the pursuit of a frictionless world, the essence of what it means to be human may be lost, as emotions and biases shape our understanding.  \n• The quest for pure knowledge raises profound questions about the value of subjectivity in shaping our identities and relationships.  \n• Ultimately, the tension between objectivity and subjectivity challenges us to reconsider the true nature of knowledge and existence.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Huawei quickens AI chip pace, promises next entrant 3 quarters early",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367832/huawei-quickens-ai-chip-pace-promises-next-entrant-3-quarters-early?utm_source=rss_feed",
-      "published_date": "2026-09-17T06:36:28+00:00",
-      "summary": "Huawei is accelerating the launch of its next-generation AI chip, the Ascend 960DT, now set for the first quarter of 2027, nine months ahead of schedule, marking a significant leap in performance that underscores the company's commitment to advancing China's self-sufficiency in technology. This breakthrough not only enhances Huawei's competitive edge in the AI landscape but also signals a pivotal shift in the global tech ecosystem as companies race to innovate in artificial intelligence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
