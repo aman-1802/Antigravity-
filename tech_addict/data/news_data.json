@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-09-17T08:51:08.569573+00:00",
+  "last_updated": "2026-09-18T03:57:09.698313+00:00",
   "articles": [
+    {
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "published_date": "2026-09-17T20:00:00+00:00",
+      "summary": "Google AI has unveiled the UN System Data Commons, a groundbreaking platform designed to simplify global data exploration, which could significantly enhance decision-making and policy development on critical international issues by providing unprecedented access to comprehensive datasets. This innovation not only democratizes data but also empowers stakeholders worldwide to leverage insights for sustainable development and humanitarian efforts.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "What we’ve learned from Microsoft’s own AI transformation",
+      "link": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+      "published_date": "2026-09-17T14:00:05+00:00",
+      "summary": "Microsoft's insights reveal that AI is rapidly transforming industries, prompting a shift from mere capabilities to leveraging AI for tangible business value, positioning organizations as \"Frontier Firms\" that will thrive in this new landscape. This breakthrough underscores the urgency for companies to adapt and innovate in order to harness AI's full potential and enhance human achievement.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "published_date": "2026-09-17T13:00:55+00:00",
+      "summary": "NVIDIA's GeForce NOW now features 'Aniimo,' a cloud-based creature-catching adventure that allows gamers to explore the vibrant continent of Idyll, marking a significant step in enhancing gaming accessibility and experience across multiple devices. This launch, alongside a major update for 007 First Light, underscores NVIDIA's commitment to delivering cutting-edge gaming technology and content.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "How Huawei plans to bypass US chip curbs with its new UnifiedBus technology",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology?utm_source=rss_feed",
+      "published_date": "2026-09-17T12:00:07+00:00",
+      "summary": "Huawei's introduction of UnifiedBus technology, which enables up to 1 million processors to function as a single computer, represents a groundbreaking shift in data center architecture that could significantly enhance computing efficiency and performance while circumventing US chip restrictions. This innovation not only redefines scalability in computing but also positions Huawei as a formidable player in the global tech landscape amidst ongoing geopolitical tensions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "published_date": "2026-09-17T12:00:00+00:00",
+      "summary": "Cooley's innovative GO Public platform, powered by ChatGPT, revolutionizes the IPO process by enhancing legal intelligence, enabling lawyers to identify potential issues earlier and concentrate their expertise on critical decision-making, ultimately streamlining and improving the efficiency of public offerings. This breakthrough not only transforms legal workflows but also sets a new standard for how technology can elevate complex financial transactions.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Animal eye",
+      "link": "https://aeon.co/videos/the-alien-worlds-beside-our-own-a-journey-into-animal-eyes",
+      "published_date": "2026-09-17T10:01:00+00:00",
+      "summary": "• Animal eyes reveal a spectrum of perception that transcends human understanding, inviting us to ponder the limits of our own vision.  \n• The intricate designs of various animal eyes reflect evolutionary adaptations, showcasing nature's artistry and ingenuity.  \n• Each species' unique ocular features serve not only functional purposes but also evoke a sense of wonder about the interconnectedness of life.  \n• The documentary prompts us to question our place in the animal kingdom, challenging the notion of superiority in perception and experience.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Who will taste the cherries?",
+      "link": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
+      "published_date": "2026-09-17T10:00:00+00:00",
+      "summary": "• The computist envisions a utopia where human subjectivity is eliminated, leading to a seamless understanding of knowledge.  \n• This dream reflects a deep-seated desire for objectivity, yet it risks stripping away the richness of human experience.  \n• In the pursuit of a frictionless world, the essence of what it means to be human may be lost, as emotions and biases shape our understanding.  \n• The quest for pure knowledge raises profound questions about the value of subjectivity in shaping our identities and relationships.  \n• Ultimately, the tension between objectivity and subjectivity challenges us to reconsider the true nature of knowledge and existence.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "Huawei quickens AI chip pace, promises next entrant 3 quarters early",
       "link": "https://www.scmp.com/tech/big-tech/article/3367832/huawei-quickens-ai-chip-pace-promises-next-entrant-3-quarters-early?utm_source=rss_feed",
@@ -8,126 +64,6 @@
       "summary": "Huawei is accelerating the launch of its next-generation AI chip, the Ascend 960DT, now set for the first quarter of 2027, nine months ahead of schedule, marking a significant leap in performance that underscores the company's commitment to advancing China's self-sufficiency in technology. This breakthrough not only enhances Huawei's competitive edge in the AI landscape but also signals a pivotal shift in the global tech ecosystem as companies race to innovate in artificial intelligence.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Huawei unveils latest tech to boost AI power in push to break China’s Nvidia reliance",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367796/huawei-unveils-latest-tech-boost-ai-power-push-break-chinas-nvidia-reliance?utm_source=rss_feed",
-      "published_date": "2026-09-17T02:26:07+00:00",
-      "summary": "Huawei has launched the Ascend 960 SuperPoD computing cluster and enhanced UnifiedBus interconnect technology, marking a significant step in its quest to reduce China's dependence on Nvidia for AI capabilities, while introducing near-packaged optics to optimize performance and energy efficiency. This breakthrough not only strengthens Huawei's position in the global AI landscape but also highlights the company's resilience amid ongoing US semiconductor restrictions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s rocket boom has made Hainan a space hub. Can launches fuel wider growth?",
-      "link": "https://www.scmp.com/tech/policy/article/3367752/chinas-rocket-boom-turns-hainan-space-hub-can-launches-fuel-wider-growth?utm_source=rss_feed",
-      "published_date": "2026-09-16T22:00:08+00:00",
-      "summary": "China's burgeoning rocket industry is transforming Hainan into a pivotal space hub, positioning the island not only as a center for aerospace innovation but also as a catalyst for broader economic diversification beyond its traditional tourism sector. This strategic shift underscores China's ambition to assert itself in the global space race, potentially reshaping regional economies and technological landscapes.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning",
-      "link": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
-      "published_date": "2026-09-16T18:59:58+00:00",
-      "summary": "Microsoft is advancing its five-decade commitment to education by integrating AI technologies that not only enhance learning experiences but also prioritize student safety, marking a significant step towards a more effective and secure educational landscape. This breakthrough is crucial as it addresses both the evolving needs of learners and the challenges posed by modern technology in classrooms.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "published_date": "2026-09-16T17:00:00+00:00",
-      "summary": "OpenAI has unveiled a comprehensive framework for identifying and addressing model misalignment, accompanied by six detailed reports highlighting instances of unexpected or troubling AI behavior, marking a significant step towards transparency and accountability in AI development. This breakthrough is crucial as it not only enhances trust in AI systems but also paves the way for safer and more reliable applications in real-world scenarios.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "published_date": "2026-09-16T16:00:00+00:00",
-      "summary": "OpenAI and AARP are revolutionizing the integration of AI into daily life for older adults by offering free, hands-on ChatGPT workshops in 10 U.S. cities, empowering 1,000 participants to harness AI technology safely and effectively. This initiative not only enhances digital literacy among seniors but also fosters greater independence and connectivity in an increasingly tech-driven world.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-      "published_date": "2026-09-16T15:00:48+00:00",
-      "summary": "NVIDIA's Vera Rubin NVL72 has set a new benchmark in AI inference with its impressive performance in MLPerf Inference v6.1, promising to revolutionize the economics of AI by maximizing token generation, enhancing resource efficiency, and driving greater returns on infrastructure investments. This breakthrough not only elevates throughput as systems scale but also positions NVIDIA at the forefront of AI technology, crucial for businesses aiming to leverage AI for competitive advantage.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "link": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "published_date": "2026-09-16T13:59:28+00:00",
-      "summary": "Apple's latest initiative, \"What Holds Us,\" highlights the groundbreaking capabilities of the iPhone 18 Pro's advanced pro camera system through a curated photography exhibition, underscoring the device's role in transforming visual storytelling and redefining creative expression in the digital age. This breakthrough not only elevates mobile photography but also positions the iPhone as a pivotal tool for artists and storytellers alike.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "China’s Z.ai raises revenue target 25% after US$5 billion cash injection",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367755/chinas-zai-raises-revenue-target-25-after-us5-billion-cash-injection?utm_source=rss_feed",
-      "published_date": "2026-09-16T13:31:13+00:00",
-      "summary": "China's Z.ai has significantly boosted its annual recurring revenue target by 25% to $3 billion following a substantial $5 billion investment, showcasing its ability to overcome computing capacity challenges and positioning itself for accelerated growth in the competitive AI landscape. This breakthrough not only reflects investor confidence but also underscores the increasing importance of robust funding in driving innovation and scalability in the tech sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-      "published_date": "2026-09-16T13:00:33+00:00",
-      "summary": "Emerald AI, Google, and NVIDIA have formed the AI Energy Management Alliance to revolutionize data centers by enabling them to dynamically manage electricity consumption, a critical advancement for scaling AI infrastructure sustainably in the intelligence era. This breakthrough not only enhances operational efficiency but also addresses the pressing need for responsible energy use in the rapidly growing AI landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "published_date": "2026-09-16T13:00:00+00:00",
-      "summary": "OpenAI is revolutionizing the advertising landscape with innovative AI-powered solutions like Sponsored Agents and advanced marketing tools, seamlessly integrating with platforms like HubSpot and Shopify to enhance targeting and engagement. This breakthrough not only streamlines marketing efforts but also empowers businesses to create more personalized and effective advertising experiences.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
-      "published_date": "2026-09-16T12:25:00+00:00",
-      "summary": "China's AI chip market is on the brink of turmoil as the lock-up period for 14 million shares of MetaX Integrated Circuits expires, potentially triggering a massive sell-off reminiscent of last week's dramatic plunge in Moore Threads' stock, which saw nearly 49 billion yuan evaporate. This pivotal moment could reshape investor confidence and market dynamics in the rapidly evolving AI sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "published_date": "2026-09-16T12:00:00+00:00",
-      "summary": "OpenAI's latest insights reveal how ChatGPT and Codex analytics empower organizations to quantify AI usage and expenditures, pinpoint training requirements, and directly link AI adoption to tangible business results, marking a pivotal shift in leveraging AI for strategic growth. This breakthrough not only enhances operational efficiency but also drives informed decision-making, ultimately transforming how businesses harness AI technology for competitive advantage.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "The meaning of fake marble",
-      "link": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
-      "published_date": "2026-09-16T10:01:00+00:00",
-      "summary": "• The pursuit of fake marble reflects humanity's enduring fascination with beauty and the desire to replicate nature's grandeur.  \n• This imitation serves as a commentary on our relationship with authenticity and value in a world increasingly driven by consumerism.  \n• The evolution of materials, from ancient frescoes to contemporary designs, highlights our constant quest for aesthetic perfection.  \n• Fake marble symbolizes the tension between artifice and reality, prompting us to question what constitutes true beauty.  \n• Ultimately, the allure of imitation reveals deeper truths about our aspirations and the narratives we construct around material culture.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "People’s Daily rejects US claims of malicious AI distillation, warns of countermeasures",
-      "link": "https://www.scmp.com/tech/article/3367717/peoples-daily-rejects-us-claims-malicious-ai-distillation-warns-countermeasures?utm_source=rss_feed",
-      "published_date": "2026-09-16T09:35:08+00:00",
-      "summary": "China's People's Daily has firmly rejected U.S. allegations of malicious AI distillation, asserting that such claims lack factual basis and warning of potential countermeasures, highlighting the escalating tensions in the global AI landscape and the implications for international tech competition. This confrontation underscores the critical importance of maintaining fair practices in an increasingly politicized technological arena.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "link": "https://openai.com/index/unlocking-new-ways-of-working",
-      "published_date": "2026-09-16T09:00:00+00:00",
-      "summary": "OpenAI's latest economic research reveals that workers are increasingly integrating AI into their daily tasks, transcending traditional job roles and establishing innovative, recurring activities that could redefine workplace productivity and collaboration. This breakthrough highlights the transformative potential of AI in reshaping the future of work, making it essential for businesses to adapt and leverage these emerging practices.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
