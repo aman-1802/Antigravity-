@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-09-18T08:26:25.665566+00:00",
+  "last_updated": "2026-09-19T03:54:22.346952+00:00",
   "articles": [
+    {
+      "title": "China makes progress in 3-nm chips without advanced lithography tools",
+      "link": "https://www.scmp.com/tech/tech-war/article/3368042/china-makes-progress-3-nm-chips-without-advanced-lithography-tools?utm_source=rss_feed",
+      "published_date": "2026-09-19T00:00:21+00:00",
+      "summary": "Chinese researchers have achieved significant advancements in semiconductor technology by developing 3-nm chips using older lithography methods, circumventing US sanctions that restrict access to cutting-edge EUV tools. This breakthrough not only highlights China's resilience in chipmaking but also poses a challenge to global semiconductor supply chains and the dominance of Western technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions?utm_source=rss_feed",
+      "published_date": "2026-09-18T14:30:05+00:00",
+      "summary": "Alibaba's Damo Academy has made a groundbreaking advancement by open-sourcing Damo Radar, an AI model that can detect cancer and nearly 150 abdominal conditions from CT scans, significantly enhancing diagnostic capabilities and potentially transforming medical imaging practices worldwide. This innovation not only showcases Alibaba's commitment to medical AI but also democratizes access to advanced diagnostic tools, paving the way for improved patient outcomes.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "published_date": "2026-09-18T14:00:00+00:00",
+      "summary": "Google's AI & Economy team has bolstered its expertise with the addition of new specialists, signaling a strategic move to enhance its research on the intersection of artificial intelligence and economic impact, which could redefine how technology shapes global markets and workforce dynamics. This development underscores Google's commitment to leading the discourse on AI's role in driving economic innovation and addressing societal challenges.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "published_date": "2026-09-18T13:00:00+00:00",
+      "summary": "Google AI is revolutionizing the fashion industry by collaborating with designers Jane Wade and Sergio Hudson to harness artificial intelligence in creating innovative, sustainable fashion solutions. This groundbreaking partnership not only enhances creativity and personalization in design but also sets a new standard for eco-conscious practices in the fashion world.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Cosmic amnesia",
+      "link": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
+      "published_date": "2026-09-18T10:00:00+00:00",
+      "summary": "• Black holes serve as profound metaphors for the nature of memory and the limits of knowledge in the universe.  \n• The phenomenon of cosmic amnesia challenges our understanding of time, erasing the past while shaping the future.  \n• Just as black holes forget their histories, human experiences often fade, prompting reflections on identity and existence.  \n• The silence of a black hole invites contemplation on the mysteries of what lies beyond our comprehension.  \n• Ultimately, the study of black holes reveals the paradox of seeking meaning in a universe that may inherently forget.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Xi-Trump summit, China AI at Brics, Asian Games",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368001/xi-trump-summit-china-ai-brics-asian-games?utm_source=rss_feed",
+      "published_date": "2026-09-18T09:00:10+00:00",
+      "summary": "The upcoming Xi-Trump summit is poised to address critical issues surrounding artificial intelligence and trade relations, potentially reshaping the global economic landscape and setting the stage for a new era of cooperation or conflict between the world's two largest economies. This pivotal meeting underscores the urgent need for dialogue on AI governance and trade stability amidst rising geopolitical tensions.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
     {
       "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
       "link": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
@@ -8,78 +56,6 @@
       "summary": "Apple's latest product launch features the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5, marking a significant evolution in mobile technology and wearable innovation that promises to enhance user experience and connectivity on a global scale. This release not only reinforces Apple's dominance in the tech market but also sets new standards for performance and functionality in personal devices.",
       "source": "Apple",
       "category": "AI"
-    },
-    {
-      "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367955/china-see-major-shift-huawei-ai-model-training-2027-rotating-chair?utm_source=rss_feed",
-      "published_date": "2026-09-18T04:59:31+00:00",
-      "summary": "Huawei is poised to revolutionize AI model training in China by 2027, as its Ascend processors are set to replace Nvidia's dominance, signaling a significant shift in the country's AI infrastructure and reducing reliance on foreign technology. This transition not only underscores Huawei's growing influence in the AI sector but also highlights China's commitment to advancing its technological independence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China has gained pace in the space race by recovering rockets – but can it relaunch one?",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3367874/china-has-gained-pace-space-race-recovering-rockets-can-it-relaunch-one?utm_source=rss_feed",
-      "published_date": "2026-09-17T22:00:12+00:00",
-      "summary": "China is rapidly advancing in the space race by focusing on the recovery and potential relaunch of reusable rockets, a critical area where it seeks to challenge the US's current dominance exemplified by SpaceX's extensive experience. This strategic pivot not only signifies China's ambition to enhance its space capabilities but also highlights the increasing competition in global space exploration efforts.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "published_date": "2026-09-17T20:00:00+00:00",
-      "summary": "Google AI has unveiled the UN System Data Commons, a groundbreaking platform designed to simplify global data exploration, which could significantly enhance decision-making and policy development on critical international issues by providing unprecedented access to comprehensive datasets. This innovation not only democratizes data but also empowers stakeholders worldwide to leverage insights for sustainable development and humanitarian efforts.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "What we’ve learned from Microsoft’s own AI transformation",
-      "link": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
-      "published_date": "2026-09-17T14:00:05+00:00",
-      "summary": "Microsoft's insights reveal that AI is rapidly transforming industries, prompting a shift from mere capabilities to leveraging AI for tangible business value, positioning organizations as \"Frontier Firms\" that will thrive in this new landscape. This breakthrough underscores the urgency for companies to adapt and innovate in order to harness AI's full potential and enhance human achievement.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
-      "published_date": "2026-09-17T13:00:55+00:00",
-      "summary": "NVIDIA's GeForce NOW now features 'Aniimo,' a cloud-based creature-catching adventure that allows gamers to explore the vibrant continent of Idyll, marking a significant step in enhancing gaming accessibility and experience across multiple devices. This launch, alongside a major update for 007 First Light, underscores NVIDIA's commitment to delivering cutting-edge gaming technology and content.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "How Huawei plans to bypass US chip curbs with its new UnifiedBus technology",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology?utm_source=rss_feed",
-      "published_date": "2026-09-17T12:00:07+00:00",
-      "summary": "Huawei's introduction of UnifiedBus technology, which enables up to 1 million processors to function as a single computer, represents a groundbreaking shift in data center architecture that could significantly enhance computing efficiency and performance while circumventing US chip restrictions. This innovation not only redefines scalability in computing but also positions Huawei as a formidable player in the global tech landscape amidst ongoing geopolitical tensions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "published_date": "2026-09-17T12:00:00+00:00",
-      "summary": "Cooley's innovative GO Public platform, powered by ChatGPT, revolutionizes the IPO process by enhancing legal intelligence, enabling lawyers to identify potential issues earlier and concentrate their expertise on critical decision-making, ultimately streamlining and improving the efficiency of public offerings. This breakthrough not only transforms legal workflows but also sets a new standard for how technology can elevate complex financial transactions.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Animal eye",
-      "link": "https://aeon.co/videos/the-alien-worlds-beside-our-own-a-journey-into-animal-eyes",
-      "published_date": "2026-09-17T10:01:00+00:00",
-      "summary": "• Animal eyes reveal a spectrum of perception that transcends human understanding, inviting us to ponder the limits of our own vision.  \n• The intricate designs of various animal eyes reflect evolutionary adaptations, showcasing nature's artistry and ingenuity.  \n• Each species' unique ocular features serve not only functional purposes but also evoke a sense of wonder about the interconnectedness of life.  \n• The documentary prompts us to question our place in the animal kingdom, challenging the notion of superiority in perception and experience.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Who will taste the cherries?",
-      "link": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
-      "published_date": "2026-09-17T10:00:00+00:00",
-      "summary": "• The computist envisions a utopia where human subjectivity is eliminated, leading to a seamless understanding of knowledge.  \n• This dream reflects a deep-seated desire for objectivity, yet it risks stripping away the richness of human experience.  \n• In the pursuit of a frictionless world, the essence of what it means to be human may be lost, as emotions and biases shape our understanding.  \n• The quest for pure knowledge raises profound questions about the value of subjectivity in shaping our identities and relationships.  \n• Ultimately, the tension between objectivity and subjectivity challenges us to reconsider the true nature of knowledge and existence.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
