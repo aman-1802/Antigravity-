@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T03:54:22.346952+00:00",
+  "last_updated": "2026-09-19T08:14:24.854239+00:00",
   "articles": [
     {
       "title": "China makes progress in 3-nm chips without advanced lithography tools",
@@ -34,6 +34,14 @@
       "category": "AI"
     },
     {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published_date": "2026-09-18T12:00:00+00:00",
+      "summary": "OpenAI's Australian Youth Safety Blueprint presents a groundbreaking six-pillar framework designed to enhance AI safety for young users, marking a significant step towards safeguarding their digital experiences and empowering them in an increasingly AI-driven world. This initiative not only addresses pressing safety concerns but also sets a precedent for responsible AI development tailored to the needs of vulnerable populations.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Cosmic amnesia",
       "link": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
       "published_date": "2026-09-18T10:00:00+00:00",
@@ -48,14 +56,6 @@
       "summary": "The upcoming Xi-Trump summit is poised to address critical issues surrounding artificial intelligence and trade relations, potentially reshaping the global economic landscape and setting the stage for a new era of cooperation or conflict between the world's two largest economies. This pivotal meeting underscores the urgent need for dialogue on AI governance and trade stability amidst rising geopolitical tensions.",
       "source": "Diplomacy & Defence",
       "category": "SCMP"
-    },
-    {
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
-      "link": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
-      "published_date": "2026-09-18T05:02:14+00:00",
-      "summary": "Apple's latest product launch features the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5, marking a significant evolution in mobile technology and wearable innovation that promises to enhance user experience and connectivity on a global scale. This release not only reinforces Apple's dominance in the tech market but also sets new standards for performance and functionality in personal devices.",
-      "source": "Apple",
-      "category": "AI"
     }
   ]
 }
