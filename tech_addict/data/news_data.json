@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-21T04:09:08.966632+00:00",
+  "last_updated": "2026-09-21T09:14:00.291323+00:00",
   "articles": [
+    {
+      "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
+      "published_date": "2026-09-21T09:01:49+00:00",
+      "summary": "The recent agreement between the US and China to engage in dialogue on artificial intelligence marks a significant step towards collaborative governance in a rapidly evolving technological landscape, potentially shaping global standards and trade practices. This breakthrough is crucial as it sets the stage for enhanced cooperation between the world's two largest economies, fostering innovation while addressing the challenges posed by AI advancements.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Neither the US nor China can win the AI race alone, BofA analyst says",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368219/neither-us-nor-china-can-win-ai-race-alone-bofa-analyst-says?utm_source=rss_feed",
+      "published_date": "2026-09-21T07:00:13+00:00",
+      "summary": "A Bank of America analyst asserts that neither the US nor China can achieve AI supremacy independently, highlighting the critical role of global supply chains and international collaboration, particularly as China relies on foreign sources for advanced technology components. This insight underscores the interconnected nature of the tech landscape and the necessity for cooperative strategies in the race for AI leadership.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "As the US weighs restrictions on cloud computing, how will China’s AI sector adapt?",
       "link": "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed",
