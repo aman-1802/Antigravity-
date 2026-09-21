@@ -1,4 +1,45 @@
 {
-  "last_updated": "2026-09-20T08:46:33.049485+00:00",
-  "articles": []
+  "last_updated": "2026-09-21T04:09:08.966632+00:00",
+  "articles": [
+    {
+      "title": "As the US weighs restrictions on cloud computing, how will China’s AI sector adapt?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed",
+      "published_date": "2026-09-21T02:00:26+00:00",
+      "summary": "As the U.S. considers imposing restrictions on cloud computing, China's AI sector demonstrates remarkable resilience by leveraging proxy entities to circumvent chip access limitations, enabling them to maintain competitive momentum in developing advanced AI models. This strategic adaptation not only highlights the ingenuity of Chinese tech firms but also underscores the potential for a significant shift in the global AI landscape amid geopolitical tensions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
+      "published_date": "2026-09-21T00:30:10+00:00",
+      "summary": "Chinese AI chipmaker Hygon is poised to revolutionize the robotics sector by launching a new chip designed for physical-world applications, marking a significant shift from its data center focus and highlighting the growing importance of physical artificial intelligence in technology. This breakthrough not only expands Hygon's product portfolio but also positions the company at the forefront of a rapidly evolving market that integrates AI with real-world interactions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "US announces AI dialogue with China, launches Board of Trade",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368171/us-china-seek-xi-trump-summit-deliverables-new-york-talks?utm_source=rss_feed",
+      "published_date": "2026-09-20T14:34:25+00:00",
+      "summary": "The United States and China have initiated a groundbreaking dialogue on artificial intelligence and launched a bilateral trade body, marking a significant step towards enhancing cooperation and stability between the two global superpowers just ahead of President Xi Jinping's visit to Washington. This development not only underscores the importance of AI in international relations but also aims to foster economic collaboration amid rising tensions.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Does Trump’s new AI Force signal tech race escalation ahead of Xi Jinping summit?",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368158/does-trumps-new-ai-force-signal-tech-race-escalation-ahead-xi-jinping-summit?utm_source=rss_feed",
+      "published_date": "2026-09-20T12:00:11+00:00",
+      "summary": "President Trump's announcement of a new \"AI Force\" ahead of Xi Jinping's summit signals a significant escalation in the US-China tech rivalry, potentially reshaping global AI safety discussions while raising concerns about increased technological containment measures against China. This development underscores the urgency of establishing frameworks for responsible AI governance amid intensifying geopolitical tensions.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’",
+      "link": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+      "published_date": "2026-09-20T10:30:05+00:00",
+      "summary": "Changxin Memory Technologies (CXMT) has unveiled its fifth-generation chip manufacturing platform, G5, which significantly boosts storage density by increasing die production per wafer by at least 50%, positioning it as a formidable competitor to global leaders like Samsung and SK Hynix and potentially reshaping the memory chip market landscape. This breakthrough not only enhances production efficiency but also signifies China's growing prowess in advanced semiconductor technology, challenging the dominance of established players.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    }
+  ]
 }
