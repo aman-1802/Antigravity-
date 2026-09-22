@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-09-22T04:05:18.159107+00:00",
+  "last_updated": "2026-09-22T08:45:17.082383+00:00",
   "articles": [
+    {
+      "title": "China seeks German help to stave off EU trade sanctions days before Xi-Trump summit",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368365/china-seeks-german-help-stave-eu-trade-sanctions-days-xi-trump-summit?utm_source=rss_feed",
+      "published_date": "2026-09-22T08:02:30+00:00",
+      "summary": "China is actively seeking Germany's assistance to prevent the European Union from imposing trade sanctions, emphasizing the importance of maintaining a cooperative relationship just ahead of President Xi Jinping's crucial summit with President Trump. This diplomatic maneuver highlights the escalating tensions between China and the West, underscoring the potential for significant economic repercussions if a trade war erupts.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "China eyes chip-industry foothold with a tiny Han Xin code to challenge US standard",
+      "link": "https://www.scmp.com/tech/article/3368357/china-eyes-chip-industry-foothold-tiny-han-xin-code-challenge-us-standard?utm_source=rss_feed",
+      "published_date": "2026-09-22T08:00:09+00:00",
+      "summary": "China's introduction of the Micro Han Xin code for semiconductors represents a significant push to establish its own technological standards, potentially challenging the dominance of U.S. benchmarks and reshaping global industrial supply chains. This move underscores Beijing's strategic efforts to enhance its self-sufficiency in critical tech sectors amid ongoing geopolitical tensions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "published_date": "2026-09-22T05:59:58+00:00",
+      "summary": "Apple has launched the Apple Music Hall, a cutting-edge live music venue located in London's iconic Battersea Power Station, marking a significant investment in the intersection of technology and live entertainment that could redefine how audiences experience music. This venue not only enhances Apple's brand presence in the music industry but also sets a new standard for immersive live performances.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Alibaba teases 10-trillion-parameter model, debuts ‘China’s most powerful’ AI chip",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip?utm_source=rss_feed",
+      "published_date": "2026-09-22T05:59:40+00:00",
+      "summary": "Alibaba has unveiled China's most powerful AI chip and announced plans for a groundbreaking AI model with up to 10 trillion parameters, signaling its ambitious pursuit of artificial superintelligence and reinforcing its commitment to comprehensive AI development. This breakthrough positions Alibaba at the forefront of the global AI race, potentially transforming industries and redefining technological capabilities.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Rare earths friction threatens to stall trade truce extension ahead of Xi-Trump summit",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3368318/rare-earths-friction-threatens-stall-trade-truce-extension-ahead-xi-trump-summit?utm_source=rss_feed",
@@ -14,14 +46,6 @@
       "link": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed",
       "published_date": "2026-09-21T22:48:38+00:00",
       "summary": "US Congressman Ro Khanna has called for the establishment of international regulatory standards for artificial intelligence, likening them to nuclear safeguards, emphasizing the urgent need for cooperation between the US and China as they prepare for a pivotal summit where AI governance will be a key topic. This breakthrough proposal highlights the escalating importance of AI regulation in global security and diplomatic relations.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Top US Senate Democrat Jeanne Shaheen warns Trump not to waver on Taiwan ahead of Xi meet",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3368309/top-us-senate-democrat-warns-trump-not-waver-taiwan-xi-heads-washington?utm_source=rss_feed",
-      "published_date": "2026-09-21T21:42:53+00:00",
-      "summary": "Senator Jeanne Shaheen has issued a critical warning to Donald Trump ahead of his meeting with Xi Jinping, urging him to maintain unwavering support for Taiwan, a stance that underscores the geopolitical tensions between the US and China and the importance of Taiwan's security in international relations. This moment highlights the delicate balance of power in the region and the potential ramifications of any perceived retreat by the US.",
       "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
@@ -120,22 +144,6 @@
       "summary": "The recent agreement between the US and China to engage in dialogue on artificial intelligence marks a significant step towards collaborative governance in a rapidly evolving technological landscape, potentially shaping global standards and trade practices. This breakthrough is crucial as it sets the stage for enhanced cooperation between the world's two largest economies, fostering innovation while addressing the challenges posed by AI advancements.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Neither the US nor China can win the AI race alone, BofA analyst says",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368219/neither-us-nor-china-can-win-ai-race-alone-bofa-analyst-says?utm_source=rss_feed",
-      "published_date": "2026-09-21T07:00:13+00:00",
-      "summary": "A Bank of America analyst asserts that neither the US nor China can achieve AI supremacy independently, highlighting the critical role of global supply chains and international collaboration, particularly as China relies on foreign sources for advanced technology components. This insight underscores the interconnected nature of the tech landscape and the necessity for cooperative strategies in the race for AI leadership.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "published_date": "2026-09-21T07:00:00+00:00",
-      "summary": "OpenAI Academy is launching new learning paths tailored for various roles, empowering employees, developers, leaders, educators, and students to acquire and showcase essential AI skills, thereby driving innovation and competency in the rapidly evolving tech landscape. This initiative not only enhances individual capabilities but also positions organizations to leverage AI more effectively in their operations.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
