@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-09-21T09:14:00.291323+00:00",
+  "last_updated": "2026-09-22T04:05:18.159107+00:00",
   "articles": [
+    {
+      "title": "Rare earths friction threatens to stall trade truce extension ahead of Xi-Trump summit",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368318/rare-earths-friction-threatens-stall-trade-truce-extension-ahead-xi-trump-summit?utm_source=rss_feed",
+      "published_date": "2026-09-22T02:59:29+00:00",
+      "summary": "The ongoing friction over rare earth minerals threatens to derail the extension of the crucial 2025 Busan trade agreement between the US and China, just as President Xi Jinping arrives in Washington, underscoring the delicate balance of power in global trade and the strategic importance of these critical resources. This standoff not only highlights the complexities of US-China relations but also raises concerns about the future stability of international supply chains reliant on these essential materials.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "US, China need nuclear-style AI safeguards, congressman says before Xi-Trump summit",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed",
+      "published_date": "2026-09-21T22:48:38+00:00",
+      "summary": "US Congressman Ro Khanna has called for the establishment of international regulatory standards for artificial intelligence, likening them to nuclear safeguards, emphasizing the urgent need for cooperation between the US and China as they prepare for a pivotal summit where AI governance will be a key topic. This breakthrough proposal highlights the escalating importance of AI regulation in global security and diplomatic relations.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Top US Senate Democrat Jeanne Shaheen warns Trump not to waver on Taiwan ahead of Xi meet",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3368309/top-us-senate-democrat-warns-trump-not-waver-taiwan-xi-heads-washington?utm_source=rss_feed",
+      "published_date": "2026-09-21T21:42:53+00:00",
+      "summary": "Senator Jeanne Shaheen has issued a critical warning to Donald Trump ahead of his meeting with Xi Jinping, urging him to maintain unwavering support for Taiwan, a stance that underscores the geopolitical tensions between the US and China and the importance of Taiwan's security in international relations. This moment highlights the delicate balance of power in the region and the potential ramifications of any perceived retreat by the US.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "published_date": "2026-09-21T18:00:07+00:00",
+      "summary": "NVIDIA's launch of DSX revolutionizes the AI factory landscape by providing a comprehensive qualification system for power and cooling products, enabling builders to optimize their infrastructure for maximum computational efficiency and output. This breakthrough is crucial as it addresses the growing challenges of energy and resource constraints in the rapidly expanding field of AI.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "published_date": "2026-09-21T16:00:46+00:00",
+      "summary": "The rapid transition of Physical AI from research to large-scale deployment, with projections of 49 million autonomous vehicles and 60 million industrial robots by 2035, underscores the critical need for comprehensive safety measures to protect human interactions in shared environments. This breakthrough not only revolutionizes industries but also raises urgent questions about the ethical and practical implications of integrating advanced AI into everyday life.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "published_date": "2026-09-21T16:00:10+00:00",
+      "summary": "Egypt's AI ecosystem has achieved a significant milestone by transitioning from enablement to execution, showcasing a diverse array of applications across industries at a recent event attended by key figures, including NVIDIA's vice president of EMEA. This breakthrough not only underscores Egypt's potential as a burgeoning tech hub but also signals a transformative shift in how AI can drive economic growth and innovation in the region.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "published_date": "2026-09-21T14:51:34+00:00",
+      "summary": "NVIDIA emphasizes that as AI capabilities expand, addressing AI security as a fundamental engineering challenge is crucial, requiring defined standards and collaborative efforts to enhance protective measures across the entire agent stack. This breakthrough approach not only aims to fortify AI systems against emerging threats but also ensures that security evolves in tandem with technological advancements, safeguarding the integrity of future innovations.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
+      "link": "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
+      "published_date": "2026-09-21T13:00:08+00:00",
+      "summary": "The establishment of a US-China AI dialogue and proposed threat-notification system represents a crucial effort to mitigate escalating safety concerns and prevent a potential global crisis amid ongoing tensions in the tech sector. This initiative highlights the urgent need for cooperation in an era where AI advancements could exacerbate geopolitical rivalries.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published_date": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI's collaboration with an independent Advisory Group on Mathematics and Artificial Intelligence marks a significant step towards ensuring transparent and responsible communication of AI advancements, potentially reshaping how mathematical principles are integrated into AI development and fostering greater public trust in the technology. This initiative underscores the critical intersection of ethics and innovation in the rapidly evolving AI landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published_date": "2026-09-21T12:00:00+00:00",
+      "summary": "Higgsfield AI's launch of GPT-6 Astra revolutionizes video ad creation by enabling small businesses to produce high-quality content in just one day, significantly accelerating the creative process and democratizing access to advanced marketing tools. This breakthrough not only enhances efficiency but also empowers smaller enterprises to compete in the digital advertising landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Sound guardians",
+      "link": "https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost",
+      "published_date": "2026-09-21T10:01:00+00:00",
+      "summary": "• The construction of Indonesia's new capital threatens the auditory landscape of its rich rainforests, highlighting the fragility of natural soundscapes.  \n• Sound, often overlooked, serves as a vital connection to biodiversity and cultural heritage, embodying the essence of ecological identity.  \n• The urgency to record and preserve these sounds reflects a deeper philosophical inquiry into humanity's relationship with nature and our role as stewards of the environment.  \n• As urbanization encroaches on natural habitats, the loss of these sounds symbolizes a broader existential crisis regarding the disconnection from the natural world.  \n• Preserving rainforest sounds is not merely an act of conservation; it is a profound acknowledgment of the intrinsic value of nature's voice in the tapestry of life.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "5 Companies Using NVIDIA AI for Clean Energy",
+      "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+      "published_date": "2026-09-21T10:00:35+00:00",
+      "summary": "NVIDIA is showcasing five innovative companies at New York Climate Week that are leveraging AI to revolutionize clean energy adoption, addressing critical bottlenecks in infrastructure and development timelines. This breakthrough not only accelerates the transition to sustainable energy but also sets a precedent for integrating advanced technology into environmental solutions.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "published_date": "2026-09-21T10:00:00+00:00",
+      "summary": "OpenAI is spearheading a transformative initiative to establish global standards for artificial intelligence, emphasizing the need for coordinated evaluation and governance to enhance safety, which could redefine the landscape of AI development and deployment worldwide. This breakthrough is crucial as it aims to mitigate risks associated with AI technologies while fostering innovation through shared best practices.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "He was probably right",
+      "link": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
+      "published_date": "2026-09-21T10:00:00+00:00",
+      "summary": "• Cicero's philosophy of probabilia encourages a balance between confidence in our beliefs and an acknowledgment of uncertainty.  \n• The essence of wisdom lies not in absolute certainty but in the ability to navigate the complexities of life with informed skepticism.  \n• Embracing probabilistic thinking fosters intellectual humility and a deeper understanding of the human experience.  \n• Cicero’s insights remind us that the pursuit of truth is a journey marked by questions rather than definitive answers.  \n• In a world rife with misinformation, adopting a probabilistic mindset can empower us to engage more thoughtfully with differing perspectives.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
       "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
@@ -18,44 +130,12 @@
       "category": "SCMP"
     },
     {
-      "title": "As the US weighs restrictions on cloud computing, how will China’s AI sector adapt?",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed",
-      "published_date": "2026-09-21T02:00:26+00:00",
-      "summary": "As the U.S. considers imposing restrictions on cloud computing, China's AI sector demonstrates remarkable resilience by leveraging proxy entities to circumvent chip access limitations, enabling them to maintain competitive momentum in developing advanced AI models. This strategic adaptation not only highlights the ingenuity of Chinese tech firms but also underscores the potential for a significant shift in the global AI landscape amid geopolitical tensions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
-      "published_date": "2026-09-21T00:30:10+00:00",
-      "summary": "Chinese AI chipmaker Hygon is poised to revolutionize the robotics sector by launching a new chip designed for physical-world applications, marking a significant shift from its data center focus and highlighting the growing importance of physical artificial intelligence in technology. This breakthrough not only expands Hygon's product portfolio but also positions the company at the forefront of a rapidly evolving market that integrates AI with real-world interactions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US announces AI dialogue with China, launches Board of Trade",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368171/us-china-seek-xi-trump-summit-deliverables-new-york-talks?utm_source=rss_feed",
-      "published_date": "2026-09-20T14:34:25+00:00",
-      "summary": "The United States and China have initiated a groundbreaking dialogue on artificial intelligence and launched a bilateral trade body, marking a significant step towards enhancing cooperation and stability between the two global superpowers just ahead of President Xi Jinping's visit to Washington. This development not only underscores the importance of AI in international relations but also aims to foster economic collaboration amid rising tensions.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Does Trump’s new AI Force signal tech race escalation ahead of Xi Jinping summit?",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368158/does-trumps-new-ai-force-signal-tech-race-escalation-ahead-xi-jinping-summit?utm_source=rss_feed",
-      "published_date": "2026-09-20T12:00:11+00:00",
-      "summary": "President Trump's announcement of a new \"AI Force\" ahead of Xi Jinping's summit signals a significant escalation in the US-China tech rivalry, potentially reshaping global AI safety discussions while raising concerns about increased technological containment measures against China. This development underscores the urgency of establishing frameworks for responsible AI governance amid intensifying geopolitical tensions.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’",
-      "link": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
-      "published_date": "2026-09-20T10:30:05+00:00",
-      "summary": "Changxin Memory Technologies (CXMT) has unveiled its fifth-generation chip manufacturing platform, G5, which significantly boosts storage density by increasing die production per wafer by at least 50%, positioning it as a formidable competitor to global leaders like Samsung and SK Hynix and potentially reshaping the memory chip market landscape. This breakthrough not only enhances production efficiency but also signifies China's growing prowess in advanced semiconductor technology, challenging the dominance of established players.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published_date": "2026-09-21T07:00:00+00:00",
+      "summary": "OpenAI Academy is launching new learning paths tailored for various roles, empowering employees, developers, leaders, educators, and students to acquire and showcase essential AI skills, thereby driving innovation and competency in the rapidly evolving tech landscape. This initiative not only enhances individual capabilities but also positions organizations to leverage AI more effectively in their operations.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
