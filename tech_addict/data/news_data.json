@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T04:01:58.090233+00:00",
+  "last_updated": "2026-09-23T08:46:40.756088+00:00",
   "articles": [
     {
       "title": "China’s Premier Li Qiang calls for harnessing AI to propel manufacturing advances",
@@ -58,6 +58,14 @@
       "category": "AI"
     },
     {
+      "title": "China’s Huawei trims mobile chip gap with Apple as Tau Scaling Law pays off: Bernstein",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed",
+      "published_date": "2026-09-22T12:00:06+00:00",
+      "summary": "Huawei's new Kirin 9050 Pro processor has significantly closed the performance gap with Apple's chips, now trailing by just three years, while outperforming Apple's latest A17 Pro in key benchmarks, marking a pivotal moment in the competitive landscape of mobile technology. This breakthrough not only showcases Huawei's advancements in chip design but also signals a potential shift in market dynamics as it challenges Apple's dominance.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
       "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "published_date": "2026-09-22T12:00:00+00:00",
@@ -72,30 +80,6 @@
       "summary": "• The commercialization of Amanita muscaria highlights the tension between nature's allure and human exploitation.  \n• Legal loopholes surrounding psychoactive substances reveal society's struggle to balance safety and freedom.  \n• The enticing packaging of toxic mushrooms reflects a broader cultural fascination with risk and the unknown.  \n• Engaging with nature's dangers prompts a philosophical inquiry into the ethics of consumption and responsibility.  \n• The allure of mushrooms serves as a metaphor for humanity's complex relationship with both nature and self-discovery.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China eyes chip-industry foothold with a tiny Han Xin code to challenge US standard",
-      "link": "https://www.scmp.com/tech/article/3368357/china-eyes-chip-industry-foothold-tiny-han-xin-code-challenge-us-standard?utm_source=rss_feed",
-      "published_date": "2026-09-22T08:00:09+00:00",
-      "summary": "China's introduction of the Micro Han Xin code for semiconductors represents a significant push to establish its own technological standards, potentially challenging the dominance of U.S. benchmarks and reshaping global industrial supply chains. This move underscores Beijing's strategic efforts to enhance its self-sufficiency in critical tech sectors amid ongoing geopolitical tensions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "published_date": "2026-09-22T05:59:58+00:00",
-      "summary": "Apple has launched the Apple Music Hall, a cutting-edge live music venue located in London's iconic Battersea Power Station, marking a significant investment in the intersection of technology and live entertainment that could redefine how audiences experience music. This venue not only enhances Apple's brand presence in the music industry but also sets a new standard for immersive live performances.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Alibaba teases 10-trillion-parameter model, debuts ‘China’s most powerful’ AI chip",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip?utm_source=rss_feed",
-      "published_date": "2026-09-22T05:59:40+00:00",
-      "summary": "Alibaba has unveiled China's most powerful AI chip and announced plans for a groundbreaking AI model with up to 10 trillion parameters, signaling its ambitious pursuit of artificial superintelligence and reinforcing its commitment to comprehensive AI development. This breakthrough positions Alibaba at the forefront of the global AI race, potentially transforming industries and redefining technological capabilities.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
