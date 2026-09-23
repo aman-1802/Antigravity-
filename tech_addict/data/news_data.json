@@ -1,13 +1,77 @@
 {
-  "last_updated": "2026-09-22T08:45:17.082383+00:00",
+  "last_updated": "2026-09-23T04:01:58.090233+00:00",
   "articles": [
     {
-      "title": "China seeks German help to stave off EU trade sanctions days before Xi-Trump summit",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368365/china-seeks-german-help-stave-eu-trade-sanctions-days-xi-trump-summit?utm_source=rss_feed",
-      "published_date": "2026-09-22T08:02:30+00:00",
-      "summary": "China is actively seeking Germany's assistance to prevent the European Union from imposing trade sanctions, emphasizing the importance of maintaining a cooperative relationship just ahead of President Xi Jinping's crucial summit with President Trump. This diplomatic maneuver highlights the escalating tensions between China and the West, underscoring the potential for significant economic repercussions if a trade war erupts.",
-      "source": "Diplomacy & Defence",
+      "title": "China’s Premier Li Qiang calls for harnessing AI to propel manufacturing advances",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368455/chinas-premier-li-qiang-calls-harnessing-ai-propel-manufacturing-advances?utm_source=rss_feed",
+      "published_date": "2026-09-23T03:30:26+00:00",
+      "summary": "Chinese Premier Li Qiang's call for the integration of artificial intelligence into manufacturing signifies a pivotal shift in China's strategy to enhance its industrial capabilities, positioning the nation to lead in advanced manufacturing amidst fierce global technological competition. This initiative not only aims to leverage China's manufacturing strengths but also underscores the critical role of AI in driving future economic growth and innovation.",
+      "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+      "published_date": "2026-09-23T02:30:22+00:00",
+      "summary": "NVIDIA's AI Day Singapore highlights groundbreaking advancements in artificial intelligence and high-performance computing, showcasing innovative tools and training that promise to accelerate AI development across Southeast Asia, a region poised for significant technological growth. This event underscores NVIDIA's commitment to empowering local industries and fostering a collaborative ecosystem for AI innovation.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "published_date": "2026-09-22T21:00:00+00:00",
+      "summary": "GPT-6 revolutionizes prompt caching by significantly enhancing cache hit rates and introducing advanced diagnostics, explicit breakpoints, and controls, which collectively minimize latency and operational costs, paving the way for more efficient and cost-effective AI interactions. This breakthrough not only optimizes performance but also sets a new standard for AI responsiveness and resource management.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "published_date": "2026-09-22T18:00:00+00:00",
+      "summary": "OpenAI has unveiled GPT-6 Sol and Luna, two groundbreaking models that redefine the landscape of artificial intelligence by offering tailored balances of capability and cost, making frontier intelligence accessible for everyday tasks. This innovation not only enhances productivity but also democratizes advanced AI technology for a broader audience.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
+      "published_date": "2026-09-22T14:30:09+00:00",
+      "summary": "Hygon Information Technology has unveiled its Hygon 1000 series CPUs, marking a significant shift from cloud computing to embedded processors for robotics and edge AI, which will enhance local computing capabilities in industrial automation and drive innovation in physical artificial intelligence. This breakthrough not only positions Hygon at the forefront of a rapidly expanding market but also underscores the growing importance of localized processing in the evolution of smart technologies.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The new Mac mini and Mac Studio are available today",
+      "link": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "published_date": "2026-09-22T12:59:21+00:00",
+      "summary": "Apple has launched the new Mac mini featuring M6 and M5 Pro chips, alongside the Mac Studio equipped with M5 Max and M5 Ultra, marking a significant leap in processing power and performance for creative professionals and tech enthusiasts alike. This release not only enhances productivity but also solidifies Apple's commitment to pushing the boundaries of desktop computing.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "published_date": "2026-09-22T12:00:41+00:00",
+      "summary": "NVIDIA Isaac ROS 5.0 introduces groundbreaking GPU-accelerated tools for open-source robotics, enabling developers to create advanced agents capable of perception, reasoning, and action in dynamic environments, which could revolutionize the field of robotics and AI integration. This advancement not only enhances the capabilities of robotic systems but also democratizes access to sophisticated development tools, fostering innovation across industries.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "published_date": "2026-09-22T12:00:00+00:00",
+      "summary": "GPT-6 Astra has revolutionized labor-market research by enabling Parallel's agents to complete tasks in half the time and at half the cost compared to previous models, marking a significant advancement in efficiency and resource management in data analysis. This breakthrough not only enhances productivity but also sets a new standard for cost-effective research methodologies in the tech industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Toadstools and toxins",
+      "link": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
+      "published_date": "2026-09-22T10:00:00+00:00",
+      "summary": "• The commercialization of Amanita muscaria highlights the tension between nature's allure and human exploitation.  \n• Legal loopholes surrounding psychoactive substances reveal society's struggle to balance safety and freedom.  \n• The enticing packaging of toxic mushrooms reflects a broader cultural fascination with risk and the unknown.  \n• Engaging with nature's dangers prompts a philosophical inquiry into the ethics of consumption and responsibility.  \n• The allure of mushrooms serves as a metaphor for humanity's complex relationship with both nature and self-discovery.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
     },
     {
       "title": "China eyes chip-industry foothold with a tiny Han Xin code to challenge US standard",
@@ -30,118 +94,6 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip?utm_source=rss_feed",
       "published_date": "2026-09-22T05:59:40+00:00",
       "summary": "Alibaba has unveiled China's most powerful AI chip and announced plans for a groundbreaking AI model with up to 10 trillion parameters, signaling its ambitious pursuit of artificial superintelligence and reinforcing its commitment to comprehensive AI development. This breakthrough positions Alibaba at the forefront of the global AI race, potentially transforming industries and redefining technological capabilities.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Rare earths friction threatens to stall trade truce extension ahead of Xi-Trump summit",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368318/rare-earths-friction-threatens-stall-trade-truce-extension-ahead-xi-trump-summit?utm_source=rss_feed",
-      "published_date": "2026-09-22T02:59:29+00:00",
-      "summary": "The ongoing friction over rare earth minerals threatens to derail the extension of the crucial 2025 Busan trade agreement between the US and China, just as President Xi Jinping arrives in Washington, underscoring the delicate balance of power in global trade and the strategic importance of these critical resources. This standoff not only highlights the complexities of US-China relations but also raises concerns about the future stability of international supply chains reliant on these essential materials.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "US, China need nuclear-style AI safeguards, congressman says before Xi-Trump summit",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed",
-      "published_date": "2026-09-21T22:48:38+00:00",
-      "summary": "US Congressman Ro Khanna has called for the establishment of international regulatory standards for artificial intelligence, likening them to nuclear safeguards, emphasizing the urgent need for cooperation between the US and China as they prepare for a pivotal summit where AI governance will be a key topic. This breakthrough proposal highlights the escalating importance of AI regulation in global security and diplomatic relations.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "published_date": "2026-09-21T18:00:07+00:00",
-      "summary": "NVIDIA's launch of DSX revolutionizes the AI factory landscape by providing a comprehensive qualification system for power and cooling products, enabling builders to optimize their infrastructure for maximum computational efficiency and output. This breakthrough is crucial as it addresses the growing challenges of energy and resource constraints in the rapidly expanding field of AI.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "published_date": "2026-09-21T16:00:46+00:00",
-      "summary": "The rapid transition of Physical AI from research to large-scale deployment, with projections of 49 million autonomous vehicles and 60 million industrial robots by 2035, underscores the critical need for comprehensive safety measures to protect human interactions in shared environments. This breakthrough not only revolutionizes industries but also raises urgent questions about the ethical and practical implications of integrating advanced AI into everyday life.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "published_date": "2026-09-21T16:00:10+00:00",
-      "summary": "Egypt's AI ecosystem has achieved a significant milestone by transitioning from enablement to execution, showcasing a diverse array of applications across industries at a recent event attended by key figures, including NVIDIA's vice president of EMEA. This breakthrough not only underscores Egypt's potential as a burgeoning tech hub but also signals a transformative shift in how AI can drive economic growth and innovation in the region.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-      "published_date": "2026-09-21T14:51:34+00:00",
-      "summary": "NVIDIA emphasizes that as AI capabilities expand, addressing AI security as a fundamental engineering challenge is crucial, requiring defined standards and collaborative efforts to enhance protective measures across the entire agent stack. This breakthrough approach not only aims to fortify AI systems against emerging threats but also ensures that security evolves in tandem with technological advancements, safeguarding the integrity of future innovations.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
-      "link": "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
-      "published_date": "2026-09-21T13:00:08+00:00",
-      "summary": "The establishment of a US-China AI dialogue and proposed threat-notification system represents a crucial effort to mitigate escalating safety concerns and prevent a potential global crisis amid ongoing tensions in the tech sector. This initiative highlights the urgent need for cooperation in an era where AI advancements could exacerbate geopolitical rivalries.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "published_date": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI's collaboration with an independent Advisory Group on Mathematics and Artificial Intelligence marks a significant step towards ensuring transparent and responsible communication of AI advancements, potentially reshaping how mathematical principles are integrated into AI development and fostering greater public trust in the technology. This initiative underscores the critical intersection of ethics and innovation in the rapidly evolving AI landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "published_date": "2026-09-21T12:00:00+00:00",
-      "summary": "Higgsfield AI's launch of GPT-6 Astra revolutionizes video ad creation by enabling small businesses to produce high-quality content in just one day, significantly accelerating the creative process and democratizing access to advanced marketing tools. This breakthrough not only enhances efficiency but also empowers smaller enterprises to compete in the digital advertising landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Sound guardians",
-      "link": "https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost",
-      "published_date": "2026-09-21T10:01:00+00:00",
-      "summary": "• The construction of Indonesia's new capital threatens the auditory landscape of its rich rainforests, highlighting the fragility of natural soundscapes.  \n• Sound, often overlooked, serves as a vital connection to biodiversity and cultural heritage, embodying the essence of ecological identity.  \n• The urgency to record and preserve these sounds reflects a deeper philosophical inquiry into humanity's relationship with nature and our role as stewards of the environment.  \n• As urbanization encroaches on natural habitats, the loss of these sounds symbolizes a broader existential crisis regarding the disconnection from the natural world.  \n• Preserving rainforest sounds is not merely an act of conservation; it is a profound acknowledgment of the intrinsic value of nature's voice in the tapestry of life.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "5 Companies Using NVIDIA AI for Clean Energy",
-      "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-      "published_date": "2026-09-21T10:00:35+00:00",
-      "summary": "NVIDIA is showcasing five innovative companies at New York Climate Week that are leveraging AI to revolutionize clean energy adoption, addressing critical bottlenecks in infrastructure and development timelines. This breakthrough not only accelerates the transition to sustainable energy but also sets a precedent for integrating advanced technology into environmental solutions.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Building standards for the next phase of AI",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "published_date": "2026-09-21T10:00:00+00:00",
-      "summary": "OpenAI is spearheading a transformative initiative to establish global standards for artificial intelligence, emphasizing the need for coordinated evaluation and governance to enhance safety, which could redefine the landscape of AI development and deployment worldwide. This breakthrough is crucial as it aims to mitigate risks associated with AI technologies while fostering innovation through shared best practices.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "He was probably right",
-      "link": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
-      "published_date": "2026-09-21T10:00:00+00:00",
-      "summary": "• Cicero's philosophy of probabilia encourages a balance between confidence in our beliefs and an acknowledgment of uncertainty.  \n• The essence of wisdom lies not in absolute certainty but in the ability to navigate the complexities of life with informed skepticism.  \n• Embracing probabilistic thinking fosters intellectual humility and a deeper understanding of the human experience.  \n• Cicero’s insights remind us that the pursuit of truth is a journey marked by questions rather than definitive answers.  \n• In a world rife with misinformation, adopting a probabilistic mindset can empower us to engage more thoughtfully with differing perspectives.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
-      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
-      "published_date": "2026-09-21T09:01:49+00:00",
-      "summary": "The recent agreement between the US and China to engage in dialogue on artificial intelligence marks a significant step towards collaborative governance in a rapidly evolving technological landscape, potentially shaping global standards and trade practices. This breakthrough is crucial as it sets the stage for enhanced cooperation between the world's two largest economies, fostering innovation while addressing the challenges posed by AI advancements.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
