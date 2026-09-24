@@ -1,85 +1,101 @@
 {
-  "last_updated": "2026-09-23T08:46:40.756088+00:00",
+  "last_updated": "2026-09-24T03:58:00.364589+00:00",
   "articles": [
     {
-      "title": "China’s Premier Li Qiang calls for harnessing AI to propel manufacturing advances",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368455/chinas-premier-li-qiang-calls-harnessing-ai-propel-manufacturing-advances?utm_source=rss_feed",
-      "published_date": "2026-09-23T03:30:26+00:00",
-      "summary": "Chinese Premier Li Qiang's call for the integration of artificial intelligence into manufacturing signifies a pivotal shift in China's strategy to enhance its industrial capabilities, positioning the nation to lead in advanced manufacturing amidst fierce global technological competition. This initiative not only aims to leverage China's manufacturing strengths but also underscores the critical role of AI in driving future economic growth and innovation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "published_date": "2026-09-23T18:00:00+00:00",
+      "summary": "Google Beam's expansion into new regions and partnerships marks a significant leap in cloud infrastructure, enhancing accessibility and collaboration for businesses worldwide while solidifying Google's position as a leader in AI-driven solutions. This breakthrough not only broadens the platform's reach but also empowers organizations to leverage advanced technologies for innovation and growth.",
+      "source": "Google AI",
+      "category": "AI"
     },
     {
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-      "published_date": "2026-09-23T02:30:22+00:00",
-      "summary": "NVIDIA's AI Day Singapore highlights groundbreaking advancements in artificial intelligence and high-performance computing, showcasing innovative tools and training that promise to accelerate AI development across Southeast Asia, a region poised for significant technological growth. This event underscores NVIDIA's commitment to empowering local industries and fostering a collaborative ecosystem for AI innovation.",
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "published_date": "2026-09-23T16:00:00+00:00",
+      "summary": "OpenAI Academy celebrates two years of empowering diverse communities with essential AI skills, significantly advancing accessibility and education in artificial intelligence. This initiative not only democratizes knowledge but also equips a new generation to harness AI's transformative potential in various fields.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+      "published_date": "2026-09-23T15:00:32+00:00",
+      "summary": "Sakeena Fiza's innovative approach as a validation engineer at NVIDIA is revolutionizing hardware reliability by meticulously uncovering hidden flaws, ensuring that cutting-edge technology can be deployed at scale with unprecedented confidence. This breakthrough not only enhances product performance but also solidifies NVIDIA's position as a leader in the competitive tech landscape.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "Better prompt caching for GPT-6",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "published_date": "2026-09-22T21:00:00+00:00",
-      "summary": "GPT-6 revolutionizes prompt caching by significantly enhancing cache hit rates and introducing advanced diagnostics, explicit breakpoints, and controls, which collectively minimize latency and operational costs, paving the way for more efficient and cost-effective AI interactions. This breakthrough not only optimizes performance but also sets a new standard for AI responsiveness and resource management.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "published_date": "2026-09-22T18:00:00+00:00",
-      "summary": "OpenAI has unveiled GPT-6 Sol and Luna, two groundbreaking models that redefine the landscape of artificial intelligence by offering tailored balances of capability and cost, making frontier intelligence accessible for everyday tasks. This innovation not only enhances productivity but also democratizes advanced AI technology for a broader audience.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
-      "published_date": "2026-09-22T14:30:09+00:00",
-      "summary": "Hygon Information Technology has unveiled its Hygon 1000 series CPUs, marking a significant shift from cloud computing to embedded processors for robotics and edge AI, which will enhance local computing capabilities in industrial automation and drive innovation in physical artificial intelligence. This breakthrough not only positions Hygon at the forefront of a rapidly expanding market but also underscores the growing importance of localized processing in the evolution of smart technologies.",
+      "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
+      "link": "https://www.scmp.com/tech/tech-war/article/3368503/pacing-problem-can-ai-fears-overcome-us-china-race-dynamics-and-force-slowdown?utm_source=rss_feed",
+      "published_date": "2026-09-23T15:00:06+00:00",
+      "summary": "The article explores the potential for a slowdown in AI development as US and Chinese leaders seek to establish \"constructive strategic stability,\" highlighting the tension between technological advancement and geopolitical dynamics. This breakthrough could reshape the global AI landscape, influencing how nations balance innovation with safety and ethical considerations.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "The new Mac mini and Mac Studio are available today",
-      "link": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "published_date": "2026-09-22T12:59:21+00:00",
-      "summary": "Apple has launched the new Mac mini featuring M6 and M5 Pro chips, alongside the Mac Studio equipped with M5 Max and M5 Ultra, marking a significant leap in processing power and performance for creative professionals and tech enthusiasts alike. This release not only enhances productivity but also solidifies Apple's commitment to pushing the boundaries of desktop computing.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "published_date": "2026-09-22T12:00:41+00:00",
-      "summary": "NVIDIA Isaac ROS 5.0 introduces groundbreaking GPU-accelerated tools for open-source robotics, enabling developers to create advanced agents capable of perception, reasoning, and action in dynamic environments, which could revolutionize the field of robotics and AI integration. This advancement not only enhances the capabilities of robotic systems but also democratizes access to sophisticated development tools, fostering innovation across industries.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China’s Huawei trims mobile chip gap with Apple as Tau Scaling Law pays off: Bernstein",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed",
-      "published_date": "2026-09-22T12:00:06+00:00",
-      "summary": "Huawei's new Kirin 9050 Pro processor has significantly closed the performance gap with Apple's chips, now trailing by just three years, while outperforming Apple's latest A17 Pro in key benchmarks, marking a pivotal moment in the competitive landscape of mobile technology. This breakthrough not only showcases Huawei's advancements in chip design but also signals a potential shift in market dynamics as it challenges Apple's dominance.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "published_date": "2026-09-22T12:00:00+00:00",
-      "summary": "GPT-6 Astra has revolutionized labor-market research by enabling Parallel's agents to complete tasks in half the time and at half the cost compared to previous models, marking a significant advancement in efficiency and resource management in data analysis. This breakthrough not only enhances productivity but also sets a new standard for cost-effective research methodologies in the tech industry.",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published_date": "2026-09-23T13:00:00+00:00",
+      "summary": "OpenAI's extension of its Daybreak program to the Ukrainian government marks a significant breakthrough in leveraging advanced AI for enhancing cyber defense, crucially protecting civilian infrastructure amid ongoing geopolitical tensions. This initiative not only underscores the role of technology in modern warfare but also highlights the importance of safeguarding critical services for vulnerable populations.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Toadstools and toxins",
-      "link": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
-      "published_date": "2026-09-22T10:00:00+00:00",
-      "summary": "• The commercialization of Amanita muscaria highlights the tension between nature's allure and human exploitation.  \n• Legal loopholes surrounding psychoactive substances reveal society's struggle to balance safety and freedom.  \n• The enticing packaging of toxic mushrooms reflects a broader cultural fascination with risk and the unknown.  \n• Engaging with nature's dangers prompts a philosophical inquiry into the ethics of consumption and responsibility.  \n• The allure of mushrooms serves as a metaphor for humanity's complex relationship with both nature and self-discovery.",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published_date": "2026-09-23T12:00:00+00:00",
+      "summary": "In a pivotal address to the United Nations Security Council, OpenAI CEO Sam Altman emphasized the urgent need for global collaboration on AI safety and human oversight, highlighting the critical role of international governance in shaping the future of artificial intelligence and mitigating its risks. This breakthrough dialogue underscores the necessity of uniting nations to address the profound implications of AI technology on global security and human welfare.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "published_date": "2026-09-23T12:00:00+00:00",
+      "summary": "Harvey's integration of GPT-6 Astra revolutionizes legal drafting by generating highly structured and context-aware documents, allowing lawyers to shift their focus from routine writing to strategic decision-making, thereby enhancing overall efficiency in legal practices. This breakthrough not only streamlines workflows but also elevates the quality of legal outputs, marking a significant advancement in the intersection of AI and law.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "published_date": "2026-09-23T12:00:00+00:00",
+      "summary": "Invideo's integration of GPT-6 Astra revolutionizes color grading by enhancing precision and efficiency, achieving a threefold improvement in color correction while generating 50 custom effects daily, setting a new standard in video editing technology. This breakthrough not only streamlines the creative process but also empowers content creators to elevate their visual storytelling like never before.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "published_date": "2026-09-23T12:00:00+00:00",
+      "summary": "Ringg's innovative use of GPT-5.6 enables its AI agents to resolve up to 65% of customer calls across multiple platforms at a staggering 90% lower cost than previous models, revolutionizing customer service efficiency and accessibility. This breakthrough not only enhances operational savings for businesses but also significantly improves the customer experience through seamless multilingual support.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How the West was fun",
+      "link": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
+      "published_date": "2026-09-23T10:01:00+00:00",
+      "summary": "• The American West symbolizes a romanticized escape from modern complexities, inviting reflection on our collective yearning for simplicity.  \n• Cinematic portrayals of the West shape cultural myths, blurring the lines between reality and fantasy in our understanding of history.  \n• Nostalgia for the frontier era reveals deeper societal desires for adventure, freedom, and a connection to nature.  \n• The allure of the West serves as a mirror, reflecting contemporary anxieties and aspirations through the lens of a bygone era.  \n• Ultimately, the fascination with the West challenges us to confront the narratives we construct about identity, progress, and belonging.",
       "source": "Aeon Essays",
       "category": "Aeon"
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "published_date": "2026-09-23T10:00:00+00:00",
+      "summary": "MentalHealthBench represents a groundbreaking advancement in AI by providing a robust, expert-informed framework for assessing the safety and effectiveness of AI responses in sensitive mental health discussions, ensuring that technology can better support individuals in need. This innovation is crucial as it enhances the reliability of AI tools in a field where trust and accuracy are paramount for user well-being.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "China puts industry minister in charge of key semiconductor hub Anhui province",
+      "link": "https://www.scmp.com/news/china/politics/article/3368494/china-puts-industry-minister-charge-key-semiconductor-hub-anhui-province?utm_source=rss_feed",
+      "published_date": "2026-09-23T09:14:03+00:00",
+      "summary": "China's appointment of industry minister Li Lecheng to lead Anhui province, a crucial semiconductor hub, underscores the nation's strategic push to strengthen its semiconductor industry amid global competition, signaling a significant shift in leadership aimed at enhancing technological self-sufficiency. This move highlights the importance of regional governance in driving national industrial policy and innovation.",
+      "source": "China News",
+      "category": "SCMP"
     }
   ]
 }
