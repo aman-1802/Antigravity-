@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T03:58:00.364589+00:00",
+  "last_updated": "2026-09-24T08:41:21.343892+00:00",
   "articles": [
     {
       "title": "Google Beam expands with new regions, partners, and customers",
@@ -72,6 +72,14 @@
       "summary": "Ringg's innovative use of GPT-5.6 enables its AI agents to resolve up to 65% of customer calls across multiple platforms at a staggering 90% lower cost than previous models, revolutionizing customer service efficiency and accessibility. This breakthrough not only enhances operational savings for businesses but also significantly improves the customer experience through seamless multilingual support.",
       "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "China’s storage makers aim to climb value chain with advanced packaging bets",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368535/chinas-storage-makers-aim-climb-value-chain-advanced-packaging-bets?utm_source=rss_feed",
+      "published_date": "2026-09-23T11:29:23+00:00",
+      "summary": "Chinese storage manufacturers are making a significant leap in the semiconductor industry by investing 4.5 billion yuan in advanced packaging technologies, moving from traditional chip packaging to wafer-level operations, which could enhance their competitiveness and innovation in a rapidly evolving market. This strategic shift not only positions them to capture greater value but also reflects a broader trend of technological advancement within China's tech sector.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "How the West was fun",
