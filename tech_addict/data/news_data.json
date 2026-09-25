@@ -1,108 +1,60 @@
 {
-  "last_updated": "2026-09-24T08:41:21.343892+00:00",
+  "last_updated": "2026-09-25T04:11:48.675319+00:00",
   "articles": [
     {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "published_date": "2026-09-23T18:00:00+00:00",
-      "summary": "Google Beam's expansion into new regions and partnerships marks a significant leap in cloud infrastructure, enhancing accessibility and collaboration for businesses worldwide while solidifying Google's position as a leader in AI-driven solutions. This breakthrough not only broadens the platform's reach but also empowers organizations to leverage advanced technologies for innovation and growth.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Two years of OpenAI Academy",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "published_date": "2026-09-23T16:00:00+00:00",
-      "summary": "OpenAI Academy celebrates two years of empowering diverse communities with essential AI skills, significantly advancing accessibility and education in artificial intelligence. This initiative not only democratizes knowledge but also equips a new generation to harness AI's transformative potential in various fields.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-      "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
-      "published_date": "2026-09-23T15:00:32+00:00",
-      "summary": "Sakeena Fiza's innovative approach as a validation engineer at NVIDIA is revolutionizing hardware reliability by meticulously uncovering hidden flaws, ensuring that cutting-edge technology can be deployed at scale with unprecedented confidence. This breakthrough not only enhances product performance but also solidifies NVIDIA's position as a leader in the competitive tech landscape.",
+      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "published_date": "2026-09-24T14:00:50+00:00",
+      "summary": "NVIDIA is spearheading a coalition to leverage open science and advanced computational tools, aiming to enhance global preparedness for future pandemics by accelerating research and vaccine development in the face of unknown pathogens. This initiative could revolutionize how quickly and effectively the scientific community responds to emerging health threats, potentially saving countless lives.",
       "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
-      "link": "https://www.scmp.com/tech/tech-war/article/3368503/pacing-problem-can-ai-fears-overcome-us-china-race-dynamics-and-force-slowdown?utm_source=rss_feed",
-      "published_date": "2026-09-23T15:00:06+00:00",
-      "summary": "The article explores the potential for a slowdown in AI development as US and Chinese leaders seek to establish \"constructive strategic stability,\" highlighting the tension between technological advancement and geopolitical dynamics. This breakthrough could reshape the global AI landscape, influencing how nations balance innovation with safety and ethical considerations.",
+      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+      "published_date": "2026-09-24T13:00:36+00:00",
+      "summary": "NVIDIA's GeForce NOW platform has launched CONTROL Resonant, a groundbreaking game that immerses players in a warped version of Manhattan, showcasing the power of cloud gaming while offering exclusive membership benefits. This release not only enhances the gaming experience but also signifies a major step forward in delivering high-quality, immersive titles directly from the cloud.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China tech faces fresh scrutiny as US blacklist bill introduced, Lenovo case emerges",
+      "link": "https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges?utm_source=rss_feed",
+      "published_date": "2026-09-24T11:30:25+00:00",
+      "summary": "China's technology sector is under intensified scrutiny as U.S. lawmakers propose a bill to expand the trade blacklist, potentially impacting a wider array of products, while Lenovo finds itself embroiled in a patent dispute over memory devices, signaling a significant escalation in tech tensions between the two nations. This development could reshape global supply chains and innovation dynamics, emphasizing the critical intersection of technology and geopolitics.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "published_date": "2026-09-23T13:00:00+00:00",
-      "summary": "OpenAI's extension of its Daybreak program to the Ukrainian government marks a significant breakthrough in leveraging advanced AI for enhancing cyber defense, crucially protecting civilian infrastructure amid ongoing geopolitical tensions. This initiative not only underscores the role of technology in modern warfare but also highlights the importance of safeguarding critical services for vulnerable populations.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "published_date": "2026-09-23T12:00:00+00:00",
-      "summary": "In a pivotal address to the United Nations Security Council, OpenAI CEO Sam Altman emphasized the urgent need for global collaboration on AI safety and human oversight, highlighting the critical role of international governance in shaping the future of artificial intelligence and mitigating its risks. This breakthrough dialogue underscores the necessity of uniting nations to address the profound implications of AI technology on global security and human welfare.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "published_date": "2026-09-23T12:00:00+00:00",
-      "summary": "Harvey's integration of GPT-6 Astra revolutionizes legal drafting by generating highly structured and context-aware documents, allowing lawyers to shift their focus from routine writing to strategic decision-making, thereby enhancing overall efficiency in legal practices. This breakthrough not only streamlines workflows but also elevates the quality of legal outputs, marking a significant advancement in the intersection of AI and law.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "published_date": "2026-09-23T12:00:00+00:00",
-      "summary": "Invideo's integration of GPT-6 Astra revolutionizes color grading by enhancing precision and efficiency, achieving a threefold improvement in color correction while generating 50 custom effects daily, setting a new standard in video editing technology. This breakthrough not only streamlines the creative process but also empowers content creators to elevate their visual storytelling like never before.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "published_date": "2026-09-23T12:00:00+00:00",
-      "summary": "Ringg's innovative use of GPT-5.6 enables its AI agents to resolve up to 65% of customer calls across multiple platforms at a staggering 90% lower cost than previous models, revolutionizing customer service efficiency and accessibility. This breakthrough not only enhances operational savings for businesses but also significantly improves the customer experience through seamless multilingual support.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s storage makers aim to climb value chain with advanced packaging bets",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368535/chinas-storage-makers-aim-climb-value-chain-advanced-packaging-bets?utm_source=rss_feed",
-      "published_date": "2026-09-23T11:29:23+00:00",
-      "summary": "Chinese storage manufacturers are making a significant leap in the semiconductor industry by investing 4.5 billion yuan in advanced packaging technologies, moving from traditional chip packaging to wafer-level operations, which could enhance their competitiveness and innovation in a rapidly evolving market. This strategic shift not only positions them to capture greater value but also reflects a broader trend of technological advancement within China's tech sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How the West was fun",
-      "link": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
-      "published_date": "2026-09-23T10:01:00+00:00",
-      "summary": "• The American West symbolizes a romanticized escape from modern complexities, inviting reflection on our collective yearning for simplicity.  \n• Cinematic portrayals of the West shape cultural myths, blurring the lines between reality and fantasy in our understanding of history.  \n• Nostalgia for the frontier era reveals deeper societal desires for adventure, freedom, and a connection to nature.  \n• The allure of the West serves as a mirror, reflecting contemporary anxieties and aspirations through the lens of a bygone era.  \n• Ultimately, the fascination with the West challenges us to confront the narratives we construct about identity, progress, and belonging.",
+      "title": "Britain’s last great airship",
+      "link": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
+      "published_date": "2026-09-24T10:01:00+00:00",
+      "summary": "• The airship symbolizes the pinnacle of human ingenuity, merging ambition with the allure of the skies.  \n• Its tragic fate reflects the fragility of dreams, where technological marvels can swiftly turn to disaster.  \n• The vessel's story serves as a poignant reminder of the limits of human control over nature and fate.  \n• The airship's legacy prompts reflection on the balance between innovation and the inherent risks of progress.  \n• Ultimately, it encapsulates a historical moment where hope and hubris collided in the pursuit of greatness.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Introducing MentalHealthBench",
-      "link": "https://openai.com/index/introducing-mentalhealthbench",
-      "published_date": "2026-09-23T10:00:00+00:00",
-      "summary": "MentalHealthBench represents a groundbreaking advancement in AI by providing a robust, expert-informed framework for assessing the safety and effectiveness of AI responses in sensitive mental health discussions, ensuring that technology can better support individuals in need. This innovation is crucial as it enhances the reliability of AI tools in a field where trust and accuracy are paramount for user well-being.",
-      "source": "OpenAI",
-      "category": "AI"
+      "title": "Where a land ethic blooms",
+      "link": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
+      "published_date": "2026-09-24T10:00:00+00:00",
+      "summary": "• A true land ethic emerges from the interconnectedness of human and ecological communities, fostering a sense of responsibility.  \n• Decisions about land use reflect our values and shape our relationship with nature, highlighting the moral implications of our choices.  \n• Embracing a land ethic requires a shift from exploitation to stewardship, recognizing the intrinsic worth of all living beings.  \n• The cultivation of a land ethic can lead to a deeper understanding of our place within the ecosystem, inspiring sustainable practices.  \n• Ultimately, nurturing a land ethic invites us to redefine progress in terms of harmony with the environment rather than mere economic gain.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
     },
     {
-      "title": "China puts industry minister in charge of key semiconductor hub Anhui province",
-      "link": "https://www.scmp.com/news/china/politics/article/3368494/china-puts-industry-minister-charge-key-semiconductor-hub-anhui-province?utm_source=rss_feed",
-      "published_date": "2026-09-23T09:14:03+00:00",
-      "summary": "China's appointment of industry minister Li Lecheng to lead Anhui province, a crucial semiconductor hub, underscores the nation's strategic push to strengthen its semiconductor industry amid global competition, signaling a significant shift in leadership aimed at enhancing technological self-sufficiency. This move highlights the importance of regional governance in driving national industrial policy and innovation.",
-      "source": "China News",
+      "title": "Alibaba unveils ‘pragmatic’ AI road map to drive monetisation, infrastructure efficiency",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency?utm_source=rss_feed",
+      "published_date": "2026-09-24T09:30:22+00:00",
+      "summary": "Alibaba's newly unveiled AI road map marks a significant shift towards monetisation and infrastructure efficiency, promising to enhance its full-stack AI ecosystem amid rising capital expenditures. This strategic pivot not only positions Alibaba to capitalize on its technological advancements but also sets a precedent for sustainable growth in the competitive landscape of artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "American AI development ‘cannot separate itself from China’: Zheng Yongnian",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368543/american-ai-development-cannot-separate-itself-china-zheng-yongnian?utm_source=rss_feed",
+      "published_date": "2026-09-24T08:57:33+00:00",
+      "summary": "Zheng Yongnian, a prominent Chinese policy adviser, emphasizes that the U.S. and China must avoid a cold war over AI, highlighting the complexities of decoupling their technological advancements, a critical issue set to dominate discussions at the upcoming Xi-Trump summit. This breakthrough underscores the urgent need for collaboration in AI development to mitigate geopolitical tensions and foster global innovation.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     }
   ]
