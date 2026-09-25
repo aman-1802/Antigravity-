@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-25T04:11:48.675319+00:00",
+  "last_updated": "2026-09-25T09:01:47.334330+00:00",
   "articles": [
+    {
+      "title": "Xi at White House, trade-war truce extension, Golden Week travel",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed",
+      "published_date": "2026-09-25T09:00:10+00:00",
+      "summary": "Chinese President Xi Jinping and US President Donald Trump emphasized the importance of collaborative dialogue on artificial intelligence during a state visit, marking a significant step towards mitigating risks associated with AI and fostering international cooperation in technology governance. This breakthrough is crucial as it signals a potential thaw in US-China relations, which could reshape the global tech landscape and address the ethical challenges posed by rapid AI advancements.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Xi-Trump dinner puts US tech titans in spotlight – what does it mean for China ties?",
+      "link": "https://www.scmp.com/tech/tech-war/article/3368774/xi-trump-dinner-puts-us-tech-titans-spotlight-what-does-it-mean-china-ties?utm_source=rss_feed",
+      "published_date": "2026-09-25T07:00:17+00:00",
+      "summary": "The recent state dinner featuring tech industry leaders alongside Presidents Xi Jinping and Donald Trump highlights a pivotal shift in U.S.-China relations, emphasizing the critical role of technology in bridging the divide between the two economic superpowers. This strategic focus on tech collaboration could reshape global AI infrastructure and foster unprecedented economic ties.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
       "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
@@ -47,14 +63,6 @@
       "published_date": "2026-09-24T09:30:22+00:00",
       "summary": "Alibaba's newly unveiled AI road map marks a significant shift towards monetisation and infrastructure efficiency, promising to enhance its full-stack AI ecosystem amid rising capital expenditures. This strategic pivot not only positions Alibaba to capitalize on its technological advancements but also sets a precedent for sustainable growth in the competitive landscape of artificial intelligence.",
       "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "American AI development ‘cannot separate itself from China’: Zheng Yongnian",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368543/american-ai-development-cannot-separate-itself-china-zheng-yongnian?utm_source=rss_feed",
-      "published_date": "2026-09-24T08:57:33+00:00",
-      "summary": "Zheng Yongnian, a prominent Chinese policy adviser, emphasizes that the U.S. and China must avoid a cold war over AI, highlighting the complexities of decoupling their technological advancements, a critical issue set to dominate discussions at the upcoming Xi-Trump summit. This breakthrough underscores the urgent need for collaboration in AI development to mitigate geopolitical tensions and foster global innovation.",
-      "source": "Diplomacy & Defence",
       "category": "SCMP"
     }
   ]
