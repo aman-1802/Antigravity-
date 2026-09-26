@@ -1,67 +1,51 @@
 {
-  "last_updated": "2026-09-25T09:01:47.334330+00:00",
+  "last_updated": "2026-09-26T04:17:06.379782+00:00",
   "articles": [
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "published_date": "2026-09-25T19:00:00+00:00",
+      "summary": "Proaction has achieved a remarkable 60% increase in sales and saved over 75 hours by leveraging OpenAI's Codex, GPT-Live-1, and GPT-6 Astra to streamline the development and operation of modern fleet management solutions, highlighting the transformative potential of AI in enhancing business efficiency and profitability.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "China overtakes US as top workplace for elite AI researchers, study finds",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368809/china-overtakes-us-top-workplace-elite-ai-researchers-study-finds?utm_source=rss_feed",
+      "published_date": "2026-09-25T12:30:17+00:00",
+      "summary": "China has surpassed the United States as the premier destination for elite AI researchers, with 41% of the world's top talent now choosing to work domestically, a shift that underscores China's rapid ascendance in the global AI landscape and its implications for technological leadership. This trend not only reflects a changing dynamic in the tech industry but also signals a potential shift in innovation power from Silicon Valley to China.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "published_date": "2026-09-25T12:03:50+00:00",
+      "summary": "Microsoft's reimagined Copilot integrates advanced AI capabilities with essential tools, empowering individuals and organizations to enhance productivity and innovation in an evolving work landscape. This breakthrough signifies a pivotal shift towards seamless collaboration and customization, positioning users to harness the full potential of AI in their daily tasks.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "China and the US are racing ahead on AI. Can they manage risks together?",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368813/china-and-us-are-racing-ahead-ai-can-they-manage-risks-together?utm_source=rss_feed",
+      "published_date": "2026-09-25T11:30:07+00:00",
+      "summary": "The United States and China are urged to collaborate on establishing safety measures for artificial intelligence, as leading experts emphasize that the rapid advancements in this technology necessitate robust risk management to prevent potential global repercussions. This call for cooperation highlights the critical need for shared governance in an era where AI's capabilities could outpace regulatory frameworks amid rising geopolitical tensions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Reasoning together",
+      "link": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
+      "published_date": "2026-09-25T10:00:00+00:00",
+      "summary": "• Jürgen Habermas exemplifies the essence of deliberative democracy by embracing the fluidity of thought and the willingness to evolve his opinions.  \n• His intellectual journey underscores the importance of open dialogue and collective reasoning in shaping democratic ideals.  \n• Habermas challenges the notion of fixed beliefs, advocating for a dynamic exchange of ideas as the foundation of a healthy society.  \n• The act of changing one's mind is not a weakness but a testament to the strength of rational discourse and mutual understanding.  \n• Ultimately, Habermas's philosophy invites us to reconsider the value of consensus in a world rife with division and polarization.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "Xi at White House, trade-war truce extension, Golden Week travel",
       "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed",
       "published_date": "2026-09-25T09:00:10+00:00",
       "summary": "Chinese President Xi Jinping and US President Donald Trump emphasized the importance of collaborative dialogue on artificial intelligence during a state visit, marking a significant step towards mitigating risks associated with AI and fostering international cooperation in technology governance. This breakthrough is crucial as it signals a potential thaw in US-China relations, which could reshape the global tech landscape and address the ethical challenges posed by rapid AI advancements.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Xi-Trump dinner puts US tech titans in spotlight – what does it mean for China ties?",
-      "link": "https://www.scmp.com/tech/tech-war/article/3368774/xi-trump-dinner-puts-us-tech-titans-spotlight-what-does-it-mean-china-ties?utm_source=rss_feed",
-      "published_date": "2026-09-25T07:00:17+00:00",
-      "summary": "The recent state dinner featuring tech industry leaders alongside Presidents Xi Jinping and Donald Trump highlights a pivotal shift in U.S.-China relations, emphasizing the critical role of technology in bridging the divide between the two economic superpowers. This strategic focus on tech collaboration could reshape global AI infrastructure and foster unprecedented economic ties.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-      "published_date": "2026-09-24T14:00:50+00:00",
-      "summary": "NVIDIA is spearheading a coalition to leverage open science and advanced computational tools, aiming to enhance global preparedness for future pandemics by accelerating research and vaccine development in the face of unknown pathogens. This initiative could revolutionize how quickly and effectively the scientific community responds to emerging health threats, potentially saving countless lives.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-      "published_date": "2026-09-24T13:00:36+00:00",
-      "summary": "NVIDIA's GeForce NOW platform has launched CONTROL Resonant, a groundbreaking game that immerses players in a warped version of Manhattan, showcasing the power of cloud gaming while offering exclusive membership benefits. This release not only enhances the gaming experience but also signifies a major step forward in delivering high-quality, immersive titles directly from the cloud.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China tech faces fresh scrutiny as US blacklist bill introduced, Lenovo case emerges",
-      "link": "https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges?utm_source=rss_feed",
-      "published_date": "2026-09-24T11:30:25+00:00",
-      "summary": "China's technology sector is under intensified scrutiny as U.S. lawmakers propose a bill to expand the trade blacklist, potentially impacting a wider array of products, while Lenovo finds itself embroiled in a patent dispute over memory devices, signaling a significant escalation in tech tensions between the two nations. This development could reshape global supply chains and innovation dynamics, emphasizing the critical intersection of technology and geopolitics.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Britain’s last great airship",
-      "link": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
-      "published_date": "2026-09-24T10:01:00+00:00",
-      "summary": "• The airship symbolizes the pinnacle of human ingenuity, merging ambition with the allure of the skies.  \n• Its tragic fate reflects the fragility of dreams, where technological marvels can swiftly turn to disaster.  \n• The vessel's story serves as a poignant reminder of the limits of human control over nature and fate.  \n• The airship's legacy prompts reflection on the balance between innovation and the inherent risks of progress.  \n• Ultimately, it encapsulates a historical moment where hope and hubris collided in the pursuit of greatness.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Where a land ethic blooms",
-      "link": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
-      "published_date": "2026-09-24T10:00:00+00:00",
-      "summary": "• A true land ethic emerges from the interconnectedness of human and ecological communities, fostering a sense of responsibility.  \n• Decisions about land use reflect our values and shape our relationship with nature, highlighting the moral implications of our choices.  \n• Embracing a land ethic requires a shift from exploitation to stewardship, recognizing the intrinsic worth of all living beings.  \n• The cultivation of a land ethic can lead to a deeper understanding of our place within the ecosystem, inspiring sustainable practices.  \n• Ultimately, nurturing a land ethic invites us to redefine progress in terms of harmony with the environment rather than mere economic gain.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Alibaba unveils ‘pragmatic’ AI road map to drive monetisation, infrastructure efficiency",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency?utm_source=rss_feed",
-      "published_date": "2026-09-24T09:30:22+00:00",
-      "summary": "Alibaba's newly unveiled AI road map marks a significant shift towards monetisation and infrastructure efficiency, promising to enhance its full-stack AI ecosystem amid rising capital expenditures. This strategic pivot not only positions Alibaba to capitalize on its technological advancements but also sets a precedent for sustainable growth in the competitive landscape of artificial intelligence.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
