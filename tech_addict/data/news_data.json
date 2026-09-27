@@ -1,52 +1,20 @@
 {
-  "last_updated": "2026-09-26T08:47:02.901469+00:00",
+  "last_updated": "2026-09-27T04:31:55.306133+00:00",
   "articles": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://openai.com/index/proaction",
-      "published_date": "2026-09-25T19:00:00+00:00",
-      "summary": "Proaction has achieved a remarkable 60% increase in sales and saved over 75 hours by leveraging OpenAI's Codex, GPT-Live-1, and GPT-6 Astra to streamline the development and operation of modern fleet management solutions, highlighting the transformative potential of AI in enhancing business efficiency and profitability.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China overtakes US as top workplace for elite AI researchers, study finds",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368809/china-overtakes-us-top-workplace-elite-ai-researchers-study-finds?utm_source=rss_feed",
-      "published_date": "2026-09-25T12:30:17+00:00",
-      "summary": "China has surpassed the United States as the premier destination for elite AI researchers, with 41% of the world's top talent now choosing to work domestically, a shift that underscores China's rapid ascendance in the global AI landscape and its implications for technological leadership. This trend not only reflects a changing dynamic in the tech industry but also signals a potential shift in innovation power from Silicon Valley to China.",
-      "source": "SCMP Tech",
+      "title": "Beijing says US, China to pursue military crisis-communication pact",
+      "link": "https://www.scmp.com/news/china/article/3368919/beijing-says-us-china-pursue-military-crisis-communication-pact?utm_source=rss_feed",
+      "published_date": "2026-09-26T19:07:53+00:00",
+      "summary": "China and the United States are set to establish a military crisis-communication pact, a significant breakthrough that could enhance stability and prevent dangerous encounters in the Indo-Pacific region amidst rising tensions. This agreement reflects a crucial step toward improved military dialogue and risk management between the two superpowers.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "published_date": "2026-09-25T12:03:50+00:00",
-      "summary": "Microsoft's reimagined Copilot integrates advanced AI capabilities with essential tools, empowering individuals and organizations to enhance productivity and innovation in an evolving work landscape. This breakthrough signifies a pivotal shift towards seamless collaboration and customization, positioning users to harness the full potential of AI in their daily tasks.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "China and the US are racing ahead on AI. Can they manage risks together?",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368813/china-and-us-are-racing-ahead-ai-can-they-manage-risks-together?utm_source=rss_feed",
-      "published_date": "2026-09-25T11:30:07+00:00",
-      "summary": "The United States and China are urged to collaborate on establishing safety measures for artificial intelligence, as leading experts emphasize that the rapid advancements in this technology necessitate robust risk management to prevent potential global repercussions. This call for cooperation highlights the critical need for shared governance in an era where AI's capabilities could outpace regulatory frameworks amid rising geopolitical tensions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Reasoning together",
-      "link": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
-      "published_date": "2026-09-25T10:00:00+00:00",
-      "summary": "• Jürgen Habermas exemplifies the essence of deliberative democracy by embracing the fluidity of thought and the willingness to evolve his opinions.  \n• His intellectual journey underscores the importance of open dialogue and collective reasoning in shaping democratic ideals.  \n• Habermas challenges the notion of fixed beliefs, advocating for a dynamic exchange of ideas as the foundation of a healthy society.  \n• The act of changing one's mind is not a weakness but a testament to the strength of rational discourse and mutual understanding.  \n• Ultimately, Habermas's philosophy invites us to reconsider the value of consensus in a world rife with division and polarization.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Xi at White House, trade-war truce extension, Golden Week travel",
-      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed",
-      "published_date": "2026-09-25T09:00:10+00:00",
-      "summary": "Chinese President Xi Jinping and US President Donald Trump emphasized the importance of collaborative dialogue on artificial intelligence during a state visit, marking a significant step towards mitigating risks associated with AI and fostering international cooperation in technology governance. This breakthrough is crucial as it signals a potential thaw in US-China relations, which could reshape the global tech landscape and address the ethical challenges posed by rapid AI advancements.",
-      "source": "SCMP Tech",
+      "title": "Why US chip controls took a back seat at the Xi-Trump summit",
+      "link": "https://www.scmp.com/news/us/article/3368918/why-us-chip-controls-took-back-seat-xi-trump-summit?utm_source=rss_feed",
+      "published_date": "2026-09-26T18:57:23+00:00",
+      "summary": "The recent summit between Xi Jinping and Donald Trump highlighted the pivotal role of US semiconductor leaders Nvidia and AMD in navigating the complex landscape of chip controls, underscoring the critical need for access to the Chinese market amidst rising geopolitical tensions. This breakthrough is essential as it could reshape global supply chains and influence the future of technology competition between the US and China.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     }
   ]
