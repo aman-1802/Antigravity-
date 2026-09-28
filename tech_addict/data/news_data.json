@@ -1,4 +1,69 @@
 {
-  "last_updated": "2026-09-28T04:33:40.519155+00:00",
-  "articles": []
+  "last_updated": "2026-09-28T10:05:30.630083+00:00",
+  "articles": [
+    {
+      "title": "Affect theory",
+      "link": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
+      "published_date": "2026-09-28T10:01:00+00:00",
+      "summary": "• Affect theory challenges the dominance of language in shaping human experience, emphasizing the primacy of emotions and bodily sensations.  \n• This shift invites a deeper exploration of how feelings influence our perceptions, relationships, and social interactions.  \n• By prioritizing affect, theorists reveal the complexities of human existence that transcend mere linguistic constructs.  \n• The body becomes a site of knowledge, suggesting that understanding ourselves requires engaging with our visceral experiences.  \n• Ultimately, affect theory reshapes our understanding of identity, community, and the ways we connect with the world around us.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Paternity is poetical",
+      "link": "https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows",
+      "published_date": "2026-09-28T10:00:00+00:00",
+      "summary": "• Fatherhood can be a profound source of inspiration, intertwining creativity with the emotional depths of parenting.  \n• The traditional view that fatherhood stifles artistic expression is challenged by the rich, transformative experiences it offers.  \n• Neuroscience reveals that the brain's capacity for creativity can be enhanced through the complexities of paternal bonds.  \n• Engaging with the responsibilities of fatherhood can lead to a deeper understanding of the human condition, fueling poetic expression.  \n• The intersection of fatherhood and creativity invites a reevaluation of how we perceive artistic identity and familial roles.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China resuming US coal imports among thin list of summit outcomes",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3369060/china-resuming-us-coal-imports-among-thin-list-summit-outcomes?utm_source=rss_feed",
+      "published_date": "2026-09-28T09:16:13+00:00",
+      "summary": "China's commitment to import at least 10 million tonnes of US coal over the next two years, alongside significant tariff reductions on a range of American products, signals a pivotal shift in trade relations that could bolster economic ties and stabilize markets amid ongoing geopolitical tensions. This breakthrough not only enhances bilateral cooperation but also underscores the potential for renewed dialogue on broader trade issues between the two nations.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "ByteDance grabs one-fifth of China’s data centre capacity as AI drives infrastructure boom",
+      "link": "https://www.scmp.com/tech/big-tech/article/3369056/bytedance-grabs-one-fifth-chinas-data-centre-capacity-ai-drives-infrastructure-boom?utm_source=rss_feed",
+      "published_date": "2026-09-28T09:00:41+00:00",
+      "summary": "ByteDance has emerged as a dominant force in China's data center landscape, securing one-fifth of the nation's capacity and positioning itself as the largest tenant, a move that underscores its critical role in fueling the rapid expansion of artificial intelligence infrastructure. This breakthrough not only highlights ByteDance's strategic investment in AI but also signals a significant shift in the tech ecosystem, as the demand for data processing power surges.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Second Thomas Shoal stand-off sparks sharp exchange between US, China embassies",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3369033/second-thomas-shoal-stand-sparks-sharp-exchange-between-us-china-embassies?utm_source=rss_feed",
+      "published_date": "2026-09-28T08:00:06+00:00",
+      "summary": "The recent stand-off at Second Thomas Shoal has ignited a fierce diplomatic clash between the US and China, highlighting the escalating tensions in the South China Sea as the US reaffirms its commitment to defend its treaty ally, the Philippines, against China's aggressive maneuvers that threaten regional stability and maritime law. This confrontation underscores the critical geopolitical stakes in the area, as both superpowers vie for influence and control over vital trade routes.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
+      "link": "https://www.scmp.com/tech/article/3369015/china-mulls-how-make-open-weight-ai-less-dangerous-report-proposes-6-stage-process?utm_source=rss_feed",
+      "published_date": "2026-09-28T06:00:05+00:00",
+      "summary": "A groundbreaking report from Z.ai and Concordia AI proposes a six-stage process for managing the risks of open-weight AI, marking a pivotal step in ensuring user-modifiable models remain safe post-release, amidst rising global concerns over AI safety. This initiative is crucial as it aims to establish a comprehensive framework that could influence the future of AI development and deployment in China and beyond.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
+      "link": "https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed",
+      "published_date": "2026-09-28T05:14:07+00:00",
+      "summary": "Zhuhai Amicro Technology, a robotics chip designer backed by Xiaomi, is set to launch a Hong Kong IPO aiming to raise over US$100 million after successfully passing its listing hearing, marking a significant step in the burgeoning intersection of robotics and semiconductor technology that could reshape the industry landscape. This move not only underscores investor confidence in advanced chip solutions but also highlights the growing importance of robotics in the tech ecosystem.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China lights up ‘super microscope’ hopes with world-leading electron gun beam",
+      "link": "https://www.scmp.com/news/china/science/article/3368953/china-lights-super-microscope-hopes-world-leading-electron-gun-beam?utm_source=rss_feed",
+      "published_date": "2026-09-28T04:00:10+00:00",
+      "summary": "China's development of a world-leading electron gun beam marks a significant leap towards creating a \"super microscope,\" which has the potential to revolutionize fields such as Alzheimer’s research and advanced microchip technology, thereby driving unprecedented scientific and technological advancements.",
+      "source": "China News",
+      "category": "SCMP"
+    }
+  ]
 }
