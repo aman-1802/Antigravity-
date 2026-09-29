@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-29T05:01:57.722106+00:00",
+  "last_updated": "2026-09-29T10:03:43.133074+00:00",
   "articles": [
+    {
+      "title": "Don’t use the ‘C-word’",
+      "link": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
+      "published_date": "2026-09-29T10:00:00+00:00",
+      "summary": "• The term \"cancer\" evokes a profound existential dread, often overshadowing the nuanced realities of individual diagnoses.  \n• Labeling cellular changes as cancer can lead to unnecessary psychological turmoil, challenging the very essence of identity for patients.  \n• The societal perception of cancer as a death sentence complicates the discourse around treatment and recovery.  \n• Emphasizing the complexity of cellular changes invites a more compassionate understanding of health and illness.  \n• Rethinking the language surrounding cancer could foster a more supportive environment for those navigating their health journeys.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China’s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed",
+      "published_date": "2026-09-29T09:30:05+00:00",
+      "summary": "ChangXin Memory Technologies (CXMT) is set to revolutionize China's semiconductor landscape with a monumental US$5.2 billion investment focused on domestic suppliers, significantly enhancing its memory chip production capacity and bolstering national self-sufficiency in critical technology sectors. This strategic move not only underscores China's commitment to reducing reliance on foreign technology but also positions CXMT as a formidable player in the global memory chip market.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "New Microsoft data innovations unlock what only your business knows",
+      "link": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "published_date": "2026-09-29T06:30:04+00:00",
+      "summary": "Microsoft's latest data innovations empower organizations to leverage their unique business intelligence, transforming proprietary knowledge into a competitive advantage in an era where powerful AI models are reshaping decision-making. This breakthrough not only enhances operational efficiency but also positions businesses to harness their distinct insights for unprecedented growth and innovation.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
     {
       "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
       "link": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
@@ -14,6 +38,14 @@
       "link": "https://www.scmp.com/news/china/science/article/3369127/china-reveals-plan-map-entire-surface-mars-2028-amid-race-us?utm_source=rss_feed",
       "published_date": "2026-09-29T02:20:42+00:00",
       "summary": "China's ambitious plan to create the first AI-driven geological map of Mars by 2028 not only positions it as a leader in extraterrestrial exploration but also intensifies the ongoing space rivalry with the United States, setting a new global standard for understanding the Martian landscape and its geological history.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese team sets world record with swarm of 116 underwater drones",
+      "link": "https://www.scmp.com/news/china/science/article/3369031/chinese-team-sets-world-record-swarm-116-underwater-drones?utm_source=rss_feed",
+      "published_date": "2026-09-29T01:00:17+00:00",
+      "summary": "A Chinese team has shattered the world record by deploying a swarm of 116 autonomous underwater drones simultaneously, showcasing unprecedented advancements in marine robotics that could revolutionize underwater exploration and surveillance. This achievement not only highlights China's growing prowess in technology but also sets a new benchmark for future innovations in autonomous systems.",
       "source": "China News",
       "category": "SCMP"
     },
@@ -34,6 +66,14 @@
       "category": "AI"
     },
     {
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published_date": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI's new guidelines for safety cases in frontier AI training represent a significant breakthrough in establishing comprehensive frameworks that prioritize technical safeguards and operational practices, addressing potential misalignment incidents to ensure the responsible development of advanced AI systems. This proactive approach is crucial for mitigating risks associated with powerful AI technologies, ultimately fostering public trust and safety in their deployment.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "published_date": "2026-09-28T19:00:00+00:00",
@@ -42,60 +82,12 @@
       "category": "AI"
     },
     {
-      "title": "China targets AI and frontier tech in newly unveiled innovation blueprint",
-      "link": "https://www.scmp.com/news/china/science/article/3369084/china-targets-ai-and-frontier-tech-newly-unveiled-innovation-blueprint?utm_source=rss_feed",
-      "published_date": "2026-09-28T14:00:17+00:00",
-      "summary": "China's newly unveiled five-year innovation blueprint prioritizes artificial intelligence and frontier technologies, positioning the nation to intensify its global competitive edge in science and technology as it aims for leadership in these critical fields by 2030. This strategic focus underscores the urgency for nations to innovate rapidly in response to escalating technological rivalries.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel",
-      "link": "https://www.scmp.com/news/china/science/article/3369086/chinese-commercial-reactor-achieves-nuclear-fusion-clean-hydrogen-boron-fuel?utm_source=rss_feed",
-      "published_date": "2026-09-28T13:00:20+00:00",
-      "summary": "A Chinese company has made a groundbreaking achievement in nuclear fusion by successfully controlling hydrogen-boron plasma, a significant step towards neutron-free magnetic confinement fusion that promises a cleaner and more sustainable energy future. This milestone with the EXL-50U reactor could revolutionize energy production by eliminating harmful neutron emissions associated with traditional fusion methods.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
       "title": "Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom",
       "link": "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
       "published_date": "2026-09-28T11:30:11+00:00",
       "summary": "CanSemi Technology's IPO has been oversubscribed by an astonishing 2,360 times, highlighting the immense investor confidence in its advancements in silicon photonics and its pivotal role in bolstering China's artificial intelligence infrastructure, signaling a significant shift in the tech landscape. This unprecedented demand underscores the growing urgency to capitalize on the AI boom and the strategic importance of domestic semiconductor capabilities.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Affect theory",
-      "link": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
-      "published_date": "2026-09-28T10:01:00+00:00",
-      "summary": "• Affect theory challenges the dominance of language in shaping human experience, emphasizing the primacy of emotions and bodily sensations.  \n• This shift invites a deeper exploration of how feelings influence our perceptions, relationships, and social interactions.  \n• By prioritizing affect, theorists reveal the complexities of human existence that transcend mere linguistic constructs.  \n• The body becomes a site of knowledge, suggesting that understanding ourselves requires engaging with our visceral experiences.  \n• Ultimately, affect theory reshapes our understanding of identity, community, and the ways we connect with the world around us.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Paternity is poetical",
-      "link": "https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows",
-      "published_date": "2026-09-28T10:00:00+00:00",
-      "summary": "• Fatherhood can be a profound source of inspiration, intertwining creativity with the emotional depths of parenting.  \n• The traditional view that fatherhood stifles artistic expression is challenged by the rich, transformative experiences it offers.  \n• Neuroscience reveals that the brain's capacity for creativity can be enhanced through the complexities of paternal bonds.  \n• Engaging with the responsibilities of fatherhood can lead to a deeper understanding of the human condition, fueling poetic expression.  \n• The intersection of fatherhood and creativity invites a reevaluation of how we perceive artistic identity and familial roles.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "ByteDance grabs one-fifth of China’s data centre capacity as AI drives infrastructure boom",
-      "link": "https://www.scmp.com/tech/big-tech/article/3369056/bytedance-grabs-one-fifth-chinas-data-centre-capacity-ai-drives-infrastructure-boom?utm_source=rss_feed",
-      "published_date": "2026-09-28T09:00:41+00:00",
-      "summary": "ByteDance has emerged as a dominant force in China's data center landscape, securing one-fifth of the nation's capacity and positioning itself as the largest tenant, a move that underscores its critical role in fueling the rapid expansion of artificial intelligence infrastructure. This breakthrough not only highlights ByteDance's strategic investment in AI but also signals a significant shift in the tech ecosystem, as the demand for data processing power surges.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published_date": "2026-09-28T07:00:00+00:00",
-      "summary": "OpenAI is significantly enhancing the Lenfest AI Collaborative and Fellowship Program with a groundbreaking $5 million investment and an additional $5 million in software credits and engineering support, marking a pivotal step in advancing AI research and innovation in journalism. This expansion not only underscores OpenAI's commitment to fostering responsible AI development but also empowers media organizations to leverage cutting-edge technology for enhanced storytelling and audience engagement.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
