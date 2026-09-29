@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-09-28T10:05:30.630083+00:00",
+  "last_updated": "2026-09-29T05:01:57.722106+00:00",
   "articles": [
+    {
+      "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+      "link": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
+      "published_date": "2026-09-29T04:30:18+00:00",
+      "summary": "AMD's acquisition of World Labs, founded by AI pioneer Li Fei-Fei for $8.2 billion, marks a significant strategic move to enhance its AI capabilities and intensify competition with Nvidia, potentially reshaping the landscape of artificial intelligence technology. This integration of cutting-edge research and spatial-intelligence expertise could propel AMD to the forefront of AI innovation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China reveals plan to map the entire surface of Mars by 2028 amid race with US",
+      "link": "https://www.scmp.com/news/china/science/article/3369127/china-reveals-plan-map-entire-surface-mars-2028-amid-race-us?utm_source=rss_feed",
+      "published_date": "2026-09-29T02:20:42+00:00",
+      "summary": "China's ambitious plan to create the first AI-driven geological map of Mars by 2028 not only positions it as a leader in extraterrestrial exploration but also intensifies the ongoing space rivalry with the United States, setting a new global standard for understanding the Martian landscape and its geological history.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "In the US-China AI race, the real fight is keeping humans in control",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3368932/us-china-ai-race-real-fight-keeping-humans-control?utm_source=rss_feed",
+      "published_date": "2026-09-28T21:30:12+00:00",
+      "summary": "The escalating US-China AI competition highlights a critical dilemma: as both nations race to harness the economic and strategic advantages of increasingly autonomous AI, the urgent need for human oversight becomes paramount, underscoring the potential risks of unchecked technological advancement. This tension was starkly illustrated during last week’s summit, where contrasting approaches to AI regulation were openly debated.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published_date": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI has acknowledged past issues with Australian government websites and is committing to enhanced safeguards and support, marking a significant step towards bolstering Australia's cybersecurity infrastructure and restoring trust in AI technologies. This breakthrough is crucial as it not only addresses previous vulnerabilities but also sets a precedent for responsible AI deployment in government operations.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published_date": "2026-09-28T19:00:00+00:00",
+      "summary": "The winning trailer from the Future Vision XPRIZE, titled The Gifted, showcases groundbreaking advancements in AI-driven storytelling, highlighting its potential to revolutionize how narratives are crafted and experienced in the digital age. This breakthrough not only sets a new standard for creative expression but also emphasizes the transformative power of technology in shaping our future.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "China targets AI and frontier tech in newly unveiled innovation blueprint",
+      "link": "https://www.scmp.com/news/china/science/article/3369084/china-targets-ai-and-frontier-tech-newly-unveiled-innovation-blueprint?utm_source=rss_feed",
+      "published_date": "2026-09-28T14:00:17+00:00",
+      "summary": "China's newly unveiled five-year innovation blueprint prioritizes artificial intelligence and frontier technologies, positioning the nation to intensify its global competitive edge in science and technology as it aims for leadership in these critical fields by 2030. This strategic focus underscores the urgency for nations to innovate rapidly in response to escalating technological rivalries.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel",
+      "link": "https://www.scmp.com/news/china/science/article/3369086/chinese-commercial-reactor-achieves-nuclear-fusion-clean-hydrogen-boron-fuel?utm_source=rss_feed",
+      "published_date": "2026-09-28T13:00:20+00:00",
+      "summary": "A Chinese company has made a groundbreaking achievement in nuclear fusion by successfully controlling hydrogen-boron plasma, a significant step towards neutron-free magnetic confinement fusion that promises a cleaner and more sustainable energy future. This milestone with the EXL-50U reactor could revolutionize energy production by eliminating harmful neutron emissions associated with traditional fusion methods.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
+      "published_date": "2026-09-28T11:30:11+00:00",
+      "summary": "CanSemi Technology's IPO has been oversubscribed by an astonishing 2,360 times, highlighting the immense investor confidence in its advancements in silicon photonics and its pivotal role in bolstering China's artificial intelligence infrastructure, signaling a significant shift in the tech landscape. This unprecedented demand underscores the growing urgency to capitalize on the AI boom and the strategic importance of domestic semiconductor capabilities.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Affect theory",
       "link": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
@@ -18,14 +82,6 @@
       "category": "Aeon"
     },
     {
-      "title": "China resuming US coal imports among thin list of summit outcomes",
-      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3369060/china-resuming-us-coal-imports-among-thin-list-summit-outcomes?utm_source=rss_feed",
-      "published_date": "2026-09-28T09:16:13+00:00",
-      "summary": "China's commitment to import at least 10 million tonnes of US coal over the next two years, alongside significant tariff reductions on a range of American products, signals a pivotal shift in trade relations that could bolster economic ties and stabilize markets amid ongoing geopolitical tensions. This breakthrough not only enhances bilateral cooperation but also underscores the potential for renewed dialogue on broader trade issues between the two nations.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
       "title": "ByteDance grabs one-fifth of China’s data centre capacity as AI drives infrastructure boom",
       "link": "https://www.scmp.com/tech/big-tech/article/3369056/bytedance-grabs-one-fifth-chinas-data-centre-capacity-ai-drives-infrastructure-boom?utm_source=rss_feed",
       "published_date": "2026-09-28T09:00:41+00:00",
@@ -34,36 +90,12 @@
       "category": "SCMP"
     },
     {
-      "title": "Second Thomas Shoal stand-off sparks sharp exchange between US, China embassies",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3369033/second-thomas-shoal-stand-sparks-sharp-exchange-between-us-china-embassies?utm_source=rss_feed",
-      "published_date": "2026-09-28T08:00:06+00:00",
-      "summary": "The recent stand-off at Second Thomas Shoal has ignited a fierce diplomatic clash between the US and China, highlighting the escalating tensions in the South China Sea as the US reaffirms its commitment to defend its treaty ally, the Philippines, against China's aggressive maneuvers that threaten regional stability and maritime law. This confrontation underscores the critical geopolitical stakes in the area, as both superpowers vie for influence and control over vital trade routes.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
-      "link": "https://www.scmp.com/tech/article/3369015/china-mulls-how-make-open-weight-ai-less-dangerous-report-proposes-6-stage-process?utm_source=rss_feed",
-      "published_date": "2026-09-28T06:00:05+00:00",
-      "summary": "A groundbreaking report from Z.ai and Concordia AI proposes a six-stage process for managing the risks of open-weight AI, marking a pivotal step in ensuring user-modifiable models remain safe post-release, amidst rising global concerns over AI safety. This initiative is crucial as it aims to establish a comprehensive framework that could influence the future of AI development and deployment in China and beyond.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
-      "link": "https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed",
-      "published_date": "2026-09-28T05:14:07+00:00",
-      "summary": "Zhuhai Amicro Technology, a robotics chip designer backed by Xiaomi, is set to launch a Hong Kong IPO aiming to raise over US$100 million after successfully passing its listing hearing, marking a significant step in the burgeoning intersection of robotics and semiconductor technology that could reshape the industry landscape. This move not only underscores investor confidence in advanced chip solutions but also highlights the growing importance of robotics in the tech ecosystem.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China lights up ‘super microscope’ hopes with world-leading electron gun beam",
-      "link": "https://www.scmp.com/news/china/science/article/3368953/china-lights-super-microscope-hopes-world-leading-electron-gun-beam?utm_source=rss_feed",
-      "published_date": "2026-09-28T04:00:10+00:00",
-      "summary": "China's development of a world-leading electron gun beam marks a significant leap towards creating a \"super microscope,\" which has the potential to revolutionize fields such as Alzheimer’s research and advanced microchip technology, thereby driving unprecedented scientific and technological advancements.",
-      "source": "China News",
-      "category": "SCMP"
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "published_date": "2026-09-28T07:00:00+00:00",
+      "summary": "OpenAI is significantly enhancing the Lenfest AI Collaborative and Fellowship Program with a groundbreaking $5 million investment and an additional $5 million in software credits and engineering support, marking a pivotal step in advancing AI research and innovation in journalism. This expansion not only underscores OpenAI's commitment to fostering responsible AI development but also empowers media organizations to leverage cutting-edge technology for enhanced storytelling and audience engagement.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
