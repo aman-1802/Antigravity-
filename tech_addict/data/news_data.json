@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-30T04:48:50.185394+00:00",
+  "last_updated": "2026-09-30T09:57:11.247293+00:00",
   "articles": [
+    {
+      "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed",
+      "published_date": "2026-09-30T06:31:08+00:00",
+      "summary": "Chinese AI start-up DeepSeek has open-sourced a suite of tools designed for Huawei's Ascend AI chips, a significant move aimed at reducing reliance on Nvidia amidst US export restrictions, and potentially reshaping the global AI hardware landscape. This initiative not only enhances Huawei's competitiveness in the AI sector but also signals a broader shift towards self-sufficiency in technology for China.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
       "link": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
@@ -64,22 +72,6 @@
       "summary": "• The term \"cancer\" evokes a profound existential dread, often overshadowing the nuanced realities of individual diagnoses.  \n• Labeling cellular changes as cancer can lead to unnecessary psychological turmoil, challenging the very essence of identity for patients.  \n• The societal perception of cancer as a death sentence complicates the discourse around treatment and recovery.  \n• Emphasizing the complexity of cellular changes invites a more compassionate understanding of health and illness.  \n• Rethinking the language surrounding cancer could foster a more supportive environment for those navigating their health journeys.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China’s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed",
-      "published_date": "2026-09-29T09:30:05+00:00",
-      "summary": "ChangXin Memory Technologies (CXMT) is set to revolutionize China's semiconductor landscape with a monumental US$5.2 billion investment focused on domestic suppliers, significantly enhancing its memory chip production capacity and bolstering national self-sufficiency in critical technology sectors. This strategic move not only underscores China's commitment to reducing reliance on foreign technology but also positions CXMT as a formidable player in the global memory chip market.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "New Microsoft data innovations unlock what only your business knows",
-      "link": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
-      "published_date": "2026-09-29T06:30:04+00:00",
-      "summary": "Microsoft's latest data innovations empower organizations to leverage their unique business intelligence, transforming proprietary knowledge into a competitive advantage in an era where powerful AI models are reshaping decision-making. This breakthrough not only enhances operational efficiency but also positions businesses to harness their distinct insights for unprecedented growth and innovation.",
-      "source": "Microsoft",
-      "category": "AI"
     }
   ]
 }
