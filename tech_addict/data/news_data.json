@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-09-30T09:57:11.247293+00:00",
+  "last_updated": "2026-10-01T05:01:11.748309+00:00",
   "articles": [
+    {
+      "title": "Huawei steps up Tau chip roll-out, with Mate XT 2 on track for 1 million sales",
+      "link": "https://www.scmp.com/tech/big-tech/article/3369400/huawei-steps-tau-chip-roll-out-mate-xt-2-track-1-million-sales?utm_source=rss_feed",
+      "published_date": "2026-10-01T03:00:08+00:00",
+      "summary": "Huawei's rapid deployment of its innovative Tau chip, designed to enhance performance and efficiency in its Mate 90 smartphone series, signifies a pivotal shift in the company's strategy to counter US export restrictions and solidify its position in the competitive tech landscape. This breakthrough not only showcases Huawei's resilience but also underscores the growing importance of self-sufficiency in technology development.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+      "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+      "published_date": "2026-09-30T17:00:21+00:00",
+      "summary": "NVIDIA's Graduate Fellowship Program is now accepting applications for 2027-2028, offering up to $60,000 in support to doctoral students whose groundbreaking research leverages accelerated computing technology, a move that promises to drive significant advancements in addressing critical global challenges. This initiative not only empowers the next generation of innovators but also strengthens NVIDIA's commitment to fostering transformative research in the tech landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "published_date": "2026-09-30T15:00:00+00:00",
+      "summary": "NVIDIA and CoreWeave have achieved a significant breakthrough by integrating advanced NVIDIA infrastructure into a dedicated AI cloud platform, enhancing efficiency and ROI across multiple deployment generations. This collaboration marks a pivotal step in streamlining the transition from AI training to production, setting a new standard for the industry.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic raises alarm over elite hacking ability of Chinese firm Z.ai’s GLM-5.3",
+      "link": "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed",
+      "published_date": "2026-09-30T12:00:08+00:00",
+      "summary": "Anthropic has raised significant concerns about the hacking prowess of Z.ai's GLM-5.3, which rivals Anthropic's own advanced models but lacks crucial safety measures, highlighting a dangerous potential for misuse by malicious entities. This alarming development underscores the urgent need for stronger safeguards in AI technologies to prevent exploitation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published_date": "2026-09-30T10:30:00+00:00",
+      "summary": "OpenAI has successfully thwarted a coordinated effort to extract proprietary model reasoning through advanced defenses against adversarial distillation, marking a significant breakthrough in safeguarding AI intellectual property and enhancing the security of machine learning systems. This development underscores the critical importance of protecting AI models from exploitation in an increasingly competitive landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Passportless mess",
+      "link": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
+      "published_date": "2026-09-30T10:01:00+00:00",
+      "summary": "• The essay explores the enigmatic persona of Zoran, a figure emblematic of Belgrade's complex identity.  \n• It raises questions about the nature of genius and folly, blurring the lines between creation and destruction.  \n• Zoran's story serves as a metaphor for the struggles of belonging and the search for meaning in a fragmented world.  \n• The narrative invites reflection on how myth and reality intertwine, shaping our understanding of cultural heritage.  \n• Ultimately, it challenges readers to consider the value of those who defy convention and provoke thought in society.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published_date": "2026-09-30T10:00:00+00:00",
+      "summary": "OpenAI's collaboration with America’s SBDC aims to empower small businesses by providing practical AI training and localized support, highlighting a transformative shift in how small teams can leverage artificial intelligence to enhance their operations and competitiveness. This initiative not only democratizes access to advanced technology but also underscores the pivotal role of AI in driving innovation and growth in the small business sector.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
       "link": "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed",
@@ -8,70 +64,6 @@
       "summary": "Chinese AI start-up DeepSeek has open-sourced a suite of tools designed for Huawei's Ascend AI chips, a significant move aimed at reducing reliance on Nvidia amidst US export restrictions, and potentially reshaping the global AI hardware landscape. This initiative not only enhances Huawei's competitiveness in the AI sector but also signals a broader shift towards self-sufficiency in technology for China.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-      "link": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-      "published_date": "2026-09-29T17:00:57+00:00",
-      "summary": "Apple's Final Cut Camera has received a transformative update, now featuring variable aperture support on the iPhone 18 Pro, significantly enhancing professional photography and videography capabilities for users. This breakthrough not only elevates the creative potential of mobile content creation but also positions Apple as a leader in integrating advanced camera technology into smartphones.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "New updates coming to Apple Creator Studio",
-      "link": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "published_date": "2026-09-29T17:00:02+00:00",
-      "summary": "Apple's latest updates to Creator Studio enhance its suite of creative and productivity tools, positioning the platform as a game-changer for content creators by streamlining workflows and expanding capabilities, ultimately redefining how users engage with digital content creation.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "published_date": "2026-09-29T16:59:08+00:00",
-      "summary": "Apple's collaboration with the American Academy of Pediatrics to launch a guide for families on building healthy digital habits marks a significant step in addressing the growing concerns around screen time and digital well-being, empowering parents to foster a balanced relationship with technology in their households. This initiative not only underscores Apple's commitment to promoting responsible tech use but also positions the company as a leader in the crucial conversation about digital health in the modern family dynamic.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Nvidia and AMD chiefs join Tsinghua advisory board as US-China chip tensions persist",
-      "link": "https://www.scmp.com/tech/big-tech/article/3369237/nvidia-and-amd-chiefs-join-tsinghua-advisory-board-us-china-chip-tensions-persist?utm_source=rss_feed",
-      "published_date": "2026-09-29T13:35:01+00:00",
-      "summary": "Nvidia and AMD's CEOs have joined Tsinghua University's advisory board, a strategic move that could bridge the gap between American tech leadership and Chinese officials amid ongoing US-China chip tensions, potentially influencing the future of AI and semiconductor collaboration. This development underscores the critical intersection of technology, diplomacy, and economic strategy in an increasingly polarized global landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s generative AI user base crosses 700 million, covering over half the population",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3369231/chinas-generative-ai-user-base-crosses-700-million-covering-over-half-population?utm_source=rss_feed",
-      "published_date": "2026-09-29T13:00:11+00:00",
-      "summary": "China's generative AI user base has exploded to over 700 million, surpassing half the population and marking a significant leap in technology adoption that underscores the nation's rapid integration of AI into daily life and its potential to reshape various industries. This unprecedented growth highlights China's leadership in the global AI landscape and sets the stage for transformative advancements in both the economy and society.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published_date": "2026-09-29T10:00:00+00:00",
-      "summary": "OpenAI has unveiled GPT-6.1 Sol, a groundbreaking AI model that delivers near-Astra intelligence for coding and professional tasks at a fraction of the cost, revolutionizing accessibility and efficiency in tech-driven industries. This innovation not only enhances productivity but also democratizes advanced AI capabilities, making them available to a broader range of users and applications.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "published_date": "2026-09-29T10:00:00+00:00",
-      "summary": "OpenAI's DevDay 2026 unveiled over 20 groundbreaking announcements, most notably the launch of GPT-6 Astra, which promises to revolutionize AI capabilities and enhance developer tools, signaling a significant leap forward in the integration of AI across various applications. This transformative update not only elevates the potential for innovation but also sets new standards for security and functionality in AI-driven solutions.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Don’t use the ‘C-word’",
-      "link": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
-      "published_date": "2026-09-29T10:00:00+00:00",
-      "summary": "• The term \"cancer\" evokes a profound existential dread, often overshadowing the nuanced realities of individual diagnoses.  \n• Labeling cellular changes as cancer can lead to unnecessary psychological turmoil, challenging the very essence of identity for patients.  \n• The societal perception of cancer as a death sentence complicates the discourse around treatment and recovery.  \n• Emphasizing the complexity of cellular changes invites a more compassionate understanding of health and illness.  \n• Rethinking the language surrounding cancer could foster a more supportive environment for those navigating their health journeys.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
