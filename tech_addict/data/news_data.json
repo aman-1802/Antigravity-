@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-01T05:01:11.748309+00:00",
+  "last_updated": "2026-10-01T10:23:17.631413+00:00",
   "articles": [
+    {
+      "title": "Green tree ants are famous in the tropics",
+      "link": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+      "published_date": "2026-10-01T10:01:00+00:00",
+      "summary": "• Green tree ants exemplify a fascinating survival strategy that blends deception with adaptation in the competitive ecosystem of tropical forests.  \n• Their ability to mimic the behavior and appearance of more formidable species highlights the intricate dance of survival in nature.  \n• This ‘fake it till you make it’ approach raises profound questions about identity and authenticity in both the animal kingdom and human society.  \n• The dynamic interactions among species in these forests illustrate the complex web of relationships that define ecological balance.  \n• Ultimately, the resilience of green tree ants invites reflection on the lengths to which life will go to thrive amidst adversity.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Reason is more than a tool",
+      "link": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+      "published_date": "2026-10-01T10:00:00+00:00",
+      "summary": "• Human reason transcends mere optimization, embodying a complex interplay of ethics, creativity, and understanding.  \n• Kant's philosophy suggests that reason is not just a tool for problem-solving but a fundamental aspect of our humanity.  \n• The essence of human intelligence lies in our ability to question, reflect, and derive meaning beyond mere efficiency.  \n• As machines advance, the unique qualities of human reason challenge us to redefine what it means to be intelligent.  \n• Embracing the depth of our reasoning capabilities may illuminate paths to coexistence with increasingly capable technologies.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "Huawei steps up Tau chip roll-out, with Mate XT 2 on track for 1 million sales",
       "link": "https://www.scmp.com/tech/big-tech/article/3369400/huawei-steps-tau-chip-roll-out-mate-xt-2-track-1-million-sales?utm_source=rss_feed",
@@ -8,6 +24,14 @@
       "summary": "Huawei's rapid deployment of its innovative Tau chip, designed to enhance performance and efficiency in its Mate 90 smartphone series, signifies a pivotal shift in the company's strategy to counter US export restrictions and solidify its position in the competitive tech landscape. This breakthrough not only showcases Huawei's resilience but also underscores the growing importance of self-sufficiency in technology development.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "Oct 1, 2026Announcements",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "published_date": "2026-10-01T00:00:00+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking AI model that significantly enhances natural language understanding and generation, setting a new standard for conversational AI and promising to revolutionize industries by enabling more intuitive human-computer interactions. This advancement not only showcases the potential for AI to better comprehend context and nuance but also raises critical discussions about the ethical implications and responsibilities of deploying such powerful technology.",
+      "source": "Anthropic",
+      "category": "AI"
     },
     {
       "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
@@ -40,30 +64,6 @@
       "summary": "OpenAI has successfully thwarted a coordinated effort to extract proprietary model reasoning through advanced defenses against adversarial distillation, marking a significant breakthrough in safeguarding AI intellectual property and enhancing the security of machine learning systems. This development underscores the critical importance of protecting AI models from exploitation in an increasingly competitive landscape.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "Passportless mess",
-      "link": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
-      "published_date": "2026-09-30T10:01:00+00:00",
-      "summary": "• The essay explores the enigmatic persona of Zoran, a figure emblematic of Belgrade's complex identity.  \n• It raises questions about the nature of genius and folly, blurring the lines between creation and destruction.  \n• Zoran's story serves as a metaphor for the struggles of belonging and the search for meaning in a fragmented world.  \n• The narrative invites reflection on how myth and reality intertwine, shaping our understanding of cultural heritage.  \n• Ultimately, it challenges readers to consider the value of those who defy convention and provoke thought in society.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Helping small businesses put AI to work",
-      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "published_date": "2026-09-30T10:00:00+00:00",
-      "summary": "OpenAI's collaboration with America’s SBDC aims to empower small businesses by providing practical AI training and localized support, highlighting a transformative shift in how small teams can leverage artificial intelligence to enhance their operations and competitiveness. This initiative not only democratizes access to advanced technology but also underscores the pivotal role of AI in driving innovation and growth in the small business sector.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed",
-      "published_date": "2026-09-30T06:31:08+00:00",
-      "summary": "Chinese AI start-up DeepSeek has open-sourced a suite of tools designed for Huawei's Ascend AI chips, a significant move aimed at reducing reliance on Nvidia amidst US export restrictions, and potentially reshaping the global AI hardware landscape. This initiative not only enhances Huawei's competitiveness in the AI sector but also signals a broader shift towards self-sufficiency in technology for China.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
