@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-10-01T10:23:17.631413+00:00",
+  "last_updated": "2026-10-02T04:51:26.271165+00:00",
   "articles": [
+    {
+      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "published_date": "2026-10-01T23:44:13+00:00",
+      "summary": "NVIDIA's Blackwell GPUs have enabled the launch of OpenAI's GPT-6 Astra Ultrafast, delivering up to 8x faster token generation compared to previous models, which significantly enhances the efficiency and responsiveness of AI applications for developers and users alike. This breakthrough not only revolutionizes the speed of AI interactions but also sets a new standard for performance in natural language processing.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "published_date": "2026-10-01T17:00:00+00:00",
+      "summary": "OpenAI's exploration of advanced AI highlights its potential to revolutionize the execution of routine tasks, suggesting that this capability could be the key driver of innovation and economic growth in the coming era. By enhancing the efficiency of foundational work, AI may accelerate the realization of groundbreaking ideas, fundamentally reshaping the landscape of progress.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "published_date": "2026-10-01T16:00:00+00:00",
+      "summary": "Albertsons Companies is revolutionizing the retail landscape by leveraging ChatGPT Enterprise and the OpenAI API to enhance operational efficiency and streamline the grocery shopping experience for millions, marking a significant advancement in how technology can transform consumer services. This breakthrough not only promises to elevate customer satisfaction but also sets a new standard for innovation in the retail sector.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Microsoft 365 and LinkedIn leadership update",
+      "link": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+      "published_date": "2026-10-01T15:03:27+00:00",
+      "summary": "Ryan Roslansky's departure after nearly 18 years marks a significant leadership shift at Microsoft and LinkedIn, potentially reshaping the strategic direction of both platforms and their integration in the evolving landscape of digital collaboration and professional networking. This transition underscores the dynamic nature of tech leadership and the ongoing evolution of Microsoft's business strategy.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Fall Into 25 New Games on GeForce NOW This October",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+      "published_date": "2026-10-01T13:00:54+00:00",
+      "summary": "NVIDIA's GeForce NOW is set to enhance the gaming experience this October by adding 25 new titles, including the highly anticipated remaster of The Witcher 3, marking a significant expansion of its cloud gaming library just in time for the spooky season. This breakthrough not only broadens access to top-tier games but also reinforces NVIDIA's commitment to delivering cutting-edge gaming experiences to its users.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+      "published_date": "2026-10-01T13:00:49+00:00",
+      "summary": "NVIDIA's AI factories represent a groundbreaking shift in scalable, high-capacity production, with each megawatt facility costing around $60 million and designed to maximize return on investment through enhanced earning potential and operational efficiency. This innovation not only redefines manufacturing economics but also positions AI as a central pillar in driving future industrial growth.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
     {
       "title": "Green tree ants are famous in the tropics",
       "link": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
@@ -16,54 +64,6 @@
       "summary": "• Human reason transcends mere optimization, embodying a complex interplay of ethics, creativity, and understanding.  \n• Kant's philosophy suggests that reason is not just a tool for problem-solving but a fundamental aspect of our humanity.  \n• The essence of human intelligence lies in our ability to question, reflect, and derive meaning beyond mere efficiency.  \n• As machines advance, the unique qualities of human reason challenge us to redefine what it means to be intelligent.  \n• Embracing the depth of our reasoning capabilities may illuminate paths to coexistence with increasingly capable technologies.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Huawei steps up Tau chip roll-out, with Mate XT 2 on track for 1 million sales",
-      "link": "https://www.scmp.com/tech/big-tech/article/3369400/huawei-steps-tau-chip-roll-out-mate-xt-2-track-1-million-sales?utm_source=rss_feed",
-      "published_date": "2026-10-01T03:00:08+00:00",
-      "summary": "Huawei's rapid deployment of its innovative Tau chip, designed to enhance performance and efficiency in its Mate 90 smartphone series, signifies a pivotal shift in the company's strategy to counter US export restrictions and solidify its position in the competitive tech landscape. This breakthrough not only showcases Huawei's resilience but also underscores the growing importance of self-sufficiency in technology development.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Oct 1, 2026Announcements",
-      "link": "https://www.anthropic.com/news/barclays-scales-claude",
-      "published_date": "2026-10-01T00:00:00+00:00",
-      "summary": "Anthropic has unveiled a groundbreaking AI model that significantly enhances natural language understanding and generation, setting a new standard for conversational AI and promising to revolutionize industries by enabling more intuitive human-computer interactions. This advancement not only showcases the potential for AI to better comprehend context and nuance but also raises critical discussions about the ethical implications and responsibilities of deploying such powerful technology.",
-      "source": "Anthropic",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-      "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-      "published_date": "2026-09-30T17:00:21+00:00",
-      "summary": "NVIDIA's Graduate Fellowship Program is now accepting applications for 2027-2028, offering up to $60,000 in support to doctoral students whose groundbreaking research leverages accelerated computing technology, a move that promises to drive significant advancements in addressing critical global challenges. This initiative not only empowers the next generation of innovators but also strengthens NVIDIA's commitment to fostering transformative research in the tech landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-      "published_date": "2026-09-30T15:00:00+00:00",
-      "summary": "NVIDIA and CoreWeave have achieved a significant breakthrough by integrating advanced NVIDIA infrastructure into a dedicated AI cloud platform, enhancing efficiency and ROI across multiple deployment generations. This collaboration marks a pivotal step in streamlining the transition from AI training to production, setting a new standard for the industry.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Anthropic raises alarm over elite hacking ability of Chinese firm Z.ai’s GLM-5.3",
-      "link": "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed",
-      "published_date": "2026-09-30T12:00:08+00:00",
-      "summary": "Anthropic has raised significant concerns about the hacking prowess of Z.ai's GLM-5.3, which rivals Anthropic's own advanced models but lacks crucial safety measures, highlighting a dangerous potential for misuse by malicious entities. This alarming development underscores the urgent need for stronger safeguards in AI technologies to prevent exploitation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "published_date": "2026-09-30T10:30:00+00:00",
-      "summary": "OpenAI has successfully thwarted a coordinated effort to extract proprietary model reasoning through advanced defenses against adversarial distillation, marking a significant breakthrough in safeguarding AI intellectual property and enhancing the security of machine learning systems. This development underscores the critical importance of protecting AI models from exploitation in an increasingly competitive landscape.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
