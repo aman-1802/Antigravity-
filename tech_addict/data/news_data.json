@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-03T04:34:18.505701+00:00",
+  "last_updated": "2026-10-03T09:22:34.712136+00:00",
   "articles": [
+    {
+      "title": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
+      "link": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china?utm_source=rss_feed",
+      "published_date": "2026-10-02T21:57:01+00:00",
+      "summary": "A California tech entrepreneur has been arrested for allegedly orchestrating a $300 million scheme to smuggle Nvidia AI servers to China, highlighting the escalating tensions and fierce competition in the global AI landscape as nations tighten export controls to safeguard technological advancements. This case underscores the critical importance of safeguarding cutting-edge technology amidst geopolitical rivalries.",
+      "source": "China News",
+      "category": "SCMP"
+    },
     {
       "title": "A model guide for the GPT-6 family",
       "link": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -48,14 +56,6 @@
       "summary": "• The pervasive presence of violence shapes not only societal structures but also individual psyches, creating a cycle of fear and aggression.  \n• Guns and poverty serve as tangible manifestations of deeper social maladies, reflecting a collective mindset that normalizes brutality.  \n• The interplay between external violence and internalized trauma reveals how environments can dictate moral and ethical frameworks.  \n• Understanding the roots of this violence requires a philosophical inquiry into human nature and the societal constructs that perpetuate suffering.  \n• Ultimately, breaking the cycle demands not just systemic change but a profound transformation in consciousness and empathy.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China’s AI compute ambitions demand innovation",
-      "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
-      "published_date": "2026-10-02T07:05:21+00:00",
-      "summary": "China's ambitious five-year plan aims to quadruple its AI computing capacity by 2030, necessitating groundbreaking innovation and resource coordination in the face of U.S. restrictions on advanced chip imports, highlighting a critical juncture in the global AI race. This escalation underscores China's determination to lead in AI technology despite significant geopolitical challenges.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
