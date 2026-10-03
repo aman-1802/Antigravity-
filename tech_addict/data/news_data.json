@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-10-02T09:59:37.104236+00:00",
+  "last_updated": "2026-10-03T04:34:18.505701+00:00",
   "articles": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published_date": "2026-10-02T16:15:00+00:00",
+      "summary": "OpenAI's new guide for the GPT-6 family empowers startups to optimize their AI integration by fine-tuning model selection, enhancing reasoning capabilities, and streamlining workflows, marking a significant leap in harnessing advanced AI for practical applications. This breakthrough not only elevates operational efficiency but also positions businesses to leverage cutting-edge technology for competitive advantage.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published_date": "2026-10-02T15:00:00+00:00",
+      "summary": "Google AI has unveiled groundbreaking advancements in artificial intelligence this September, showcasing innovations that promise to revolutionize industries and enhance everyday user experiences, underscoring the tech giant's commitment to leading the AI frontier.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "published_date": "2026-10-02T13:00:39+00:00",
+      "summary": "NVIDIA's DGX Spark, featuring 64GB of unified memory, revolutionizes local AI development by enabling developers to run increasingly sophisticated open models on a wider range of devices, significantly enhancing the scalability and accessibility of AI applications. This breakthrough not only accelerates the transition of AI from experimental to everyday use but also empowers builders to innovate locally without reliance on cloud infrastructure.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China’s PLA sets up new military academy colleges for AI, drones and discipline",
+      "link": "https://www.scmp.com/news/china/military/article/3369575/chinas-pla-sets-new-military-academy-colleges-ai-drones-and-discipline?utm_source=rss_feed",
+      "published_date": "2026-10-02T12:00:16+00:00",
+      "summary": "China's establishment of new military academies focused on artificial intelligence and drone technology marks a significant leap in its modernization efforts, positioning the People’s Liberation Army to enhance its technological capabilities and operational efficiency as it approaches its centennial goals. This strategic move underscores the importance of advanced training in high-tech warfare and discipline, reflecting a broader commitment to military innovation and readiness.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "China stockpiles ASML lithography tools, spurring US calls for complete export ban",
+      "link": "https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban?utm_source=rss_feed",
+      "published_date": "2026-10-02T12:00:11+00:00",
+      "summary": "China's significant accumulation of ASML's advanced immersion lithography machines, totaling hundreds of billions in value, has ignited urgent calls from former US officials for a complete export ban, highlighting a critical geopolitical tension in the global semiconductor supply chain that could reshape technological dominance. This development underscores the escalating race for semiconductor supremacy and the potential implications for national security and economic competitiveness.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Life on a hair trigger",
+      "link": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "published_date": "2026-10-02T10:00:00+00:00",
+      "summary": "• The pervasive presence of violence shapes not only societal structures but also individual psyches, creating a cycle of fear and aggression.  \n• Guns and poverty serve as tangible manifestations of deeper social maladies, reflecting a collective mindset that normalizes brutality.  \n• The interplay between external violence and internalized trauma reveals how environments can dictate moral and ethical frameworks.  \n• Understanding the roots of this violence requires a philosophical inquiry into human nature and the societal constructs that perpetuate suffering.  \n• Ultimately, breaking the cycle demands not just systemic change but a profound transformation in consciousness and empathy.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "China’s AI compute ambitions demand innovation",
       "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
@@ -8,70 +56,6 @@
       "summary": "China's ambitious five-year plan aims to quadruple its AI computing capacity by 2030, necessitating groundbreaking innovation and resource coordination in the face of U.S. restrictions on advanced chip imports, highlighting a critical juncture in the global AI race. This escalation underscores China's determination to lead in AI technology despite significant geopolitical challenges.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-      "published_date": "2026-10-01T23:44:13+00:00",
-      "summary": "NVIDIA's Blackwell GPUs have enabled the launch of OpenAI's GPT-6 Astra Ultrafast, delivering up to 8x faster token generation compared to previous models, which significantly enhances the efficiency and responsiveness of AI applications for developers and users alike. This breakthrough not only revolutionizes the speed of AI interactions but also sets a new standard for performance in natural language processing.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "published_date": "2026-10-01T17:00:00+00:00",
-      "summary": "OpenAI's exploration of advanced AI highlights its potential to revolutionize the execution of routine tasks, suggesting that this capability could be the key driver of innovation and economic growth in the coming era. By enhancing the efficiency of foundational work, AI may accelerate the realization of groundbreaking ideas, fundamentally reshaping the landscape of progress.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "published_date": "2026-10-01T16:00:00+00:00",
-      "summary": "Albertsons Companies is revolutionizing the retail landscape by leveraging ChatGPT Enterprise and the OpenAI API to enhance operational efficiency and streamline the grocery shopping experience for millions, marking a significant advancement in how technology can transform consumer services. This breakthrough not only promises to elevate customer satisfaction but also sets a new standard for innovation in the retail sector.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Microsoft 365 and LinkedIn leadership update",
-      "link": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
-      "published_date": "2026-10-01T15:03:27+00:00",
-      "summary": "Ryan Roslansky's departure after nearly 18 years marks a significant leadership shift at Microsoft and LinkedIn, potentially reshaping the strategic direction of both platforms and their integration in the evolving landscape of digital collaboration and professional networking. This transition underscores the dynamic nature of tech leadership and the ongoing evolution of Microsoft's business strategy.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Fall Into 25 New Games on GeForce NOW This October",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-      "published_date": "2026-10-01T13:00:54+00:00",
-      "summary": "NVIDIA's GeForce NOW is set to enhance the gaming experience this October by adding 25 new titles, including the highly anticipated remaster of The Witcher 3, marking a significant expansion of its cloud gaming library just in time for the spooky season. This breakthrough not only broadens access to top-tier games but also reinforces NVIDIA's commitment to delivering cutting-edge gaming experiences to its users.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "published_date": "2026-10-01T13:00:49+00:00",
-      "summary": "NVIDIA's AI factories represent a groundbreaking shift in scalable, high-capacity production, with each megawatt facility costing around $60 million and designed to maximize return on investment through enhanced earning potential and operational efficiency. This innovation not only redefines manufacturing economics but also positions AI as a central pillar in driving future industrial growth.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Green tree ants are famous in the tropics",
-      "link": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
-      "published_date": "2026-10-01T10:01:00+00:00",
-      "summary": "• Green tree ants exemplify a fascinating survival strategy that blends deception with adaptation in the competitive ecosystem of tropical forests.  \n• Their ability to mimic the behavior and appearance of more formidable species highlights the intricate dance of survival in nature.  \n• This ‘fake it till you make it’ approach raises profound questions about identity and authenticity in both the animal kingdom and human society.  \n• The dynamic interactions among species in these forests illustrate the complex web of relationships that define ecological balance.  \n• Ultimately, the resilience of green tree ants invites reflection on the lengths to which life will go to thrive amidst adversity.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Reason is more than a tool",
-      "link": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
-      "published_date": "2026-10-01T10:00:00+00:00",
-      "summary": "• Human reason transcends mere optimization, embodying a complex interplay of ethics, creativity, and understanding.  \n• Kant's philosophy suggests that reason is not just a tool for problem-solving but a fundamental aspect of our humanity.  \n• The essence of human intelligence lies in our ability to question, reflect, and derive meaning beyond mere efficiency.  \n• As machines advance, the unique qualities of human reason challenge us to redefine what it means to be intelligent.  \n• Embracing the depth of our reasoning capabilities may illuminate paths to coexistence with increasingly capable technologies.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
