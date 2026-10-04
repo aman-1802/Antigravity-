@@ -1,61 +1,13 @@
 {
-  "last_updated": "2026-10-03T09:22:34.712136+00:00",
+  "last_updated": "2026-10-04T05:04:45.752399+00:00",
   "articles": [
     {
-      "title": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
-      "link": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china?utm_source=rss_feed",
-      "published_date": "2026-10-02T21:57:01+00:00",
-      "summary": "A California tech entrepreneur has been arrested for allegedly orchestrating a $300 million scheme to smuggle Nvidia AI servers to China, highlighting the escalating tensions and fierce competition in the global AI landscape as nations tighten export controls to safeguard technological advancements. This case underscores the critical importance of safeguarding cutting-edge technology amidst geopolitical rivalries.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "published_date": "2026-10-02T16:15:00+00:00",
-      "summary": "OpenAI's new guide for the GPT-6 family empowers startups to optimize their AI integration by fine-tuning model selection, enhancing reasoning capabilities, and streamlining workflows, marking a significant leap in harnessing advanced AI for practical applications. This breakthrough not only elevates operational efficiency but also positions businesses to leverage cutting-edge technology for competitive advantage.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "published_date": "2026-10-02T15:00:00+00:00",
-      "summary": "Google AI has unveiled groundbreaking advancements in artificial intelligence this September, showcasing innovations that promise to revolutionize industries and enhance everyday user experiences, underscoring the tech giant's commitment to leading the AI frontier.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "published_date": "2026-10-02T13:00:39+00:00",
-      "summary": "NVIDIA's DGX Spark, featuring 64GB of unified memory, revolutionizes local AI development by enabling developers to run increasingly sophisticated open models on a wider range of devices, significantly enhancing the scalability and accessibility of AI applications. This breakthrough not only accelerates the transition of AI from experimental to everyday use but also empowers builders to innovate locally without reliance on cloud infrastructure.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China’s PLA sets up new military academy colleges for AI, drones and discipline",
-      "link": "https://www.scmp.com/news/china/military/article/3369575/chinas-pla-sets-new-military-academy-colleges-ai-drones-and-discipline?utm_source=rss_feed",
-      "published_date": "2026-10-02T12:00:16+00:00",
-      "summary": "China's establishment of new military academies focused on artificial intelligence and drone technology marks a significant leap in its modernization efforts, positioning the People’s Liberation Army to enhance its technological capabilities and operational efficiency as it approaches its centennial goals. This strategic move underscores the importance of advanced training in high-tech warfare and discipline, reflecting a broader commitment to military innovation and readiness.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "China stockpiles ASML lithography tools, spurring US calls for complete export ban",
-      "link": "https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban?utm_source=rss_feed",
-      "published_date": "2026-10-02T12:00:11+00:00",
-      "summary": "China's significant accumulation of ASML's advanced immersion lithography machines, totaling hundreds of billions in value, has ignited urgent calls from former US officials for a complete export ban, highlighting a critical geopolitical tension in the global semiconductor supply chain that could reshape technological dominance. This development underscores the escalating race for semiconductor supremacy and the potential implications for national security and economic competitiveness.",
+      "title": "How US-China RISC-V collaboration is deepening despite chip rivalry",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3369590/how-us-china-risc-v-collaboration-deepening-despite-chip-rivalry?utm_source=rss_feed",
+      "published_date": "2026-10-03T13:00:16+00:00",
+      "summary": "The collaboration between US intellectual property provider MIPS and Chinese firms in advancing the open-source RISC-V chip architecture signifies a remarkable breakthrough in cross-border cooperation, underscoring that innovation can thrive even amidst escalating tech tensions between the US and China. This partnership not only accelerates the global adoption of RISC-V but also challenges the notion that geopolitical rivalries can stifle technological progress.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Life on a hair trigger",
-      "link": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
-      "published_date": "2026-10-02T10:00:00+00:00",
-      "summary": "• The pervasive presence of violence shapes not only societal structures but also individual psyches, creating a cycle of fear and aggression.  \n• Guns and poverty serve as tangible manifestations of deeper social maladies, reflecting a collective mindset that normalizes brutality.  \n• The interplay between external violence and internalized trauma reveals how environments can dictate moral and ethical frameworks.  \n• Understanding the roots of this violence requires a philosophical inquiry into human nature and the societal constructs that perpetuate suffering.  \n• Ultimately, breaking the cycle demands not just systemic change but a profound transformation in consciousness and empathy.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
