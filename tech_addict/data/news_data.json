@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-10-05T04:51:01.379645+00:00",
+  "last_updated": "2026-10-05T10:46:21.222737+00:00",
   "articles": [
     {
-      "title": "Dario Amodei’s American AI imperialism",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3369516/dario-amodeis-american-ai-imperialism?utm_source=rss_feed",
-      "published_date": "2026-10-04T21:30:09+00:00",
-      "summary": "Dario Amodei, CEO of Anthropic, embodies a troubling vision of American AI supremacy, asserting that only the U.S. and its industry should dictate the future of global AI development, potentially sidelining other nations and raising ethical concerns about technological imperialism. This mindset not only reflects a dangerous hubris but also threatens to exacerbate global inequalities in AI governance and innovation.",
+      "title": "All-around junior male",
+      "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
+      "published_date": "2026-10-05T10:01:00+00:00",
+      "summary": "• The act of kicking a ball into the air symbolizes the human struggle against physical limitations and the pursuit of excellence.  \n• Athletes embody a unique blend of artistry and athleticism, transforming a simple act into a profound expression of will.  \n• Gravity serves as both an adversary and a canvas, highlighting the tension between human ambition and the laws of nature.  \n• The one-foot high kick becomes a metaphor for life's challenges, where mastery requires not just skill but also resilience and creativity.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "published_date": "2026-10-05T10:00:00+00:00",
+      "summary": "OpenAI's introduction of a new visual ad format in ChatGPT, along with enhanced measurement tools and strategic partnerships, revolutionizes how brands engage with consumers in an AI-driven landscape, significantly improving advertising effectiveness and relevance. This breakthrough not only transforms user experience but also sets a new standard for brand interaction in digital environments.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "A life in episodes",
+      "link": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
+      "published_date": "2026-10-05T10:00:00+00:00",
+      "summary": "• The act of sharing personal stories on social media transforms individual memory into a collective narrative.  \n• Readers' feedback reshapes the author's understanding of their own life, blurring the lines between memory and interpretation.  \n• Each episode serves as a lens through which both the author and readers confront the fluidity of identity and experience.  \n• The memoir becomes a collaborative tapestry, revealing how community influences personal history and self-perception.  \n• Ultimately, the journey illustrates that our lives are not solitary tales but interconnected episodes shaped by shared reflections.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Days after Xi-Trump summit, top Taiwan diplomat opens de facto consulate in the US",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3369770/days-after-xi-trump-summit-top-taiwan-diplomat-opens-de-facto-consulate-us?utm_source=rss_feed",
+      "published_date": "2026-10-05T07:13:01+00:00",
+      "summary": "Taiwan's foreign minister has opened a de facto consulate in Arizona, underscoring a significant strengthening of economic ties between the U.S. and Taiwan just days after a high-profile summit between Presidents Xi and Trump, highlighting the geopolitical shift in the semiconductor industry amidst rising tensions in the region.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3369748/huawei-qualcomm-strike-multi-year-patent-agreement-across-5g-ai?utm_source=rss_feed",
+      "published_date": "2026-10-05T06:00:10+00:00",
+      "summary": "Huawei and Qualcomm have forged a groundbreaking multi-year patent agreement, marking Qualcomm's first financial commitment to license Huawei's patents, which spans critical technologies in 5G, artificial intelligence, and computing, underscoring a significant shift in the competitive landscape of the tech industry. This collaboration not only enhances both companies' technological capabilities but also signals a potential thaw in US-China tech relations, with far-reaching implications for global innovation and market dynamics.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
