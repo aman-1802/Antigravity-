@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-04T10:02:42.252414+00:00",
+  "last_updated": "2026-10-05T04:51:01.379645+00:00",
   "articles": [
     {
-      "title": "How US-China RISC-V collaboration is deepening despite chip rivalry",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3369590/how-us-china-risc-v-collaboration-deepening-despite-chip-rivalry?utm_source=rss_feed",
-      "published_date": "2026-10-03T13:00:16+00:00",
-      "summary": "The collaboration between US intellectual property provider MIPS and Chinese firms in advancing the open-source RISC-V chip architecture signifies a remarkable breakthrough in cross-border cooperation, underscoring that innovation can thrive even amidst escalating tech tensions between the US and China. This partnership not only accelerates the global adoption of RISC-V but also challenges the notion that geopolitical rivalries can stifle technological progress.",
+      "title": "Dario Amodei’s American AI imperialism",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3369516/dario-amodeis-american-ai-imperialism?utm_source=rss_feed",
+      "published_date": "2026-10-04T21:30:09+00:00",
+      "summary": "Dario Amodei, CEO of Anthropic, embodies a troubling vision of American AI supremacy, asserting that only the U.S. and its industry should dictate the future of global AI development, potentially sidelining other nations and raising ethical concerns about technological imperialism. This mindset not only reflects a dangerous hubris but also threatens to exacerbate global inequalities in AI governance and innovation.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
