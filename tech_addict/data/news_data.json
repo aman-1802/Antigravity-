@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-05T10:46:21.222737+00:00",
+  "last_updated": "2026-10-06T05:38:17.603951+00:00",
   "articles": [
+    {
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "published_date": "2026-10-05T15:00:00+00:00",
+      "summary": "OpenAI is pioneering a novel approach to text watermarking in compliance with EU regulations, ensuring that content authenticity can be verified while prioritizing access for researchers, a critical step in safeguarding intellectual property and enhancing transparency in AI-generated text. This breakthrough not only sets a precedent for ethical AI usage but also addresses growing concerns over misinformation and content ownership in the digital age.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "link": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+      "published_date": "2026-10-05T13:00:57+00:00",
+      "summary": "NVIDIA's groundbreaking AI technology is revolutionizing breast cancer care by streamlining the process from diagnosis to treatment planning, addressing critical gaps such as low screening rates and delayed test results, ultimately aiming to save lives and improve outcomes for women. This innovation not only enhances the efficiency of radiologists but also empowers timely interventions in a disease that affects millions.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
     {
       "title": "All-around junior male",
       "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
@@ -24,14 +40,6 @@
       "summary": "• The act of sharing personal stories on social media transforms individual memory into a collective narrative.  \n• Readers' feedback reshapes the author's understanding of their own life, blurring the lines between memory and interpretation.  \n• Each episode serves as a lens through which both the author and readers confront the fluidity of identity and experience.  \n• The memoir becomes a collaborative tapestry, revealing how community influences personal history and self-perception.  \n• Ultimately, the journey illustrates that our lives are not solitary tales but interconnected episodes shaped by shared reflections.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Days after Xi-Trump summit, top Taiwan diplomat opens de facto consulate in the US",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3369770/days-after-xi-trump-summit-top-taiwan-diplomat-opens-de-facto-consulate-us?utm_source=rss_feed",
-      "published_date": "2026-10-05T07:13:01+00:00",
-      "summary": "Taiwan's foreign minister has opened a de facto consulate in Arizona, underscoring a significant strengthening of economic ties between the U.S. and Taiwan just days after a high-profile summit between Presidents Xi and Trump, highlighting the geopolitical shift in the semiconductor industry amidst rising tensions in the region.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
     },
     {
       "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI",
