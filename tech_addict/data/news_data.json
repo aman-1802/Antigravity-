@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-06T05:38:17.603951+00:00",
+  "last_updated": "2026-10-06T10:39:30.257161+00:00",
   "articles": [
+    {
+      "title": "How to assemble science",
+      "link": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+      "published_date": "2026-10-06T10:00:00+00:00",
+      "summary": "• The relentless influx of knowledge challenges our ability to discern meaning and relevance in an ever-expanding sea of information.  \n• Assembling science requires not just accumulation but also a critical framework for understanding and contextualizing discoveries.  \n• The interplay between collaboration and competition in scientific communities shapes the evolution of knowledge and innovation.  \n• Embracing uncertainty and complexity is essential for navigating the intricate landscape of modern science.  \n• Ultimately, the quest for knowledge is a reflection of humanity's deeper desire to understand our place in the universe.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Nvidia-backed Reflection AI challenges Chinese dominance in open-weight models",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3369885/nvidia-backed-reflection-ai-challenges-chinese-dominance-open-weight-models?utm_source=rss_feed",
+      "published_date": "2026-10-06T07:00:07+00:00",
+      "summary": "Nvidia-backed Reflection AI has launched Beam, a groundbreaking open-weight model designed to rival China's leading AI systems, potentially setting a new standard for token efficiency in coding and reasoning tasks. This development not only enhances competition in the AI landscape but also signifies a pivotal shift in the balance of power towards US innovation in artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Our approach to EU text provenance rules",
       "link": "https://openai.com/index/eu-text-provenance",
@@ -16,38 +32,6 @@
       "summary": "NVIDIA's groundbreaking AI technology is revolutionizing breast cancer care by streamlining the process from diagnosis to treatment planning, addressing critical gaps such as low screening rates and delayed test results, ultimately aiming to save lives and improve outcomes for women. This innovation not only enhances the efficiency of radiologists but also empowers timely interventions in a disease that affects millions.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "All-around junior male",
-      "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
-      "published_date": "2026-10-05T10:01:00+00:00",
-      "summary": "• The act of kicking a ball into the air symbolizes the human struggle against physical limitations and the pursuit of excellence.  \n• Athletes embody a unique blend of artistry and athleticism, transforming a simple act into a profound expression of will.  \n• Gravity serves as both an adversary and a canvas, highlighting the tension between human ambition and the laws of nature.  \n• The one-foot high kick becomes a metaphor for life's challenges, where mastery requires not just skill but also resilience and creativity.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "published_date": "2026-10-05T10:00:00+00:00",
-      "summary": "OpenAI's introduction of a new visual ad format in ChatGPT, along with enhanced measurement tools and strategic partnerships, revolutionizes how brands engage with consumers in an AI-driven landscape, significantly improving advertising effectiveness and relevance. This breakthrough not only transforms user experience but also sets a new standard for brand interaction in digital environments.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "A life in episodes",
-      "link": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
-      "published_date": "2026-10-05T10:00:00+00:00",
-      "summary": "• The act of sharing personal stories on social media transforms individual memory into a collective narrative.  \n• Readers' feedback reshapes the author's understanding of their own life, blurring the lines between memory and interpretation.  \n• Each episode serves as a lens through which both the author and readers confront the fluidity of identity and experience.  \n• The memoir becomes a collaborative tapestry, revealing how community influences personal history and self-perception.  \n• Ultimately, the journey illustrates that our lives are not solitary tales but interconnected episodes shaped by shared reflections.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3369748/huawei-qualcomm-strike-multi-year-patent-agreement-across-5g-ai?utm_source=rss_feed",
-      "published_date": "2026-10-05T06:00:10+00:00",
-      "summary": "Huawei and Qualcomm have forged a groundbreaking multi-year patent agreement, marking Qualcomm's first financial commitment to license Huawei's patents, which spans critical technologies in 5G, artificial intelligence, and computing, underscoring a significant shift in the competitive landscape of the tech industry. This collaboration not only enhances both companies' technological capabilities but also signals a potential thaw in US-China tech relations, with far-reaching implications for global innovation and market dynamics.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
