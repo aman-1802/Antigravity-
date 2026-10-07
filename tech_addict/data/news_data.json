@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-10-06T10:39:30.257161+00:00",
+  "last_updated": "2026-10-07T05:08:38.994868+00:00",
   "articles": [
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "published_date": "2026-10-06T16:00:00+00:00",
+      "summary": "Atlassian and OpenAI's expanded partnership aims to revolutionize enterprise productivity by integrating advanced AI models with organizational knowledge, enabling teams to more effectively plan, build, and deliver projects. This collaboration could significantly enhance decision-making and operational efficiency across industries.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "published_date": "2026-10-06T13:00:19+00:00",
+      "summary": "Telecom operators are revolutionizing their AI strategies by adopting open models, enabling them to enhance trust, control, and customization across vital operations such as autonomous networks and customer care. This shift not only reduces costs but also empowers telcos to innovate and adapt in an increasingly competitive landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Would China agree to slow AI development? That’s the wrong question",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3369561/would-china-agree-slow-ai-development-thats-wrong-question?utm_source=rss_feed",
+      "published_date": "2026-10-06T12:30:08+00:00",
+      "summary": "The article highlights the critical oversight in the recent US-China summit discussions, where the absence of dialogue on a potential pause in AI development underscores the escalating competition in frontier technologies, emphasizing that the real question lies not in whether China will agree to slow down, but in the implications of unchecked AI advancements for global stability and innovation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
+      "link": "https://www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge?utm_source=rss_feed",
+      "published_date": "2026-10-06T12:00:07+00:00",
+      "summary": "As China's AI race intensifies, the emergence of 'model fatigue' highlights the challenges faced by tech companies in keeping up with rapid advancements, exemplified by simultaneous high-profile releases from Xiaomi, Anthropic, and OpenAI that underscore the relentless pace of innovation in the industry. This phenomenon not only raises concerns about sustainability and differentiation in AI development but also signals a critical juncture where companies must innovate not just in technology, but in their approach to managing the overwhelming influx of new models.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "published_date": "2026-10-06T12:00:00+00:00",
+      "summary": "Jump Trading is revolutionizing quantitative research by integrating OpenAI's ChatGPT to enhance data analysis and streamline workflows, significantly improving the efficiency and accuracy of their trading strategies. This breakthrough not only accelerates research capabilities but also sets a new standard for the fusion of AI and human expertise in the financial sector.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "published_date": "2026-10-06T12:00:00+00:00",
+      "summary": "OpenAI has made a groundbreaking advancement by publishing new results on unresolved mathematical problems, leveraging an internal frontier model, and providing Lean proof formalizations on GitHub, which could significantly enhance collaborative research and problem-solving in the mathematical community. This initiative not only democratizes access to cutting-edge AI-driven mathematical insights but also sets a precedent for transparency and collaboration in AI research.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "published_date": "2026-10-06T10:00:00+00:00",
+      "summary": "OpenAI's collaboration with Ironclad is revolutionizing the integration of AI in professional environments by training agents to navigate and optimize complex contracting workflows, significantly enhancing efficiency and accuracy in legal and business processes. This breakthrough not only streamlines operations but also sets a new standard for AI's role in professional work.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "How to assemble science",
       "link": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
@@ -16,22 +72,6 @@
       "summary": "Nvidia-backed Reflection AI has launched Beam, a groundbreaking open-weight model designed to rival China's leading AI systems, potentially setting a new standard for token efficiency in coding and reasoning tasks. This development not only enhances competition in the AI landscape but also signifies a pivotal shift in the balance of power towards US innovation in artificial intelligence.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "published_date": "2026-10-05T15:00:00+00:00",
-      "summary": "OpenAI is pioneering a novel approach to text watermarking in compliance with EU regulations, ensuring that content authenticity can be verified while prioritizing access for researchers, a critical step in safeguarding intellectual property and enhancing transparency in AI-generated text. This breakthrough not only sets a precedent for ethical AI usage but also addresses growing concerns over misinformation and content ownership in the digital age.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "link": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-      "published_date": "2026-10-05T13:00:57+00:00",
-      "summary": "NVIDIA's groundbreaking AI technology is revolutionizing breast cancer care by streamlining the process from diagnosis to treatment planning, addressing critical gaps such as low screening rates and delayed test results, ultimately aiming to save lives and improve outcomes for women. This innovation not only enhances the efficiency of radiologists but also empowers timely interventions in a disease that affects millions.",
-      "source": "NVIDIA",
-      "category": "AI"
     }
   ]
 }
