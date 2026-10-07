@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-10-07T05:08:38.994868+00:00",
+  "last_updated": "2026-10-07T10:30:12.892899+00:00",
   "articles": [
+    {
+      "title": "I won’t remain alone",
+      "link": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
+      "published_date": "2026-10-07T10:01:00+00:00",
+      "summary": "• The moral dilemma of sacrificing one for the many highlights the profound complexities of love and responsibility.  \n• Tragedy often forces individuals to confront the fragility of life and the weight of their decisions.  \n• The elderly couple's struggle reflects the universal tension between personal grief and the greater good.  \n• In moments of crisis, the essence of humanity is revealed through acts of selflessness and sacrifice.  \n• Ultimately, the choice to let go becomes a poignant exploration of hope amidst despair.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "How closer China-US ties – and more Xi-Trump summits – could work in Iran’s favour",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3370009/how-closer-china-us-ties-and-more-xi-trump-summits-could-work-irans-favour?utm_source=rss_feed",
+      "published_date": "2026-10-07T09:00:07+00:00",
+      "summary": "The recent rapprochement between China and the US, highlighted by high-level summits, could inadvertently bolster Iran's position on the global stage as both powers seek to navigate their complex relationship with Tehran, signaling a potential shift in geopolitical dynamics that could reshape regional alliances and influence.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "US risks ceding AI governance leadership to China and the EU",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3369823/us-risks-ceding-ai-governance-leadership-china-and-eu?utm_source=rss_feed",
+      "published_date": "2026-10-07T08:30:06+00:00",
+      "summary": "The U.S. risks losing its leadership in AI governance to China and the EU as President Trump's administration promotes a voluntary, non-enforceable agreement for AI companies to self-regulate, highlighting the growing significance of AI in global economic and military dynamics. This shift underscores the urgent need for robust regulatory frameworks to maintain competitive advantage and ethical standards in an increasingly AI-driven world.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s ‘city of the future’, Xiongan, hunting high-value tech firms: sources",
+      "link": "https://www.scmp.com/tech/article/3369879/chinas-city-future-xiongan-hunting-high-value-tech-firms-sources?utm_source=rss_feed",
+      "published_date": "2026-10-07T03:00:08+00:00",
+      "summary": "China's Xiongan New Area is strategically targeting high-value tech firms to establish itself as a hub for innovation and industry, aiming to attract companies with valuations of 10 billion yuan and facilitate their public listings, which could significantly reshape the tech landscape in the region. This initiative not only underscores China's ambition to decentralize its tech ecosystem but also positions Xiongan as a critical player in the global technology arena.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "link": "https://openai.com/index/atlassian-partnership",
@@ -48,30 +80,6 @@
       "summary": "OpenAI has made a groundbreaking advancement by publishing new results on unresolved mathematical problems, leveraging an internal frontier model, and providing Lean proof formalizations on GitHub, which could significantly enhance collaborative research and problem-solving in the mathematical community. This initiative not only democratizes access to cutting-edge AI-driven mathematical insights but also sets a precedent for transparency and collaboration in AI research.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published_date": "2026-10-06T10:00:00+00:00",
-      "summary": "OpenAI's collaboration with Ironclad is revolutionizing the integration of AI in professional environments by training agents to navigate and optimize complex contracting workflows, significantly enhancing efficiency and accuracy in legal and business processes. This breakthrough not only streamlines operations but also sets a new standard for AI's role in professional work.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How to assemble science",
-      "link": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
-      "published_date": "2026-10-06T10:00:00+00:00",
-      "summary": "• The relentless influx of knowledge challenges our ability to discern meaning and relevance in an ever-expanding sea of information.  \n• Assembling science requires not just accumulation but also a critical framework for understanding and contextualizing discoveries.  \n• The interplay between collaboration and competition in scientific communities shapes the evolution of knowledge and innovation.  \n• Embracing uncertainty and complexity is essential for navigating the intricate landscape of modern science.  \n• Ultimately, the quest for knowledge is a reflection of humanity's deeper desire to understand our place in the universe.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Nvidia-backed Reflection AI challenges Chinese dominance in open-weight models",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3369885/nvidia-backed-reflection-ai-challenges-chinese-dominance-open-weight-models?utm_source=rss_feed",
-      "published_date": "2026-10-06T07:00:07+00:00",
-      "summary": "Nvidia-backed Reflection AI has launched Beam, a groundbreaking open-weight model designed to rival China's leading AI systems, potentially setting a new standard for token efficiency in coding and reasoning tasks. This development not only enhances competition in the AI landscape but also signifies a pivotal shift in the balance of power towards US innovation in artificial intelligence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
