@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-10-07T10:30:12.892899+00:00",
+  "last_updated": "2026-10-08T05:19:07.460991+00:00",
   "articles": [
+    {
+      "title": "‘China already has spies’ at US AI labs, former Anthropic researcher warns",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3370108/china-already-has-spies-us-ai-labs-claims-ex-anthropic-researcher?utm_source=rss_feed",
+      "published_date": "2026-10-07T23:39:15+00:00",
+      "summary": "A former researcher from Anthropic has raised alarming concerns that China may already have infiltrated US AI labs, potentially allowing them to steal critical advancements and rapidly close the technological gap, highlighting a significant threat to national security and innovation in the AI sector. This revelation underscores the urgent need for enhanced security measures within the industry to safeguard intellectual property and maintain a competitive edge.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
+      "published_date": "2026-10-07T21:01:58+00:00",
+      "summary": "Apple and The King’s Trust have unveiled a groundbreaking initiative aimed at empowering young creatives through an immersive education program, significantly enhancing their transition into the workforce and fostering the next generation of innovators. This collaboration underscores Apple's commitment to social responsibility and its role in shaping a more skilled and creative future workforce.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "US issues first outbound investment fine over Chinese robotics AI deal",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal?utm_source=rss_feed",
+      "published_date": "2026-10-07T19:27:59+00:00",
+      "summary": "The US Treasury has imposed its first fine for non-compliance with regulations on American investments in sensitive Chinese technologies, penalizing Amidi, LLC $200,000 for failing to report a significant investment in a Shanghai robotics AI firm, marking a critical step in tightening oversight of foreign investments in strategic sectors. This breakthrough underscores the growing scrutiny of technology transfers to China, which could have significant implications for national security and global tech competition.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "published_date": "2026-10-07T18:45:28+00:00",
+      "summary": "NVIDIA and Microsoft have unveiled a groundbreaking collaboration to integrate AI agents into Windows PCs, marking a transformative leap in personal computing that promises to redefine user interaction and productivity. This partnership not only revitalizes the legacy of Windows but also sets the stage for a new era of intelligent computing experiences.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "published_date": "2026-10-07T12:00:00+00:00",
+      "summary": "OpenAI's introduction of College Planner within ChatGPT for Teens revolutionizes the college application process by equipping students with AI-driven tools like flashcards and quizzes, while also empowering them through a dedicated teen AI council, ultimately shaping the future of education and technology integration. This breakthrough not only enhances academic support but also fosters a generation of informed, tech-savvy individuals ready to navigate their futures.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "published_date": "2026-10-07T12:00:00+00:00",
+      "summary": "Google AI has unveiled Playground, a groundbreaking platform that empowers users to design and engage with custom games, revolutionizing the way individuals interact with gaming by blending creativity and technology in an accessible format. This innovation not only democratizes game development but also fosters a new era of personalized entertainment experiences.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "China’s open-weight AI models are winning global users. Who is capturing the value?",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value?utm_source=rss_feed",
+      "published_date": "2026-10-07T11:00:09+00:00",
+      "summary": "China's open-weight AI models are rapidly gaining global traction, revolutionizing access to advanced technology while raising concerns about value capture, as third-party providers profit more than the original developers. This shift not only democratizes AI usage but also challenges traditional business models in the tech industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "I won’t remain alone",
       "link": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
@@ -8,14 +64,6 @@
       "summary": "• The moral dilemma of sacrificing one for the many highlights the profound complexities of love and responsibility.  \n• Tragedy often forces individuals to confront the fragility of life and the weight of their decisions.  \n• The elderly couple's struggle reflects the universal tension between personal grief and the greater good.  \n• In moments of crisis, the essence of humanity is revealed through acts of selflessness and sacrifice.  \n• Ultimately, the choice to let go becomes a poignant exploration of hope amidst despair.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "How closer China-US ties – and more Xi-Trump summits – could work in Iran’s favour",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3370009/how-closer-china-us-ties-and-more-xi-trump-summits-could-work-irans-favour?utm_source=rss_feed",
-      "published_date": "2026-10-07T09:00:07+00:00",
-      "summary": "The recent rapprochement between China and the US, highlighted by high-level summits, could inadvertently bolster Iran's position on the global stage as both powers seek to navigate their complex relationship with Tehran, signaling a potential shift in geopolitical dynamics that could reshape regional alliances and influence.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
     },
     {
       "title": "US risks ceding AI governance leadership to China and the EU",
@@ -26,58 +74,10 @@
       "category": "SCMP"
     },
     {
-      "title": "China’s ‘city of the future’, Xiongan, hunting high-value tech firms: sources",
-      "link": "https://www.scmp.com/tech/article/3369879/chinas-city-future-xiongan-hunting-high-value-tech-firms-sources?utm_source=rss_feed",
-      "published_date": "2026-10-07T03:00:08+00:00",
-      "summary": "China's Xiongan New Area is strategically targeting high-value tech firms to establish itself as a hub for innovation and industry, aiming to attract companies with valuations of 10 billion yuan and facilitate their public listings, which could significantly reshape the tech landscape in the region. This initiative not only underscores China's ambition to decentralize its tech ecosystem but also positions Xiongan as a critical player in the global technology arena.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "link": "https://openai.com/index/atlassian-partnership",
-      "published_date": "2026-10-06T16:00:00+00:00",
-      "summary": "Atlassian and OpenAI's expanded partnership aims to revolutionize enterprise productivity by integrating advanced AI models with organizational knowledge, enabling teams to more effectively plan, build, and deliver projects. This collaboration could significantly enhance decision-making and operational efficiency across industries.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-      "published_date": "2026-10-06T13:00:19+00:00",
-      "summary": "Telecom operators are revolutionizing their AI strategies by adopting open models, enabling them to enhance trust, control, and customization across vital operations such as autonomous networks and customer care. This shift not only reduces costs but also empowers telcos to innovate and adapt in an increasingly competitive landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Would China agree to slow AI development? That’s the wrong question",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3369561/would-china-agree-slow-ai-development-thats-wrong-question?utm_source=rss_feed",
-      "published_date": "2026-10-06T12:30:08+00:00",
-      "summary": "The article highlights the critical oversight in the recent US-China summit discussions, where the absence of dialogue on a potential pause in AI development underscores the escalating competition in frontier technologies, emphasizing that the real question lies not in whether China will agree to slow down, but in the implications of unchecked AI advancements for global stability and innovation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
-      "link": "https://www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge?utm_source=rss_feed",
-      "published_date": "2026-10-06T12:00:07+00:00",
-      "summary": "As China's AI race intensifies, the emergence of 'model fatigue' highlights the challenges faced by tech companies in keeping up with rapid advancements, exemplified by simultaneous high-profile releases from Xiaomi, Anthropic, and OpenAI that underscore the relentless pace of innovation in the industry. This phenomenon not only raises concerns about sustainability and differentiation in AI development but also signals a critical juncture where companies must innovate not just in technology, but in their approach to managing the overwhelming influx of new models.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://openai.com/index/jump-trading",
-      "published_date": "2026-10-06T12:00:00+00:00",
-      "summary": "Jump Trading is revolutionizing quantitative research by integrating OpenAI's ChatGPT to enhance data analysis and streamline workflows, significantly improving the efficiency and accuracy of their trading strategies. This breakthrough not only accelerates research capabilities but also sets a new standard for the fusion of AI and human expertise in the financial sector.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "published_date": "2026-10-06T12:00:00+00:00",
-      "summary": "OpenAI has made a groundbreaking advancement by publishing new results on unresolved mathematical problems, leveraging an internal frontier model, and providing Lean proof formalizations on GitHub, which could significantly enhance collaborative research and problem-solving in the mathematical community. This initiative not only democratizes access to cutting-edge AI-driven mathematical insights but also sets a precedent for transparency and collaboration in AI research.",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "published_date": "2026-10-07T07:00:00+00:00",
+      "summary": "Radisson Hotel Group has revolutionized travel planning by integrating a ChatGPT plugin, developed in partnership with Accenture, that enables travelers to effortlessly discover, compare, and book hotels through conversational AI, significantly enhancing the user experience in the hospitality sector. This breakthrough not only streamlines the booking process but also positions Radisson at the forefront of tech-driven customer engagement in the competitive travel industry.",
       "source": "OpenAI",
       "category": "AI"
     }
