@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-08T05:19:07.460991+00:00",
+  "last_updated": "2026-10-08T10:51:19.962000+00:00",
   "articles": [
+    {
+      "title": "Evolution of Manhattan",
+      "link": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
+      "published_date": "2026-10-08T10:01:00+00:00",
+      "summary": "• The transformation of Manhattan from Lenape territory to a bustling urban center illustrates the relentless march of progress and change.  \n• Each layer of development reflects not just architectural ambition but also the complex interplay of culture, commerce, and community.  \n• The timelapse serves as a reminder of the ephemeral nature of human constructs against the backdrop of time.  \n• Manhattan's evolution prompts reflection on the consequences of urbanization and the loss of indigenous narratives.  \n• This visual journey invites contemplation on what future generations will inherit from our current urban landscapes.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "The ghetto on the lagoon",
+      "link": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
+      "published_date": "2026-10-08T10:00:00+00:00",
+      "summary": "• The creation of the ghetto in Venice illustrates the paradox of exclusion and dependence in societal structures.  \n• This historical compromise reflects the tension between economic necessity and cultural prejudice.  \n• The ghetto served as both a physical confinement and a complex space of cultural resilience for the Jewish community.  \n• Venice's ghetto challenges the notion of safety in segregation, revealing the intricate dance between isolation and identity.  \n• Ultimately, the ghetto symbolizes the enduring struggle for coexistence amidst deep-seated intolerance.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China’s AI chipmaker Biren tumbles 12% as it seeks US$510 million in share placement",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3370177/chinas-ai-chipmaker-biren-tumbles-12-it-seeks-us510-million-share-placement?utm_source=rss_feed",
+      "published_date": "2026-10-08T08:31:26+00:00",
+      "summary": "Shanghai Biren Technology, a key player in the AI chip market, saw its shares plummet over 12% as it announced a plan to raise US$510 million through a share placement, highlighting the fierce competition among Chinese firms vying to challenge Nvidia's dominance in the sector. This move underscores the escalating stakes in the AI chip industry, where financial maneuvers could significantly impact market positioning and innovation trajectories.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "‘China already has spies’ at US AI labs, former Anthropic researcher warns",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3370108/china-already-has-spies-us-ai-labs-claims-ex-anthropic-researcher?utm_source=rss_feed",
@@ -56,30 +80,6 @@
       "summary": "China's open-weight AI models are rapidly gaining global traction, revolutionizing access to advanced technology while raising concerns about value capture, as third-party providers profit more than the original developers. This shift not only democratizes AI usage but also challenges traditional business models in the tech industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "I won’t remain alone",
-      "link": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
-      "published_date": "2026-10-07T10:01:00+00:00",
-      "summary": "• The moral dilemma of sacrificing one for the many highlights the profound complexities of love and responsibility.  \n• Tragedy often forces individuals to confront the fragility of life and the weight of their decisions.  \n• The elderly couple's struggle reflects the universal tension between personal grief and the greater good.  \n• In moments of crisis, the essence of humanity is revealed through acts of selflessness and sacrifice.  \n• Ultimately, the choice to let go becomes a poignant exploration of hope amidst despair.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "US risks ceding AI governance leadership to China and the EU",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3369823/us-risks-ceding-ai-governance-leadership-china-and-eu?utm_source=rss_feed",
-      "published_date": "2026-10-07T08:30:06+00:00",
-      "summary": "The U.S. risks losing its leadership in AI governance to China and the EU as President Trump's administration promotes a voluntary, non-enforceable agreement for AI companies to self-regulate, highlighting the growing significance of AI in global economic and military dynamics. This shift underscores the urgent need for robust regulatory frameworks to maintain competitive advantage and ethical standards in an increasingly AI-driven world.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "link": "https://openai.com/index/radisson",
-      "published_date": "2026-10-07T07:00:00+00:00",
-      "summary": "Radisson Hotel Group has revolutionized travel planning by integrating a ChatGPT plugin, developed in partnership with Accenture, that enables travelers to effortlessly discover, compare, and book hotels through conversational AI, significantly enhancing the user experience in the hospitality sector. This breakthrough not only streamlines the booking process but also positions Radisson at the forefront of tech-driven customer engagement in the competitive travel industry.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
