@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-10-09T05:22:24.434870+00:00",
+  "last_updated": "2026-10-09T10:50:12.637427+00:00",
   "articles": [
+    {
+      "title": "Barbara Ward’s vision",
+      "link": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+      "published_date": "2026-10-09T10:00:00+00:00",
+      "summary": "• Barbara Ward championed the interconnectedness of prosperity, equality, and environmental protection as essential for global progress.  \n• Her vision challenged the prevailing notion that economic growth could occur independently of social and ecological considerations.  \n• Ward's insights predated contemporary discussions on sustainable development, highlighting the need for holistic approaches to global challenges.  \n• She advocated for a moral responsibility to address inequality and environmental degradation, framing them as intertwined crises.  \n• Ward's legacy prompts us to reconsider our priorities, urging a collective commitment to a sustainable and equitable future.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China state funds double down on Hua Hong in legacy chip push",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370297/china-state-funds-double-down-hua-hong-legacy-chip-push?utm_source=rss_feed",
+      "published_date": "2026-10-09T08:30:09+00:00",
+      "summary": "Chinese state funds are significantly increasing their investment in Hua Hong Grace Semiconductor to bolster domestic production of legacy chips, a strategic move aimed at achieving self-reliance in semiconductor technology amidst escalating U.S. restrictions. This unprecedented financial support underscores China's commitment to enhancing its semiconductor capabilities and reducing dependence on foreign technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese optical chip stocks extend rout amid fears of potential US curbs",
+      "link": "https://www.scmp.com/tech/tech-war/article/3370305/chinese-optical-chip-stocks-extend-rout-amid-fears-potential-us-curbs?utm_source=rss_feed",
+      "published_date": "2026-10-09T07:13:16+00:00",
+      "summary": "The ongoing sell-off of Chinese optical chip stocks, driven by fears of impending US trade restrictions on advanced optical transceivers crucial for data centers, underscores the escalating tensions in the AI supply chain and highlights the vulnerability of China's tech sector amid geopolitical uncertainties. This development not only threatens the financial stability of key players in the industry but also raises concerns about the future of technological collaboration and innovation on a global scale.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "published_date": "2026-10-09T07:00:00+00:00",
+      "summary": "Sophos has revolutionized cybersecurity by leveraging OpenAI's Daybreak to reduce threat investigation time by an astonishing 96% and automate over half of managed detection and response cases, all while maintaining essential human oversight. This breakthrough not only enhances efficiency but also significantly strengthens the overall security posture against evolving cyber threats.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "Pentagon unveils US$350 million quantum computing push as China rivalry grows",
       "link": "https://www.scmp.com/news/us/science-technology/article/3370243/pentagon-unveils-us350-million-quantum-computing-push-china-rivalry-grows?utm_source=rss_feed",
@@ -62,30 +94,6 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed",
       "published_date": "2026-10-08T11:30:22+00:00",
       "summary": "Alibaba's AI cloud revenue is projected to soar over 50% in the September quarter, reflecting the successful impact of its aggressive investments in artificial intelligence, which positions the company as a formidable player in the rapidly evolving tech landscape. This significant growth not only underscores the effectiveness of Alibaba's strategic focus on AI but also highlights the increasing demand for cloud computing solutions in a digital-first economy.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Evolution of Manhattan",
-      "link": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
-      "published_date": "2026-10-08T10:01:00+00:00",
-      "summary": "• The transformation of Manhattan from Lenape territory to a bustling urban center illustrates the relentless march of progress and change.  \n• Each layer of development reflects not just architectural ambition but also the complex interplay of culture, commerce, and community.  \n• The timelapse serves as a reminder of the ephemeral nature of human constructs against the backdrop of time.  \n• Manhattan's evolution prompts reflection on the consequences of urbanization and the loss of indigenous narratives.  \n• This visual journey invites contemplation on what future generations will inherit from our current urban landscapes.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "The ghetto on the lagoon",
-      "link": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
-      "published_date": "2026-10-08T10:00:00+00:00",
-      "summary": "• The creation of the ghetto in Venice illustrates the paradox of exclusion and dependence in societal structures.  \n• This historical compromise reflects the tension between economic necessity and cultural prejudice.  \n• The ghetto served as both a physical confinement and a complex space of cultural resilience for the Jewish community.  \n• Venice's ghetto challenges the notion of safety in segregation, revealing the intricate dance between isolation and identity.  \n• Ultimately, the ghetto symbolizes the enduring struggle for coexistence amidst deep-seated intolerance.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China’s AI chipmaker Biren tumbles 12% as it seeks US$510 million in share placement",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370177/chinas-ai-chipmaker-biren-tumbles-12-it-seeks-us510-million-share-placement?utm_source=rss_feed",
-      "published_date": "2026-10-08T08:31:26+00:00",
-      "summary": "Shanghai Biren Technology, a key player in the AI chip market, saw its shares plummet over 12% as it announced a plan to raise US$510 million through a share placement, highlighting the fierce competition among Chinese firms vying to challenge Nvidia's dominance in the sector. This move underscores the escalating stakes in the AI chip industry, where financial maneuvers could significantly impact market positioning and innovation trajectories.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
