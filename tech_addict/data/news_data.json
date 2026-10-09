@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-10-08T10:51:19.962000+00:00",
+  "last_updated": "2026-10-09T05:22:24.434870+00:00",
   "articles": [
+    {
+      "title": "Pentagon unveils US$350 million quantum computing push as China rivalry grows",
+      "link": "https://www.scmp.com/news/us/science-technology/article/3370243/pentagon-unveils-us350-million-quantum-computing-push-china-rivalry-grows?utm_source=rss_feed",
+      "published_date": "2026-10-08T21:33:59+00:00",
+      "summary": "The Pentagon's unveiling of a $350 million initiative to bolster quantum computing capabilities underscores the urgent need for the U.S. to maintain technological superiority in the face of escalating competition with China, particularly in military applications. This strategic investment not only aims to enhance national security but also positions the U.S. at the forefront of a transformative technology that could redefine warfare and defense systems.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "published_date": "2026-10-08T21:06:35+00:00",
+      "summary": "NVIDIA's latest innovation empowers developers to seamlessly transform simulation concepts into functional applications by integrating frontier AI models with the Omniverse platform, revolutionizing the way scenarios are explored, failures are analyzed, and designs are optimized. This breakthrough not only enhances efficiency in development but also opens new avenues for creativity and problem-solving in various industries.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "published_date": "2026-10-08T16:00:00+00:00",
+      "summary": "Oracle is revolutionizing its workflows by leveraging ChatGPT and Codex to transform days of labor into mere minutes, significantly enhancing efficiency across recruiting, engineering, and operations. This breakthrough not only streamlines processes but also democratizes specialist knowledge, enabling faster decision-making and innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Can China match up with Meta’s Muse in race to harness AI agents?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
+      "published_date": "2026-10-08T14:00:08+00:00",
+      "summary": "Meta's Muse personal AI agent has rapidly gained over 2.5 million downloads, highlighting a competitive landscape in AI where China's leading tech firms are striving to develop similar innovations, marking a significant shift towards more interactive and capable AI agents beyond traditional chatbots. This breakthrough not only showcases the potential for personal AI to reshape user engagement but also intensifies the race for dominance in a burgeoning market that could redefine how we interact with technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+      "published_date": "2026-10-08T13:00:46+00:00",
+      "summary": "NVIDIA's launch of 'Gears of War: E-Day' on GeForce NOW marks a significant advancement in cloud gaming, enabling players to experience high-performance RTX graphics on a wider range of devices, including Fire TV, thereby expanding accessibility and enhancing the gaming experience. This breakthrough not only revitalizes a classic title but also sets a new standard for cloud-based gaming platforms.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "published_date": "2026-10-08T12:00:00+00:00",
+      "summary": "Pollo AI leverages advanced models like GPT-5.6 and GPT-6 Astra to transform creative concepts into stunning visual campaigns, revolutionizing the way creators produce detailed images and cinematic video ads. This breakthrough not only enhances creative expression but also streamlines the advertising process, making high-quality content more accessible than ever.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
+      "published_date": "2026-10-08T12:00:00+00:00",
+      "summary": "LegalOn has achieved a groundbreaking 65% reduction in daily Codex costs without sacrificing development speed, showcasing its innovative approach to resource management by strategically aligning tasks with Astra, Sol, and Luna. This significant cost efficiency not only enhances operational sustainability but also sets a new standard for financial optimization in tech development.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Alibaba’s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed",
+      "published_date": "2026-10-08T11:30:22+00:00",
+      "summary": "Alibaba's AI cloud revenue is projected to soar over 50% in the September quarter, reflecting the successful impact of its aggressive investments in artificial intelligence, which positions the company as a formidable player in the rapidly evolving tech landscape. This significant growth not only underscores the effectiveness of Alibaba's strategic focus on AI but also highlights the increasing demand for cloud computing solutions in a digital-first economy.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Evolution of Manhattan",
       "link": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
@@ -22,62 +86,6 @@
       "link": "https://www.scmp.com/tech/tech-trends/article/3370177/chinas-ai-chipmaker-biren-tumbles-12-it-seeks-us510-million-share-placement?utm_source=rss_feed",
       "published_date": "2026-10-08T08:31:26+00:00",
       "summary": "Shanghai Biren Technology, a key player in the AI chip market, saw its shares plummet over 12% as it announced a plan to raise US$510 million through a share placement, highlighting the fierce competition among Chinese firms vying to challenge Nvidia's dominance in the sector. This move underscores the escalating stakes in the AI chip industry, where financial maneuvers could significantly impact market positioning and innovation trajectories.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "‘China already has spies’ at US AI labs, former Anthropic researcher warns",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3370108/china-already-has-spies-us-ai-labs-claims-ex-anthropic-researcher?utm_source=rss_feed",
-      "published_date": "2026-10-07T23:39:15+00:00",
-      "summary": "A former researcher from Anthropic has raised alarming concerns that China may already have infiltrated US AI labs, potentially allowing them to steal critical advancements and rapidly close the technological gap, highlighting a significant threat to national security and innovation in the AI sector. This revelation underscores the urgent need for enhanced security measures within the industry to safeguard intellectual property and maintain a competitive edge.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
-      "published_date": "2026-10-07T21:01:58+00:00",
-      "summary": "Apple and The King’s Trust have unveiled a groundbreaking initiative aimed at empowering young creatives through an immersive education program, significantly enhancing their transition into the workforce and fostering the next generation of innovators. This collaboration underscores Apple's commitment to social responsibility and its role in shaping a more skilled and creative future workforce.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "US issues first outbound investment fine over Chinese robotics AI deal",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal?utm_source=rss_feed",
-      "published_date": "2026-10-07T19:27:59+00:00",
-      "summary": "The US Treasury has imposed its first fine for non-compliance with regulations on American investments in sensitive Chinese technologies, penalizing Amidi, LLC $200,000 for failing to report a significant investment in a Shanghai robotics AI firm, marking a critical step in tightening oversight of foreign investments in strategic sectors. This breakthrough underscores the growing scrutiny of technology transfers to China, which could have significant implications for national security and global tech competition.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "published_date": "2026-10-07T18:45:28+00:00",
-      "summary": "NVIDIA and Microsoft have unveiled a groundbreaking collaboration to integrate AI agents into Windows PCs, marking a transformative leap in personal computing that promises to redefine user interaction and productivity. This partnership not only revitalizes the legacy of Windows but also sets the stage for a new era of intelligent computing experiences.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "published_date": "2026-10-07T12:00:00+00:00",
-      "summary": "OpenAI's introduction of College Planner within ChatGPT for Teens revolutionizes the college application process by equipping students with AI-driven tools like flashcards and quizzes, while also empowering them through a dedicated teen AI council, ultimately shaping the future of education and technology integration. This breakthrough not only enhances academic support but also fosters a generation of informed, tech-savvy individuals ready to navigate their futures.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing Playground: Create and play custom games",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "published_date": "2026-10-07T12:00:00+00:00",
-      "summary": "Google AI has unveiled Playground, a groundbreaking platform that empowers users to design and engage with custom games, revolutionizing the way individuals interact with gaming by blending creativity and technology in an accessible format. This innovation not only democratizes game development but also fosters a new era of personalized entertainment experiences.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s open-weight AI models are winning global users. Who is capturing the value?",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value?utm_source=rss_feed",
-      "published_date": "2026-10-07T11:00:09+00:00",
-      "summary": "China's open-weight AI models are rapidly gaining global traction, revolutionizing access to advanced technology while raising concerns about value capture, as third-party providers profit more than the original developers. This shift not only democratizes AI usage but also challenges traditional business models in the tech industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
