@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T05:06:22.718693+00:00",
+  "last_updated": "2026-10-10T10:04:21.255143+00:00",
   "articles": [
     {
       "title": "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
@@ -8,46 +8,6 @@
       "summary": "Kurt Campbell's insights on the evolving US strategy towards China and the Indo-Pacific highlight a critical shift in diplomatic focus, emphasizing the urgent need to address the multifaceted risks posed by AI in the region. This breakthrough in understanding not only reshapes international relations but also underscores the strategic importance of technological governance in maintaining global stability.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Barbara Ward’s vision",
-      "link": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
-      "published_date": "2026-10-09T10:00:00+00:00",
-      "summary": "• Barbara Ward championed the interconnectedness of prosperity, equality, and environmental protection as essential for global progress.  \n• Her vision challenged the prevailing notion that economic growth could occur independently of social and ecological considerations.  \n• Ward's insights predated contemporary discussions on sustainable development, highlighting the need for holistic approaches to global challenges.  \n• She advocated for a moral responsibility to address inequality and environmental degradation, framing them as intertwined crises.  \n• Ward's legacy prompts us to reconsider our priorities, urging a collective commitment to a sustainable and equitable future.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China state funds double down on Hua Hong in legacy chip push",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370297/china-state-funds-double-down-hua-hong-legacy-chip-push?utm_source=rss_feed",
-      "published_date": "2026-10-09T08:30:09+00:00",
-      "summary": "Chinese state funds are significantly increasing their investment in Hua Hong Grace Semiconductor to bolster domestic production of legacy chips, a strategic move aimed at achieving self-reliance in semiconductor technology amidst escalating U.S. restrictions. This unprecedented financial support underscores China's commitment to enhancing its semiconductor capabilities and reducing dependence on foreign technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese optical chip stocks extend rout amid fears of potential US curbs",
-      "link": "https://www.scmp.com/tech/tech-war/article/3370305/chinese-optical-chip-stocks-extend-rout-amid-fears-potential-us-curbs?utm_source=rss_feed",
-      "published_date": "2026-10-09T07:13:16+00:00",
-      "summary": "The ongoing sell-off of Chinese optical chip stocks, driven by fears of impending US trade restrictions on advanced optical transceivers crucial for data centers, underscores the escalating tensions in the AI supply chain and highlights the vulnerability of China's tech sector amid geopolitical uncertainties. This development not only threatens the financial stability of key players in the industry but also raises concerns about the future of technological collaboration and innovation on a global scale.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "published_date": "2026-10-09T07:00:00+00:00",
-      "summary": "Sophos has revolutionized cybersecurity by leveraging OpenAI's Daybreak to reduce threat investigation time by an astonishing 96% and automate over half of managed detection and response cases, all while maintaining essential human oversight. This breakthrough not only enhances efficiency but also significantly strengthens the overall security posture against evolving cyber threats.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "published_date": "2026-10-09T07:00:00+00:00",
-      "summary": "Asana has achieved a groundbreaking 76-fold reduction in model costs and a fivefold increase in speed by utilizing GPT-6 Astra in Codex, significantly enhancing its browser agent's capabilities and offering customers a more efficient and powerful tool. This breakthrough not only transforms operational efficiency but also sets a new standard for cost-effective AI integration in productivity platforms.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
