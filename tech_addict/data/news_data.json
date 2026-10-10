@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-09T10:50:12.637427+00:00",
+  "last_updated": "2026-10-10T05:06:22.718693+00:00",
   "articles": [
+    {
+      "title": "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3370379/kurt-campbell-us-china-focus-indo-pacific-quad-risks-ai?utm_source=rss_feed",
+      "published_date": "2026-10-10T00:01:05+00:00",
+      "summary": "Kurt Campbell's insights on the evolving US strategy towards China and the Indo-Pacific highlight a critical shift in diplomatic focus, emphasizing the urgent need to address the multifaceted risks posed by AI in the region. This breakthrough in understanding not only reshapes international relations but also underscores the strategic importance of technological governance in maintaining global stability.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
     {
       "title": "Barbara Ward’s vision",
       "link": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
@@ -34,68 +42,12 @@
       "category": "AI"
     },
     {
-      "title": "Pentagon unveils US$350 million quantum computing push as China rivalry grows",
-      "link": "https://www.scmp.com/news/us/science-technology/article/3370243/pentagon-unveils-us350-million-quantum-computing-push-china-rivalry-grows?utm_source=rss_feed",
-      "published_date": "2026-10-08T21:33:59+00:00",
-      "summary": "The Pentagon's unveiling of a $350 million initiative to bolster quantum computing capabilities underscores the urgent need for the U.S. to maintain technological superiority in the face of escalating competition with China, particularly in military applications. This strategic investment not only aims to enhance national security but also positions the U.S. at the forefront of a transformative technology that could redefine warfare and defense systems.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "published_date": "2026-10-08T21:06:35+00:00",
-      "summary": "NVIDIA's latest innovation empowers developers to seamlessly transform simulation concepts into functional applications by integrating frontier AI models with the Omniverse platform, revolutionizing the way scenarios are explored, failures are analyzed, and designs are optimized. This breakthrough not only enhances efficiency in development but also opens new avenues for creativity and problem-solving in various industries.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "published_date": "2026-10-08T16:00:00+00:00",
-      "summary": "Oracle is revolutionizing its workflows by leveraging ChatGPT and Codex to transform days of labor into mere minutes, significantly enhancing efficiency across recruiting, engineering, and operations. This breakthrough not only streamlines processes but also democratizes specialist knowledge, enabling faster decision-making and innovation.",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "published_date": "2026-10-09T07:00:00+00:00",
+      "summary": "Asana has achieved a groundbreaking 76-fold reduction in model costs and a fivefold increase in speed by utilizing GPT-6 Astra in Codex, significantly enhancing its browser agent's capabilities and offering customers a more efficient and powerful tool. This breakthrough not only transforms operational efficiency but also sets a new standard for cost-effective AI integration in productivity platforms.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "Can China match up with Meta’s Muse in race to harness AI agents?",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
-      "published_date": "2026-10-08T14:00:08+00:00",
-      "summary": "Meta's Muse personal AI agent has rapidly gained over 2.5 million downloads, highlighting a competitive landscape in AI where China's leading tech firms are striving to develop similar innovations, marking a significant shift towards more interactive and capable AI agents beyond traditional chatbots. This breakthrough not only showcases the potential for personal AI to reshape user engagement but also intensifies the race for dominance in a burgeoning market that could redefine how we interact with technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
-      "published_date": "2026-10-08T13:00:46+00:00",
-      "summary": "NVIDIA's launch of 'Gears of War: E-Day' on GeForce NOW marks a significant advancement in cloud gaming, enabling players to experience high-performance RTX graphics on a wider range of devices, including Fire TV, thereby expanding accessibility and enhancing the gaming experience. This breakthrough not only revitalizes a classic title but also sets a new standard for cloud-based gaming platforms.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "published_date": "2026-10-08T12:00:00+00:00",
-      "summary": "Pollo AI leverages advanced models like GPT-5.6 and GPT-6 Astra to transform creative concepts into stunning visual campaigns, revolutionizing the way creators produce detailed images and cinematic video ads. This breakthrough not only enhances creative expression but also streamlines the advertising process, making high-quality content more accessible than ever.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "published_date": "2026-10-08T12:00:00+00:00",
-      "summary": "LegalOn has achieved a groundbreaking 65% reduction in daily Codex costs without sacrificing development speed, showcasing its innovative approach to resource management by strategically aligning tasks with Astra, Sol, and Luna. This significant cost efficiency not only enhances operational sustainability but also sets a new standard for financial optimization in tech development.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Alibaba’s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed",
-      "published_date": "2026-10-08T11:30:22+00:00",
-      "summary": "Alibaba's AI cloud revenue is projected to soar over 50% in the September quarter, reflecting the successful impact of its aggressive investments in artificial intelligence, which positions the company as a formidable player in the rapidly evolving tech landscape. This significant growth not only underscores the effectiveness of Alibaba's strategic focus on AI but also highlights the increasing demand for cloud computing solutions in a digital-first economy.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
