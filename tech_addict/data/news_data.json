@@ -1,11 +1,19 @@
 {
-  "last_updated": "2026-10-11T10:15:03.327190+00:00",
+  "last_updated": "2026-10-12T05:10:32.718238+00:00",
   "articles": [
     {
-      "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-      "published_date": "2026-10-11T03:04:32+00:00",
-      "summary": "Sumitomo Bakelite's decision to expand its production of advanced chip packaging materials in China and Singapore highlights a significant response to the surging demand for sophisticated semiconductors driven by the AI boom, positioning the company to capitalize on the rapidly evolving tech landscape. This strategic move not only reinforces Japan's role in the semiconductor supply chain but also underscores the critical importance of innovative materials in supporting the next generation of AI technologies.",
+      "title": "China’s factories leaping straight into agentic AI and taking it global: Black Lake CEO",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370490/chinas-factories-leaping-straight-agentic-ai-and-taking-it-global-black-lake-ceo?utm_source=rss_feed",
+      "published_date": "2026-10-12T04:00:07+00:00",
+      "summary": "China's manufacturing sector is making a groundbreaking shift by bypassing traditional digitalization and directly adopting agentic artificial intelligence, a move that not only enhances efficiency but also positions the country to export this advanced technology to global supply chains, akin to its rapid transition from credit cards to mobile payments. This leapfrogging into AI could redefine global manufacturing standards and competitiveness.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix?utm_source=rss_feed",
+      "published_date": "2026-10-12T00:30:13+00:00",
+      "summary": "China's CXMT has made significant advancements in a new chip structure aimed at enhancing memory density, directly competing with efforts from industry leaders Samsung and SK Hynix, with plans to launch a new server-memory product by the end of 2026. This breakthrough could reshape the memory chip landscape, positioning CXMT as a formidable player in a market traditionally dominated by its South Korean rivals.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
