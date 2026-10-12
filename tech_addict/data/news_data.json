@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-10-12T05:10:32.718238+00:00",
+  "last_updated": "2026-10-12T11:16:03.635835+00:00",
   "articles": [
     {
-      "title": "China’s factories leaping straight into agentic AI and taking it global: Black Lake CEO",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370490/chinas-factories-leaping-straight-agentic-ai-and-taking-it-global-black-lake-ceo?utm_source=rss_feed",
-      "published_date": "2026-10-12T04:00:07+00:00",
-      "summary": "China's manufacturing sector is making a groundbreaking shift by bypassing traditional digitalization and directly adopting agentic artificial intelligence, a move that not only enhances efficiency but also positions the country to export this advanced technology to global supply chains, akin to its rapid transition from credit cards to mobile payments. This leapfrogging into AI could redefine global manufacturing standards and competitiveness.",
+      "title": "Africa’s cultural landmarks: tombs of Buganda kings",
+      "link": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
+      "published_date": "2026-10-12T10:01:00+00:00",
+      "summary": "• The tombs of Buganda kings serve as a profound intersection between the physical and spiritual worlds, embodying a rich cultural heritage.  \n• Constructed from organic materials, these structures reflect the deep connection between nature and the ancestral lineage of the Buganda people.  \n• Each tomb is not merely a resting place but a vibrant symbol of identity, memory, and continuity for the Buganda community.  \n• The architectural design invites contemplation on mortality, legacy, and the enduring influence of ancestors in contemporary life.  \n• These cultural landmarks challenge us to consider how spaces can encapsulate history and foster a sense of belonging across generations.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Mapping US chip supply chain: China accounts for far more than it appears, report says",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3370581/mapping-us-chip-supply-chain-china-accounts-far-more-it-appears-report-says?utm_source=rss_feed",
+      "published_date": "2026-10-12T10:00:05+00:00",
+      "summary": "A new report reveals that while China appears to supply only 5% of the US chip industry's equipment and materials, it actually controls over 90% of critical rare earths essential for chipmaking, highlighting a significant vulnerability in the US semiconductor supply chain that could have profound implications for national security and technological independence.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "Is everything conscious?",
+      "link": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
+      "published_date": "2026-10-12T10:00:00+00:00",
+      "summary": "• The principle of sufficient reason challenges us to consider whether everything in existence has a purpose or reason behind its being.  \n• Consciousness may not be an exclusive trait of humans but could extend to various forms of existence, inviting us to rethink our understanding of awareness.  \n• The exploration of consciousness raises profound questions about the nature of reality and our place within it, blurring the lines between the observer and the observed.  \n• Engaging with the idea that everything might possess some form of consciousness encourages a deeper empathy towards the world around us.  \n• Ultimately, the inquiry into universal consciousness compels us to confront the mysteries of existence and our interconnectedness with all beings.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
     },
     {
       "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
