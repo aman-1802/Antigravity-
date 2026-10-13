@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-10-12T11:16:03.635835+00:00",
+  "last_updated": "2026-10-13T06:09:38.540036+00:00",
   "articles": [
+    {
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "published_date": "2026-10-13T05:00:31+00:00",
+      "summary": "France is leading the charge in agentic computing, successfully integrating advanced AI technologies across diverse sectors such as space and finance, showcasing a remarkable shift from theoretical ambition to practical application. This breakthrough not only highlights France's strategic investments in AI infrastructure but also positions the nation as a pivotal player in the global tech landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China Mobile triples capacity at mega Inner Mongolia computing hub amid nation’s AI push",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push?utm_source=rss_feed",
+      "published_date": "2026-10-13T01:00:12+00:00",
+      "summary": "China Mobile has dramatically tripled the processing capacity of its mega computing hub in Inner Mongolia to 20,100 petaflops, a pivotal move that underscores China's aggressive strategy to enhance its digital infrastructure and support its burgeoning artificial intelligence sector. This expansion not only positions China Mobile at the forefront of AI development but also reinforces China's commitment to becoming a global leader in technology.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "published_date": "2026-10-12T15:00:25+00:00",
+      "summary": "NVIDIA's unveiling of the Vera Rubin Architecture at the OCP Global Summit signifies a pivotal shift towards open standards in AI infrastructure, enabling the rapid and efficient scaling of AI factories from megawatts to gigawatts, which is crucial for meeting the surging demand for advanced computing capabilities worldwide. This breakthrough not only enhances the reliability of AI systems but also fosters collaboration across the industry, accelerating innovation in AI technology.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "App Store Indie Games Week kicks off today",
+      "link": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
+      "published_date": "2026-10-12T13:59:49+00:00",
+      "summary": "Apple's App Store Indie Games Week launches today, spotlighting innovative titles from independent developers and underscoring the platform's commitment to fostering creativity and diversity in gaming. This initiative not only celebrates unique gaming experiences but also empowers indie creators to reach a broader audience, reshaping the landscape of mobile gaming.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "OpenAI’s GPT-6 may lead to robotics breakthrough  as soon as next year: Unitree founder",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder?utm_source=rss_feed",
+      "published_date": "2026-10-12T13:30:07+00:00",
+      "summary": "OpenAI's upcoming GPT-6 model is poised to catalyze a significant breakthrough in robotics, as highlighted by Unitree Robotics' founder, who anticipates transformative advancements in the industry within the next year. This development underscores the potential of advanced AI to revolutionize robotics, enhancing capabilities and applications across various sectors.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "link": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "published_date": "2026-10-12T13:01:29+00:00",
+      "summary": "Microsoft's expansion of the Azure Maia system to multi-gigawatt deployments marks a pivotal shift in infrastructure, positioning Maia as the cornerstone of its Super Intelligence era and enhancing the performance of its products and services significantly by 2027. This breakthrough not only underscores Microsoft's commitment to scalable AI solutions but also sets a new standard for computational power in the tech industry.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "US turns to low-cost Blackbeard hypersonic missiles to overwhelm Chinese defences",
+      "link": "https://www.scmp.com/news/china/military/article/3370598/us-turns-low-cost-blackbeard-hypersonic-missiles-overwhelm-chinese-defences?utm_source=rss_feed",
+      "published_date": "2026-10-12T12:00:19+00:00",
+      "summary": "The US Navy is developing the low-cost Blackbeard hypersonic missile, capable of exceeding five times the speed of sound, to effectively penetrate Chinese defenses, marking a significant shift in military strategy that prioritizes affordability and mass deployment in the face of escalating tensions. This breakthrough weapon could fundamentally alter the balance of power in naval warfare by challenging the protective capabilities of Chinese warships and coastal installations.",
+      "source": "China News",
+      "category": "SCMP"
+    },
     {
       "title": "Africa’s cultural landmarks: tombs of Buganda kings",
       "link": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
@@ -24,14 +80,6 @@
       "summary": "• The principle of sufficient reason challenges us to consider whether everything in existence has a purpose or reason behind its being.  \n• Consciousness may not be an exclusive trait of humans but could extend to various forms of existence, inviting us to rethink our understanding of awareness.  \n• The exploration of consciousness raises profound questions about the nature of reality and our place within it, blurring the lines between the observer and the observed.  \n• Engaging with the idea that everything might possess some form of consciousness encourages a deeper empathy towards the world around us.  \n• Ultimately, the inquiry into universal consciousness compels us to confront the mysteries of existence and our interconnectedness with all beings.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix?utm_source=rss_feed",
-      "published_date": "2026-10-12T00:30:13+00:00",
-      "summary": "China's CXMT has made significant advancements in a new chip structure aimed at enhancing memory density, directly competing with efforts from industry leaders Samsung and SK Hynix, with plans to launch a new server-memory product by the end of 2026. This breakthrough could reshape the memory chip landscape, positioning CXMT as a formidable player in a market traditionally dominated by its South Korean rivals.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
