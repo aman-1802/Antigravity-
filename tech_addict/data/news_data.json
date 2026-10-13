@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-13T06:09:38.540036+00:00",
+  "last_updated": "2026-10-13T10:56:29.362680+00:00",
   "articles": [
+    {
+      "title": "Deskilling the body",
+      "link": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+      "published_date": "2026-10-13T10:00:00+00:00",
+      "summary": "• The modern world increasingly diminishes our physical and cognitive engagement, leading to a gradual deskilling of our bodies.  \n• As technology takes over basic tasks, we risk losing essential skills that once defined human experience and interaction.  \n• This shift prompts a philosophical inquiry into the nature of agency and the value of embodied knowledge in an increasingly digital age.  \n• The consequences of deskilling extend beyond individual capabilities, affecting our collective relationship with the environment and each other.  \n• Ultimately, the essay challenges us to reconsider what it means to be human in a world that prioritizes convenience over competence.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China’s Iluvatar CoreX’s first AI computing supernode squeezes most GPUs in 1 system",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system?utm_source=rss_feed",
+      "published_date": "2026-10-13T09:00:04+00:00",
+      "summary": "Iluvatar CoreX has launched the Tiangai 300 IXL144, a groundbreaking supernode system that integrates 144 GPUs into a single cabinet, setting a new industry benchmark and significantly enhancing capabilities for large-scale AI model training and inference. This innovation not only showcases China's advancing prowess in AI technology but also promises to accelerate developments across various sectors reliant on powerful computing resources.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China, Russia deepen maritime and Arctic logistics ties to secure energy supply",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3370690/china-russia-deepen-maritime-and-arctic-logistics-ties-secure-energy-supply?utm_source=rss_feed",
+      "published_date": "2026-10-13T07:00:07+00:00",
+      "summary": "China and Russia are significantly enhancing their maritime and Arctic logistics collaboration to safeguard energy supplies and shipping routes, a strategic move that underscores their commitment to mutual defense of economic interests amid rising geopolitical tensions. This partnership not only solidifies their influence in critical global trade corridors but also poses a challenge to Western dominance in energy security.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
     {
       "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
       "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
@@ -48,38 +72,6 @@
       "summary": "Microsoft's expansion of the Azure Maia system to multi-gigawatt deployments marks a pivotal shift in infrastructure, positioning Maia as the cornerstone of its Super Intelligence era and enhancing the performance of its products and services significantly by 2027. This breakthrough not only underscores Microsoft's commitment to scalable AI solutions but also sets a new standard for computational power in the tech industry.",
       "source": "Microsoft",
       "category": "AI"
-    },
-    {
-      "title": "US turns to low-cost Blackbeard hypersonic missiles to overwhelm Chinese defences",
-      "link": "https://www.scmp.com/news/china/military/article/3370598/us-turns-low-cost-blackbeard-hypersonic-missiles-overwhelm-chinese-defences?utm_source=rss_feed",
-      "published_date": "2026-10-12T12:00:19+00:00",
-      "summary": "The US Navy is developing the low-cost Blackbeard hypersonic missile, capable of exceeding five times the speed of sound, to effectively penetrate Chinese defenses, marking a significant shift in military strategy that prioritizes affordability and mass deployment in the face of escalating tensions. This breakthrough weapon could fundamentally alter the balance of power in naval warfare by challenging the protective capabilities of Chinese warships and coastal installations.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Africa’s cultural landmarks: tombs of Buganda kings",
-      "link": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
-      "published_date": "2026-10-12T10:01:00+00:00",
-      "summary": "• The tombs of Buganda kings serve as a profound intersection between the physical and spiritual worlds, embodying a rich cultural heritage.  \n• Constructed from organic materials, these structures reflect the deep connection between nature and the ancestral lineage of the Buganda people.  \n• Each tomb is not merely a resting place but a vibrant symbol of identity, memory, and continuity for the Buganda community.  \n• The architectural design invites contemplation on mortality, legacy, and the enduring influence of ancestors in contemporary life.  \n• These cultural landmarks challenge us to consider how spaces can encapsulate history and foster a sense of belonging across generations.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Mapping US chip supply chain: China accounts for far more than it appears, report says",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370581/mapping-us-chip-supply-chain-china-accounts-far-more-it-appears-report-says?utm_source=rss_feed",
-      "published_date": "2026-10-12T10:00:05+00:00",
-      "summary": "A new report reveals that while China appears to supply only 5% of the US chip industry's equipment and materials, it actually controls over 90% of critical rare earths essential for chipmaking, highlighting a significant vulnerability in the US semiconductor supply chain that could have profound implications for national security and technological independence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Is everything conscious?",
-      "link": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
-      "published_date": "2026-10-12T10:00:00+00:00",
-      "summary": "• The principle of sufficient reason challenges us to consider whether everything in existence has a purpose or reason behind its being.  \n• Consciousness may not be an exclusive trait of humans but could extend to various forms of existence, inviting us to rethink our understanding of awareness.  \n• The exploration of consciousness raises profound questions about the nature of reality and our place within it, blurring the lines between the observer and the observed.  \n• Engaging with the idea that everything might possess some form of consciousness encourages a deeper empathy towards the world around us.  \n• Ultimately, the inquiry into universal consciousness compels us to confront the mysteries of existence and our interconnectedness with all beings.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
