@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-10-13T10:56:29.362680+00:00",
+  "last_updated": "2026-10-14T04:12:26.402054+00:00",
   "articles": [
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published_date": "2026-10-13T16:00:00+00:00",
+      "summary": "Google AI's Gemini 4 Argon represents a significant leap in artificial intelligence capabilities, designed to tackle complex challenges across various domains, potentially revolutionizing industries by providing unprecedented problem-solving power. This breakthrough not only enhances efficiency but also opens new avenues for innovation and decision-making in technology and beyond.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Huawei, once hobbled by US sanctions, passes 100 million Kirin chip milestone",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone?utm_source=rss_feed",
+      "published_date": "2026-10-13T13:00:08+00:00",
+      "summary": "Huawei has achieved a significant milestone by shipping over 100 million devices with its Kirin processors, marking a remarkable comeback in the smartphone market following US sanctions, while also advancing the development of its next-generation Kirin 2027 chip, which utilizes innovative LogicFolding architecture. This breakthrough not only underscores Huawei's resilience but also positions the company as a formidable player in the global semiconductor landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+      "link": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "published_date": "2026-10-13T12:59:16+00:00",
+      "summary": "Apple has unveiled HomeView, a groundbreaking platform that seamlessly integrates entertainment and home management, positioning itself as the central hub for personalized experiences within the household. This innovation not only enhances user convenience but also redefines how families interact with technology in their daily lives.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "published_date": "2026-10-13T12:58:10+00:00",
+      "summary": "Apple's latest Apple TV 4K harnesses the power of Siri AI to redefine home entertainment, offering an unparalleled immersive experience that sets a new standard for streaming technology. This breakthrough not only enhances user interaction but also positions Apple at the forefront of the smart home revolution.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple announces the next generation of HomePod mini",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "published_date": "2026-10-13T12:57:08+00:00",
+      "summary": "Apple's launch of the HomePod mini 2 introduces advanced Siri AI capabilities and improved audio quality, alongside a vibrant new color palette, positioning it as a game-changer in the smart speaker market and enhancing the overall home automation experience.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
+      "link": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+      "published_date": "2026-10-13T12:56:12+00:00",
+      "summary": "Apple's launch of the Home Collection, developed in partnership with LG Electronics and Schneider Electric, marks a significant leap in the smart home ecosystem, blending cutting-edge technology with seamless integration to enhance user experience and redefine home automation. This breakthrough not only solidifies Apple's position in the smart home market but also sets a new standard for interoperability and design in connected living spaces.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "published_date": "2026-10-13T12:00:49+00:00",
+      "summary": "NVIDIA RTX Spark represents a groundbreaking fusion of gaming, creative, and AI computing capabilities into a single superchip, boasting up to 128GB of unified memory and 1 petaflop of AI compute, which could redefine the global PC app ecosystem and elevate user experiences across multiple domains. This innovation not only enhances performance but also positions NVIDIA at the forefront of the next generation of computing technology.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published_date": "2026-10-13T12:00:00+00:00",
+      "summary": "Higgsfield's groundbreaking advancements with GPT-6 Astra and GPT-Image-2.5 enable creators to produce videos exceeding ten minutes in length, revolutionizing content creation by enhancing visual precision and introducing innovative voice filmmaking capabilities with GPT-Live. This leap in AI technology not only expands the creative possibilities for filmmakers but also sets a new standard for engaging storytelling in digital media.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "Deskilling the body",
       "link": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
@@ -18,59 +82,11 @@
       "category": "SCMP"
     },
     {
-      "title": "China, Russia deepen maritime and Arctic logistics ties to secure energy supply",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3370690/china-russia-deepen-maritime-and-arctic-logistics-ties-secure-energy-supply?utm_source=rss_feed",
-      "published_date": "2026-10-13T07:00:07+00:00",
-      "summary": "China and Russia are significantly enhancing their maritime and Arctic logistics collaboration to safeguard energy supplies and shipping routes, a strategic move that underscores their commitment to mutual defense of economic interests amid rising geopolitical tensions. This partnership not only solidifies their influence in critical global trade corridors but also poses a challenge to Western dominance in energy security.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
       "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
       "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
       "published_date": "2026-10-13T05:00:31+00:00",
       "summary": "France is leading the charge in agentic computing, successfully integrating advanced AI technologies across diverse sectors such as space and finance, showcasing a remarkable shift from theoretical ambition to practical application. This breakthrough not only highlights France's strategic investments in AI infrastructure but also positions the nation as a pivotal player in the global tech landscape.",
       "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China Mobile triples capacity at mega Inner Mongolia computing hub amid nation’s AI push",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push?utm_source=rss_feed",
-      "published_date": "2026-10-13T01:00:12+00:00",
-      "summary": "China Mobile has dramatically tripled the processing capacity of its mega computing hub in Inner Mongolia to 20,100 petaflops, a pivotal move that underscores China's aggressive strategy to enhance its digital infrastructure and support its burgeoning artificial intelligence sector. This expansion not only positions China Mobile at the forefront of AI development but also reinforces China's commitment to becoming a global leader in technology.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-      "published_date": "2026-10-12T15:00:25+00:00",
-      "summary": "NVIDIA's unveiling of the Vera Rubin Architecture at the OCP Global Summit signifies a pivotal shift towards open standards in AI infrastructure, enabling the rapid and efficient scaling of AI factories from megawatts to gigawatts, which is crucial for meeting the surging demand for advanced computing capabilities worldwide. This breakthrough not only enhances the reliability of AI systems but also fosters collaboration across the industry, accelerating innovation in AI technology.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "App Store Indie Games Week kicks off today",
-      "link": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
-      "published_date": "2026-10-12T13:59:49+00:00",
-      "summary": "Apple's App Store Indie Games Week launches today, spotlighting innovative titles from independent developers and underscoring the platform's commitment to fostering creativity and diversity in gaming. This initiative not only celebrates unique gaming experiences but also empowers indie creators to reach a broader audience, reshaping the landscape of mobile gaming.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "OpenAI’s GPT-6 may lead to robotics breakthrough  as soon as next year: Unitree founder",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder?utm_source=rss_feed",
-      "published_date": "2026-10-12T13:30:07+00:00",
-      "summary": "OpenAI's upcoming GPT-6 model is poised to catalyze a significant breakthrough in robotics, as highlighted by Unitree Robotics' founder, who anticipates transformative advancements in the industry within the next year. This development underscores the potential of advanced AI to revolutionize robotics, enhancing capabilities and applications across various sectors.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
-      "link": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-      "published_date": "2026-10-12T13:01:29+00:00",
-      "summary": "Microsoft's expansion of the Azure Maia system to multi-gigawatt deployments marks a pivotal shift in infrastructure, positioning Maia as the cornerstone of its Super Intelligence era and enhancing the performance of its products and services significantly by 2027. This breakthrough not only underscores Microsoft's commitment to scalable AI solutions but also sets a new standard for computational power in the tech industry.",
-      "source": "Microsoft",
       "category": "AI"
     }
   ]
