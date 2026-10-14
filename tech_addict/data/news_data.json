@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-14T04:12:26.402054+00:00",
+  "last_updated": "2026-10-14T08:57:30.568974+00:00",
   "articles": [
+    {
+      "title": "China chip exports jump 136% to US$45b as AI frenzy jacks up prices",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices?utm_source=rss_feed",
+      "published_date": "2026-10-14T08:30:11+00:00",
+      "summary": "China's integrated circuit exports skyrocketed by 136% to $45 billion in September, driven by surging demand and prices amid the AI boom, signaling the country's growing dominance in the global semiconductor market. This remarkable growth not only highlights China's pivotal role in the tech supply chain but also underscores the escalating competition in the high-stakes arena of artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "published_date": "2026-10-14T06:04:15+00:00",
+      "summary": "NVIDIA's $250 million commitment to the U.K. is catalyzing a transformative shift across industries, empowering enterprises and startups alike to leverage advanced computing for innovative solutions to critical global challenges. This strategic investment not only enhances the U.K.'s technological landscape but also positions it as a leader in applying cutting-edge technology to real-world problems.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "published_date": "2026-10-14T06:00:28+00:00",
+      "summary": "European cities are harnessing NVIDIA's advanced AI technology to deploy intelligent agents and digital twins, revolutionizing urban management by optimizing decision-making processes for infrastructure and energy efficiency. This breakthrough not only enhances operational efficiency but also significantly improves the quality of life for residents by enabling smarter, data-driven urban planning.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
     {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -80,14 +104,6 @@
       "summary": "Iluvatar CoreX has launched the Tiangai 300 IXL144, a groundbreaking supernode system that integrates 144 GPUs into a single cabinet, setting a new industry benchmark and significantly enhancing capabilities for large-scale AI model training and inference. This innovation not only showcases China's advancing prowess in AI technology but also promises to accelerate developments across various sectors reliant on powerful computing resources.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "published_date": "2026-10-13T05:00:31+00:00",
-      "summary": "France is leading the charge in agentic computing, successfully integrating advanced AI technologies across diverse sectors such as space and finance, showcasing a remarkable shift from theoretical ambition to practical application. This breakthrough not only highlights France's strategic investments in AI infrastructure but also positions the nation as a pivotal player in the global tech landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
     }
   ]
 }
