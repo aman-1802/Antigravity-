@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-10-14T08:57:30.568974+00:00",
+  "last_updated": "2026-10-15T03:55:10.714234+00:00",
   "articles": [
+    {
+      "title": "US and China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen, sources say",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3370926/us-and-china-race-shape-ai-agenda-ahead-xi-trump-talks-shenzhen-sources-say?utm_source=rss_feed",
+      "published_date": "2026-10-15T01:00:22+00:00",
+      "summary": "The United States and China are intensifying their collaboration on artificial intelligence governance, aiming to establish a framework for managing AI-related incidents ahead of crucial talks between Xi Jinping and Donald Trump, highlighting the geopolitical significance of AI as a pivotal area of cooperation in global diplomacy. This breakthrough could set the stage for a new era of international standards and cooperation in AI technology, influencing global economic and security landscapes.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed",
+      "published_date": "2026-10-14T22:00:47+00:00",
+      "summary": "The impending \"China shock 3.0,\" fueled by a surge in exports of AI, biotechnology, and robotics, is poised to significantly disrupt global markets, potentially surpassing the impact of previous economic waves. This transformation underscores China's escalating role as a technological powerhouse, reshaping industries and international trade dynamics.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "link": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "published_date": "2026-10-14T17:39:29+00:00",
+      "summary": "Bünyamin Aydın's groundbreaking collection, \"From Earth to Sky,\" merges Turkish heritage with rock influences and futurism, showcased in a stunning fashion show in Cappadocia, all captured with the advanced capabilities of the iPhone 18 Pro Max, highlighting the intersection of technology and artistry in modern fashion. This innovative approach not only elevates the fashion narrative but also demonstrates the transformative power of mobile technology in creative industries.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "ASML’s chip equipment sales to China soar 109% despite US export curb push",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push?utm_source=rss_feed",
+      "published_date": "2026-10-14T14:00:12+00:00",
+      "summary": "ASML's chip equipment sales to China skyrocketed by 109% in the third quarter, defying US export restrictions and positioning China to represent 20% of ASML's total sales this year, highlighting the resilience and growing demand in the semiconductor market despite geopolitical tensions. This breakthrough underscores the shifting dynamics in global technology supply chains and the potential for China to bolster its semiconductor capabilities.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "AI risks could repeat China shock that cost jobs, former US commerce chief Raimondo warns",
+      "link": "https://www.scmp.com/tech/article/3370838/ai-risks-could-repeat-china-shock-cost-jobs-former-us-commerce-chief-raimondo-warns?utm_source=rss_feed",
+      "published_date": "2026-10-14T13:00:06+00:00",
+      "summary": "Former US commerce secretary Gina Raimondo warns that the unchecked advancement of artificial intelligence could lead to significant job displacement in the US, akin to the economic upheaval caused by the rise of Chinese manufacturing, highlighting the urgent need for strategic oversight in AI development to protect American workers.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "published_date": "2026-10-14T12:00:00+00:00",
+      "summary": "Amp is revolutionizing the capabilities of AI agents by integrating OpenAI's advanced models, including GPT-6 Astra and Ultrafast, enabling them to perform complex tasks beyond mere coding. This breakthrough not only expands the functional scope of AI agents but also enhances their utility across various industries, signaling a significant leap in AI technology.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://openai.com/index/sentinelone",
+      "published_date": "2026-10-14T12:00:00+00:00",
+      "summary": "SentinelOne's integration of OpenAI Daybreak revolutionizes cybersecurity by reducing malware analysis time from weeks to mere hours, significantly enhancing the capacity to identify and respond to threats more efficiently. This breakthrough not only accelerates threat detection but also empowers organizations to stay ahead in an increasingly complex digital landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Into the fire",
+      "link": "https://aeon.co/videos/the-all-female-team-defusing-isiss-deadly-landmine-legacy",
+      "published_date": "2026-10-14T10:01:00+00:00",
+      "summary": "• The resilience of women who escaped ISIS illustrates the profound strength found in vulnerability and survival.  \n• By defusing landmines, these women reclaim their homeland, transforming symbols of destruction into agents of healing.  \n• Their work embodies a powerful act of resistance, challenging the narratives imposed by violence and oppression.  \n• The act of rebuilding a community from the ashes of trauma highlights the intricate relationship between suffering and empowerment.  \n• In confronting the remnants of war, these women redefine their identities and assert their rightful place in a fractured society.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "China chip exports jump 136% to US$45b as AI frenzy jacks up prices",
       "link": "https://www.scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices?utm_source=rss_feed",
@@ -8,6 +72,22 @@
       "summary": "China's integrated circuit exports skyrocketed by 136% to $45 billion in September, driven by surging demand and prices amid the AI boom, signaling the country's growing dominance in the global semiconductor market. This remarkable growth not only highlights China's pivotal role in the tech supply chain but also underscores the escalating competition in the high-stakes arena of artificial intelligence.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://openai.com/index/third-moment-research",
+      "published_date": "2026-10-14T07:00:00+00:00",
+      "summary": "Third Moment Research has achieved a groundbreaking milestone by deploying 10,000 AI agents powered by GPT-6 Astra and GPT-6.1 Sol, capable of operating continuously for over 36 hours while enhancing their performance through sustained use, marking a significant advancement in AI-driven cybersecurity solutions. This breakthrough not only demonstrates the potential for long-term autonomous operation but also sets a new standard for the adaptability and effectiveness of AI in critical security applications.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "published_date": "2026-10-14T07:00:00+00:00",
+      "summary": "Block is revolutionizing cybersecurity by integrating OpenAI technology to enhance threat investigation and response, enabling its security team to identify vulnerabilities and implement patches in a matter of minutes, significantly reducing potential risks. This breakthrough not only streamlines security processes but also sets a new standard for rapid response in the ever-evolving landscape of cyber threats.",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
@@ -24,86 +104,6 @@
       "summary": "European cities are harnessing NVIDIA's advanced AI technology to deploy intelligent agents and digital twins, revolutionizing urban management by optimizing decision-making processes for infrastructure and energy efficiency. This breakthrough not only enhances operational efficiency but also significantly improves the quality of life for residents by enabling smarter, data-driven urban planning.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "published_date": "2026-10-13T16:00:00+00:00",
-      "summary": "Google AI's Gemini 4 Argon represents a significant leap in artificial intelligence capabilities, designed to tackle complex challenges across various domains, potentially revolutionizing industries by providing unprecedented problem-solving power. This breakthrough not only enhances efficiency but also opens new avenues for innovation and decision-making in technology and beyond.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Huawei, once hobbled by US sanctions, passes 100 million Kirin chip milestone",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone?utm_source=rss_feed",
-      "published_date": "2026-10-13T13:00:08+00:00",
-      "summary": "Huawei has achieved a significant milestone by shipping over 100 million devices with its Kirin processors, marking a remarkable comeback in the smartphone market following US sanctions, while also advancing the development of its next-generation Kirin 2027 chip, which utilizes innovative LogicFolding architecture. This breakthrough not only underscores Huawei's resilience but also positions the company as a formidable player in the global semiconductor landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "link": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "published_date": "2026-10-13T12:59:16+00:00",
-      "summary": "Apple has unveiled HomeView, a groundbreaking platform that seamlessly integrates entertainment and home management, positioning itself as the central hub for personalized experiences within the household. This innovation not only enhances user convenience but also redefines how families interact with technology in their daily lives.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "published_date": "2026-10-13T12:58:10+00:00",
-      "summary": "Apple's latest Apple TV 4K harnesses the power of Siri AI to redefine home entertainment, offering an unparalleled immersive experience that sets a new standard for streaming technology. This breakthrough not only enhances user interaction but also positions Apple at the forefront of the smart home revolution.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Apple announces the next generation of HomePod mini",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
-      "published_date": "2026-10-13T12:57:08+00:00",
-      "summary": "Apple's launch of the HomePod mini 2 introduces advanced Siri AI capabilities and improved audio quality, alongside a vibrant new color palette, positioning it as a game-changer in the smart speaker market and enhancing the overall home automation experience.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
-      "link": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
-      "published_date": "2026-10-13T12:56:12+00:00",
-      "summary": "Apple's launch of the Home Collection, developed in partnership with LG Electronics and Schneider Electric, marks a significant leap in the smart home ecosystem, blending cutting-edge technology with seamless integration to enhance user experience and redefine home automation. This breakthrough not only solidifies Apple's position in the smart home market but also sets a new standard for interoperability and design in connected living spaces.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "published_date": "2026-10-13T12:00:49+00:00",
-      "summary": "NVIDIA RTX Spark represents a groundbreaking fusion of gaming, creative, and AI computing capabilities into a single superchip, boasting up to 128GB of unified memory and 1 petaflop of AI compute, which could redefine the global PC app ecosystem and elevate user experiences across multiple domains. This innovation not only enhances performance but also positions NVIDIA at the forefront of the next generation of computing technology.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published_date": "2026-10-13T12:00:00+00:00",
-      "summary": "Higgsfield's groundbreaking advancements with GPT-6 Astra and GPT-Image-2.5 enable creators to produce videos exceeding ten minutes in length, revolutionizing content creation by enhancing visual precision and introducing innovative voice filmmaking capabilities with GPT-Live. This leap in AI technology not only expands the creative possibilities for filmmakers but also sets a new standard for engaging storytelling in digital media.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Deskilling the body",
-      "link": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
-      "published_date": "2026-10-13T10:00:00+00:00",
-      "summary": "• The modern world increasingly diminishes our physical and cognitive engagement, leading to a gradual deskilling of our bodies.  \n• As technology takes over basic tasks, we risk losing essential skills that once defined human experience and interaction.  \n• This shift prompts a philosophical inquiry into the nature of agency and the value of embodied knowledge in an increasingly digital age.  \n• The consequences of deskilling extend beyond individual capabilities, affecting our collective relationship with the environment and each other.  \n• Ultimately, the essay challenges us to reconsider what it means to be human in a world that prioritizes convenience over competence.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China’s Iluvatar CoreX’s first AI computing supernode squeezes most GPUs in 1 system",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system?utm_source=rss_feed",
-      "published_date": "2026-10-13T09:00:04+00:00",
-      "summary": "Iluvatar CoreX has launched the Tiangai 300 IXL144, a groundbreaking supernode system that integrates 144 GPUs into a single cabinet, setting a new industry benchmark and significantly enhancing capabilities for large-scale AI model training and inference. This innovation not only showcases China's advancing prowess in AI technology but also promises to accelerate developments across various sectors reliant on powerful computing resources.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
