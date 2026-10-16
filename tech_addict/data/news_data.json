@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:51:05.620627+00:00",
+  "last_updated": "2026-10-16T08:26:01.708706+00:00",
   "articles": [
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -80,22 +80,6 @@
       "summary": "China and the United States are engaging in crucial discussions to establish a formal dialogue on artificial intelligence incidents, aiming to create a framework for addressing potential AI-related crises ahead of a pivotal presidential summit, underscoring the escalating importance of AI governance in global relations. This breakthrough could significantly impact market stability and international cooperation in technology.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Start-up unveils prototype ‘heart’ of EUV lithography amid China chipmaking push",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370966/start-unveils-prototype-heart-euv-lithography-amid-china-chipmaking-push?utm_source=rss_feed",
-      "published_date": "2026-10-15T06:01:54+00:00",
-      "summary": "A Chinese start-up has introduced a prototype extreme ultraviolet (EUV) light-source machine, a pivotal component in advanced lithography systems, signaling a significant advancement in China's quest for self-sufficiency in chipmaking technology. This breakthrough not only enhances China's technological capabilities but also poses a challenge to global semiconductor supply chains dominated by established players.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-      "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-      "published_date": "2026-10-15T05:00:12+00:00",
-      "summary": "The Nordic countries are emerging as a powerhouse in advanced computing, leading Europe in unicorn startup density and positioning themselves to create a transformative technology ecosystem that could redefine the continent's innovation landscape. This strategic commitment not only highlights the region's potential but also sets a precedent for how focused investment in technology can drive economic growth and attract global talent.",
-      "source": "NVIDIA",
-      "category": "AI"
     }
   ]
 }
