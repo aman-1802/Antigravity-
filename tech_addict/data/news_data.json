@@ -1,83 +1,35 @@
 {
-  "last_updated": "2026-10-16T08:26:01.708706+00:00",
+  "last_updated": "2026-10-17T03:41:08.703661+00:00",
   "articles": [
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published_date": "2026-10-15T19:00:00+00:00",
-      "summary": "OpenAI's launch of the Rosalind Academic Plan provides academic research labs with sponsored access to GPT-Rosalind, a groundbreaking AI tool designed to significantly enhance life sciences research, thereby accelerating discoveries and innovations in the field. This initiative not only democratizes access to advanced AI technology but also positions academic institutions at the forefront of scientific advancement.",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "published_date": "2026-10-16T19:00:00+00:00",
+      "summary": "Itaú is revolutionizing customer engagement in Brazil's highly regulated banking sector by implementing ia.i, a generative AI conversational interface, alongside the IARA governance platform, showcasing a bold AI First strategy that enhances service delivery for both customers and employees. This breakthrough not only streamlines operations but also sets a new standard for innovation in financial services.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-      "published_date": "2026-10-15T17:00:23+00:00",
-      "summary": "NVIDIA RTX Spark marks a revolutionary leap for Windows PCs, designed specifically for creators, gamers, and AI agents, heralding a new era of performance and creativity. This launch not only showcases cutting-edge technology but also invites a global community to engage in the narrative of personal computing evolution.",
-      "source": "NVIDIA",
-      "category": "AI"
+      "title": "ASML eyes hybrid bonding, report finds, as Chinese firms adopt chip packaging technique",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371181/asml-eyes-hybrid-bonding-report-finds-chinese-firms-adopt-chip-packaging-technique?utm_source=rss_feed",
+      "published_date": "2026-10-16T12:30:12+00:00",
+      "summary": "ASML's foray into hybrid bonding technology, which enables ultra-dense electrical connections by directly fusing chips or silicon wafers, marks a significant advancement in semiconductor manufacturing, while its adoption by major Chinese firms underscores a pivotal shift towards enhanced chip performance in the global market. This breakthrough not only positions ASML at the forefront of innovation but also highlights the escalating competition in the semiconductor landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
-      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-      "published_date": "2026-10-15T15:00:24+00:00",
-      "summary": "NVIDIA has unveiled the Nemotron 3.5 Super VL, a groundbreaking 120-billion-parameter model that achieves unparalleled task efficiency and accuracy for always-on agents, alongside two new edge models designed to optimize intelligence and speed for localized applications, marking a significant leap in AI capabilities from data centers to desktops. This expansion not only enhances performance but also democratizes access to advanced AI technologies, enabling more efficient and intelligent local processing.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
-      "published_date": "2026-10-15T13:00:59+00:00",
-      "summary": "NVIDIA's introduction of DLSS 4.5 controls on GeForce NOW empowers gamers to customize the visual and performance settings of cloud-supported games, significantly enhancing the gaming experience without the need for cutting-edge hardware. This breakthrough not only elevates accessibility for players but also sets a new standard for cloud gaming technology.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published_date": "2026-10-15T13:00:00+00:00",
-      "summary": "OpenAI's new Study Mode empowers educators to foster critical thinking and active learning in students by leveraging AI technology, marking a significant advancement in personalized education and teaching methodologies. This breakthrough not only enhances the learning experience but also equips teachers with innovative tools to engage students more effectively.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Open up to new possibilities with iPhone Duo",
-      "link": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "published_date": "2026-10-15T12:59:28+00:00",
-      "summary": "Apple's iPhone Duo, set for pre-order on October 16, introduces groundbreaking features that promise to redefine user interaction and multitasking capabilities, positioning the device as a game-changer in the smartphone market. This innovation not only enhances productivity but also opens new avenues for app development and user engagement, solidifying Apple's leadership in technology.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "The secrets of Hohle Fels cave",
-      "link": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
-      "published_date": "2026-10-15T10:01:00+00:00",
-      "summary": "• The discovery of ancient bird figurines in Hohle Fels cave challenges our understanding of Neanderthal cognitive abilities and creativity.  \n• Art may have played a crucial role in the survival and evolution of early humans, distinguishing them from their Neanderthal relatives.  \n• The presence of these artifacts suggests that symbolic thinking and cultural expression were vital components of human identity long before recorded history.  \n• The cave serves as a reminder that creativity is not merely a byproduct of civilization but a fundamental aspect of what it means to be human.",
+      "title": "How to be a (Roman) man",
+      "link": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "published_date": "2026-10-16T10:00:00+00:00",
+      "summary": "• Cicero redefined masculinity by emphasizing self-control and bravery over arrogance and aggression.  \n• The Roman ideal of manhood advocates for moral integrity and the pursuit of virtue in personal conduct.  \n• True strength lies in the ability to govern oneself rather than exert power over others.  \n• The essence of manliness is found in humility and the service of the greater good, rather than in personal glory.  \n• Reflecting on Cicero's ideals challenges contemporary notions of masculinity and invites a deeper exploration of virtue.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-      "link": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-      "published_date": "2026-10-15T10:00:12+00:00",
-      "summary": "NVIDIA is revolutionizing scientific research in Europe by providing advanced computing resources and collaborative learning opportunities, empowering smaller labs and early-career scientists to harness accelerated computing for groundbreaking discoveries in fields like climate modeling and material simulation. This initiative not only democratizes access to cutting-edge technology but also accelerates the pace of scientific innovation across the continent.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The ladder of knowledge",
-      "link": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
-      "published_date": "2026-10-15T10:00:00+00:00",
-      "summary": "• Knowledge is a dynamic ladder, where each rung represents a shifting understanding of truth rather than a fixed endpoint.  \n• Our pursuit of truth is a continuous journey, shaped by evolving perspectives and experiences.  \n• The act of climbing this ladder invites us to embrace uncertainty and question our assumptions.  \n• Each ascent reveals new insights, challenging us to redefine what we consider to be true.  \n• Ultimately, the quest for knowledge is less about reaching a destination and more about the transformative process of exploration.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China, US discuss AI as chip stock rout hits Asian markets",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets?utm_source=rss_feed",
-      "published_date": "2026-10-15T09:27:12+00:00",
-      "summary": "China and the United States are engaging in crucial discussions to establish a formal dialogue on artificial intelligence incidents, aiming to create a framework for addressing potential AI-related crises ahead of a pivotal presidential summit, underscoring the escalating importance of AI governance in global relations. This breakthrough could significantly impact market stability and international cooperation in technology.",
+      "title": "China’s AI boom, self-sufficiency push fuel earnings surge for local chip firms",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371159/chinas-ai-boom-self-sufficiency-push-fuel-earnings-surge-local-chip-firms?utm_source=rss_feed",
+      "published_date": "2026-10-16T09:30:09+00:00",
+      "summary": "China's chip firms are experiencing an unprecedented surge in profits, with some reporting up to six-fold increases, driven by soaring demand for domestic processors and AI infrastructure as the country intensifies its self-sufficiency efforts. This remarkable growth underscores a pivotal shift in the global tech landscape, positioning China as a formidable player in the semiconductor industry.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
