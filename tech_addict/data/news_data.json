@@ -1,35 +1,19 @@
 {
-  "last_updated": "2026-10-17T07:59:24.869371+00:00",
+  "last_updated": "2026-10-18T03:47:24.550404+00:00",
   "articles": [
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "published_date": "2026-10-16T19:00:00+00:00",
-      "summary": "Itaú is revolutionizing customer engagement in Brazil's highly regulated banking sector by implementing ia.i, a generative AI conversational interface, alongside the IARA governance platform, showcasing a bold AI First strategy that enhances service delivery for both customers and employees. This breakthrough not only streamlines operations but also sets a new standard for innovation in financial services.",
-      "source": "OpenAI",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "published_date": "2026-10-17T21:00:13+00:00",
+      "summary": "NVIDIA's launch of RTX Spark laptops, featuring cutting-edge Blackwell RTX graphics and up to 128GB of unified memory, revolutionizes portable computing by delivering unprecedented AI, content creation, and gaming performance in a sleek design, setting a new standard for premium Windows PCs. This breakthrough not only enhances user experience but also positions NVIDIA at the forefront of the AI-driven tech landscape.",
+      "source": "NVIDIA",
       "category": "AI"
     },
     {
-      "title": "ASML eyes hybrid bonding, report finds, as Chinese firms adopt chip packaging technique",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371181/asml-eyes-hybrid-bonding-report-finds-chinese-firms-adopt-chip-packaging-technique?utm_source=rss_feed",
-      "published_date": "2026-10-16T12:30:12+00:00",
-      "summary": "ASML's foray into hybrid bonding technology, which enables ultra-dense electrical connections by directly fusing chips or silicon wafers, marks a significant advancement in semiconductor manufacturing, while its adoption by major Chinese firms underscores a pivotal shift towards enhanced chip performance in the global market. This breakthrough not only positions ASML at the forefront of innovation but also highlights the escalating competition in the semiconductor landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How to be a (Roman) man",
-      "link": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
-      "published_date": "2026-10-16T10:00:00+00:00",
-      "summary": "• Cicero redefined masculinity by emphasizing self-control and bravery over arrogance and aggression.  \n• The Roman ideal of manhood advocates for moral integrity and the pursuit of virtue in personal conduct.  \n• True strength lies in the ability to govern oneself rather than exert power over others.  \n• The essence of manliness is found in humility and the service of the greater good, rather than in personal glory.  \n• Reflecting on Cicero's ideals challenges contemporary notions of masculinity and invites a deeper exploration of virtue.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China’s AI boom, self-sufficiency push fuel earnings surge for local chip firms",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371159/chinas-ai-boom-self-sufficiency-push-fuel-earnings-surge-local-chip-firms?utm_source=rss_feed",
-      "published_date": "2026-10-16T09:30:09+00:00",
-      "summary": "China's chip firms are experiencing an unprecedented surge in profits, with some reporting up to six-fold increases, driven by soaring demand for domestic processors and AI infrastructure as the country intensifies its self-sufficiency efforts. This remarkable growth underscores a pivotal shift in the global tech landscape, positioning China as a formidable player in the semiconductor industry.",
+      "title": "China’s proposed AI tech export bans may create short-term costs, long-term gains: analysts",
+      "link": "https://www.scmp.com/tech/big-tech/article/3371247/chinas-proposed-ai-tech-export-bans-may-create-short-term-costs-long-term-gains-analysts?utm_source=rss_feed",
+      "published_date": "2026-10-17T12:00:11+00:00",
+      "summary": "China's proposed export bans on AI technologies are poised to impose immediate challenges on domestic developers, yet analysts suggest these measures could ultimately strengthen the nation's position in the global AI landscape by enhancing national security and regulatory control amid rising global concerns over advanced AI risks.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
