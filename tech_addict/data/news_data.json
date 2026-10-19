@@ -1,21 +1,4 @@
 {
-  "last_updated": "2026-10-18T08:16:23.794924+00:00",
-  "articles": [
-    {
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "published_date": "2026-10-17T21:00:13+00:00",
-      "summary": "NVIDIA's launch of RTX Spark laptops, featuring cutting-edge Blackwell RTX graphics and up to 128GB of unified memory, revolutionizes portable computing by delivering unprecedented AI, content creation, and gaming performance in a sleek design, setting a new standard for premium Windows PCs. This breakthrough not only enhances user experience but also positions NVIDIA at the forefront of the AI-driven tech landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China’s proposed AI tech export bans may create short-term costs, long-term gains: analysts",
-      "link": "https://www.scmp.com/tech/big-tech/article/3371247/chinas-proposed-ai-tech-export-bans-may-create-short-term-costs-long-term-gains-analysts?utm_source=rss_feed",
-      "published_date": "2026-10-17T12:00:11+00:00",
-      "summary": "China's proposed export bans on AI technologies are poised to impose immediate challenges on domestic developers, yet analysts suggest these measures could ultimately strengthen the nation's position in the global AI landscape by enhancing national security and regulatory control amid rising global concerns over advanced AI risks.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    }
-  ]
+  "last_updated": "2026-10-19T03:56:58.395611+00:00",
+  "articles": []
 }
