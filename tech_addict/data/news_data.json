@@ -1,4 +1,77 @@
 {
-  "last_updated": "2026-10-19T09:13:08.394213+00:00",
-  "articles": []
+  "last_updated": "2026-10-20T04:09:17.181196+00:00",
+  "articles": [
+    {
+      "title": "China’s new 0.1-nanometre electron microscope ready to challenge US and Japan",
+      "link": "https://www.scmp.com/news/china/science/article/3371401/chinas-new-01-nanometre-electron-microscope-ready-challenge-us-and-japan?utm_source=rss_feed",
+      "published_date": "2026-10-20T04:00:09+00:00",
+      "summary": "China's development of a groundbreaking 0.1-nanometre electron microscope signals a significant shift in the global microscopy landscape, positioning the nation to compete directly with established leaders in the field, the US and Japan, and potentially transforming research and industrial applications worldwide.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Alibaba’s RISC-V IP powers over 6 billion shipped chips as tech giant targets AI, autos",
+      "link": "https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos?utm_source=rss_feed",
+      "published_date": "2026-10-20T00:30:10+00:00",
+      "summary": "Alibaba's Damo Academy has achieved a remarkable milestone with over 6 billion chips shipped using its XuanTie RISC-V architecture, underscoring the company's strategic focus on leveraging open standard technology to enhance capabilities in artificial intelligence and automotive systems, while positioning itself as a key player in the global RISC-V ecosystem. This breakthrough not only highlights Alibaba's innovation in chip design but also signals a significant shift in the competitive landscape of AI and automotive technologies.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "published_date": "2026-10-19T19:27:08+00:00",
+      "summary": "Germany aims to become a global leader in industrial AI, with NVIDIA's expertise set to play a pivotal role in shaping the nation's AI roadmap and enhancing its industrial capabilities. This collaboration signifies a major step towards integrating advanced AI technologies into Germany's manufacturing sector, potentially revolutionizing productivity and innovation.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "published_date": "2026-10-19T15:00:31+00:00",
+      "summary": "NVIDIA's groundbreaking collaboration with the European Broadcasting Union to enhance agentic security in media through cloud technology and open models marks a significant leap forward in safeguarding content production, potentially transforming how global media organizations manage and protect their intellectual property. This advancement not only strengthens the integrity of public service broadcasting but also sets a new standard for security in the rapidly evolving creative industry.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
+      "published_date": "2026-10-19T13:30:07+00:00",
+      "summary": "China has achieved a significant milestone by establishing fully self-controlled satellite broadband coverage in polar regions, effectively reducing its reliance on foreign technology and positioning itself as a formidable competitor to Elon Musk's Starlink. This advancement not only enhances China's strategic communications capabilities in remote areas but also marks a pivotal step in its technological independence and global influence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Securing the agentic insider",
+      "link": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "published_date": "2026-10-19T13:00:02+00:00",
+      "summary": "Microsoft's latest insights highlight the urgent need for robust AI safety measures as the increasing power of AI models poses significant risks, emphasizing that without proper management, these advancements could lead to unprecedented threats in an already competitive innovation landscape. This breakthrough underscores the critical importance of securing AI systems to prevent potential misuse and ensure safe deployment in various applications.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "published_date": "2026-10-19T12:00:00+00:00",
+      "summary": "OpenAI is revolutionizing the coding landscape by enhancing ChatGPT's capabilities in low-resource programming languages, significantly improving software engineering processes and facilitating the migration of legacy systems like COBOL to modern platforms. This breakthrough not only democratizes access to advanced coding tools but also streamlines the transition for organizations reliant on outdated technologies, paving the way for greater innovation and efficiency in software development.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "A vocabulary for the future: nature",
+      "link": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
+      "published_date": "2026-10-19T10:01:00+00:00",
+      "summary": "• Bruno Latour challenges the dichotomy between 'natural' and 'artificial,' arguing it reflects a flawed human-centric worldview.  \n• He suggests that our perception of nature is often shaped by cultural narratives rather than objective realities.  \n• Latour advocates for a vocabulary that transcends traditional binaries, fostering a more nuanced understanding of our relationship with the environment.  \n• The essay prompts readers to reconsider the implications of labeling aspects of existence as purely 'natural' or 'artificial.'  \n• Ultimately, it calls for a reimagining of our connection to the world, emphasizing interdependence over separation.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Horrible, unmanly, indispensable",
+      "link": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
+      "published_date": "2026-10-19T10:00:00+00:00",
+      "summary": "• The Renaissance period grappled with the moral implications of gunpowder, viewing it as both a tool of destruction and a necessary evil.  \n• Initially perceived as unmanly and dishonorable, firearms challenged the chivalric ideals of honor and combat.  \n• The transition from disdain to acceptance of guns reflects humanity's complex relationship with technology and power.  \n• Embracing the gun symbolizes a shift in societal values, where practicality often supersedes traditional notions of bravery and valor.  \n• Ultimately, the evolution of weaponry reveals deeper truths about human nature and the relentless pursuit of survival amidst moral dilemmas.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    }
+  ]
 }
