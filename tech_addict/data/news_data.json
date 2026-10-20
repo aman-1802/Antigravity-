@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-10-20T04:09:17.181196+00:00",
+  "last_updated": "2026-10-20T08:48:46.130966+00:00",
   "articles": [
     {
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "published_date": "2026-10-20T08:20:02+00:00",
+      "summary": "Microsoft is pioneering a new approach to digital sovereignty that empowers governments and regulated industries with enhanced control and choice over their critical systems, addressing the urgent need for secure and reliable technology integration in public services amidst the rise of advanced cloud and AI capabilities. This breakthrough is crucial as it ensures that essential infrastructure can leverage innovation without compromising on governance and security.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+      "published_date": "2026-10-20T05:00:00+00:00",
+      "summary": "The Barcelona Supercomputing Center's AI Factory Accelerator Programme is revolutionizing regional innovation by providing startups with essential resources like sovereign computing and technical support, significantly enhancing their capacity to drive advancements across various industries. This initiative, in collaboration with NVIDIA's Inception program, positions these companies at the forefront of technological breakthroughs.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
       "title": "China’s new 0.1-nanometre electron microscope ready to challenge US and Japan",
-      "link": "https://www.scmp.com/news/china/science/article/3371401/chinas-new-01-nanometre-electron-microscope-ready-challenge-us-and-japan?utm_source=rss_feed",
+      "link": "https://www.scmp.com/news/china/science/article/3371401/chinas-new-01-nanometre-electron-microscope-ready-challenge-us-and-japan",
       "published_date": "2026-10-20T04:00:09+00:00",
-      "summary": "China's development of a groundbreaking 0.1-nanometre electron microscope signals a significant shift in the global microscopy landscape, positioning the nation to compete directly with established leaders in the field, the US and Japan, and potentially transforming research and industrial applications worldwide.",
+      "summary": "China's new 0.1-nanometre electron microscope, developed by CIQTEK, is set to disrupt the established dominance of US and Japanese manufacturers in the advanced microscopy market, offering unprecedented resolution capabilities that could redefine research and industrial applications. This breakthrough not only showcases China's technological advancements but also signals a significant shift in the global landscape of high-precision imaging technology.",
       "source": "China News",
       "category": "SCMP"
     },
@@ -15,6 +31,14 @@
       "published_date": "2026-10-20T00:30:10+00:00",
       "summary": "Alibaba's Damo Academy has achieved a remarkable milestone with over 6 billion chips shipped using its XuanTie RISC-V architecture, underscoring the company's strategic focus on leveraging open standard technology to enhance capabilities in artificial intelligence and automotive systems, while positioning itself as a key player in the global RISC-V ecosystem. This breakthrough not only highlights Alibaba's innovation in chip design but also signals a significant shift in the competitive landscape of AI and automotive technologies.",
       "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "US-China AI talks must ensure safety of both tech and business",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3370909/us-china-ai-talks-must-ensure-safety-both-tech-and-business",
+      "published_date": "2026-10-19T21:30:05+00:00",
+      "summary": "The recent US-China talks on artificial intelligence have paved the way for unprecedented cooperation between the two nations, emphasizing the need for a formal dialogue to ensure the safety of both technology and business, which could reshape the global AI landscape. As American tech companies invest heavily in infrastructure, the outcome of these discussions could significantly impact the future of AI development and international relations.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
