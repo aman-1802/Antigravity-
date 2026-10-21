@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T03:57:59.847171+00:00",
+  "last_updated": "2026-10-21T08:48:45.687171+00:00",
   "articles": [
     {
       "title": "How Claude’s text watermark works",
@@ -210,6 +210,22 @@
       "category": "AI"
     },
     {
+      "title": "DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool",
+      "link": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+      "published_date": "2026-10-21T05:03:27+00:00",
+      "summary": "Chinese AI start-up DeepSeek has launched DeepInfer, an open-source inference framework that aims to democratize AI model efficiency and combat the dominance of closed-source systems, framing the initiative as a pivotal struggle between transparency and opacity in technology. This breakthrough not only enhances accessibility for developers but also challenges the prevailing closed-source paradigm, potentially reshaping the future landscape of artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "published_date": "2026-10-21T04:00:00+00:00",
+      "summary": "Southeast Asia's digital economy is projected to soar to $368 billion by 2026, underscoring the region's rapid technological advancement and its potential to reshape global markets. This growth highlights the critical role of digital innovation in driving economic resilience and competitiveness in an increasingly interconnected world.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
       "title": "Apple unveils the 2026 Designers of Tomorrow",
       "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
       "published_date": "2026-10-20T14:59:22+00:00",
@@ -248,30 +264,6 @@
       "summary": "• Intuition serves as an immediate, often subconscious guide, shaping our perceptions and decisions in everyday life.  \n• The interplay between instinct and reason reveals the complexities of human cognition and the reliability of our gut feelings.  \n• Cultural and social contexts significantly influence our intuitive responses, highlighting the subjective nature of perception.  \n• Understanding the mechanics of intuition can empower us to navigate our environments more effectively and with greater awareness.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Advancing digital sovereignty with greater control and choice",
-      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-      "published_date": "2026-10-20T08:20:02+00:00",
-      "summary": "Microsoft is pioneering a new approach to digital sovereignty that empowers governments and regulated industries with enhanced control and choice over their critical systems, addressing the urgent need for secure and reliable technology integration in public services amidst the rise of advanced cloud and AI capabilities. This breakthrough is crucial as it ensures that essential infrastructure can leverage innovation without compromising on governance and security.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "link": "https://openai.com/index/terminal-x",
-      "published_date": "2026-10-20T07:00:00+00:00",
-      "summary": "Terminal X has achieved a groundbreaking 88.6% alignment with senior investor judgment by utilizing GPT-6.1, significantly enhancing its Eval Agent's ability to detect deviations from a fund's mandate by 25%, which could revolutionize investment decision-making and compliance in the financial sector.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-      "published_date": "2026-10-20T05:00:00+00:00",
-      "summary": "The Barcelona Supercomputing Center's AI Factory Accelerator Programme is revolutionizing regional innovation by providing startups with essential resources like sovereign computing and technical support, significantly enhancing their capacity to drive advancements across various industries. This initiative, in collaboration with NVIDIA's Inception program, positions these companies at the forefront of technological breakthroughs.",
-      "source": "NVIDIA",
-      "category": "AI"
     }
   ]
 }
