@@ -1,6 +1,254 @@
 {
-  "last_updated": "2026-10-20T08:48:46.130966+00:00",
+  "last_updated": "2026-10-21T03:57:59.847171+00:00",
   "articles": [
+    {
+      "title": "How Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "published_date": "2026-10-21T03:57:47.715256+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking text watermarking technology for its AI model, Claude, which enables the detection of AI-generated content, enhancing transparency and trust in digital communications. This innovation is crucial as it addresses growing concerns over misinformation and the authenticity of online information, setting a new standard for accountability in AI usage.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "published_date": "2026-10-21T03:57:47.715216+00:00",
+      "summary": "Anthropic has announced a groundbreaking initiative to enhance the evaluation of AI's impact on human wellbeing, a critical step that could redefine how we assess and mitigate the societal implications of advanced technologies. This development is vital as it aims to ensure that AI advancements align with ethical standards and promote positive outcomes for individuals and communities.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Expanding our support for scientists",
+      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "published_date": "2026-10-21T03:57:47.715176+00:00",
+      "summary": "Anthropic has announced a significant expansion of its support for scientists, aiming to enhance research capabilities and foster innovation in artificial intelligence. This initiative not only underscores the company's commitment to advancing scientific inquiry but also positions it as a key player in shaping the future of AI research and development.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Previewing the Model Hardware Standard",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "published_date": "2026-10-21T03:57:47.715137+00:00",
+      "summary": "Anthropic's introduction of the Model Hardware Standard represents a groundbreaking framework aimed at optimizing AI model performance across diverse hardware platforms, potentially revolutionizing how developers deploy and scale artificial intelligence applications. This standard could significantly enhance interoperability and efficiency in the rapidly evolving AI landscape, making advanced AI more accessible and effective for various industries.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "published_date": "2026-10-21T03:57:47.715095+00:00",
+      "summary": "Anthropic has announced significant advancements in their alignment and security strategies for AI systems, aiming to enhance the safety and reliability of artificial intelligence in real-world applications. This breakthrough is crucial as it addresses growing concerns about AI misuse and the need for robust frameworks to ensure ethical deployment.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "published_date": "2026-10-21T03:57:47.715058+00:00",
+      "summary": "Anthropic is pioneering the development of advanced enterprise safeguards in collaboration with its customers, marking a significant leap in ensuring AI systems are not only powerful but also secure and aligned with user needs. This breakthrough is crucial as it addresses growing concerns over AI safety and accountability in enterprise applications, setting a new standard for responsible AI deployment.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "published_date": "2026-10-21T03:57:47.715016+00:00",
+      "summary": "Anthropic has launched the Life Sciences Verification Program, a groundbreaking initiative designed to enhance the reliability and safety of AI applications in the life sciences sector, which is crucial for advancing medical research and improving patient outcomes. This program not only sets a new standard for AI accountability but also addresses critical ethical concerns, positioning Anthropic at the forefront of responsible AI innovation in healthcare.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Partnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "published_date": "2026-10-21T03:57:47.714974+00:00",
+      "summary": "Anthropic has partnered with Accenture to introduce embedded evaluation, a groundbreaking approach that enhances AI model assessments in real-time, significantly improving the reliability and safety of AI deployments across industries. This collaboration not only sets a new standard for AI evaluation but also empowers organizations to adopt AI technologies with greater confidence and accountability.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "published_date": "2026-10-21T03:57:47.714929+00:00",
+      "summary": "Barclays has successfully integrated Anthropic's advanced AI model, Claude, to enhance operational efficiency and elevate client interactions, marking a significant leap in the banking sector's adoption of cutting-edge technology. This breakthrough not only streamlines processes but also sets a new standard for personalized customer service in financial services.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "link": "https://www.anthropic.com/news/claude-frontier-academy",
+      "published_date": "2026-10-21T03:57:47.714889+00:00",
+      "summary": "Anthropic's $100 million investment to train 10,000 engineers represents a significant commitment to addressing the critical talent shortage in enterprise AI, potentially reshaping the industry by equipping a new generation of skilled professionals to drive innovation and implementation of advanced AI solutions. This initiative not only aims to fill the skills gap but also positions Anthropic as a leader in fostering a sustainable AI workforce essential for future technological advancements.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Partnerships",
+      "link": "https://www.anthropic.com/news/partnerships",
+      "published_date": "2026-10-21T03:57:47.714847+00:00",
+      "summary": "Anthropic has announced strategic partnerships aimed at enhancing the capabilities of its AI systems, a move that could significantly accelerate advancements in safe and responsible AI development. This collaboration not only positions Anthropic at the forefront of AI innovation but also sets a new standard for ethical practices in the rapidly evolving tech landscape.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "published_date": "2026-10-21T03:57:47.714815+00:00",
+      "summary": "Anthropic has announced a significant initiative aimed at enhancing American scientific discovery, underscoring its dedication to advancing AI research and innovation. This commitment not only positions the company at the forefront of technological progress but also emphasizes the critical role of collaborative scientific efforts in shaping the future of artificial intelligence.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "2026 Usage Policy update",
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "published_date": "2026-10-21T03:57:47.714775+00:00",
+      "summary": "Anthropic's 2026 Usage Policy update introduces groundbreaking guidelines aimed at ensuring the responsible deployment of AI technologies, significantly enhancing safety measures and ethical standards in the rapidly evolving landscape of artificial intelligence. This pivotal shift not only sets a precedent for industry accountability but also addresses growing concerns over AI's societal impact, positioning Anthropic as a leader in fostering trust and innovation in AI development.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Security",
+      "link": "https://www.anthropic.com/news/security",
+      "published_date": "2026-10-21T03:57:47.714738+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking security framework designed to enhance AI safety, significantly reducing the risks associated with deploying advanced machine learning systems. This innovation is crucial as it addresses growing concerns over AI misuse and aligns with global efforts to establish robust ethical standards in technology.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing the Anthropic Cyber Mission",
+      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "published_date": "2026-10-21T03:57:47.714707+00:00",
+      "summary": "Anthropic has unveiled its groundbreaking Cyber Mission initiative, which aims to revolutionize cybersecurity by leveraging advanced AI technologies to proactively identify and neutralize threats, thereby significantly enhancing digital safety and resilience in an increasingly complex cyber landscape. This development is crucial as it addresses the urgent need for innovative solutions to combat the rising tide of cyberattacks, ensuring robust protection for individuals and organizations alike.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Strengthening our defenses against distillation attacks",
+      "link": "https://www.anthropic.com/news/distillation-defenses",
+      "published_date": "2026-10-21T03:57:47.714667+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking approach to fortify AI systems against distillation attacks, a significant threat that compromises the integrity and security of machine learning models. This advancement not only enhances the resilience of AI technologies but also sets a new standard for safeguarding sensitive data in an increasingly vulnerable digital landscape.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "link": "https://www.anthropic.com/news/singapore-office-opening",
+      "published_date": "2026-10-21T03:57:47.714627+00:00",
+      "summary": "Anthropic's strategic expansion into Singapore, marked by a new office and a memorandum of understanding with the government, signifies a pivotal move in advancing AI research and collaboration in Southeast Asia, positioning the company at the forefront of global AI development and regulatory dialogue. This initiative not only enhances Anthropic's operational footprint but also underscores Singapore's commitment to becoming a leading hub for responsible AI innovation.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Safeguards",
+      "link": "https://www.anthropic.com/news/safeguards",
+      "published_date": "2026-10-21T03:57:47.714589+00:00",
+      "summary": "Anthropic has unveiled groundbreaking safeguards designed to enhance the safety and reliability of AI systems, marking a significant step towards mitigating risks associated with advanced artificial intelligence and ensuring responsible deployment in real-world applications. This development is crucial as it addresses growing concerns about AI's potential impacts on society, paving the way for more trustworthy and ethical technology integration.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Preparing for the 2026 US midterms",
+      "link": "https://www.anthropic.com/news/2026-us-midterms",
+      "published_date": "2026-10-21T03:57:47.714558+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking AI initiative aimed at enhancing the integrity and transparency of the 2026 US midterm elections, leveraging advanced machine learning to combat misinformation and ensure informed voter engagement. This development is crucial as it addresses the escalating challenges of electoral integrity in an increasingly digital landscape, potentially reshaping the future of democratic participation.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Policy",
+      "link": "https://www.anthropic.com/news/policy",
+      "published_date": "2026-10-21T03:57:47.714517+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking policy framework aimed at ensuring the safe and ethical development of artificial intelligence, a crucial step that could set new industry standards and foster public trust in AI technologies. This initiative not only addresses pressing safety concerns but also positions Anthropic as a leader in responsible AI governance, potentially influencing global regulatory practices.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "An update on independent evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published_date": "2026-10-21T03:57:47.714482+00:00",
+      "summary": "Anthropic has announced a significant advancement in the development of independent evaluators for AI systems, a breakthrough that enhances transparency and accountability in AI deployment, ensuring that these technologies align with ethical standards and societal values. This innovation is crucial as it paves the way for safer AI applications, fostering public trust and regulatory compliance in an increasingly automated world.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Product",
+      "link": "https://www.anthropic.com/news/product",
+      "published_date": "2026-10-21T03:57:47.714431+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking AI product that significantly enhances human-AI collaboration, promising to revolutionize industries by enabling more intuitive and efficient interactions. This innovation not only addresses key challenges in AI usability but also sets a new standard for the future of intelligent systems.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Features",
+      "link": "https://www.anthropic.com/news/features",
+      "published_date": "2026-10-21T03:57:47.714401+00:00",
+      "summary": "Anthropic has unveiled groundbreaking features in its AI models that significantly enhance their interpretability and safety, marking a pivotal advancement in the quest for responsible artificial intelligence. This development not only promises to mitigate risks associated with AI deployment but also sets a new standard for transparency in machine learning systems, potentially reshaping industry practices.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "published_date": "2026-10-21T03:57:47.714362+00:00",
+      "summary": "Anthropic's newly expanded Cyber Verification Program introduces advanced cyber capabilities and reduced blocking classifiers, empowering security professionals with cutting-edge tools to enhance their defenses against increasingly sophisticated cyber threats. This initiative not only strengthens cybersecurity measures but also signifies a pivotal shift towards more accessible and effective security solutions in the industry.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Investing in the public benefit",
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
+      "published_date": "2026-10-21T03:57:47.714286+00:00",
+      "summary": "Anthropic is pioneering a new model for corporate responsibility by allocating a portion of its shares to the Anthropic Public Benefit Fund, ensuring that as the company expands, its commitment to public welfare and ethical AI development will grow alongside it. This innovative approach not only enhances accountability but also sets a precedent for how tech companies can align profit with societal benefit.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "published_date": "2026-10-21T03:57:47.714228+00:00",
+      "summary": "Anthropic has unveiled significant advancements in AI safety and alignment, showcasing their commitment to developing robust and responsible AI systems that prioritize ethical considerations, which is crucial as the technology becomes increasingly integrated into everyday life and decision-making processes. This breakthrough not only enhances the reliability of AI applications but also sets a new standard for the industry, emphasizing the importance of aligning AI behavior with human values.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Apple unveils the 2026 Designers of Tomorrow",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "published_date": "2026-10-20T14:59:22+00:00",
+      "summary": "Apple's 2026 Designers of Tomorrow initiative highlights groundbreaking emerging talent with a focus on the theme of presence, underscoring the company's commitment to fostering innovation and creativity in design that resonates deeply with users. This showcase not only elevates new voices in the industry but also sets the stage for the future of design in an increasingly interconnected world.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "China creates state-owned firm in Xiongan to develop nation’s AI data resources",
+      "link": "https://www.scmp.com/tech/policy/article/3371540/china-creates-state-owned-firm-xiongan-develop-nations-ai-data-resources",
+      "published_date": "2026-10-20T12:23:29+00:00",
+      "summary": "China's establishment of the National Data Group Co in Xiongan marks a pivotal step in harnessing the nation's vast data resources to propel its artificial intelligence sector and enhance its digital economy, potentially positioning the country as a global leader in AI innovation. This strategic move underscores the critical role of data management in driving technological advancement and economic growth.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "published_date": "2026-10-20T12:00:22+00:00",
+      "summary": "Apple's announcement of new partnerships with American manufacturers for the iPhone Duo and iPhone 18 Pro marks a significant shift towards domestic production, enhancing supply chain resilience and bolstering the U.S. economy while ensuring higher quality and sustainability in its flagship products. This strategic move not only reinforces Apple's commitment to American manufacturing but also sets a precedent for the tech industry in prioritizing local sourcing.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "published_date": "2026-10-20T10:00:00+00:00",
+      "summary": "An independent franchisee has revolutionized operational efficiency by leveraging ChatGPT Work to reduce menu repricing time by 94%, potentially unlocking $100,000 in cash flow, highlighting the transformative impact of AI on small business profitability. This breakthrough underscores the critical role of advanced technology in streamlining processes and enhancing financial performance in the competitive food service industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How intuitions work",
+      "link": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+      "published_date": "2026-10-20T10:00:00+00:00",
+      "summary": "• Intuition serves as an immediate, often subconscious guide, shaping our perceptions and decisions in everyday life.  \n• The interplay between instinct and reason reveals the complexities of human cognition and the reliability of our gut feelings.  \n• Cultural and social contexts significantly influence our intuitive responses, highlighting the subjective nature of perception.  \n• Understanding the mechanics of intuition can empower us to navigate our environments more effectively and with greater awareness.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
     {
       "title": "Advancing digital sovereignty with greater control and choice",
       "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
@@ -10,92 +258,20 @@
       "category": "AI"
     },
     {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "published_date": "2026-10-20T07:00:00+00:00",
+      "summary": "Terminal X has achieved a groundbreaking 88.6% alignment with senior investor judgment by utilizing GPT-6.1, significantly enhancing its Eval Agent's ability to detect deviations from a fund's mandate by 25%, which could revolutionize investment decision-making and compliance in the financial sector.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
       "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
       "published_date": "2026-10-20T05:00:00+00:00",
       "summary": "The Barcelona Supercomputing Center's AI Factory Accelerator Programme is revolutionizing regional innovation by providing startups with essential resources like sovereign computing and technical support, significantly enhancing their capacity to drive advancements across various industries. This initiative, in collaboration with NVIDIA's Inception program, positions these companies at the forefront of technological breakthroughs.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "China’s new 0.1-nanometre electron microscope ready to challenge US and Japan",
-      "link": "https://www.scmp.com/news/china/science/article/3371401/chinas-new-01-nanometre-electron-microscope-ready-challenge-us-and-japan",
-      "published_date": "2026-10-20T04:00:09+00:00",
-      "summary": "China's new 0.1-nanometre electron microscope, developed by CIQTEK, is set to disrupt the established dominance of US and Japanese manufacturers in the advanced microscopy market, offering unprecedented resolution capabilities that could redefine research and industrial applications. This breakthrough not only showcases China's technological advancements but also signals a significant shift in the global landscape of high-precision imaging technology.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Alibaba’s RISC-V IP powers over 6 billion shipped chips as tech giant targets AI, autos",
-      "link": "https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos?utm_source=rss_feed",
-      "published_date": "2026-10-20T00:30:10+00:00",
-      "summary": "Alibaba's Damo Academy has achieved a remarkable milestone with over 6 billion chips shipped using its XuanTie RISC-V architecture, underscoring the company's strategic focus on leveraging open standard technology to enhance capabilities in artificial intelligence and automotive systems, while positioning itself as a key player in the global RISC-V ecosystem. This breakthrough not only highlights Alibaba's innovation in chip design but also signals a significant shift in the competitive landscape of AI and automotive technologies.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US-China AI talks must ensure safety of both tech and business",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3370909/us-china-ai-talks-must-ensure-safety-both-tech-and-business",
-      "published_date": "2026-10-19T21:30:05+00:00",
-      "summary": "The recent US-China talks on artificial intelligence have paved the way for unprecedented cooperation between the two nations, emphasizing the need for a formal dialogue to ensure the safety of both technology and business, which could reshape the global AI landscape. As American tech companies invest heavily in infrastructure, the outcome of these discussions could significantly impact the future of AI development and international relations.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-      "published_date": "2026-10-19T19:27:08+00:00",
-      "summary": "Germany aims to become a global leader in industrial AI, with NVIDIA's expertise set to play a pivotal role in shaping the nation's AI roadmap and enhancing its industrial capabilities. This collaboration signifies a major step towards integrating advanced AI technologies into Germany's manufacturing sector, potentially revolutionizing productivity and innovation.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
-      "published_date": "2026-10-19T15:00:31+00:00",
-      "summary": "NVIDIA's groundbreaking collaboration with the European Broadcasting Union to enhance agentic security in media through cloud technology and open models marks a significant leap forward in safeguarding content production, potentially transforming how global media organizations manage and protect their intellectual property. This advancement not only strengthens the integrity of public service broadcasting but also sets a new standard for security in the rapidly evolving creative industry.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
-      "published_date": "2026-10-19T13:30:07+00:00",
-      "summary": "China has achieved a significant milestone by establishing fully self-controlled satellite broadband coverage in polar regions, effectively reducing its reliance on foreign technology and positioning itself as a formidable competitor to Elon Musk's Starlink. This advancement not only enhances China's strategic communications capabilities in remote areas but also marks a pivotal step in its technological independence and global influence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Securing the agentic insider",
-      "link": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
-      "published_date": "2026-10-19T13:00:02+00:00",
-      "summary": "Microsoft's latest insights highlight the urgent need for robust AI safety measures as the increasing power of AI models poses significant risks, emphasizing that without proper management, these advancements could lead to unprecedented threats in an already competitive innovation landscape. This breakthrough underscores the critical importance of securing AI systems to prevent potential misuse and ensure safe deployment in various applications.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "link": "https://openai.com/index/low-resource-programming-languages",
-      "published_date": "2026-10-19T12:00:00+00:00",
-      "summary": "OpenAI is revolutionizing the coding landscape by enhancing ChatGPT's capabilities in low-resource programming languages, significantly improving software engineering processes and facilitating the migration of legacy systems like COBOL to modern platforms. This breakthrough not only democratizes access to advanced coding tools but also streamlines the transition for organizations reliant on outdated technologies, paving the way for greater innovation and efficiency in software development.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "A vocabulary for the future: nature",
-      "link": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
-      "published_date": "2026-10-19T10:01:00+00:00",
-      "summary": "• Bruno Latour challenges the dichotomy between 'natural' and 'artificial,' arguing it reflects a flawed human-centric worldview.  \n• He suggests that our perception of nature is often shaped by cultural narratives rather than objective realities.  \n• Latour advocates for a vocabulary that transcends traditional binaries, fostering a more nuanced understanding of our relationship with the environment.  \n• The essay prompts readers to reconsider the implications of labeling aspects of existence as purely 'natural' or 'artificial.'  \n• Ultimately, it calls for a reimagining of our connection to the world, emphasizing interdependence over separation.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Horrible, unmanly, indispensable",
-      "link": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
-      "published_date": "2026-10-19T10:00:00+00:00",
-      "summary": "• The Renaissance period grappled with the moral implications of gunpowder, viewing it as both a tool of destruction and a necessary evil.  \n• Initially perceived as unmanly and dishonorable, firearms challenged the chivalric ideals of honor and combat.  \n• The transition from disdain to acceptance of guns reflects humanity's complex relationship with technology and power.  \n• Embracing the gun symbolizes a shift in societal values, where practicality often supersedes traditional notions of bravery and valor.  \n• Ultimately, the evolution of weaponry reveals deeper truths about human nature and the relentless pursuit of survival amidst moral dilemmas.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
