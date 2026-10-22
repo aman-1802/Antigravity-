@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T03:58:32.595109+00:00",
+  "last_updated": "2026-10-22T08:51:29.436029+00:00",
   "articles": [
     {
       "title": "Funding better evaluations of AI’s impact on wellbeing",
@@ -202,18 +202,74 @@
       "category": "AI"
     },
     {
-      "title": "China’s Unitree unveils ‘guardian’ robot that can disarm attackers, lift cars",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371683/chinese-firm-unveils-guardian-robot-can-disarm-attackers-lift-cars",
-      "published_date": "2026-10-22T00:00:15+00:00",
-      "summary": "Unitree Robotics has unveiled its groundbreaking H2-X \"guardian\" robot, capable of disarming attackers and lifting cars to rescue victims, marking a significant shift towards practical applications of robotics in enhancing public safety and emergency response. This innovation not only showcases advanced robotic capabilities but also highlights the potential for technology to play a crucial role in real-world crisis situations.",
+      "title": "China moves to set global standards for brain-computer interface technology",
+      "link": "https://www.scmp.com/business/china-business/article/3371742/china-moves-set-global-standards-brain-computer-interface-technology",
+      "published_date": "2026-10-22T06:00:26+00:00",
+      "summary": "China is positioning itself as a leader in brain-computer interface technology by chairing a key international subcommittee aimed at establishing global standards, which could significantly influence the future of human-computer interaction and bolster its national development priorities. This move not only underscores China's commitment to advancing BCI technology but also highlights its potential to shape the global landscape of this transformative field.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Websites pulled offline worldwide as AI finds critical security flaws",
-      "link": "https://www.scmp.com/news/world/article/3371694/websites-go-dark-worldwide-ai-exposes-critical-security-flaws",
-      "published_date": "2026-10-21T22:10:59+00:00",
-      "summary": "A groundbreaking discovery by AI has revealed critical security flaws in PHP, a programming language underpinning approximately 70% of the internet, prompting global shutdowns of websites to mitigate potential vulnerabilities affecting countless online platforms and services. This development underscores the urgent need for enhanced cybersecurity measures in an increasingly digital world.",
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "published_date": "2026-10-22T05:00:56+00:00",
+      "summary": "Leading European financial institutions are revolutionizing their operations by adopting open models and NVIDIA's accelerated computing to create proprietary intelligence, exemplified by Revolut's overhaul of its technology stack with the PRAGMA foundation model. This breakthrough not only enhances efficiency and innovation in financial services but also sets a new standard for leveraging advanced AI in the industry.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "published_date": "2026-10-22T05:00:27+00:00",
+      "summary": "NVIDIA has unveiled significant enhancements to its Cosmos platform, providing developers with advanced tools to rapidly train and deploy world models that enable AI systems to better understand and simulate the real world. This breakthrough positions NVIDIA at the forefront of AI development, as it ranks among the top five on multiple open models leaderboards, underscoring its impact on the future of physical AI applications.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "link": "https://blogs.nvidia.com/blog/dsx-power/",
+      "published_date": "2026-10-22T05:00:25+00:00",
+      "summary": "NVIDIA's DSX AI Factory Platform is revolutionizing energy management by enabling companies to seamlessly integrate grid operations with AI systems, addressing the critical power bottleneck that threatens infrastructure investments exceeding $300 billion. This breakthrough not only enhances operational efficiency but also paves the way for sustainable energy solutions in an increasingly power-hungry world.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "link": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+      "published_date": "2026-10-22T05:00:23+00:00",
+      "summary": "NVIDIA is revolutionizing European retail by integrating open models and physical intelligence, enabling a dramatic 90% reduction in inference costs and enhancing operational efficiency through simulated collaboration of robotic fleets in digital twins. This breakthrough not only streamlines digital discovery but also transforms physical operations, setting a new standard for the retail industry.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "link": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+      "published_date": "2026-10-22T05:00:19+00:00",
+      "summary": "NVIDIA's Earth-2 open models are revolutionizing localized weather and climate predictions across Europe, enabling industries like energy, insurance, and transportation to make informed decisions based on real-time data. This breakthrough not only enhances forecasting accuracy but also empowers stakeholders to adapt swiftly to changing environmental conditions, ultimately driving efficiency and resilience in critical sectors.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "link": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "published_date": "2026-10-22T05:00:02+00:00",
+      "summary": "NVIDIA's open models are revolutionizing the European public sector by enabling governments to customize AI solutions that enhance public services while maintaining control over sensitive data, ultimately paving the way for more secure and efficient governance. This breakthrough not only empowers local administrations to adapt technologies to their specific needs but also ensures that data privacy and security remain paramount.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Could China’s 100-channel single-photon detector enable broadband quantum internet?",
+      "link": "https://www.scmp.com/news/china/science/article/3371729/could-chinas-100-channel-single-photon-detector-enable-broadband-quantum-internet",
+      "published_date": "2026-10-22T04:34:18+00:00",
+      "summary": "Chinese scientists have achieved a groundbreaking advancement with a 100-channel single-photon detector, significantly surpassing the previous limit of 32 channels, which could revolutionize broadband quantum internet by enhancing the efficiency and capacity of photonic quantum technologies. This innovation not only represents a major leap in quantum communication capabilities but also positions China at the forefront of the global quantum technology race.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s Unitree unveils ‘guardian’ robot that can disarm attackers, lift cars",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371683/chinese-firm-unveils-guardian-robot-can-disarm-attackers-lift-cars",
+      "published_date": "2026-10-22T00:00:15+00:00",
+      "summary": "Unitree Robotics has unveiled its groundbreaking H2-X \"guardian\" robot, capable of disarming attackers and lifting cars to rescue victims, marking a significant shift towards practical applications of robotics in enhancing public safety and emergency response. This innovation not only showcases advanced robotic capabilities but also highlights the potential for technology to play a crucial role in real-world crisis situations.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
@@ -343,38 +399,6 @@
       "published_date": "2026-10-21T09:30:16+00:00",
       "summary": "NVIDIA's GTC Berlin 2026 is set to showcase groundbreaking advancements in agentic AI and robotics, highlighting the company's commitment to revolutionizing technology and its applications in various sectors. This event not only marks a significant milestone in NVIDIA's history but also positions it at the forefront of the AI revolution, promising transformative impacts on industries worldwide.",
       "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "published_date": "2026-10-21T07:00:00+00:00",
-      "summary": "Patch the Planet revolutionizes cybersecurity by uniting security researchers, maintainers, and incident responders to collaboratively tackle critical vulnerabilities in open source software, significantly enhancing global digital resilience. This groundbreaking initiative not only streamlines vulnerability management but also fosters a proactive approach to safeguarding the integrity of essential technological infrastructures.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "link": "https://openai.com/index/building-chatgpt-ad-stack",
-      "published_date": "2026-10-21T07:00:00+00:00",
-      "summary": "OpenAI has developed a groundbreaking ad stack for ChatGPT that leverages large language model technology to discern user intent, ensuring that advertisements remain distinct from responses while delivering highly relevant content at scale. This innovation not only enhances user trust but also sets a new standard for advertising in conversational AI.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "published_date": "2026-10-21T04:50:00+00:00",
-      "summary": "OpenAI, PerturbAI, and Scripps Research have harnessed the power of thousands of distributed AI agents to analyze vast biological data from millions of brain cells, revealing groundbreaking research leads that could transform our understanding of neuroscience and accelerate medical advancements. This innovative approach not only enhances data analysis efficiency but also opens new avenues for discovery in complex biological systems.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "published_date": "2026-10-21T04:00:00+00:00",
-      "summary": "Southeast Asia's digital economy is projected to soar to $368 billion by 2026, underscoring the region's rapid technological advancement and its potential to reshape global markets. This growth highlights the critical role of digital innovation in driving economic resilience and competitiveness in an increasingly interconnected world.",
-      "source": "Google AI",
       "category": "AI"
     }
   ]
