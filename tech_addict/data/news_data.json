@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-10-22T08:51:29.436029+00:00",
+  "last_updated": "2026-10-23T04:01:43.469570+00:00",
   "articles": [
-    {
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "published_date": "2026-10-21T03:57:47.715216+00:00",
-      "summary": "Anthropic has announced a groundbreaking initiative to enhance the evaluation of AI's impact on human wellbeing, a critical step that could redefine how we assess and mitigate the societal implications of advanced technologies. This development is vital as it aims to ensure that AI advancements align with ethical standards and promote positive outcomes for individuals and communities.",
-      "source": "Anthropic",
-      "category": "AI"
-    },
-    {
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "published_date": "2026-10-21T03:57:47.715176+00:00",
-      "summary": "Anthropic has announced a significant expansion of its support for scientists, aiming to enhance research capabilities and foster innovation in artificial intelligence. This initiative not only underscores the company's commitment to advancing scientific inquiry but also positions it as a key player in shaping the future of AI research and development.",
-      "source": "Anthropic",
-      "category": "AI"
-    },
     {
       "title": "Previewing the Model Hardware Standard",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
@@ -170,6 +154,30 @@
       "category": "AI"
     },
     {
+      "title": "Open call for guest investigators in the life sciences",
+      "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "published_date": "2026-10-23T04:01:32.403653+00:00",
+      "summary": "Anthropic has announced an open call for guest investigators in the life sciences, marking a significant step towards integrating advanced AI research with biological sciences, which could revolutionize drug discovery and personalized medicine. This initiative not only fosters collaboration between AI and life sciences but also positions Anthropic at the forefront of innovative solutions to complex health challenges.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Product",
+      "link": "https://www.anthropic.com/news/product",
+      "published_date": "2026-10-23T04:01:32.403576+00:00",
+      "summary": "Anthropic has unveiled a groundbreaking AI product that significantly enhances natural language understanding and interaction, setting a new standard for conversational AI and potentially transforming industries reliant on human-computer communication. This innovation not only improves user experience but also opens up new possibilities for automation and efficiency across various sectors.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "published_date": "2026-10-23T04:01:32.403511+00:00",
+      "summary": "Anthropic has announced a groundbreaking initiative to donate advanced agent skills to the Agentic AI Foundation, a move that could significantly accelerate the development of safe and ethical AI systems. This collaboration not only enhances the foundation's capabilities but also sets a precedent for responsible AI stewardship in the industry.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
       "title": "Features",
       "link": "https://www.anthropic.com/news/features",
       "published_date": "2026-10-21T03:57:47.714401+00:00",
@@ -202,12 +210,100 @@
       "category": "AI"
     },
     {
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "published_date": "2026-10-23T02:00:13+00:00",
+      "summary": "Kazakhstan is transforming its AI landscape by transitioning from infrastructure planning to active deployment, signaling a significant increase in both accelerated computing capabilities and the demand for advanced AI applications. This breakthrough positions the nation as a key player in the global AI ecosystem, highlighting its commitment to harnessing technology for future growth.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "published_date": "2026-10-22T19:00:00+00:00",
+      "summary": "OpenAI's Decisions API revolutionizes app development by enabling fast, focused, and cost-effective decision-making capabilities, allowing developers to create more responsive applications that enhance user experience and operational efficiency. This breakthrough not only streamlines the decision-making process but also empowers businesses to innovate and adapt in an increasingly competitive digital landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "published_date": "2026-10-22T15:00:02+00:00",
+      "summary": "NVIDIA has launched Minerva, an innovative AIOps platform designed to enhance the productivity of AI factories by integrating telemetry from infrastructure and AI workloads, enabling teams to identify and resolve issues more swiftly. This breakthrough is crucial as it addresses the complexities of managing AI operations, ensuring optimal performance and efficiency in an increasingly data-driven landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Unitree developing AI system to let humanoid robots improve themselves",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
+      "published_date": "2026-10-22T13:30:12+00:00",
+      "summary": "Unitree Robotics is pioneering a groundbreaking AI system called \"Unitree Rehearsal\" that enables humanoid robots to autonomously write code, run simulations, and enhance their performance, marking a significant leap towards self-improving artificial intelligence and potentially transforming the future of robotics. This innovation not only underscores the company's leadership in the field but also highlights the accelerating trend of machines gaining the ability to evolve independently.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "published_date": "2026-10-22T13:00:20+00:00",
+      "summary": "NVIDIA's GeForce NOW is set to revolutionize gaming with the launch of 'Call of Duty: Modern Warfare 4,' delivering cutting-edge RTX 5080-class performance and ray-tracing capabilities to players on supported devices, thereby transforming cloud gaming into a high-fidelity experience. This breakthrough not only enhances gameplay with stunning visuals but also signifies a major leap in the accessibility and quality of cloud-based gaming.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
+      "link": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
+      "published_date": "2026-10-22T12:59:11+00:00",
+      "summary": "Apple TV is set to revolutionize sports broadcasting by exclusively streaming the highly anticipated Formula 1® United States Grand Prix™, marking a significant shift in how fans engage with live events and elevating the platform's status in the competitive streaming landscape. This breakthrough not only enhances Apple's content offerings but also underscores the growing trend of major sporting events moving to digital platforms, potentially reshaping viewer habits and industry dynamics.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
+      "link": "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
+      "published_date": "2026-10-22T12:00:14+00:00",
+      "summary": "Huawei's strategic partnership with AI start-up DeepSeek is rapidly narrowing the technological gap with Nvidia, signaling a potential shift in the semiconductor landscape that could threaten Nvidia's dominance in the AI chip ecosystem. This collaboration not only enhances Huawei's chip capabilities but also intensifies competition in a sector critical to the future of artificial intelligence.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Developers bring incredible new app experiences to iPhone Duo",
+      "link": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
+      "published_date": "2026-10-22T11:59:15+00:00",
+      "summary": "Apple's introduction of the iPhone Duo marks a significant leap in mobile technology, as developers unveil groundbreaking apps and games specifically designed for its foldable interface, promising to redefine user experiences and elevate the smartphone landscape. This innovation not only showcases the potential of foldable devices but also sets a new standard for app development in the industry.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Bhutan: the last place",
+      "link": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
+      "published_date": "2026-10-22T10:01:00+00:00",
+      "summary": "• The introduction of television in Bhutan marked a profound cultural shift, challenging traditional values and communal lifestyles.  \n• As the first flickers of the screen illuminated the nation, they revealed a world beyond the serene Himalayan landscape, igniting curiosity and desire.  \n• The clash between modernity and tradition raised questions about identity, as Bhutanese grappled with the allure of global culture versus their rich heritage.  \n• This transition highlighted the delicate balance between progress and preservation, urging a reflection on what it means to be truly connected in a rapidly changing world.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Other people",
+      "link": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
+      "published_date": "2026-10-22T10:00:00+00:00",
+      "summary": "• Disconnection permeates modern life, fueling personal and societal crises that demand urgent attention.  \n• Embracing communal living serves as a profound antidote to isolation, fostering deeper connections among individuals.  \n• The act of sharing space and resources challenges conventional notions of independence and self-sufficiency.  \n• Communal living invites introspection, revealing the complexities of human relationships and the need for vulnerability.  \n• In a world increasingly defined by individualism, the choice to live together becomes a radical act of hope and solidarity.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
       "title": "China moves to set global standards for brain-computer interface technology",
       "link": "https://www.scmp.com/business/china-business/article/3371742/china-moves-set-global-standards-brain-computer-interface-technology",
       "published_date": "2026-10-22T06:00:26+00:00",
       "summary": "China is positioning itself as a leader in brain-computer interface technology by chairing a key international subcommittee aimed at establishing global standards, which could significantly influence the future of human-computer interaction and bolster its national development priorities. This move not only underscores China's commitment to advancing BCI technology but also highlights its potential to shape the global landscape of this transformative field.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "published_date": "2026-10-22T06:00:00+00:00",
+      "summary": "OpenAI's introduction of Forward Deployed Engineering (FDE) represents a transformative approach to integrating AI solutions directly into real-world applications, significantly enhancing the speed and effectiveness of deployment while addressing complex challenges across various industries. This breakthrough not only streamlines the development process but also positions OpenAI at the forefront of practical AI innovation, driving impactful change in how technology interacts with everyday life.",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
@@ -254,150 +350,6 @@
       "link": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
       "published_date": "2026-10-22T05:00:02+00:00",
       "summary": "NVIDIA's open models are revolutionizing the European public sector by enabling governments to customize AI solutions that enhance public services while maintaining control over sensitive data, ultimately paving the way for more secure and efficient governance. This breakthrough not only empowers local administrations to adapt technologies to their specific needs but also ensures that data privacy and security remain paramount.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Could China’s 100-channel single-photon detector enable broadband quantum internet?",
-      "link": "https://www.scmp.com/news/china/science/article/3371729/could-chinas-100-channel-single-photon-detector-enable-broadband-quantum-internet",
-      "published_date": "2026-10-22T04:34:18+00:00",
-      "summary": "Chinese scientists have achieved a groundbreaking advancement with a 100-channel single-photon detector, significantly surpassing the previous limit of 32 channels, which could revolutionize broadband quantum internet by enhancing the efficiency and capacity of photonic quantum technologies. This innovation not only represents a major leap in quantum communication capabilities but also positions China at the forefront of the global quantum technology race.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s Unitree unveils ‘guardian’ robot that can disarm attackers, lift cars",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371683/chinese-firm-unveils-guardian-robot-can-disarm-attackers-lift-cars",
-      "published_date": "2026-10-22T00:00:15+00:00",
-      "summary": "Unitree Robotics has unveiled its groundbreaking H2-X \"guardian\" robot, capable of disarming attackers and lifting cars to rescue victims, marking a significant shift towards practical applications of robotics in enhancing public safety and emergency response. This innovation not only showcases advanced robotic capabilities but also highlights the potential for technology to play a crucial role in real-world crisis situations.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "published_date": "2026-10-21T21:00:00+00:00",
-      "summary": "OpenAI is revolutionizing the landscape of AI accessibility by collaborating with distribution partners to establish uniform standards that ensure responsible usage and clear expectations, thereby promoting safe and equitable access to advanced technologies. This breakthrough not only enhances user trust but also sets a precedent for ethical AI deployment across the industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Top Democrat says chip restrictions are ‘key lever’ for US AI edge over China",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3371692/top-democrat-says-chip-restrictions-are-key-lever-us-ai-edge-over-china",
-      "published_date": "2026-10-21T20:36:57+00:00",
-      "summary": "Top Democrat Jim Himes emphasizes that U.S. restrictions on advanced chips are crucial for maintaining a competitive edge in artificial intelligence over China, warning that this advantage may not last indefinitely. This insight underscores the strategic importance of semiconductor technology in the global AI race, highlighting the urgent need for policy measures to safeguard American leadership.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://openai.com/index/att-legal",
-      "published_date": "2026-10-21T17:00:00+00:00",
-      "summary": "AT&T is revolutionizing its in-house legal operations by collaborating with OpenAI to enhance accessibility to legal knowledge, enabling its LegalEdge team to streamline processes and scale legal judgment effectively. This breakthrough not only transforms legal workflows but also sets a precedent for how technology can optimize traditional corporate functions.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
-      "link": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
-      "published_date": "2026-10-21T14:00:12+00:00",
-      "summary": "The US government's ban on the Chinese AI start-up DeepSeek is poised to significantly deter American firms from utilizing affordable Chinese AI models, potentially stifling innovation and increasing costs in the tech sector. This move underscores the growing tensions between the US and China in the realm of artificial intelligence, raising concerns about the future of competitive AI development.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "published_date": "2026-10-21T13:00:00+00:00",
-      "summary": "OpenAI's ChatGPT Ads has launched in 26 new countries, enabling over 100,000 advertisers—from local businesses to global brands—to effectively engage consumers as they navigate their purchasing decisions within the ChatGPT platform, significantly enhancing the intersection of AI and advertising. This expansion not only broadens the reach for advertisers but also transforms how users discover and evaluate products in an increasingly digital marketplace.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "published_date": "2026-10-21T12:00:00+00:00",
-      "summary": "OpenAI's advanced models, including Codex workflows, are now integrated into Google Cloud's Gemini Model Garden, revolutionizing access to cutting-edge AI technology for developers and businesses through the Google Cloud Marketplace. This collaboration signifies a major leap in AI capabilities, enabling more efficient and innovative solutions across various industries.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-      "published_date": "2026-10-21T10:50:37+00:00",
-      "summary": "NVIDIA's latest innovations, including the RTX Spark and DGX systems, are set to revolutionize personal and enterprise AI by providing localized intelligence capabilities that enhance application development and performance across platforms, marking a significant leap in the accessibility and power of AI technology in Europe. This breakthrough not only empowers developers and enterprises but also paves the way for more sophisticated AI-driven personal agents on everyday devices.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-      "link": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-      "published_date": "2026-10-21T10:45:17+00:00",
-      "summary": "Google Cloud and NVIDIA's launch of the Vera Rubin Infrastructure marks a significant advancement in cloud computing, enabling seamless training, inference, and large-scale reinforcement learning with cutting-edge technology that promises to enhance performance and efficiency for cloud customers. This breakthrough not only sets a new standard for AI workloads but also expands access to powerful computing resources across Europe, positioning both companies at the forefront of the cloud innovation landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-      "published_date": "2026-10-21T10:30:41+00:00",
-      "summary": "NVIDIA's Cloud Partners are rapidly enhancing the European AI cloud ecosystem by providing secure, scalable compute solutions tailored for AI developers, addressing the urgent demand for localized data processing and customizable open models. This breakthrough not only accelerates AI innovation but also establishes a robust infrastructure that prioritizes safety and sovereignty in AI deployment across the region.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-      "published_date": "2026-10-21T10:30:40+00:00",
-      "summary": "Europe's industrial leaders are revolutionizing engineering and manufacturing by leveraging NVIDIA's advanced technologies, including CUDA-X and Omniverse libraries, to enhance productivity and foster economic growth, culminating in the launch of the NVIDIA Factory Operations Blueprint (FOX) for streamlined factory operations. This breakthrough not only accelerates innovation but also positions European industries at the forefront of the digital transformation in manufacturing.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-      "link": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-      "published_date": "2026-10-21T10:30:25+00:00",
-      "summary": "NVIDIA's cuDSS, now generally available, revolutionizes engineering and scientific simulations by leveraging GPU acceleration, enabling faster and more efficient design predictions for complex systems like advanced chips and aircraft. This breakthrough not only enhances simulation capabilities but also significantly reduces time-to-market for innovative technologies.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-      "link": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-      "published_date": "2026-10-21T10:30:02+00:00",
-      "summary": "NVIDIA's announcement of the OpenShell Reference Architecture marks a significant advancement in Confidential Computing, providing a secure infrastructure that empowers organizations to safely scale frontier model deployment across global networks. This breakthrough is crucial as it enhances the protection of sensitive models and data, enabling more robust and trustworthy AI applications.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-      "link": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-      "published_date": "2026-10-21T10:10:01+00:00",
-      "summary": "NVIDIA's expanded Agent Toolkit empowers enterprises to create customized AI agents that leverage company-specific data for informed decision-making while ensuring accountability and control, marking a significant advancement in the integration of AI within business operations. This breakthrough enhances the reliability and relevance of AI interactions, positioning organizations to harness their data more effectively.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "When it started to burn",
-      "link": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
-      "published_date": "2026-10-21T10:01:00+00:00",
-      "summary": "• The essay explores the profound psychological impact of war on Ukrainian civilians, highlighting their resilience amidst chaos.  \n• It delves into the paradox of solidarity that emerges in the face of collective trauma and suffering.  \n• The narrative captures the stark contrast between the brutality of violence and the enduring hope for peace.  \n• It reflects on the human capacity to find meaning and connection even in the darkest of times.  \n• Ultimately, the essay serves as a poignant reminder of the fragility of life and the strength of the human spirit.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-      "link": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-      "published_date": "2026-10-21T10:00:07+00:00",
-      "summary": "NVIDIA's latest expansion of open models across diverse fields such as language, robotics, and quantum computing empowers European developers and enterprises to create localized applications, significantly enhancing the region's technological sovereignty and innovation potential. This breakthrough not only supports industry-specific needs but also fosters a more inclusive digital ecosystem across Europe.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-      "link": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-      "published_date": "2026-10-21T09:30:16+00:00",
-      "summary": "NVIDIA's GTC Berlin 2026 is set to showcase groundbreaking advancements in agentic AI and robotics, highlighting the company's commitment to revolutionizing technology and its applications in various sectors. This event not only marks a significant milestone in NVIDIA's history but also positions it at the forefront of the AI revolution, promising transformative impacts on industries worldwide.",
       "source": "NVIDIA",
       "category": "AI"
     }
