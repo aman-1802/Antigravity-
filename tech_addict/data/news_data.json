@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T08:46:40.430705+00:00",
+  "last_updated": "2026-10-24T03:56:00.915658+00:00",
   "articles": [
     {
       "title": "Previewing the Model Hardware Standard",
@@ -210,116 +210,76 @@
       "category": "AI"
     },
     {
-      "title": "China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai",
-      "published_date": "2026-10-23T08:00:33+00:00",
-      "summary": "Chinese humanoid robots are making significant inroads into South Korea's workforce, transitioning from mere entertainment to practical applications in factories, as Seoul intensifies its investment in physical AI, highlighting a pivotal shift in the global robotics landscape. This development underscores the increasing competition and collaboration in the robotics sector, potentially reshaping labor dynamics and technological innovation in the region.",
+      "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
+      "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+      "published_date": "2026-10-24T01:00:11+00:00",
+      "summary": "China's artificial intelligence computing capacity is set to double next year, yet it will remain heavily dependent on US-designed chips, which will constitute 65 percent of this growth, highlighting the ongoing reliance on foreign technology amid its ambitions for AI supremacy. This reliance raises critical questions about China's technological independence and the geopolitical implications of such dependencies in the rapidly evolving AI landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "DeepSeek, MiniMax secure open-source licences days after new China export rules: state media",
-      "link": "https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licenses-days-after-new-china-export-rules-state-media",
-      "published_date": "2026-10-23T06:00:25+00:00",
-      "summary": "Chinese AI developers DeepSeek and MiniMax have swiftly secured open-source licenses just days after new regulations tightened oversight on AI technology exports, marking a significant move that could reshape the global landscape for AI innovation and collaboration. This breakthrough not only highlights China's strategic response to regulatory changes but also underscores the growing importance of open-source frameworks in the rapidly evolving tech ecosystem.",
-      "source": "SCMP Tech",
+      "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
+      "published_date": "2026-10-23T22:29:03+00:00",
+      "summary": "Kevin Rudd warns that the escalating US-China strategic competition is intensifying across multiple dimensions—including military, economic, and ideological spheres—signaling a pivotal moment for global power dynamics that could reshape international relations and influence worldwide stability.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Asia-Pacific AI agent market to surge 14-fold to US$11.2 billion by 2030, Omdia says",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371814/asia-pacific-ai-agent-market-surge-14-fold-us112-billion-2030-omdia-says",
-      "published_date": "2026-10-23T02:30:10+00:00",
-      "summary": "The Asia-Pacific AI agent market is projected to explode 14-fold to an astonishing US$11.2 billion by 2030, driven by the rapid adoption of automated tools by Chinese tech companies, highlighting a transformative shift in operational efficiency across various sectors in the region. This surge underscores the growing significance of AI in reshaping business landscapes and enhancing productivity in the coming years.",
-      "source": "SCMP Tech",
+      "title": "US, allies and China vie for influence through Pacific security deals",
+      "link": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+      "published_date": "2026-10-23T22:27:23+00:00",
+      "summary": "The release of an interactive mapping tool by the Centre for Strategic and International Studies reveals a fierce competition for influence in the Pacific, as the US and its allies intensify efforts to secure strategic agreements with island nations, highlighting the geopolitical stakes in this critical region. This development underscores the escalating tensions between global powers, particularly as they seek to expand their security presence amidst shifting alliances.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "published_date": "2026-10-23T02:00:13+00:00",
-      "summary": "Kazakhstan is transforming its AI landscape by transitioning from infrastructure planning to active deployment, signaling a significant increase in both accelerated computing capabilities and the demand for advanced AI applications. This breakthrough positions the nation as a key player in the global AI ecosystem, highlighting its commitment to harnessing technology for future growth.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "published_date": "2026-10-23T00:00:00+00:00",
-      "summary": "OpenAI has teamed up with Poland's NASK to enhance AI safety and security, marking a significant step towards fortifying digital ecosystems against emerging threats and ensuring responsible AI development. This collaboration underscores the urgent need for robust safeguards in an increasingly interconnected technological landscape.",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published_date": "2026-10-23T17:00:00+00:00",
+      "summary": "OpenAI has achieved a groundbreaking enhancement in online storage by implementing reliable multi-tenancy and global caching with Azure Cosmos DB, resulting in a staggering 12× increase in read speeds, which is crucial for efficiently serving over 1 billion ChatGPT users. This advancement not only elevates user experience but also sets a new standard for scalability in AI-driven applications.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Build more responsive apps with the Decisions API",
-      "link": "https://openai.com/index/decisions-api",
-      "published_date": "2026-10-22T19:00:00+00:00",
-      "summary": "OpenAI's Decisions API revolutionizes app development by enabling fast, focused, and cost-effective decision-making capabilities, allowing developers to create more responsive applications that enhance user experience and operational efficiency. This breakthrough not only streamlines the decision-making process but also empowers businesses to innovate and adapt in an increasingly competitive digital landscape.",
+      "title": "China warns against space arms race, urges equal rights for all in outer space",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3371975/china-warns-against-space-arms-race-urges-equal-rights-all-outer-space",
+      "published_date": "2026-10-23T14:22:26+00:00",
+      "summary": "China's recent position paper on outer space governance emphasizes the urgent need to prevent the weaponization of space and advocates for a global framework that ensures equal rights for all nations in outer space, marking a significant step in international diplomacy amid rising tensions in space exploration. This initiative, part of China's broader Global Governance Initiative, seeks to reshape the future of space policy and cooperation on a global scale.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Cambricon’s third quarter profit surges 148% to US$210m amid push to replace Nvidia chips",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371959/cambricons-third-quarter-profit-surges-148-us210m-amid-push-replace-nvidia-chips",
+      "published_date": "2026-10-23T12:03:10+00:00",
+      "summary": "Cambricon Technologies has achieved a remarkable 148% profit surge to $210 million in Q3, driven by China's strategic initiative to replace Nvidia chips, highlighting a significant shift in the global semiconductor landscape and the rising dominance of local chipmakers. This explosive growth underscores the increasing competitiveness of Chinese technology firms in the AI chip market.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published_date": "2026-10-23T10:00:00+00:00",
+      "summary": "OpenAI has significantly enhanced the security of its frontier model training environment by implementing robust containment measures, including offline settings and advanced red-teaming techniques, ensuring safer and more reliable AI development. This breakthrough is crucial as it addresses potential risks associated with powerful AI models, paving the way for responsible innovation in the field.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "published_date": "2026-10-22T15:00:02+00:00",
-      "summary": "NVIDIA has launched Minerva, an innovative AIOps platform designed to enhance the productivity of AI factories by integrating telemetry from infrastructure and AI workloads, enabling teams to identify and resolve issues more swiftly. This breakthrough is crucial as it addresses the complexities of managing AI operations, ensuring optimal performance and efficiency in an increasingly data-driven landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Unitree developing AI system to let humanoid robots improve themselves",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
-      "published_date": "2026-10-22T13:30:12+00:00",
-      "summary": "Unitree Robotics is pioneering a groundbreaking AI system called \"Unitree Rehearsal\" that enables humanoid robots to autonomously write code, run simulations, and enhance their performance, marking a significant leap towards self-improving artificial intelligence and potentially transforming the future of robotics. This innovation not only underscores the company's leadership in the field but also highlights the accelerating trend of machines gaining the ability to evolve independently.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-      "published_date": "2026-10-22T13:00:20+00:00",
-      "summary": "NVIDIA's GeForce NOW is set to revolutionize gaming with the launch of 'Call of Duty: Modern Warfare 4,' delivering cutting-edge RTX 5080-class performance and ray-tracing capabilities to players on supported devices, thereby transforming cloud gaming into a high-fidelity experience. This breakthrough not only enhances gameplay with stunning visuals but also signifies a major leap in the accessibility and quality of cloud-based gaming.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
-      "link": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
-      "published_date": "2026-10-22T12:59:11+00:00",
-      "summary": "Apple TV is set to revolutionize sports broadcasting by exclusively streaming the highly anticipated Formula 1® United States Grand Prix™, marking a significant shift in how fans engage with live events and elevating the platform's status in the competitive streaming landscape. This breakthrough not only enhances Apple's content offerings but also underscores the growing trend of major sporting events moving to digital platforms, potentially reshaping viewer habits and industry dynamics.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
-      "link": "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
-      "published_date": "2026-10-22T12:00:14+00:00",
-      "summary": "Huawei's strategic partnership with AI start-up DeepSeek is rapidly narrowing the technological gap with Nvidia, signaling a potential shift in the semiconductor landscape that could threaten Nvidia's dominance in the AI chip ecosystem. This collaboration not only enhances Huawei's chip capabilities but also intensifies competition in a sector critical to the future of artificial intelligence.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Developers bring incredible new app experiences to iPhone Duo",
-      "link": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
-      "published_date": "2026-10-22T11:59:15+00:00",
-      "summary": "Apple's introduction of the iPhone Duo marks a significant leap in mobile technology, as developers unveil groundbreaking apps and games specifically designed for its foldable interface, promising to redefine user experiences and elevate the smartphone landscape. This innovation not only showcases the potential of foldable devices but also sets a new standard for app development in the industry.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Bhutan: the last place",
-      "link": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
-      "published_date": "2026-10-22T10:01:00+00:00",
-      "summary": "• The introduction of television in Bhutan marked a profound cultural shift, challenging traditional values and communal lifestyles.  \n• As the first flickers of the screen illuminated the nation, they revealed a world beyond the serene Himalayan landscape, igniting curiosity and desire.  \n• The clash between modernity and tradition raised questions about identity, as Bhutanese grappled with the allure of global culture versus their rich heritage.  \n• This transition highlighted the delicate balance between progress and preservation, urging a reflection on what it means to be truly connected in a rapidly changing world.",
+      "title": "Traction!",
+      "link": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+      "published_date": "2026-10-23T10:00:00+00:00",
+      "summary": "• Friction is a fundamental force that shapes both the mundane and the cosmic, influencing everything from machinery to celestial bodies.  \n• The study of tribology reveals the intricate balance between resistance and motion, highlighting the beauty in friction's dual nature.  \n• Understanding friction allows us to innovate and improve technology, transforming our relationship with the physical world.  \n• The interplay of friction invites philosophical reflection on how resistance can lead to progress and the evolution of ideas.  \n• In examining friction, we uncover deeper truths about connection, interaction, and the unseen forces that govern our existence.",
       "source": "Aeon Essays",
       "category": "Aeon"
     },
     {
-      "title": "Other people",
-      "link": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
-      "published_date": "2026-10-22T10:00:00+00:00",
-      "summary": "• Disconnection permeates modern life, fueling personal and societal crises that demand urgent attention.  \n• Embracing communal living serves as a profound antidote to isolation, fostering deeper connections among individuals.  \n• The act of sharing space and resources challenges conventional notions of independence and self-sufficiency.  \n• Communal living invites introspection, revealing the complexities of human relationships and the need for vulnerability.  \n• In a world increasingly defined by individualism, the choice to live together becomes a radical act of hope and solidarity.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "link": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "published_date": "2026-10-23T06:10:35+00:00",
+      "summary": "The launch of the iPhone Duo marks a significant milestone for Apple, showcasing cutting-edge technology and design that promises to redefine user experience and solidify the company's dominance in the smartphone market. This eagerly awaited release is set to captivate consumers and influence industry trends globally.",
+      "source": "Apple",
+      "category": "AI"
     }
   ]
 }
