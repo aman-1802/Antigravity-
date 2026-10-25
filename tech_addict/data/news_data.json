@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T08:20:38.796568+00:00",
+  "last_updated": "2026-10-25T03:55:32.007715+00:00",
   "articles": [
     {
       "title": "Previewing the Model Hardware Standard",
@@ -208,70 +208,6 @@
       "summary": "Anthropic has unveiled significant advancements in AI safety and alignment, showcasing their commitment to developing robust and responsible AI systems that prioritize ethical considerations, which is crucial as the technology becomes increasingly integrated into everyday life and decision-making processes. This breakthrough not only enhances the reliability of AI applications but also sets a new standard for the industry, emphasizing the importance of aligning AI behavior with human values.",
       "source": "Anthropic",
       "category": "AI"
-    },
-    {
-      "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
-      "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-      "published_date": "2026-10-24T01:00:11+00:00",
-      "summary": "China's artificial intelligence computing capacity is set to double next year, yet it will remain heavily dependent on US-designed chips, which will constitute 65 percent of this growth, highlighting the ongoing reliance on foreign technology amid its ambitions for AI supremacy. This reliance raises critical questions about China's technological independence and the geopolitical implications of such dependencies in the rapidly evolving AI landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
-      "published_date": "2026-10-23T22:29:03+00:00",
-      "summary": "Kevin Rudd warns that the escalating US-China strategic competition is intensifying across multiple dimensions—including military, economic, and ideological spheres—signaling a pivotal moment for global power dynamics that could reshape international relations and influence worldwide stability.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "US, allies and China vie for influence through Pacific security deals",
-      "link": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
-      "published_date": "2026-10-23T22:27:23+00:00",
-      "summary": "The release of an interactive mapping tool by the Centre for Strategic and International Studies reveals a fierce competition for influence in the Pacific, as the US and its allies intensify efforts to secure strategic agreements with island nations, highlighting the geopolitical stakes in this critical region. This development underscores the escalating tensions between global powers, particularly as they seek to expand their security presence amidst shifting alliances.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published_date": "2026-10-23T17:00:00+00:00",
-      "summary": "OpenAI has achieved a groundbreaking enhancement in online storage by implementing reliable multi-tenancy and global caching with Azure Cosmos DB, resulting in a staggering 12× increase in read speeds, which is crucial for efficiently serving over 1 billion ChatGPT users. This advancement not only elevates user experience but also sets a new standard for scalability in AI-driven applications.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China warns against space arms race, urges equal rights for all in outer space",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3371975/china-warns-against-space-arms-race-urges-equal-rights-all-outer-space",
-      "published_date": "2026-10-23T14:22:26+00:00",
-      "summary": "China's recent position paper on outer space governance emphasizes the urgent need to prevent the weaponization of space and advocates for a global framework that ensures equal rights for all nations in outer space, marking a significant step in international diplomacy amid rising tensions in space exploration. This initiative, part of China's broader Global Governance Initiative, seeks to reshape the future of space policy and cooperation on a global scale.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Cambricon’s third quarter profit surges 148% to US$210m amid push to replace Nvidia chips",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371959/cambricons-third-quarter-profit-surges-148-us210m-amid-push-replace-nvidia-chips",
-      "published_date": "2026-10-23T12:03:10+00:00",
-      "summary": "Cambricon Technologies has achieved a remarkable 148% profit surge to $210 million in Q3, driven by China's strategic initiative to replace Nvidia chips, highlighting a significant shift in the global semiconductor landscape and the rising dominance of local chipmakers. This explosive growth underscores the increasing competitiveness of Chinese technology firms in the AI chip market.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published_date": "2026-10-23T10:00:00+00:00",
-      "summary": "OpenAI has significantly enhanced the security of its frontier model training environment by implementing robust containment measures, including offline settings and advanced red-teaming techniques, ensuring safer and more reliable AI development. This breakthrough is crucial as it addresses potential risks associated with powerful AI models, paving the way for responsible innovation in the field.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Traction!",
-      "link": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
-      "published_date": "2026-10-23T10:00:00+00:00",
-      "summary": "• Friction is a fundamental force that shapes both the mundane and the cosmic, influencing everything from machinery to celestial bodies.  \n• The study of tribology reveals the intricate balance between resistance and motion, highlighting the beauty in friction's dual nature.  \n• Understanding friction allows us to innovate and improve technology, transforming our relationship with the physical world.  \n• The interplay of friction invites philosophical reflection on how resistance can lead to progress and the evolution of ideas.  \n• In examining friction, we uncover deeper truths about connection, interaction, and the unseen forces that govern our existence.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
