@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T03:59:40.152568+00:00",
+  "last_updated": "2026-10-26T09:16:34.604184+00:00",
   "articles": [
     {
       "title": "Previewing the Model Hardware Standard",
@@ -210,18 +210,26 @@
       "category": "AI"
     },
     {
-      "title": "Weapon or armour? The contentious debate over China’s open-weight AI",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371961/weapon-or-armour-contentious-debate-over-chinas-open-weight-ai",
-      "published_date": "2026-10-26T02:00:12+00:00",
-      "summary": "China's development of open-weight AI models, which can be freely downloaded and modified, raises critical questions about cybersecurity risks versus the potential for increased internet security, as these advancements challenge American dominance in the field and prompt global regulatory discussions. This breakthrough not only highlights the competitive landscape of AI technology but also underscores the urgent need for a balanced approach to managing its implications on security.",
+      "title": "China’s AI race needs data fuel. Can a new state-owned giant deliver?",
+      "link": "https://www.scmp.com/tech/policy/article/3372159/chinas-ai-race-needs-data-fuel-can-new-state-owned-giant-deliver",
+      "published_date": "2026-10-26T09:00:08+00:00",
+      "summary": "China's launch of a centralized state-owned enterprise to harness its vast data resources marks a pivotal moment in the AI race, aiming to transform this digital wealth into economic power, though experts caution that overcoming existing data-sharing barriers will be crucial for success.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "China shoots ahead on AI video models",
-      "link": "https://www.scmp.com/plus/tech/big-tech/article/3371915/china-shoots-ahead-ai-video-models",
-      "published_date": "2026-10-26T01:06:01+00:00",
-      "summary": "China is rapidly advancing in AI video technology, establishing itself as the global leader in generative AI video models that can create and edit content from user inputs, a breakthrough that could reshape the media landscape and challenge existing norms in content creation and copyright. This dominance is fueled by the country's expansive short-video platforms and more flexible regulatory environment, positioning it at the forefront of the AI revolution.",
+      "title": "Could new US investment curbs complicate China’s biotech licensing surge?",
+      "link": "https://www.scmp.com/business/article/3372151/could-new-us-investment-curbs-complicate-chinas-biotech-licensing-surge",
+      "published_date": "2026-10-26T08:00:23+00:00",
+      "summary": "New US investment curbs could significantly hinder the global expansion of Chinese biotech firms by complicating deal structures and limiting their ability to attract direct US investment, despite drug licensing agreements currently remaining unaffected. This shift underscores a growing tension in the biotech sector that could reshape international collaborations and innovation pathways.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "South Korea urged to guard chip profitability as China’s CXMT and YMTC gain market share",
+      "link": "https://www.scmp.com/tech/tech-war/article/3372138/south-korea-urged-guard-chip-profitability-chinas-cxmt-and-ymtc-gain-market-share",
+      "published_date": "2026-10-26T07:00:09+00:00",
+      "summary": "South Korea's semiconductor industry faces a critical challenge as China's CXMT and YMTC rapidly gain market share, prompting urgent calls for local chipmakers to bolster profitability in response to intensified competition in conventional memory and mature-node manufacturing. This shift not only threatens South Korea's dominance in the global chip market but also underscores the strategic importance of innovation and efficiency in maintaining competitive advantage.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
