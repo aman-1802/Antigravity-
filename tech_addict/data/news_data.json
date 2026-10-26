@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T08:39:41.042477+00:00",
+  "last_updated": "2026-10-26T03:59:40.152568+00:00",
   "articles": [
     {
       "title": "Previewing the Model Hardware Standard",
@@ -208,6 +208,22 @@
       "summary": "Anthropic has unveiled significant advancements in AI safety and alignment, showcasing their commitment to developing robust and responsible AI systems that prioritize ethical considerations, which is crucial as the technology becomes increasingly integrated into everyday life and decision-making processes. This breakthrough not only enhances the reliability of AI applications but also sets a new standard for the industry, emphasizing the importance of aligning AI behavior with human values.",
       "source": "Anthropic",
       "category": "AI"
+    },
+    {
+      "title": "Weapon or armour? The contentious debate over China’s open-weight AI",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371961/weapon-or-armour-contentious-debate-over-chinas-open-weight-ai",
+      "published_date": "2026-10-26T02:00:12+00:00",
+      "summary": "China's development of open-weight AI models, which can be freely downloaded and modified, raises critical questions about cybersecurity risks versus the potential for increased internet security, as these advancements challenge American dominance in the field and prompt global regulatory discussions. This breakthrough not only highlights the competitive landscape of AI technology but also underscores the urgent need for a balanced approach to managing its implications on security.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China shoots ahead on AI video models",
+      "link": "https://www.scmp.com/plus/tech/big-tech/article/3371915/china-shoots-ahead-ai-video-models",
+      "published_date": "2026-10-26T01:06:01+00:00",
+      "summary": "China is rapidly advancing in AI video technology, establishing itself as the global leader in generative AI video models that can create and edit content from user inputs, a breakthrough that could reshape the media landscape and challenge existing norms in content creation and copyright. This dominance is fueled by the country's expansive short-video platforms and more flexible regulatory environment, positioning it at the forefront of the AI revolution.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     }
   ]
 }
