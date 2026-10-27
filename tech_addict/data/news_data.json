@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-10-26T09:16:34.604184+00:00",
+  "last_updated": "2026-10-27T04:20:42.248333+00:00",
   "articles": [
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "published_date": "2026-10-21T03:57:47.715137+00:00",
-      "summary": "Anthropic's introduction of the Model Hardware Standard represents a groundbreaking framework aimed at optimizing AI model performance across diverse hardware platforms, potentially revolutionizing how developers deploy and scale artificial intelligence applications. This standard could significantly enhance interoperability and efficiency in the rapidly evolving AI landscape, making advanced AI more accessible and effective for various industries.",
-      "source": "Anthropic",
-      "category": "AI"
-    },
     {
       "title": "Improving our alignment and security efforts",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
@@ -178,6 +170,14 @@
       "category": "AI"
     },
     {
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/s1-sec",
+      "published_date": "2026-10-27T04:20:30.876568+00:00",
+      "summary": "Anthropic has filed an S-1 with the SEC, signaling its intent to go public in a move that could reshape the competitive landscape of AI technology and attract significant investment to fuel its innovative advancements. This IPO marks a pivotal moment for the company, highlighting the growing demand for AI solutions and the potential for substantial returns in a rapidly evolving market.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
       "title": "Features",
       "link": "https://www.anthropic.com/news/features",
       "published_date": "2026-10-21T03:57:47.714401+00:00",
@@ -210,18 +210,106 @@
       "category": "AI"
     },
     {
+      "title": "Chinese scientists create powerful catalyst to turn air on Mars into rocket fuel",
+      "link": "https://www.scmp.com/news/china/science/article/3372123/chinese-scientists-create-powerful-catalyst-turn-air-mars-rocket-fuel",
+      "published_date": "2026-10-27T04:00:34+00:00",
+      "summary": "Chinese scientists have developed a groundbreaking catalyst that converts the abundant carbon dioxide in Mars' atmosphere into liquid methanol, paving the way for astronauts to produce their own rocket fuel and significantly enhancing the feasibility of human missions to the red planet. This innovation not only underscores China's commitment to space exploration but also represents a critical step toward sustainable living on Mars.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
+      "link": "https://www.scmp.com/news/china/military/article/3372189/taiwan-looks-autonomous-swarms-counter-beijings-grey-zone-pressure",
+      "published_date": "2026-10-27T01:00:10+00:00",
+      "summary": "Taiwan is pioneering an AI-driven autonomous drone system capable of coordinating fleets for enhanced maritime surveillance and countering Beijing's grey-zone tactics, marking a significant leap in its defense capabilities and regional security strategy. This breakthrough not only strengthens Taiwan's coastguard operations but also sets a precedent for the use of advanced technology in modern warfare.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published_date": "2026-10-26T22:00:00+00:00",
+      "summary": "Greptile's integration of GPT-6 Astra revolutionizes bug detection by extending its capabilities beyond traditional code reviews to encompass user workflow testing, while leveraging Daybreak for enhanced security and Codex to minimize rework, fundamentally transforming software development efficiency and reliability. This breakthrough not only streamlines the debugging process but also significantly bolsters application security, setting a new standard in the tech industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Siri AI is available in more languages starting today",
+      "link": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+      "published_date": "2026-10-26T18:37:30+00:00",
+      "summary": "Apple's latest software update significantly enhances Siri AI by introducing support for five additional languages—French, Japanese, Korean, Portuguese, and Spanish—marking a pivotal step towards making voice-activated technology more accessible and inclusive for a global audience. This breakthrough not only broadens Siri's usability but also strengthens Apple's competitive edge in the rapidly evolving AI landscape.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "published_date": "2026-10-26T16:00:00+00:00",
+      "summary": "Google AI's latest initiative, \"AI Quest: Mapping the Human Brain,\" aims to revolutionize our understanding of neuroscience by leveraging advanced artificial intelligence to create detailed brain maps, potentially unlocking new frontiers in mental health treatment and cognitive enhancement. This breakthrough could redefine how we approach brain-related disorders and enhance human cognition, marking a significant leap in both AI and medical research.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing a Voluntary Exit Offer",
+      "link": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
+      "published_date": "2026-10-26T15:33:56+00:00",
+      "summary": "Microsoft has launched a Voluntary Exit Offer (VEO) aimed at providing eligible employees with a structured opportunity to transition out of the company, reflecting a strategic shift in workforce management that could reshape its organizational dynamics and culture. This initiative not only empowers employees with more choices but also signals Microsoft's adaptability in navigating the evolving job market.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published_date": "2026-10-26T14:30:00+00:00",
+      "summary": "OpenAI's collaboration with academic communities has yielded groundbreaking model results on complex mathematical and scientific challenges, including the Kakeya conjecture and the Exponential Time Hypothesis, paving the way for researchers to validate and expand upon these findings, which could significantly advance our understanding of fundamental scientific principles.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published_date": "2026-10-26T13:45:00+00:00",
+      "summary": "The introduction of GPT-6.1 Sol empowers CodeRabbit to enhance security measures by effectively identifying vulnerabilities within intricate codebases, revolutionizing the way developers address and rectify security risks. This breakthrough not only streamlines the review process but also significantly bolsters overall software integrity in an increasingly complex digital landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Apple gives iPad mini its biggest update ever",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "published_date": "2026-10-26T13:00:22+00:00",
+      "summary": "Apple's latest iPad mini introduces a groundbreaking OLED display and a powerful A20 Pro chip, all within a sleeker, more durable design that boasts water and dust resistance, marking the most significant upgrade in the device's history and setting a new standard for compact tablets. This innovation not only enhances user experience but also positions the iPad mini as a formidable competitor in the tablet market.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Great art explained: Tamara in the green Bugatti",
+      "link": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
+      "published_date": "2026-10-26T10:01:00+00:00",
+      "summary": "• Tamara de Lempicka's art encapsulates the spirit of the Jazz Age, portraying women as symbols of liberation and modernity.  \n• Her bold use of color and geometric forms reflects the dynamism of the era, merging femininity with a sense of power.  \n• The subjects in her paintings embody a new, confident identity, challenging traditional gender roles and societal expectations.  \n• De Lempicka's work invites viewers to reconsider the complexities of womanhood, blending elegance with a rebellious spirit.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "published_date": "2026-10-26T10:00:00+00:00",
+      "summary": "OpenAI's latest analysis of ChatGPT's application across 165 work activities in nearly 100 countries uncovers transformative insights into how this AI tool is reshaping the workforce, highlighting its evolving role in enhancing productivity and collaboration in the modern workplace. This breakthrough underscores the potential for AI to redefine job functions and drive innovation on a global scale.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How to build real peace",
+      "link": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "published_date": "2026-10-26T10:00:00+00:00",
+      "summary": "• Capitalist frameworks often exacerbate divisions in postwar societies, hindering true reconciliation and recovery.  \n• Cooperative models foster community engagement and collective ownership, essential for sustainable peacebuilding.  \n• The success of rebuilding efforts in war-torn regions hinges on prioritizing human relationships over profit motives.  \n• Real peace is cultivated through empathy and collaboration, rather than through the imposition of economic structures.  \n• Embracing cooperative principles can transform the narrative of postwar recovery from one of survival to one of thriving together.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
       "title": "China’s AI race needs data fuel. Can a new state-owned giant deliver?",
       "link": "https://www.scmp.com/tech/policy/article/3372159/chinas-ai-race-needs-data-fuel-can-new-state-owned-giant-deliver",
       "published_date": "2026-10-26T09:00:08+00:00",
       "summary": "China's launch of a centralized state-owned enterprise to harness its vast data resources marks a pivotal moment in the AI race, aiming to transform this digital wealth into economic power, though experts caution that overcoming existing data-sharing barriers will be crucial for success.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Could new US investment curbs complicate China’s biotech licensing surge?",
-      "link": "https://www.scmp.com/business/article/3372151/could-new-us-investment-curbs-complicate-chinas-biotech-licensing-surge",
-      "published_date": "2026-10-26T08:00:23+00:00",
-      "summary": "New US investment curbs could significantly hinder the global expansion of Chinese biotech firms by complicating deal structures and limiting their ability to attract direct US investment, despite drug licensing agreements currently remaining unaffected. This shift underscores a growing tension in the biotech sector that could reshape international collaborations and innovation pathways.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
@@ -232,6 +320,22 @@
       "summary": "South Korea's semiconductor industry faces a critical challenge as China's CXMT and YMTC rapidly gain market share, prompting urgent calls for local chipmakers to bolster profitability in response to intensified competition in conventional memory and mature-node manufacturing. This shift not only threatens South Korea's dominance in the global chip market but also underscores the strategic importance of innovation and efficiency in maintaining competitive advantage.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published_date": "2026-10-26T07:00:00+00:00",
+      "summary": "Fanatics has partnered with OpenAI to enhance the fan experience through the innovative \"Shop the Look\" feature, which curates game-day outfits and has demonstrated a remarkable 10% increase in engagement across 30,000 MLB products, underscoring the potential of AI in transforming retail interactions. This breakthrough not only elevates fan engagement but also sets a new standard for personalized shopping experiences in the sports industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "published_date": "2026-10-26T07:00:00+00:00",
+      "summary": "OpenAI's Codex Ultrafast has revolutionized incident investigation by reducing the process from hours to mere minutes, significantly enhancing security analysis and streamlining daily workflows, which underscores the transformative potential of AI in operational efficiency. This breakthrough not only accelerates response times but also empowers engineers to focus on innovation rather than prolonged troubleshooting.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
