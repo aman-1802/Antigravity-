@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T04:20:42.248333+00:00",
+  "last_updated": "2026-10-27T09:16:03.200734+00:00",
   "articles": [
     {
       "title": "Improving our alignment and security efforts",
@@ -210,19 +210,11 @@
       "category": "AI"
     },
     {
-      "title": "Chinese scientists create powerful catalyst to turn air on Mars into rocket fuel",
-      "link": "https://www.scmp.com/news/china/science/article/3372123/chinese-scientists-create-powerful-catalyst-turn-air-mars-rocket-fuel",
-      "published_date": "2026-10-27T04:00:34+00:00",
-      "summary": "Chinese scientists have developed a groundbreaking catalyst that converts the abundant carbon dioxide in Mars' atmosphere into liquid methanol, paving the way for astronauts to produce their own rocket fuel and significantly enhancing the feasibility of human missions to the red planet. This innovation not only underscores China's commitment to space exploration but also represents a critical step toward sustainable living on Mars.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
-      "link": "https://www.scmp.com/news/china/military/article/3372189/taiwan-looks-autonomous-swarms-counter-beijings-grey-zone-pressure",
-      "published_date": "2026-10-27T01:00:10+00:00",
-      "summary": "Taiwan is pioneering an AI-driven autonomous drone system capable of coordinating fleets for enhanced maritime surveillance and countering Beijing's grey-zone tactics, marking a significant leap in its defense capabilities and regional security strategy. This breakthrough not only strengthens Taiwan's coastguard operations but also sets a precedent for the use of advanced technology in modern warfare.",
-      "source": "China News",
+      "title": "Beijing pushes for UN-led governance of artificial intelligence at global forum",
+      "link": "https://www.scmp.com/tech/policy/article/3372285/beijing-pushes-un-led-governance-artificial-intelligence-global-forum",
+      "published_date": "2026-10-27T08:34:13+00:00",
+      "summary": "China is advocating for a UN-led framework for artificial intelligence governance, emphasizing open-source technology and representation for the Global South, positioning itself as a challenger to US influence in shaping global tech regulations. This initiative, outlined in the Xiong’an Vision document, marks a significant shift in the geopolitical landscape of AI governance, potentially redefining international standards and collaboration in the sector.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
@@ -304,38 +296,6 @@
       "summary": "• Capitalist frameworks often exacerbate divisions in postwar societies, hindering true reconciliation and recovery.  \n• Cooperative models foster community engagement and collective ownership, essential for sustainable peacebuilding.  \n• The success of rebuilding efforts in war-torn regions hinges on prioritizing human relationships over profit motives.  \n• Real peace is cultivated through empathy and collaboration, rather than through the imposition of economic structures.  \n• Embracing cooperative principles can transform the narrative of postwar recovery from one of survival to one of thriving together.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China’s AI race needs data fuel. Can a new state-owned giant deliver?",
-      "link": "https://www.scmp.com/tech/policy/article/3372159/chinas-ai-race-needs-data-fuel-can-new-state-owned-giant-deliver",
-      "published_date": "2026-10-26T09:00:08+00:00",
-      "summary": "China's launch of a centralized state-owned enterprise to harness its vast data resources marks a pivotal moment in the AI race, aiming to transform this digital wealth into economic power, though experts caution that overcoming existing data-sharing barriers will be crucial for success.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "South Korea urged to guard chip profitability as China’s CXMT and YMTC gain market share",
-      "link": "https://www.scmp.com/tech/tech-war/article/3372138/south-korea-urged-guard-chip-profitability-chinas-cxmt-and-ymtc-gain-market-share",
-      "published_date": "2026-10-26T07:00:09+00:00",
-      "summary": "South Korea's semiconductor industry faces a critical challenge as China's CXMT and YMTC rapidly gain market share, prompting urgent calls for local chipmakers to bolster profitability in response to intensified competition in conventional memory and mature-node manufacturing. This shift not only threatens South Korea's dominance in the global chip market but also underscores the strategic importance of innovation and efficiency in maintaining competitive advantage.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "published_date": "2026-10-26T07:00:00+00:00",
-      "summary": "Fanatics has partnered with OpenAI to enhance the fan experience through the innovative \"Shop the Look\" feature, which curates game-day outfits and has demonstrated a remarkable 10% increase in engagement across 30,000 MLB products, underscoring the potential of AI in transforming retail interactions. This breakthrough not only elevates fan engagement but also sets a new standard for personalized shopping experiences in the sports industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "published_date": "2026-10-26T07:00:00+00:00",
-      "summary": "OpenAI's Codex Ultrafast has revolutionized incident investigation by reducing the process from hours to mere minutes, significantly enhancing security analysis and streamlining daily workflows, which underscores the transformative potential of AI in operational efficiency. This breakthrough not only accelerates response times but also empowers engineers to focus on innovation rather than prolonged troubleshooting.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
