@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-10-27T09:16:03.200734+00:00",
+  "last_updated": "2026-10-28T04:51:16.531489+00:00",
   "articles": [
-    {
-      "title": "Improving our alignment and security efforts",
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "published_date": "2026-10-21T03:57:47.715095+00:00",
-      "summary": "Anthropic has announced significant advancements in their alignment and security strategies for AI systems, aiming to enhance the safety and reliability of artificial intelligence in real-world applications. This breakthrough is crucial as it addresses growing concerns about AI misuse and the need for robust frameworks to ensure ethical deployment.",
-      "source": "Anthropic",
-      "category": "AI"
-    },
-    {
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "published_date": "2026-10-21T03:57:47.715058+00:00",
-      "summary": "Anthropic is pioneering the development of advanced enterprise safeguards in collaboration with its customers, marking a significant leap in ensuring AI systems are not only powerful but also secure and aligned with user needs. This breakthrough is crucial as it addresses growing concerns over AI safety and accountability in enterprise applications, setting a new standard for responsible AI deployment.",
-      "source": "Anthropic",
-      "category": "AI"
-    },
     {
       "title": "Introducing the Life Sciences Verification Program",
       "link": "https://www.anthropic.com/news/life-sciences-verification-program",
@@ -50,10 +34,10 @@
       "category": "AI"
     },
     {
-      "title": "Partnerships",
-      "link": "https://www.anthropic.com/news/partnerships",
-      "published_date": "2026-10-21T03:57:47.714847+00:00",
-      "summary": "Anthropic has announced strategic partnerships aimed at enhancing the capabilities of its AI systems, a move that could significantly accelerate advancements in safe and responsible AI development. This collaboration not only positions Anthropic at the forefront of AI innovation but also sets a new standard for ethical practices in the rapidly evolving tech landscape.",
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "published_date": "2026-10-21T03:57:47.714362+00:00",
+      "summary": "Anthropic's newly expanded Cyber Verification Program introduces advanced cyber capabilities and reduced blocking classifiers, empowering security professionals with cutting-edge tools to enhance their defenses against increasingly sophisticated cyber threats. This initiative not only strengthens cybersecurity measures but also signifies a pivotal shift towards more accessible and effective security solutions in the industry.",
       "source": "Anthropic",
       "category": "AI"
     },
@@ -170,10 +154,18 @@
       "category": "AI"
     },
     {
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "link": "https://www.anthropic.com/news/s1-sec",
-      "published_date": "2026-10-27T04:20:30.876568+00:00",
-      "summary": "Anthropic has filed an S-1 with the SEC, signaling its intent to go public in a move that could reshape the competitive landscape of AI technology and attract significant investment to fuel its innovative advancements. This IPO marks a pivotal moment for the company, highlighting the growing demand for AI solutions and the potential for substantial returns in a rapidly evolving market.",
+      "title": "Partnerships",
+      "link": "https://www.anthropic.com/news/partnerships",
+      "published_date": "2026-10-21T03:57:47.714847+00:00",
+      "summary": "Anthropic has announced strategic partnerships aimed at enhancing the capabilities of its AI systems, a move that could significantly accelerate advancements in safe and responsible AI development. This collaboration not only positions Anthropic at the forefront of AI innovation but also sets a new standard for ethical practices in the rapidly evolving tech landscape.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "published_date": "2026-10-28T04:51:05.593932+00:00",
+      "summary": "Anthropic's expanded partnership with the GSA aims to integrate its advanced AI model, Claude, across all levels of government, potentially revolutionizing public sector operations by enhancing decision-making, efficiency, and accessibility of services. This initiative underscores the growing importance of AI in governance, promising to transform how government agencies interact with citizens and manage resources.",
       "source": "Anthropic",
       "category": "AI"
     },
@@ -186,10 +178,10 @@
       "category": "AI"
     },
     {
-      "title": "Expanding the Cyber Verification Program",
-      "link": "https://www.anthropic.com/news/cyber-verification-program",
-      "published_date": "2026-10-21T03:57:47.714362+00:00",
-      "summary": "Anthropic's newly expanded Cyber Verification Program introduces advanced cyber capabilities and reduced blocking classifiers, empowering security professionals with cutting-edge tools to enhance their defenses against increasingly sophisticated cyber threats. This initiative not only strengthens cybersecurity measures but also signifies a pivotal shift towards more accessible and effective security solutions in the industry.",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/s1-sec",
+      "published_date": "2026-10-27T04:20:30.876568+00:00",
+      "summary": "Anthropic has filed an S-1 with the SEC, signaling its intent to go public in a move that could reshape the competitive landscape of AI technology and attract significant investment to fuel its innovative advancements. This IPO marks a pivotal moment for the company, highlighting the growing demand for AI solutions and the potential for substantial returns in a rapidly evolving market.",
       "source": "Anthropic",
       "category": "AI"
     },
@@ -210,6 +202,78 @@
       "category": "AI"
     },
     {
+      "title": "The platform approach to becoming Frontier",
+      "link": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+      "published_date": "2026-10-27T16:01:38+00:00",
+      "summary": "Microsoft's latest initiative, Frontier Transformation, shifts the focus from technology as the primary driver to prioritizing business outcomes, emphasizing that technology should serve humanity, which could redefine how organizations leverage tech for meaningful impact. This paradigm shift not only challenges traditional tech-led strategies but also positions businesses to achieve more sustainable and human-centric growth.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "published_date": "2026-10-27T15:00:20+00:00",
+      "summary": "NVIDIA's latest initiative harnesses AI to accelerate the pace of discovery in dementia research, addressing the overwhelming data challenge faced by scientists and potentially transforming the lives of the 57 million people affected by the disease. This breakthrough not only enhances research efficiency but also promises to unlock new therapeutic avenues in the fight against dementia.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "published_date": "2026-10-27T15:00:00+00:00",
+      "summary": "Retell's integration of OpenAI's GPT-6 Astra and Codex has revolutionized its voice agent capabilities, enabling the platform to handle 100 million monthly calls and achieve an impressive $1.6 million annual revenue run rate per employee, underscoring the transformative potential of AI in customer service and operational efficiency.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How China ‘risk factors’ loom over Anthropic’s hotly anticipated IPO filing",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing",
+      "published_date": "2026-10-27T13:00:08+00:00",
+      "summary": "Anthropic's IPO filing reveals significant concerns about China-related risks, highlighting the potential impact of geopolitical tensions and competition in the AI sector, which could shape investor sentiment and the company's future growth trajectory. This disclosure underscores the intricate interplay between technology and international relations, making it a critical factor for stakeholders to consider.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "published_date": "2026-10-27T12:59:39+00:00",
+      "summary": "Apple's introduction of the new 14-inch MacBook Pro featuring the M6 chip marks a significant leap in performance and on-device AI capabilities, setting a new standard for productivity and efficiency in portable computing. This breakthrough not only enhances user experience but also positions Apple at the forefront of technological innovation in the laptop market.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple unveils new iMac with M6",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "published_date": "2026-10-27T12:59:15+00:00",
+      "summary": "Apple's latest iMac, powered by the groundbreaking M6 chip, promises unprecedented performance enhancements and advanced AI capabilities, setting a new standard for desktop computing and redefining user experience in creative and professional applications.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "published_date": "2026-10-27T12:58:45+00:00",
+      "summary": "Apple's latest update to Creator Studio integrates advanced AI features and enhanced creative tools, revolutionizing content creation by empowering users with professional-grade capabilities that streamline the creative process and elevate artistic expression. This breakthrough not only enhances productivity for creators but also positions Apple as a leader in the burgeoning intersection of technology and creativity.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "US, Japan rehearse coordinated strikes to challenge PLA control of waters near Taiwan",
+      "link": "https://www.scmp.com/news/china/military/article/3372314/us-japan-rehearse-coordinated-strikes-challenge-pla-control-waters-near-taiwan",
+      "published_date": "2026-10-27T12:00:13+00:00",
+      "summary": "The US and Japan have conducted advanced military exercises to enhance their capabilities for coordinated strikes against the People's Liberation Army, significantly challenging China's maritime dominance near Taiwan and underscoring the shifting balance of power in the region. This strategic rehearsal not only demonstrates a united front against potential aggression but also highlights the increasing complexity of modern warfare in contested waters.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Love with nowhere to go",
+      "link": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+      "published_date": "2026-10-27T10:00:00+00:00",
+      "summary": "• Grief encompasses not just the loss of loved ones but also the unacknowledged voids in our lives.  \n• Failing to confront these losses can alienate us from our true selves, leading to a disconnection from our identity.  \n• The act of mourning is essential for healing, allowing us to integrate our experiences and emotions.  \n• Embracing grief opens pathways to understanding and compassion, both for ourselves and others.  \n• Ultimately, recognizing and honoring all forms of loss enriches our human experience and fosters deeper connections.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
       "title": "Beijing pushes for UN-led governance of artificial intelligence at global forum",
       "link": "https://www.scmp.com/tech/policy/article/3372285/beijing-pushes-un-led-governance-artificial-intelligence-global-forum",
       "published_date": "2026-10-27T08:34:13+00:00",
@@ -218,84 +282,20 @@
       "category": "SCMP"
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "published_date": "2026-10-26T22:00:00+00:00",
-      "summary": "Greptile's integration of GPT-6 Astra revolutionizes bug detection by extending its capabilities beyond traditional code reviews to encompass user workflow testing, while leveraging Daybreak for enhanced security and Codex to minimize rework, fundamentally transforming software development efficiency and reliability. This breakthrough not only streamlines the debugging process but also significantly bolsters application security, setting a new standard in the tech industry.",
+      "title": "Is China’s H-6K strategic bomber getting powerful jamming capabilities?",
+      "link": "https://www.scmp.com/news/china/military/article/3372255/chinas-h-6k-strategic-bomber-getting-powerful-jamming-capabilities",
+      "published_date": "2026-10-27T08:28:59+00:00",
+      "summary": "The sighting of a Chinese H-6K strategic bomber equipped with advanced electronic warfare jamming pods suggests a significant enhancement of its operational capabilities, potentially altering the balance of power in aerial combat and electronic warfare. This development underscores China's commitment to modernizing its military assets amid rising geopolitical tensions.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published_date": "2026-10-27T07:00:00+00:00",
+      "summary": "OpenAI's expanded partnership with Oracle will integrate advanced business applications and AI agents into ChatGPT, significantly enhancing enterprise capabilities and transforming how organizations leverage AI for operational efficiency. This collaboration not only broadens the functionality of ChatGPT but also positions Oracle as a key player in the AI-driven business landscape.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "Siri AI is available in more languages starting today",
-      "link": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
-      "published_date": "2026-10-26T18:37:30+00:00",
-      "summary": "Apple's latest software update significantly enhances Siri AI by introducing support for five additional languages—French, Japanese, Korean, Portuguese, and Spanish—marking a pivotal step towards making voice-activated technology more accessible and inclusive for a global audience. This breakthrough not only broadens Siri's usability but also strengthens Apple's competitive edge in the rapidly evolving AI landscape.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "published_date": "2026-10-26T16:00:00+00:00",
-      "summary": "Google AI's latest initiative, \"AI Quest: Mapping the Human Brain,\" aims to revolutionize our understanding of neuroscience by leveraging advanced artificial intelligence to create detailed brain maps, potentially unlocking new frontiers in mental health treatment and cognitive enhancement. This breakthrough could redefine how we approach brain-related disorders and enhance human cognition, marking a significant leap in both AI and medical research.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing a Voluntary Exit Offer",
-      "link": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
-      "published_date": "2026-10-26T15:33:56+00:00",
-      "summary": "Microsoft has launched a Voluntary Exit Offer (VEO) aimed at providing eligible employees with a structured opportunity to transition out of the company, reflecting a strategic shift in workforce management that could reshape its organizational dynamics and culture. This initiative not only empowers employees with more choices but also signals Microsoft's adaptability in navigating the evolving job market.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "published_date": "2026-10-26T14:30:00+00:00",
-      "summary": "OpenAI's collaboration with academic communities has yielded groundbreaking model results on complex mathematical and scientific challenges, including the Kakeya conjecture and the Exponential Time Hypothesis, paving the way for researchers to validate and expand upon these findings, which could significantly advance our understanding of fundamental scientific principles.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "published_date": "2026-10-26T13:45:00+00:00",
-      "summary": "The introduction of GPT-6.1 Sol empowers CodeRabbit to enhance security measures by effectively identifying vulnerabilities within intricate codebases, revolutionizing the way developers address and rectify security risks. This breakthrough not only streamlines the review process but also significantly bolsters overall software integrity in an increasingly complex digital landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Apple gives iPad mini its biggest update ever",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "published_date": "2026-10-26T13:00:22+00:00",
-      "summary": "Apple's latest iPad mini introduces a groundbreaking OLED display and a powerful A20 Pro chip, all within a sleeker, more durable design that boasts water and dust resistance, marking the most significant upgrade in the device's history and setting a new standard for compact tablets. This innovation not only enhances user experience but also positions the iPad mini as a formidable competitor in the tablet market.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Great art explained: Tamara in the green Bugatti",
-      "link": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
-      "published_date": "2026-10-26T10:01:00+00:00",
-      "summary": "• Tamara de Lempicka's art encapsulates the spirit of the Jazz Age, portraying women as symbols of liberation and modernity.  \n• Her bold use of color and geometric forms reflects the dynamism of the era, merging femininity with a sense of power.  \n• The subjects in her paintings embody a new, confident identity, challenging traditional gender roles and societal expectations.  \n• De Lempicka's work invites viewers to reconsider the complexities of womanhood, blending elegance with a rebellious spirit.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "ChatGPT’s expanding world of work",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "published_date": "2026-10-26T10:00:00+00:00",
-      "summary": "OpenAI's latest analysis of ChatGPT's application across 165 work activities in nearly 100 countries uncovers transformative insights into how this AI tool is reshaping the workforce, highlighting its evolving role in enhancing productivity and collaboration in the modern workplace. This breakthrough underscores the potential for AI to redefine job functions and drive innovation on a global scale.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How to build real peace",
-      "link": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
-      "published_date": "2026-10-26T10:00:00+00:00",
-      "summary": "• Capitalist frameworks often exacerbate divisions in postwar societies, hindering true reconciliation and recovery.  \n• Cooperative models foster community engagement and collective ownership, essential for sustainable peacebuilding.  \n• The success of rebuilding efforts in war-torn regions hinges on prioritizing human relationships over profit motives.  \n• Real peace is cultivated through empathy and collaboration, rather than through the imposition of economic structures.  \n• Embracing cooperative principles can transform the narrative of postwar recovery from one of survival to one of thriving together.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
