@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T04:51:16.531489+00:00",
+  "last_updated": "2026-10-28T09:56:59.141616+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -202,6 +202,14 @@
       "category": "AI"
     },
     {
+      "title": "ByteDance accelerates robotics commercialisation with new recruitment drive",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372295/bytedance-accelerates-robotics-commercialisation-new-recruitment-drive",
+      "published_date": "2026-10-28T03:00:10+00:00",
+      "summary": "ByteDance is making significant strides in the commercialization of robotics by ramping up recruitment for top talent in both hardware and software, signaling its intent to transition advanced AI research into tangible products. This move not only positions the company as a formidable player in the robotics sector but also highlights the growing importance of embodied AI in the tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "The platform approach to becoming Frontier",
       "link": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
       "published_date": "2026-10-27T16:01:38+00:00",
@@ -224,14 +232,6 @@
       "summary": "Retell's integration of OpenAI's GPT-6 Astra and Codex has revolutionized its voice agent capabilities, enabling the platform to handle 100 million monthly calls and achieve an impressive $1.6 million annual revenue run rate per employee, underscoring the transformative potential of AI in customer service and operational efficiency.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "How China ‘risk factors’ loom over Anthropic’s hotly anticipated IPO filing",
-      "link": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing",
-      "published_date": "2026-10-27T13:00:08+00:00",
-      "summary": "Anthropic's IPO filing reveals significant concerns about China-related risks, highlighting the potential impact of geopolitical tensions and competition in the AI sector, which could shape investor sentiment and the company's future growth trajectory. This disclosure underscores the intricate interplay between technology and international relations, making it a critical factor for stakeholders to consider.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     },
     {
       "title": "Apple introduces the new 14-inch MacBook Pro with M6",
@@ -272,30 +272,6 @@
       "summary": "• Grief encompasses not just the loss of loved ones but also the unacknowledged voids in our lives.  \n• Failing to confront these losses can alienate us from our true selves, leading to a disconnection from our identity.  \n• The act of mourning is essential for healing, allowing us to integrate our experiences and emotions.  \n• Embracing grief opens pathways to understanding and compassion, both for ourselves and others.  \n• Ultimately, recognizing and honoring all forms of loss enriches our human experience and fosters deeper connections.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Beijing pushes for UN-led governance of artificial intelligence at global forum",
-      "link": "https://www.scmp.com/tech/policy/article/3372285/beijing-pushes-un-led-governance-artificial-intelligence-global-forum",
-      "published_date": "2026-10-27T08:34:13+00:00",
-      "summary": "China is advocating for a UN-led framework for artificial intelligence governance, emphasizing open-source technology and representation for the Global South, positioning itself as a challenger to US influence in shaping global tech regulations. This initiative, outlined in the Xiong’an Vision document, marks a significant shift in the geopolitical landscape of AI governance, potentially redefining international standards and collaboration in the sector.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Is China’s H-6K strategic bomber getting powerful jamming capabilities?",
-      "link": "https://www.scmp.com/news/china/military/article/3372255/chinas-h-6k-strategic-bomber-getting-powerful-jamming-capabilities",
-      "published_date": "2026-10-27T08:28:59+00:00",
-      "summary": "The sighting of a Chinese H-6K strategic bomber equipped with advanced electronic warfare jamming pods suggests a significant enhancement of its operational capabilities, potentially altering the balance of power in aerial combat and electronic warfare. This development underscores China's commitment to modernizing its military assets amid rising geopolitical tensions.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published_date": "2026-10-27T07:00:00+00:00",
-      "summary": "OpenAI's expanded partnership with Oracle will integrate advanced business applications and AI agents into ChatGPT, significantly enhancing enterprise capabilities and transforming how organizations leverage AI for operational efficiency. This collaboration not only broadens the functionality of ChatGPT but also positions Oracle as a key player in the AI-driven business landscape.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
