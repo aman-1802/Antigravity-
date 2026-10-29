@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T05:01:10.592861+00:00",
+  "last_updated": "2026-10-29T10:19:51.613039+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,38 @@
       "category": "AI"
     },
     {
+      "title": "Hills and mountains",
+      "link": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
+      "published_date": "2026-10-29T10:01:00+00:00",
+      "summary": "• The narrative of a girl's forced marriage serves as a poignant lens through which to examine the profound societal shifts instigated by the Soviet invasion of Afghanistan.  \n• The personal struggles of individuals often reflect the broader historical upheavals that redefine cultural and social norms.  \n• The intersection of personal agency and systemic oppression highlights the resilience of the human spirit in the face of adversity.  \n• This story underscores the intricate relationship between individual destinies and the sweeping tides of political change.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "The physics of getting fired",
+      "link": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+      "published_date": "2026-10-29T10:00:00+00:00",
+      "summary": "• The pursuit of physics provides a structured understanding of the universe, yet it often falls short in addressing the chaos of human experience.  \n• Life's unpredictability can shatter the illusion of control, prompting a deeper reflection on the nature of existence and purpose.  \n• Getting fired serves as a catalyst for personal growth, revealing the limitations of rationality in the face of emotional turmoil.  \n• Embracing uncertainty can lead to profound insights, transforming setbacks into opportunities for self-discovery and resilience.  \n• Ultimately, the intersection of physics and personal experience invites a reevaluation of what it means to find meaning in a chaotic world.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
+      "published_date": "2026-10-29T07:30:10+00:00",
+      "summary": "Tencent is leveraging Southeast Asia as a strategic launch pad for its AI workplace assistant, WorkBuddy, aiming to penetrate global markets with its cost-effective technology amidst fierce domestic competition. This initiative not only highlights Tencent's ambition to expand its influence beyond China but also underscores the growing demand for innovative AI solutions in emerging markets like Indonesia.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Google supplier Biwin, GPU leader Moore Threads see stocks plunge despite revenue surge",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3372535/google-supplier-biwin-gpu-leader-moore-threads-see-stocks-plunge-despite-revenue-surge",
+      "published_date": "2026-10-29T05:35:00+00:00",
+      "summary": "Despite a remarkable surge in third-quarter revenues fueled by soaring artificial intelligence demand, shares of Chinese semiconductor suppliers Biwin and Moore Threads plummeted over 10 percent, highlighting the volatility in the tech sector and raising concerns about investor confidence amid broader market declines. This juxtaposition of strong performance against a backdrop of stock sell-offs underscores the precarious nature of the tech industry as it grapples with fluctuating market dynamics.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
       "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
       "published_date": "2026-10-28T17:09:28+00:00",
@@ -250,44 +282,12 @@
       "category": "AI"
     },
     {
-      "title": "US warns China is expanding its space toolkit with spaceplane and energy weapons",
-      "link": "https://www.scmp.com/news/china/military/article/3372459/us-warns-china-expanding-its-space-toolkit-spaceplane-and-energy-weapons",
-      "published_date": "2026-10-28T12:01:05+00:00",
-      "summary": "The US intelligence report reveals China's advancements in space technology, highlighting the development of a secretive spaceplane capable of tracking American forces and the potential deployment of space-based energy weapons by the late 2020s, signaling a significant escalation in military capabilities that could reshape global power dynamics.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
       "title": "Huawei’s Tau Scaling Law roll-out reaches base stations in blow to US chip curbs",
       "link": "https://www.scmp.com/tech/big-tech/article/3372454/huaweis-tau-scaling-law-roll-out-reaches-base-stations-blow-us-chip-curbs",
       "published_date": "2026-10-28T11:00:18+00:00",
       "summary": "Huawei's integration of the Tau Scaling Law into its wireless communications network marks a significant breakthrough in chip design, enabling the company to circumvent US export restrictions while enhancing the performance of its next-generation base stations. This advancement not only strengthens Huawei's competitive edge in the global tech landscape but also signals a potential shift in the dynamics of international technology trade.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "The Amarna letters",
-      "link": "https://aeon.co/videos/letters-from-bronze-age-rulers-reveal-how-little-diplomacy-has-changed",
-      "published_date": "2026-10-28T10:01:00+00:00",
-      "summary": "• The Amarna letters reveal the intricate web of diplomacy and personal relationships in the ancient Near East.  \n• These correspondences illustrate the timeless human themes of power struggles, vulnerability, and the quest for assistance.  \n• The letters serve as a window into the socio-political dynamics of a civilization that shaped the course of history.  \n• Through their candid exchanges, the Amarna letters highlight the fragility of alliances and the enduring nature of human conflict.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "The future of the firm",
-      "link": "https://openai.com/index/the-future-of-the-firm",
-      "published_date": "2026-10-28T10:00:00+00:00",
-      "summary": "OpenAI's latest insights reveal a transformative vision for organizational structures, where AI seamlessly integrates into the workforce, enhancing collaboration and efficiency by occupying roles both alongside and within traditional hierarchies. This paradigm shift not only redefines job functions but also challenges our understanding of teamwork and productivity in the digital age.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora",
-      "published_date": "2026-10-28T09:30:00+00:00",
-      "summary": "Legora is revolutionizing the legal industry by developing an agentic operating system that leverages OpenAI's advanced models to streamline workflows and enhance contract analysis, empowering lawyers to concentrate on more strategic, high-value tasks. This breakthrough not only increases efficiency but also transforms the role of legal professionals in an increasingly complex landscape.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
