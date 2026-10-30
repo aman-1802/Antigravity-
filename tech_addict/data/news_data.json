@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T05:00:31.996041+00:00",
+  "last_updated": "2026-10-30T10:21:57.419628+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,14 @@
       "category": "AI"
     },
     {
+      "title": "In praise of the dilettante",
+      "link": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
+      "published_date": "2026-10-30T10:00:00+00:00",
+      "summary": "• The dilettante embodies a liberating spirit, embracing diverse interests rather than confining themselves to a single specialization.  \n• In a world that often values depth over breadth, the dilettante challenges the notion that expertise is the only path to fulfillment.  \n• This figure represents a rejection of rigidity, celebrating curiosity and the joy of exploration across various fields.  \n• By navigating multiple domains, the dilettante fosters a richer understanding of life’s complexities and interconnectedness.  \n• Ultimately, the dilettante invites us to reconsider the value of passion over proficiency in our pursuit of knowledge and meaning.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "link": "https://openai.com/index/updated-model-spec",
       "published_date": "2026-10-29T17:00:00+00:00",
@@ -239,46 +247,6 @@
       "published_date": "2026-10-29T13:00:16+00:00",
       "summary": "NVIDIA's GeForce NOW platform enhances its cloud gaming offerings with the launch of S-GAME's Phantom Blade Zero, a title that fuses martial arts with punk fantasy, marking a significant step in delivering high-quality gaming experiences on demand. This breakthrough not only expands the gaming library but also underscores the growing potential of cloud gaming to deliver immersive and diverse content.",
       "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Hills and mountains",
-      "link": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
-      "published_date": "2026-10-29T10:01:00+00:00",
-      "summary": "• The narrative of a girl's forced marriage serves as a poignant lens through which to examine the profound societal shifts instigated by the Soviet invasion of Afghanistan.  \n• The personal struggles of individuals often reflect the broader historical upheavals that redefine cultural and social norms.  \n• The intersection of personal agency and systemic oppression highlights the resilience of the human spirit in the face of adversity.  \n• This story underscores the intricate relationship between individual destinies and the sweeping tides of political change.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "The physics of getting fired",
-      "link": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
-      "published_date": "2026-10-29T10:00:00+00:00",
-      "summary": "• The pursuit of physics provides a structured understanding of the universe, yet it often falls short in addressing the chaos of human experience.  \n• Life's unpredictability can shatter the illusion of control, prompting a deeper reflection on the nature of existence and purpose.  \n• Getting fired serves as a catalyst for personal growth, revealing the limitations of rationality in the face of emotional turmoil.  \n• Embracing uncertainty can lead to profound insights, transforming setbacks into opportunities for self-discovery and resilience.  \n• Ultimately, the intersection of physics and personal experience invites a reevaluation of what it means to find meaning in a chaotic world.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published_date": "2026-10-29T09:00:00+00:00",
-      "summary": "OpenAI has developed a sophisticated layered monitoring system to identify misalignment in frontier models and unauthorized agent behavior, enabling proactive intervention to prevent potential incidents and ensure safer AI deployment. This breakthrough is crucial as it addresses the growing concerns around AI safety and accountability in increasingly complex systems.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
-      "link": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
-      "published_date": "2026-10-29T07:30:10+00:00",
-      "summary": "Tencent is leveraging Southeast Asia as a strategic launch pad for its AI workplace assistant, WorkBuddy, aiming to penetrate global markets with its cost-effective technology amidst fierce domestic competition. This initiative not only highlights Tencent's ambition to expand its influence beyond China but also underscores the growing demand for innovative AI solutions in emerging markets like Indonesia.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence",
-      "published_date": "2026-10-29T07:00:00+00:00",
-      "summary": "Ropes & Gray is revolutionizing transactional diligence by harnessing OpenAI's technology to streamline the review process of grouped documents and summaries, significantly enhancing efficiency and accuracy in legal advisement. This breakthrough not only transforms how legal professionals operate but also sets a new standard for integrating AI into complex transactional workflows.",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
