@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T10:19:51.613039+00:00",
+  "last_updated": "2026-10-30T05:00:31.996041+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,38 @@
       "category": "AI"
     },
     {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "published_date": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI's updated Model Spec introduces five foundational values designed to enhance AI's capabilities while ensuring it aligns with human intent, promoting sound judgment and preserving human agency, a critical advancement in the responsible development of artificial intelligence. This breakthrough not only sets a new standard for AI ethics but also aims to foster trust and safety in increasingly autonomous systems.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "published_date": "2026-10-29T16:00:35+00:00",
+      "summary": "NVIDIA's latest innovation empowers developers to seamlessly transform simulation concepts into functional applications by integrating frontier AI models with the Omniverse platform, revolutionizing how scenarios are explored and designs are optimized. This breakthrough not only enhances the efficiency of simulation development but also significantly improves the accuracy of predictive modeling in various industries.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes",
+      "link": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
+      "published_date": "2026-10-29T14:00:08+00:00",
+      "summary": "Iluvatar CoreX has unveiled its Tiangai 300 GPU, which reportedly matches or exceeds Nvidia's H200 in AI performance, signaling a significant shift in the competitive landscape as Chinese chipmakers strive to close the technological divide with their American counterparts. This breakthrough not only enhances China's position in the AI hardware market but also raises the stakes in the global race for advanced computing capabilities.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "published_date": "2026-10-29T13:00:16+00:00",
+      "summary": "NVIDIA's GeForce NOW platform enhances its cloud gaming offerings with the launch of S-GAME's Phantom Blade Zero, a title that fuses martial arts with punk fantasy, marking a significant step in delivering high-quality gaming experiences on demand. This breakthrough not only expands the gaming library but also underscores the growing potential of cloud gaming to deliver immersive and diverse content.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
       "title": "Hills and mountains",
       "link": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
       "published_date": "2026-10-29T10:01:00+00:00",
@@ -226,6 +258,14 @@
       "category": "Aeon"
     },
     {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published_date": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI has developed a sophisticated layered monitoring system to identify misalignment in frontier models and unauthorized agent behavior, enabling proactive intervention to prevent potential incidents and ensure safer AI deployment. This breakthrough is crucial as it addresses the growing concerns around AI safety and accountability in increasingly complex systems.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
       "link": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
       "published_date": "2026-10-29T07:30:10+00:00",
@@ -234,60 +274,12 @@
       "category": "SCMP"
     },
     {
-      "title": "Google supplier Biwin, GPU leader Moore Threads see stocks plunge despite revenue surge",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3372535/google-supplier-biwin-gpu-leader-moore-threads-see-stocks-plunge-despite-revenue-surge",
-      "published_date": "2026-10-29T05:35:00+00:00",
-      "summary": "Despite a remarkable surge in third-quarter revenues fueled by soaring artificial intelligence demand, shares of Chinese semiconductor suppliers Biwin and Moore Threads plummeted over 10 percent, highlighting the volatility in the tech sector and raising concerns about investor confidence amid broader market declines. This juxtaposition of strong performance against a backdrop of stock sell-offs underscores the precarious nature of the tech industry as it grapples with fluctuating market dynamics.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "published_date": "2026-10-28T17:09:28+00:00",
-      "summary": "Apple's latest MacBook Pro, equipped with the revolutionary PROLED XDR Display utilizing tandem OLED technology, sets a new standard for visual excellence, promising unparalleled color accuracy and brightness that will redefine creative workflows and elevate user experiences across industries. This innovation not only enhances productivity but also positions Apple at the forefront of display technology in the competitive laptop market.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-      "link": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-      "published_date": "2026-10-28T16:51:35+00:00",
-      "summary": "Microsoft's introduction of the Copilot harness marks a significant breakthrough in enabling seamless integration and utilization of diverse AI models, addressing the critical challenges of performance, quality, and cost. This innovation empowers organizations to fully leverage the capabilities of multiple AI systems, positioning them for competitive advantage in a rapidly evolving technological landscape.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "published_date": "2026-10-28T15:00:46+00:00",
-      "summary": "NVIDIA's new RTX Spark laptops, featuring a groundbreaking superchip that integrates an NVIDIA Blackwell RTX GPU with an NVIDIA Grace CPU, deliver unprecedented performance in a thin and light design, revolutionizing the capabilities for developers, creators, and gamers alike. This innovation not only enhances productivity and gaming experiences but also sets a new standard for portable computing power across major brands like ASUS, Dell, and HP.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Unitree reports 70% surge in quarterly revenue, though AI investment weighs on net profit",
-      "link": "https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit",
-      "published_date": "2026-10-28T13:38:07+00:00",
-      "summary": "Unitree Robotics has achieved a remarkable 70% increase in quarterly revenue, reaching nearly $100 million, driven by aggressive investments in AI and R&D, highlighting the company's commitment to innovation despite a dip in net profits. This financial performance underscores the growing demand for advanced robotics solutions and positions Unitree as a formidable player in the rapidly evolving tech landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published_date": "2026-10-28T13:15:00+00:00",
-      "summary": "OpenAI and ServiceNow are significantly enhancing their partnership by integrating OpenAI's advanced models and agents into ServiceNow's platform, allowing seamless interaction between enterprise workflows and ChatGPT, which could revolutionize efficiency and productivity in business operations. This collaboration not only streamlines processes but also empowers organizations to leverage cutting-edge AI capabilities directly within their existing workflows.",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published_date": "2026-10-29T07:00:00+00:00",
+      "summary": "Ropes & Gray is revolutionizing transactional diligence by harnessing OpenAI's technology to streamline the review process of grouped documents and summaries, significantly enhancing efficiency and accuracy in legal advisement. This breakthrough not only transforms how legal professionals operate but also sets a new standard for integrating AI into complex transactional workflows.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "Huawei’s Tau Scaling Law roll-out reaches base stations in blow to US chip curbs",
-      "link": "https://www.scmp.com/tech/big-tech/article/3372454/huaweis-tau-scaling-law-roll-out-reaches-base-stations-blow-us-chip-curbs",
-      "published_date": "2026-10-28T11:00:18+00:00",
-      "summary": "Huawei's integration of the Tau Scaling Law into its wireless communications network marks a significant breakthrough in chip design, enabling the company to circumvent US export restrictions while enhancing the performance of its next-generation base stations. This advancement not only strengthens Huawei's competitive edge in the global tech landscape but also signals a potential shift in the dynamics of international technology trade.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
