@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T10:21:57.419628+00:00",
+  "last_updated": "2026-10-31T04:48:39.533494+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,38 @@
       "category": "AI"
     },
     {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "published_date": "2026-10-30T15:00:10+00:00",
+      "summary": "NVIDIA's latest advancement in AI technology is revolutionizing the search for extraterrestrial intelligence by deploying agentic AI to detect signals from potential alien life, marking a significant shift in how we explore the cosmos and potentially redefining our understanding of life beyond Earth. This breakthrough not only enhances our capabilities in this field but also raises profound questions about the nature of intelligence itself, both human and extraterrestrial.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China and US expand military drone flights near Japan and the South China Sea",
+      "link": "https://www.scmp.com/news/china/military/article/3372782/china-and-us-expand-military-drone-flights-near-japan-and-south-china-sea",
+      "published_date": "2026-10-30T13:54:47+00:00",
+      "summary": "China and the US are intensifying military drone operations in the Indo-Pacific, with China deploying drones near Japan and the US conducting flights in the contested South China Sea, signaling a significant escalation in regional tensions and a strategic race for dominance in critical maritime routes. This development underscores the growing military rivalry and the potential for conflict in a geopolitically sensitive area.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "AI, fuelled by advanced chips, set to power semiconductor manufacturing: industry veteran",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372774/ai-fuelled-advanced-chips-set-power-semiconductor-manufacturing-industry-veteran",
+      "published_date": "2026-10-30T12:59:39+00:00",
+      "summary": "Artificial intelligence is poised to revolutionize semiconductor manufacturing by not only driving demand but also automating the entire chip design process, a transformation highlighted by industry leaders at a major science forum in Shanghai. This breakthrough could significantly enhance efficiency and innovation in the tech industry, reshaping the future of chip production.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China dismisses US report of suspected spy targeting Nvidia CEO Jensen Huang as ‘groundless’",
+      "link": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
+      "published_date": "2026-10-30T10:30:07+00:00",
+      "summary": "China has vehemently rejected U.S. intelligence claims of a suspected spy targeting Nvidia CEO Jensen Huang, labeling the allegations as unfounded and a smear campaign, highlighting the escalating tensions between the two nations in the realm of technology and espionage. This incident underscores the fragile trust in international relations, particularly in the tech sector, where accusations can have profound implications for corporate leadership and global innovation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "In praise of the dilettante",
       "link": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
       "published_date": "2026-10-30T10:00:00+00:00",
@@ -218,36 +250,36 @@
       "category": "Aeon"
     },
     {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "published_date": "2026-10-29T17:00:00+00:00",
-      "summary": "OpenAI's updated Model Spec introduces five foundational values designed to enhance AI's capabilities while ensuring it aligns with human intent, promoting sound judgment and preserving human agency, a critical advancement in the responsible development of artificial intelligence. This breakthrough not only sets a new standard for AI ethics but also aims to foster trust and safety in increasingly autonomous systems.",
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published_date": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI's new initiative to honor a shared robots.txt signal empowers website operators to clearly communicate their AI training preferences, marking a significant step towards ethical AI development and fostering trust between content creators and technology providers. This breakthrough not only enhances transparency in AI training practices but also allows for more responsible data usage across the digital landscape.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "published_date": "2026-10-29T16:00:35+00:00",
-      "summary": "NVIDIA's latest innovation empowers developers to seamlessly transform simulation concepts into functional applications by integrating frontier AI models with the Omniverse platform, revolutionizing how scenarios are explored and designs are optimized. This breakthrough not only enhances the efficiency of simulation development but also significantly improves the accuracy of predictive modeling in various industries.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes",
-      "link": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
-      "published_date": "2026-10-29T14:00:08+00:00",
-      "summary": "Iluvatar CoreX has unveiled its Tiangai 300 GPU, which reportedly matches or exceeds Nvidia's H200 in AI performance, signaling a significant shift in the competitive landscape as Chinese chipmakers strive to close the technological divide with their American counterparts. This breakthrough not only enhances China's position in the AI hardware market but also raises the stakes in the global race for advanced computing capabilities.",
-      "source": "SCMP Tech",
+      "title": "China carries out GJ-21 drone take-off, landing from first Type 076 warship: state media",
+      "link": "https://www.scmp.com/news/china/military/article/3372726/china-carries-out-gj-21-drone-take-landing-first-type-076-warship-state-media",
+      "published_date": "2026-10-30T09:03:23+00:00",
+      "summary": "China's successful launch and landing of the GJ-21 drone from its inaugural Type 076 amphibious assault ship marks a significant advancement in military capabilities, enhancing its reconnaissance and strike operations at sea and solidifying its position in naval warfare technology. This breakthrough underscores China's commitment to modernizing its military forces and expanding its operational reach.",
+      "source": "China News",
       "category": "SCMP"
     },
     {
-      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-      "published_date": "2026-10-29T13:00:16+00:00",
-      "summary": "NVIDIA's GeForce NOW platform enhances its cloud gaming offerings with the launch of S-GAME's Phantom Blade Zero, a title that fuses martial arts with punk fantasy, marking a significant step in delivering high-quality gaming experiences on demand. This breakthrough not only expands the gaming library but also underscores the growing potential of cloud gaming to deliver immersive and diverse content.",
-      "source": "NVIDIA",
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published_date": "2026-10-30T09:00:00+00:00",
+      "summary": "OpenAI is revolutionizing community safety by enhancing violence prevention measures in ChatGPT through expanded safeguards and proactive interventions, alongside a groundbreaking commitment to public safety reporting, marking a significant step in protecting vulnerable users, particularly teens. This initiative not only elevates user safety standards but also sets a new precedent for accountability in AI technology.",
+      "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "Australian PM to visit Beijing after China-hosted Apec summit as tensions simmer",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3372671/australian-pm-visit-beijing-after-china-hosted-apec-summit-tensions-simmer",
+      "published_date": "2026-10-30T07:00:12+00:00",
+      "summary": "Australian Prime Minister Anthony Albanese's upcoming visit to Beijing, following the Apec summit, signifies a pivotal moment in Australian-China relations as both nations aim to stabilize ties amidst ongoing geopolitical tensions, highlighting the importance of diplomatic engagement in a rapidly shifting global landscape.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
     }
   ]
 }
