@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T09:53:43.792011+00:00",
+  "last_updated": "2026-11-01T05:12:14.090947+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -208,38 +208,6 @@
       "summary": "Anthropic has unveiled significant advancements in AI safety and alignment, showcasing their commitment to developing robust and responsible AI systems that prioritize ethical considerations, which is crucial as the technology becomes increasingly integrated into everyday life and decision-making processes. This breakthrough not only enhances the reliability of AI applications but also sets a new standard for the industry, emphasizing the importance of aligning AI behavior with human values.",
       "source": "Anthropic",
       "category": "AI"
-    },
-    {
-      "title": "As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals",
-      "link": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals",
-      "published_date": "2026-10-31T05:00:10+00:00",
-      "summary": "A leading Chinese chip expert has called for the establishment of universal ethical standards for AI development between China and the US, highlighting the urgent need to address escalating cyber risks that threaten critical infrastructure and national security amid rapid technological advancements. This initiative could pave the way for international collaboration in mitigating the dangers posed by AI, potentially transforming how nations approach cybersecurity and ethical AI deployment.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "published_date": "2026-10-30T15:00:10+00:00",
-      "summary": "NVIDIA's latest advancement in AI technology is revolutionizing the search for extraterrestrial intelligence by deploying agentic AI to detect signals from potential alien life, marking a significant shift in how we explore the cosmos and potentially redefining our understanding of life beyond Earth. This breakthrough not only enhances our capabilities in this field but also raises profound questions about the nature of intelligence itself, both human and extraterrestrial.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "AI, fuelled by advanced chips, set to power semiconductor manufacturing: industry veteran",
-      "link": "https://www.scmp.com/tech/big-tech/article/3372774/ai-fuelled-advanced-chips-set-power-semiconductor-manufacturing-industry-veteran",
-      "published_date": "2026-10-30T12:59:39+00:00",
-      "summary": "Artificial intelligence is poised to revolutionize semiconductor manufacturing by not only driving demand but also automating the entire chip design process, a transformation highlighted by industry leaders at a major science forum in Shanghai. This breakthrough could significantly enhance efficiency and innovation in the tech industry, reshaping the future of chip production.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "In praise of the dilettante",
-      "link": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
-      "published_date": "2026-10-30T10:00:00+00:00",
-      "summary": "• The dilettante embodies a liberating spirit, embracing diverse interests rather than confining themselves to a single specialization.  \n• In a world that often values depth over breadth, the dilettante challenges the notion that expertise is the only path to fulfillment.  \n• This figure represents a rejection of rigidity, celebrating curiosity and the joy of exploration across various fields.  \n• By navigating multiple domains, the dilettante fosters a richer understanding of life’s complexities and interconnectedness.  \n• Ultimately, the dilettante invites us to reconsider the value of passion over proficiency in our pursuit of knowledge and meaning.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
