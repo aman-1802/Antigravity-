@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T05:12:14.090947+00:00",
+  "last_updated": "2026-11-01T10:44:29.967628+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -208,6 +208,30 @@
       "summary": "Anthropic has unveiled significant advancements in AI safety and alignment, showcasing their commitment to developing robust and responsible AI systems that prioritize ethical considerations, which is crucial as the technology becomes increasingly integrated into everyday life and decision-making processes. This breakthrough not only enhances the reliability of AI applications but also sets a new standard for the industry, emphasizing the importance of aligning AI behavior with human values.",
       "source": "Anthropic",
       "category": "AI"
+    },
+    {
+      "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+      "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+      "published_date": "2026-11-01T10:00:26+00:00",
+      "summary": "DeepSeek's introduction of an AI 'super agent' promises to revolutionize coding by enabling a more autonomous system that can manage multiple tasks with minimal human oversight, positioning the Chinese start-up as a formidable competitor to established players like OpenAI and Anthropic in the rapidly evolving AI landscape. This breakthrough addresses the critical challenge of coordinating complex workflows, potentially transforming how developers interact with AI technologies.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "From rifles to radar: China upgrades its African arms trade as Russia and the West retreat",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3372870/rifles-radar-china-upgrades-its-african-arms-trade-russia-and-west-retreat",
+      "published_date": "2026-11-01T10:00:11+00:00",
+      "summary": "China is revolutionizing its arms trade in Africa by transitioning from traditional small arms to advanced military technologies like armed drones and electronic warfare systems, filling the void left by Russia and the West. This strategic shift not only enhances the military capabilities of African nations but also solidifies China's influence on the continent amid a changing geopolitical landscape.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+      "published_date": "2026-11-01T06:00:13+00:00",
+      "summary": "Kazakhstan is strategically positioning itself at the forefront of the AI revolution by refusing to align exclusively with either the US or China, leveraging its energy resources and emerging tech landscape to attract investment and innovation. This balanced approach not only enhances Kazakhstan's geopolitical significance but also sets a precedent for other nations navigating the complexities of global tech rivalries.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     }
   ]
 }
