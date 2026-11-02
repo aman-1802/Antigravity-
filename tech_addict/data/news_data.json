@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T05:12:22.218642+00:00",
+  "last_updated": "2026-11-02T11:35:15.308307+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,26 +210,42 @@
       "category": "AI"
     },
     {
+      "title": "China’s CXMT defends bet on risky new DRAM architecture to circumvent US chip curbs",
+      "link": "https://www.scmp.com/tech/tech-war/article/3372997/chinas-cxmt-defends-bet-risky-new-dram-architecture-circumvent-us-chip-curbs",
+      "published_date": "2026-11-02T11:30:09+00:00",
+      "summary": "China's ChangXin Memory Technologies (CXMT) is boldly advancing a new DRAM architecture to circumvent US chip restrictions, positioning itself as a key player in the global semiconductor landscape and challenging established norms set by rivals like Micron Technology. This move not only underscores the growing technological divide but also highlights the strategic importance of innovation in memory chip design amid escalating geopolitical tensions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Jo Marchant: In search of now",
+      "link": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
+      "published_date": "2026-11-02T11:01:00+00:00",
+      "summary": "• The concept of 'now' intertwines the realms of physics, philosophy, and psychology, revealing its elusive nature.  \n• Our perception of the present moment is shaped by both cognitive processes and the limitations of human consciousness.  \n• Time is not merely a linear progression; it is a complex interplay of experiences and awareness that defines our existence.  \n• Understanding 'now' challenges us to reconsider our relationship with time and the significance we assign to each fleeting moment.  \n• The quest for the present invites a deeper exploration of mindfulness and the essence of being alive in a constantly shifting reality.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "The self-making world",
+      "link": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
+      "published_date": "2026-11-02T11:00:00+00:00",
+      "summary": "• Lamarck's theory of self-making challenges the traditional Darwinian view by suggesting that organisms actively influence their evolution and environment.  \n• The resurgence of interest in Lamarckian ideas invites a reevaluation of the relationship between agency and adaptation in the natural world.  \n• This philosophical shift emphasizes the interconnectedness of organisms and their surroundings, blurring the lines between nature and nurture.  \n• The implications of self-making extend beyond biology, prompting reflections on human agency and the potential for societal transformation.  \n• Ultimately, embracing Lamarck's vision could inspire a more dynamic understanding of evolution, where life is seen as a collaborative act of creation.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China touts AI milestone: models generate more tokens than used in training",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372961/china-touts-ai-milestone-running-models-now-uses-more-data-training-them",
+      "published_date": "2026-11-02T07:00:23+00:00",
+      "summary": "China has achieved a significant AI milestone, with models now generating more inference data than the data used for their training, highlighting the country's rapid adoption and advancement in artificial intelligence technology. This breakthrough not only underscores China's growing capabilities in AI but also sets the stage for transformative applications across various sectors.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "China and US need to join hands against another powerful adversary: AI",
       "link": "https://www.scmp.com/opinion/world-opinion/article/3372563/china-and-us-need-join-hands-against-another-powerful-adversary-ai",
       "published_date": "2026-11-01T21:30:09+00:00",
       "summary": "The article emphasizes the urgent need for the United States and China to collaborate in addressing the formidable challenge posed by artificial intelligence, echoing historical precedents of cooperation against common adversaries. This partnership is critical not only for global stability but also for shaping the future of technological governance and innovation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Self-improving AI the key step towards AGI but safety is key: Z.ai founder",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder",
-      "published_date": "2026-11-01T12:00:19+00:00",
-      "summary": "The development of self-improving AI systems is a crucial advancement towards achieving artificial general intelligence (AGI), as highlighted by Z.ai founder Tang Jie, who emphasizes the necessity of prioritizing safety in this pursuit amidst the competitive landscape between US and Chinese tech companies. This breakthrough could revolutionize AI capabilities, but it raises critical concerns about the implications of unchecked recursive self-improvement.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
-      "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
-      "published_date": "2026-11-01T10:00:26+00:00",
-      "summary": "DeepSeek's introduction of an AI 'super agent' promises to revolutionize coding by enabling a more autonomous system that can manage multiple tasks with minimal human oversight, positioning the Chinese start-up as a formidable competitor to established players like OpenAI and Anthropic in the rapidly evolving AI landscape. This breakthrough addresses the critical challenge of coordinating complex workflows, potentially transforming how developers interact with AI technologies.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
