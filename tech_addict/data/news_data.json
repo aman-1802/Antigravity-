@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T10:44:29.967628+00:00",
+  "last_updated": "2026-11-02T05:12:22.218642+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,26 +210,26 @@
       "category": "AI"
     },
     {
-      "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
-      "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
-      "published_date": "2026-11-01T10:00:26+00:00",
-      "summary": "DeepSeek's introduction of an AI 'super agent' promises to revolutionize coding by enabling a more autonomous system that can manage multiple tasks with minimal human oversight, positioning the Chinese start-up as a formidable competitor to established players like OpenAI and Anthropic in the rapidly evolving AI landscape. This breakthrough addresses the critical challenge of coordinating complex workflows, potentially transforming how developers interact with AI technologies.",
+      "title": "China and US need to join hands against another powerful adversary: AI",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3372563/china-and-us-need-join-hands-against-another-powerful-adversary-ai",
+      "published_date": "2026-11-01T21:30:09+00:00",
+      "summary": "The article emphasizes the urgent need for the United States and China to collaborate in addressing the formidable challenge posed by artificial intelligence, echoing historical precedents of cooperation against common adversaries. This partnership is critical not only for global stability but also for shaping the future of technological governance and innovation.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "From rifles to radar: China upgrades its African arms trade as Russia and the West retreat",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3372870/rifles-radar-china-upgrades-its-african-arms-trade-russia-and-west-retreat",
-      "published_date": "2026-11-01T10:00:11+00:00",
-      "summary": "China is revolutionizing its arms trade in Africa by transitioning from traditional small arms to advanced military technologies like armed drones and electronic warfare systems, filling the void left by Russia and the West. This strategic shift not only enhances the military capabilities of African nations but also solidifies China's influence on the continent amid a changing geopolitical landscape.",
-      "source": "Diplomacy & Defence",
+      "title": "Self-improving AI the key step towards AGI but safety is key: Z.ai founder",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder",
+      "published_date": "2026-11-01T12:00:19+00:00",
+      "summary": "The development of self-improving AI systems is a crucial advancement towards achieving artificial general intelligence (AGI), as highlighted by Z.ai founder Tang Jie, who emphasizes the necessity of prioritizing safety in this pursuit amidst the competitive landscape between US and Chinese tech companies. This breakthrough could revolutionize AI capabilities, but it raises critical concerns about the implications of unchecked recursive self-improvement.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
-      "link": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
-      "published_date": "2026-11-01T06:00:13+00:00",
-      "summary": "Kazakhstan is strategically positioning itself at the forefront of the AI revolution by refusing to align exclusively with either the US or China, leveraging its energy resources and emerging tech landscape to attract investment and innovation. This balanced approach not only enhances Kazakhstan's geopolitical significance but also sets a precedent for other nations navigating the complexities of global tech rivalries.",
+      "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+      "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+      "published_date": "2026-11-01T10:00:26+00:00",
+      "summary": "DeepSeek's introduction of an AI 'super agent' promises to revolutionize coding by enabling a more autonomous system that can manage multiple tasks with minimal human oversight, positioning the Chinese start-up as a formidable competitor to established players like OpenAI and Anthropic in the rapidly evolving AI landscape. This breakthrough addresses the critical challenge of coordinating complex workflows, potentially transforming how developers interact with AI technologies.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
