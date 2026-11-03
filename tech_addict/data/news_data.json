@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T11:35:15.308307+00:00",
+  "last_updated": "2026-11-03T05:56:06.569900+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,62 @@
       "category": "AI"
     },
     {
+      "title": "Apple reports fourth quarter results",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "published_date": "2026-11-02T21:30:04+00:00",
+      "summary": "Apple's fourth-quarter results for fiscal 2026 reveal unprecedented growth, underscoring the company's resilience and innovation in a challenging market, which could set new benchmarks for the tech industry. This performance not only highlights Apple's strategic advancements but also positions it for continued leadership in the global technology landscape.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published_date": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is significantly increasing its Security Bug Bounty rewards and implementing new bonuses for report quality and researcher loyalty, a move that not only incentivizes independent security experts to enhance digital safety but also underscores the company's commitment to robust cybersecurity practices in an increasingly vulnerable tech landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published_date": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is launching a critical internal security sprint in collaboration with Cathedral Systems to leverage AI for enhancing its defenses, marking a significant step in fortifying the organization's resilience against emerging cyber threats. This initiative underscores the growing importance of AI-driven security measures in safeguarding advanced technologies.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "published_date": "2026-11-02T17:45:00+00:00",
+      "summary": "In October 2026, Google AI unveiled groundbreaking advancements in artificial intelligence, showcasing a series of innovative applications that promise to revolutionize industries by enhancing automation, personalization, and decision-making capabilities. This leap forward not only underscores Google's leadership in AI technology but also sets a new standard for the future of intelligent systems across various sectors.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "published_date": "2026-11-02T15:30:00+00:00",
+      "summary": "OpenAI has developed Pando, a groundbreaking Git-compatible backend that enables unprecedented scalability for software development, revolutionizing how teams can leverage Codex to enhance productivity and innovation in coding. This advancement not only streamlines collaboration but also positions OpenAI at the forefront of transforming software engineering practices.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "published_date": "2026-11-02T15:00:00+00:00",
+      "summary": "OpenAI's Grid Protectors Program aims to revolutionize energy management by collaborating with utilities to enhance grid reliability for future computing campuses, ultimately safeguarding consumer electricity costs and promoting sustainable technology growth. This initiative not only addresses the increasing energy demands of advanced computing but also positions OpenAI as a leader in responsible energy consumption within the tech industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "China’s EDA champion buys start-up to address weak link, support Huawei’s Tau Scaling Law",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373005/chinas-eda-champion-buys-start-address-weak-link-support-huaweis-tau-scaling-law",
+      "published_date": "2026-11-02T13:30:12+00:00",
+      "summary": "Empyrean Technology's acquisition of a majority stake in Easy-Logic Technology marks a significant step in China's quest for tech self-sufficiency, directly enhancing support for Huawei's semiconductor initiatives and addressing critical gaps in the electronic design automation sector. This strategic move not only strengthens China's domestic capabilities but also positions it to compete more effectively in the global tech landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "China’s CXMT defends bet on risky new DRAM architecture to circumvent US chip curbs",
       "link": "https://www.scmp.com/tech/tech-war/article/3372997/chinas-cxmt-defends-bet-risky-new-dram-architecture-circumvent-us-chip-curbs",
       "published_date": "2026-11-02T11:30:09+00:00",
@@ -234,18 +290,18 @@
       "category": "Aeon"
     },
     {
+      "title": "LifeVal",
+      "link": "https://openai.com/index/lifeval",
+      "published_date": "2026-11-02T09:00:00+00:00",
+      "summary": "OpenAI has unveiled LifeVal, a groundbreaking benchmark that evaluates the effectiveness of AI in assisting individuals with daily tasks such as childcare, financial management, and navigating government paperwork, potentially revolutionizing how we integrate technology into our everyday lives. This innovation not only enhances user experience but also sets a new standard for AI's role in personal productivity and decision-making.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "China touts AI milestone: models generate more tokens than used in training",
       "link": "https://www.scmp.com/tech/big-tech/article/3372961/china-touts-ai-milestone-running-models-now-uses-more-data-training-them",
       "published_date": "2026-11-02T07:00:23+00:00",
       "summary": "China has achieved a significant AI milestone, with models now generating more inference data than the data used for their training, highlighting the country's rapid adoption and advancement in artificial intelligence technology. This breakthrough not only underscores China's growing capabilities in AI but also sets the stage for transformative applications across various sectors.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China and US need to join hands against another powerful adversary: AI",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3372563/china-and-us-need-join-hands-against-another-powerful-adversary-ai",
-      "published_date": "2026-11-01T21:30:09+00:00",
-      "summary": "The article emphasizes the urgent need for the United States and China to collaborate in addressing the formidable challenge posed by artificial intelligence, echoing historical precedents of cooperation against common adversaries. This partnership is critical not only for global stability but also for shaping the future of technological governance and innovation.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
