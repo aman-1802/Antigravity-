@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T05:32:04.983501+00:00",
+  "last_updated": "2026-11-04T11:25:28.140330+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,22 @@
       "category": "AI"
     },
     {
+      "title": "Like aliens",
+      "link": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
+      "published_date": "2026-11-04T11:01:00+00:00",
+      "summary": "• Miniature worlds serve as living metaphors, revealing the intricate connections within our biosphere.  \n• The fragility of these ecosystems highlights the delicate balance necessary for sustaining life.  \n• Observing these self-contained environments invites reflection on humanity's role in the broader ecological narrative.  \n• These tiny ecosystems challenge our perception of beauty, urging us to appreciate the often-overlooked wonders of nature.  \n• Ultimately, they remind us that every organism, no matter how small, plays a vital part in the tapestry of life.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
+      "published_date": "2026-11-04T07:01:09+00:00",
+      "summary": "Tencent's launch of the Hy4 AI model marks a significant advancement in artificial intelligence by introducing visual understanding capabilities, enabling it to process images and perform complex visual reasoning, thereby intensifying competition with leading rivals like DeepSeek and Alibaba in the open-weight AI landscape. This breakthrough not only enhances Tencent's enterprise software ecosystem but also sets a new standard for AI applications across various industries.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "China training Solomon Islands police to use water cannons under security pact",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3373153/china-training-solomon-islands-police-use-water-cannons-under-security-pact",
       "published_date": "2026-11-04T00:00:19+00:00",
@@ -255,54 +271,6 @@
       "published_date": "2026-11-03T12:00:00+00:00",
       "summary": "OpenAI's ChatGPT and Codex are revolutionizing engineering by streamlining complex workflows in CAD, PCB design, and simulation, significantly enhancing productivity and innovation in the physical world. This breakthrough not only empowers engineers to work faster but also paves the way for more sophisticated designs and solutions in various industries.",
       "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China-US AI investment gap narrower than figures suggest: report",
-      "link": "https://www.scmp.com/economy/china-economy/article/3373128/china-us-ai-investment-gap-narrower-figures-suggest-report",
-      "published_date": "2026-11-03T11:00:09+00:00",
-      "summary": "A new report reveals that the AI investment gap between China and the US is not as wide as previously believed, highlighting the intensifying technological competition between the two nations and underscoring the critical role AI will play in future economic growth. This insight challenges conventional perceptions and emphasizes the need for a nuanced understanding of global AI capabilities and investments.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Believing and thinking",
-      "link": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
-      "published_date": "2026-11-03T11:00:00+00:00",
-      "summary": "• The distinction between belief and thought reveals the complexities of human psychology and autonomy.  \n• While beliefs are often chosen based on personal values and experiences, thoughts arise involuntarily from cognitive processes.  \n• This dichotomy challenges the notion of free will, suggesting that our beliefs can be more malleable than our thoughts.  \n• The interplay between belief and thought influences societal structures, particularly in the context of governance and religion.  \n• Understanding this relationship can illuminate the foundations of personal identity and collective ideology.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China’s HQ series intercepts 2 new missile types as PLA tests weapon platform",
-      "link": "https://www.scmp.com/news/china/military/article/3373094/chinas-hq-series-intercepts-2-new-missile-types-pla-tests-weapon-platform",
-      "published_date": "2026-11-03T10:00:14+00:00",
-      "summary": "China's successful simultaneous interception of two new missile types by the People's Liberation Army marks a significant advancement in its air defense capabilities, showcasing its readiness to counter evolving threats and enhancing national security. This breakthrough not only underscores China's military modernization efforts but also raises the stakes in regional defense dynamics.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "link": "https://openai.com/index/cisco-cyber",
-      "published_date": "2026-11-03T08:00:00+00:00",
-      "summary": "Cisco's integration of OpenAI models with its network intelligence marks a significant breakthrough in enterprise security, enabling real-time, adaptive defenses that can respond to threats at machine speed, thereby transforming how organizations protect their digital assets. This advancement not only enhances security measures but also sets a new standard for proactive threat management in an increasingly complex cyber landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "published_date": "2026-11-03T08:00:00+00:00",
-      "summary": "Heimstaden is revolutionizing residential real estate management by leveraging OpenAI's ChatGPT Enterprise and Codex, significantly reducing operational costs while enhancing employee capabilities across Europe. This breakthrough not only streamlines property management processes but also sets a new standard for efficiency and innovation in the industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-      "published_date": "2026-11-03T07:00:12+00:00",
-      "summary": "NVIDIA's introduction of Physical and Agentic AI empowers cities to transform vast data from cameras and sensors into actionable insights, revolutionizing infrastructure planning and public services through advanced digital twin technology and intelligent service agents. This breakthrough not only enhances urban management but also positions local governments to leverage AI for improved efficiency and responsiveness in addressing community needs.",
-      "source": "NVIDIA",
       "category": "AI"
     }
   ]
