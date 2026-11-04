@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T11:13:33.120937+00:00",
+  "last_updated": "2026-11-04T05:32:04.983501+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,54 @@
       "category": "AI"
     },
     {
+      "title": "China training Solomon Islands police to use water cannons under security pact",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3373153/china-training-solomon-islands-police-use-water-cannons-under-security-pact",
+      "published_date": "2026-11-04T00:00:19+00:00",
+      "summary": "China's training of Solomon Islands police in the use of water cannons under a controversial security pact signifies a strategic deepening of Beijing's influence in the Pacific, raising concerns among Western nations about regional stability and security dynamics. This development not only enhances the capabilities of local law enforcement but also underscores China's growing footprint in a geopolitically sensitive area.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Redesigned Health app expands language support",
+      "link": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "published_date": "2026-11-03T18:24:58+00:00",
+      "summary": "Apple's redesigned Health app now offers expanded language support, significantly enhancing accessibility and personalization of health insights for millions globally, thereby reinforcing its commitment to inclusive health technology.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "published_date": "2026-11-03T16:00:45+00:00",
+      "summary": "NVIDIA reveals that AI is revolutionizing semiconductor fabrication by enabling engineers to navigate increasingly complex manufacturing processes with unprecedented speed and accuracy, a crucial advancement as demand for advanced chips surges and the margin for error diminishes. This breakthrough not only enhances efficiency but also significantly reduces the risk of costly defects in chip production.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Alibaba’s Joe Tsai champions open-source AI at Wuzhen Summit amid US pushback",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3373155/alibabas-joe-tsai-champions-open-source-ai-wuzhen-summit-amid-us-pushback",
+      "published_date": "2026-11-03T12:00:17+00:00",
+      "summary": "Alibaba's chairman Joe Tsai advocates for open-source AI as the key to a sustainable industry, highlighting a significant shift among Chinese tech firms towards collaborative ecosystems amidst rising global demand and geopolitical tensions. This breakthrough emphasizes the potential of open-source frameworks to drive innovation and resilience in the face of increasing regulatory pressures from the US.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China tests wave-piercing stealth trimaran as unconventional naval fleet grows",
+      "link": "https://www.scmp.com/news/china/military/article/3373134/china-tests-wave-piercing-stealth-trimaran-unconventional-naval-fleet-grows",
+      "published_date": "2026-11-03T12:00:12+00:00",
+      "summary": "China's testing of a wave-piercing stealth trimaran signifies a major advancement in naval technology, potentially enhancing its fleet's stealth capabilities and reshaping maritime power dynamics. This innovative design, featuring a unique three-hull structure and radar-evading features, underscores China's commitment to developing unconventional naval platforms that could challenge existing naval strategies.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published_date": "2026-11-03T12:00:00+00:00",
+      "summary": "OpenAI's ChatGPT and Codex are revolutionizing engineering by streamlining complex workflows in CAD, PCB design, and simulation, significantly enhancing productivity and innovation in the physical world. This breakthrough not only empowers engineers to work faster but also paves the way for more sophisticated designs and solutions in various industries.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "China-US AI investment gap narrower than figures suggest: report",
       "link": "https://www.scmp.com/economy/china-economy/article/3373128/china-us-ai-investment-gap-narrower-figures-suggest-report",
       "published_date": "2026-11-03T11:00:09+00:00",
@@ -226,6 +274,22 @@
       "category": "Aeon"
     },
     {
+      "title": "China’s HQ series intercepts 2 new missile types as PLA tests weapon platform",
+      "link": "https://www.scmp.com/news/china/military/article/3373094/chinas-hq-series-intercepts-2-new-missile-types-pla-tests-weapon-platform",
+      "published_date": "2026-11-03T10:00:14+00:00",
+      "summary": "China's successful simultaneous interception of two new missile types by the People's Liberation Army marks a significant advancement in its air defense capabilities, showcasing its readiness to counter evolving threats and enhancing national security. This breakthrough not only underscores China's military modernization efforts but also raises the stakes in regional defense dynamics.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "published_date": "2026-11-03T08:00:00+00:00",
+      "summary": "Cisco's integration of OpenAI models with its network intelligence marks a significant breakthrough in enterprise security, enabling real-time, adaptive defenses that can respond to threats at machine speed, thereby transforming how organizations protect their digital assets. This advancement not only enhances security measures but also sets a new standard for proactive threat management in an increasingly complex cyber landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Heimstaden is changing residential real estate management with AI",
       "link": "https://openai.com/index/heimstaden",
       "published_date": "2026-11-03T08:00:00+00:00",
@@ -240,70 +304,6 @@
       "summary": "NVIDIA's introduction of Physical and Agentic AI empowers cities to transform vast data from cameras and sensors into actionable insights, revolutionizing infrastructure planning and public services through advanced digital twin technology and intelligent service agents. This breakthrough not only enhances urban management but also positions local governments to leverage AI for improved efficiency and responsiveness in addressing community needs.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "Apple reports fourth quarter results",
-      "link": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "published_date": "2026-11-02T21:30:04+00:00",
-      "summary": "Apple's fourth-quarter results for fiscal 2026 reveal unprecedented growth, underscoring the company's resilience and innovation in a challenging market, which could set new benchmarks for the tech industry. This performance not only highlights Apple's strategic advancements but also positions it for continued leadership in the global technology landscape.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published_date": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is significantly increasing its Security Bug Bounty rewards and implementing new bonuses for report quality and researcher loyalty, a move that not only incentivizes independent security experts to enhance digital safety but also underscores the company's commitment to robust cybersecurity practices in an increasingly vulnerable tech landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published_date": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is launching a critical internal security sprint in collaboration with Cathedral Systems to leverage AI for enhancing its defenses, marking a significant step in fortifying the organization's resilience against emerging cyber threats. This initiative underscores the growing importance of AI-driven security measures in safeguarding advanced technologies.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "published_date": "2026-11-02T17:45:00+00:00",
-      "summary": "In October 2026, Google AI unveiled groundbreaking advancements in artificial intelligence, showcasing a series of innovative applications that promise to revolutionize industries by enhancing automation, personalization, and decision-making capabilities. This leap forward not only underscores Google's leadership in AI technology but also sets a new standard for the future of intelligent systems across various sectors.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "published_date": "2026-11-02T15:30:00+00:00",
-      "summary": "OpenAI has developed Pando, a groundbreaking Git-compatible backend that enables unprecedented scalability for software development, revolutionizing how teams can leverage Codex to enhance productivity and innovation in coding. This advancement not only streamlines collaboration but also positions OpenAI at the forefront of transforming software engineering practices.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "published_date": "2026-11-02T15:00:00+00:00",
-      "summary": "OpenAI's Grid Protectors Program aims to revolutionize energy management by collaborating with utilities to enhance grid reliability for future computing campuses, ultimately safeguarding consumer electricity costs and promoting sustainable technology growth. This initiative not only addresses the increasing energy demands of advanced computing but also positions OpenAI as a leader in responsible energy consumption within the tech industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s EDA champion buys start-up to address weak link, support Huawei’s Tau Scaling Law",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373005/chinas-eda-champion-buys-start-address-weak-link-support-huaweis-tau-scaling-law",
-      "published_date": "2026-11-02T13:30:12+00:00",
-      "summary": "Empyrean Technology's acquisition of a majority stake in Easy-Logic Technology marks a significant step in China's quest for tech self-sufficiency, directly enhancing support for Huawei's semiconductor initiatives and addressing critical gaps in the electronic design automation sector. This strategic move not only strengthens China's domestic capabilities but also positions it to compete more effectively in the global tech landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s CXMT defends bet on risky new DRAM architecture to circumvent US chip curbs",
-      "link": "https://www.scmp.com/tech/tech-war/article/3372997/chinas-cxmt-defends-bet-risky-new-dram-architecture-circumvent-us-chip-curbs",
-      "published_date": "2026-11-02T11:30:09+00:00",
-      "summary": "China's ChangXin Memory Technologies (CXMT) is boldly advancing a new DRAM architecture to circumvent US chip restrictions, positioning itself as a key player in the global semiconductor landscape and challenging established norms set by rivals like Micron Technology. This move not only underscores the growing technological divide but also highlights the strategic importance of innovation in memory chip design amid escalating geopolitical tensions.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
