@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T11:25:28.140330+00:00",
+  "last_updated": "2026-11-05T05:52:24.370198+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,12 +210,36 @@
       "category": "AI"
     },
     {
+      "title": "China, US defence officials agree to improve ‘communication’ to reduce risks",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3373321/china-us-defence-officials-agree-improve-communication-reduce-risks",
+      "published_date": "2026-11-04T22:08:06+00:00",
+      "summary": "In a significant diplomatic breakthrough, US and Chinese defense officials have established a Crisis Communications and Prevention Working Group aimed at enhancing communication measures to mitigate risks, reflecting a mutual recognition of the need for effective dialogue amid rising tensions between the two superpowers. This initiative is crucial for preventing misunderstandings that could escalate into conflict, underscoring the importance of strategic communication in global security.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "published_date": "2026-11-04T14:30:00+00:00",
+      "summary": "OpenAI's acquisition of Pierre Computer Company, Inc. marks a significant leap in enhancing Codex's capabilities, enabling more sophisticated tools for code development and comprehension, which could revolutionize software engineering and accelerate innovation across the tech industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Like aliens",
       "link": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
       "published_date": "2026-11-04T11:01:00+00:00",
       "summary": "• Miniature worlds serve as living metaphors, revealing the intricate connections within our biosphere.  \n• The fragility of these ecosystems highlights the delicate balance necessary for sustaining life.  \n• Observing these self-contained environments invites reflection on humanity's role in the broader ecological narrative.  \n• These tiny ecosystems challenge our perception of beauty, urging us to appreciate the often-overlooked wonders of nature.  \n• Ultimately, they remind us that every organism, no matter how small, plays a vital part in the tapestry of life.",
       "source": "Aeon Essays",
       "category": "Aeon"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "published_date": "2026-11-04T08:00:00+00:00",
+      "summary": "OpenAI has developed an autonomous pipeline capable of identifying, validating, and generating patches for 948 local privilege-escalation vulnerabilities in the Linux kernel, significantly enhancing system security and reducing potential attack vectors. This breakthrough not only streamlines vulnerability management but also sets a new standard for proactive cybersecurity measures in open-source software.",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
@@ -226,50 +250,10 @@
       "category": "SCMP"
     },
     {
-      "title": "China training Solomon Islands police to use water cannons under security pact",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3373153/china-training-solomon-islands-police-use-water-cannons-under-security-pact",
-      "published_date": "2026-11-04T00:00:19+00:00",
-      "summary": "China's training of Solomon Islands police in the use of water cannons under a controversial security pact signifies a strategic deepening of Beijing's influence in the Pacific, raising concerns among Western nations about regional stability and security dynamics. This development not only enhances the capabilities of local law enforcement but also underscores China's growing footprint in a geopolitically sensitive area.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Redesigned Health app expands language support",
-      "link": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "published_date": "2026-11-03T18:24:58+00:00",
-      "summary": "Apple's redesigned Health app now offers expanded language support, significantly enhancing accessibility and personalization of health insights for millions globally, thereby reinforcing its commitment to inclusive health technology.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-      "published_date": "2026-11-03T16:00:45+00:00",
-      "summary": "NVIDIA reveals that AI is revolutionizing semiconductor fabrication by enabling engineers to navigate increasingly complex manufacturing processes with unprecedented speed and accuracy, a crucial advancement as demand for advanced chips surges and the margin for error diminishes. This breakthrough not only enhances efficiency but also significantly reduces the risk of costly defects in chip production.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Alibaba’s Joe Tsai champions open-source AI at Wuzhen Summit amid US pushback",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3373155/alibabas-joe-tsai-champions-open-source-ai-wuzhen-summit-amid-us-pushback",
-      "published_date": "2026-11-03T12:00:17+00:00",
-      "summary": "Alibaba's chairman Joe Tsai advocates for open-source AI as the key to a sustainable industry, highlighting a significant shift among Chinese tech firms towards collaborative ecosystems amidst rising global demand and geopolitical tensions. This breakthrough emphasizes the potential of open-source frameworks to drive innovation and resilience in the face of increasing regulatory pressures from the US.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China tests wave-piercing stealth trimaran as unconventional naval fleet grows",
-      "link": "https://www.scmp.com/news/china/military/article/3373134/china-tests-wave-piercing-stealth-trimaran-unconventional-naval-fleet-grows",
-      "published_date": "2026-11-03T12:00:12+00:00",
-      "summary": "China's testing of a wave-piercing stealth trimaran signifies a major advancement in naval technology, potentially enhancing its fleet's stealth capabilities and reshaping maritime power dynamics. This innovative design, featuring a unique three-hull structure and radar-evading features, underscores China's commitment to developing unconventional naval platforms that could challenge existing naval strategies.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "published_date": "2026-11-03T12:00:00+00:00",
-      "summary": "OpenAI's ChatGPT and Codex are revolutionizing engineering by streamlining complex workflows in CAD, PCB design, and simulation, significantly enhancing productivity and innovation in the physical world. This breakthrough not only empowers engineers to work faster but also paves the way for more sophisticated designs and solutions in various industries.",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published_date": "2026-11-04T07:00:00+00:00",
+      "summary": "OpenAI's Daybreak Red, now accessible in AWS GovCloud (US-East), introduces the advanced GPT-5.6 Cyber for authorized users, revolutionizing cybersecurity efforts by leveraging cutting-edge AI capabilities within a secure cloud environment. This breakthrough not only enhances the efficiency of cybersecurity operations but also ensures compliance with stringent government regulations.",
       "source": "OpenAI",
       "category": "AI"
     }
