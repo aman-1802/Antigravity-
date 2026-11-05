@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T05:52:24.370198+00:00",
+  "last_updated": "2026-11-05T11:23:14.267588+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,11 +210,59 @@
       "category": "AI"
     },
     {
+      "title": "Their eyes",
+      "link": "https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see",
+      "published_date": "2026-11-05T11:01:00+00:00",
+      "summary": "• The essay explores how low-paid labor in the Global South underpins the technological advancements of the Global North.  \n• It highlights the ethical implications of relying on marginalized workers for the development of automated systems.  \n• The narrative questions the sustainability of a future where human labor is rendered obsolete by machines.  \n• It invites reflection on the interconnectedness of global economies and the hidden costs of progress.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo",
+      "published_date": "2026-11-05T11:00:23+00:00",
+      "summary": "Unitree Robotics has achieved a groundbreaking milestone with its humanoid robots, now capable of painting and playing chess autonomously, leveraging the advanced capabilities of GPT-6 to perform complex tasks without prior training, marking a significant leap in the integration of AI and robotics. This innovation not only showcases the potential for robots to engage in creative and strategic activities but also sets a new standard for autonomous machine learning in real-world applications.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Methodical/mercurial",
+      "link": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+      "published_date": "2026-11-05T11:00:00+00:00",
+      "summary": "• The interplay between order and chaos reveals the duality of human experience, particularly in neurodiverse minds.  \n• Embracing both structure and spontaneity can lead to a richer, more fulfilling life.  \n• The tension between routine and novelty challenges societal norms about productivity and success.  \n• Navigating life with autism and ADHD highlights the beauty of diverse cognitive landscapes and their unique contributions.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
+      "link": "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division",
+      "published_date": "2026-11-05T10:23:53+00:00",
+      "summary": "China's decision to block SoftBank's US$5.4 billion acquisition of ABB's robotics division underscores the country's increasing scrutiny of foreign investments in critical technology sectors, reflecting a broader trend of protectionism that could reshape global investment dynamics. This move not only halts a significant deal but also signals China's intent to safeguard its technological advancements amid rising geopolitical tensions.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "published_date": "2026-11-05T02:00:00+00:00",
+      "summary": "OpenAI's National Community Compact and Compute Campus Policy Blueprint sets a groundbreaking standard for responsible AI infrastructure by prioritizing local resource protection and job creation, ensuring that the development of AI technology aligns with community interests and ethical considerations. This initiative not only addresses immediate societal needs but also paves the way for sustainable and equitable AI advancements.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "China, US defence officials agree to improve ‘communication’ to reduce risks",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3373321/china-us-defence-officials-agree-improve-communication-reduce-risks",
       "published_date": "2026-11-04T22:08:06+00:00",
       "summary": "In a significant diplomatic breakthrough, US and Chinese defense officials have established a Crisis Communications and Prevention Working Group aimed at enhancing communication measures to mitigate risks, reflecting a mutual recognition of the need for effective dialogue amid rising tensions between the two superpowers. This initiative is crucial for preventing misunderstandings that could escalate into conflict, underscoring the importance of strategic communication in global security.",
       "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "How Democratic sweep could slow AI growth in US – and help China’s ambitions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
+      "published_date": "2026-11-04T15:00:08+00:00",
+      "summary": "The Democratic Party's recent electoral success could decelerate artificial intelligence advancements in the US, potentially giving China a strategic advantage in the global tech race and reshaping the dynamics of US-China competition in AI development. This shift underscores the profound influence of political landscapes on technological progress and international relations.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
@@ -226,36 +274,12 @@
       "category": "AI"
     },
     {
-      "title": "Like aliens",
-      "link": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
-      "published_date": "2026-11-04T11:01:00+00:00",
-      "summary": "• Miniature worlds serve as living metaphors, revealing the intricate connections within our biosphere.  \n• The fragility of these ecosystems highlights the delicate balance necessary for sustaining life.  \n• Observing these self-contained environments invites reflection on humanity's role in the broader ecological narrative.  \n• These tiny ecosystems challenge our perception of beauty, urging us to appreciate the often-overlooked wonders of nature.  \n• Ultimately, they remind us that every organism, no matter how small, plays a vital part in the tapestry of life.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "published_date": "2026-11-04T08:00:00+00:00",
-      "summary": "OpenAI has developed an autonomous pipeline capable of identifying, validating, and generating patches for 948 local privilege-escalation vulnerabilities in the Linux kernel, significantly enhancing system security and reducing potential attack vectors. This breakthrough not only streamlines vulnerability management but also sets a new standard for proactive cybersecurity measures in open-source software.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
-      "published_date": "2026-11-04T07:01:09+00:00",
-      "summary": "Tencent's launch of the Hy4 AI model marks a significant advancement in artificial intelligence by introducing visual understanding capabilities, enabling it to process images and perform complex visual reasoning, thereby intensifying competition with leading rivals like DeepSeek and Alibaba in the open-weight AI landscape. This breakthrough not only enhances Tencent's enterprise software ecosystem but also sets a new standard for AI applications across various industries.",
+      "title": "DeepSeek engineer defends push for open-source AGI despite higher risks",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373262/deepseek-engineer-defends-push-open-source-ai-smarter-humans-despite-higher-risks",
+      "published_date": "2026-11-04T12:00:10+00:00",
+      "summary": "DeepSeek is championing open-source artificial intelligence as a means to expedite the development of artificial general intelligence (AGI), despite acknowledging the increased safety risks, a stance that challenges prevailing concerns about national security and safety in both the US and China. This bold approach could redefine the landscape of AI innovation, potentially accelerating breakthroughs while igniting a critical debate on the balance between openness and safety in technology.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published_date": "2026-11-04T07:00:00+00:00",
-      "summary": "OpenAI's Daybreak Red, now accessible in AWS GovCloud (US-East), introduces the advanced GPT-5.6 Cyber for authorized users, revolutionizing cybersecurity efforts by leveraging cutting-edge AI capabilities within a secure cloud environment. This breakthrough not only enhances the efficiency of cybersecurity operations but also ensures compliance with stringent government regulations.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
