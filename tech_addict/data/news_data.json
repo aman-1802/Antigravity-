@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T05:48:41.150265+00:00",
+  "last_updated": "2026-11-06T11:21:49.162437+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,30 @@
       "category": "AI"
     },
     {
+      "title": "Beijing approves giant Long March 9 rocket for deep-space and lunar base runs",
+      "link": "https://www.scmp.com/news/china/science/article/3373578/beijing-approves-giant-long-march-9-rocket-deep-space-and-lunar-base-runs",
+      "published_date": "2026-11-06T11:04:31+00:00",
+      "summary": "Beijing's approval of the Long March 9 rocket marks a significant leap in China's space ambitions, positioning it to rival SpaceX's Starship and enabling deep-space exploration and lunar base development with the most powerful launcher the country has ever constructed. This breakthrough not only enhances China's capabilities in space but also intensifies the global competition in the new space race.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Celestial nuisance",
+      "link": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+      "published_date": "2026-11-06T11:00:00+00:00",
+      "summary": "• The universe, once revered for its chaotic beauty, is now often reduced to mere data points in the pursuit of scientific clarity.  \n• In our quest for understanding, we risk overlooking the profound mysteries that lie within the cosmic disorder.  \n• The interplay between order and chaos in the cosmos reflects the dual nature of existence itself, challenging our perceptions of reality.  \n• Embracing the celestial messiness can lead to deeper philosophical insights about our place in the universe and the nature of knowledge.  \n• Ultimately, the cosmos invites us to ponder not just the answers, but the questions that ignite our curiosity and wonder.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China’s AI chipmakers report first profits, but will the trend continue?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
+      "published_date": "2026-11-06T10:30:06+00:00",
+      "summary": "China's AI chipmakers have achieved a significant milestone by reporting their first profits, signaling a potential shift in the market as they strive to fill the gap left by Nvidia amid stringent US export controls; however, ongoing supply chain challenges and rising memory costs pose serious risks to their future growth.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
       "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "published_date": "2026-11-05T20:00:41+00:00",
@@ -288,54 +312,6 @@
       "summary": "Hua Hong Grace Semiconductor is making a bold move into silicon photonics, positioning itself to leverage this critical technology for AI optical modules and capitalize on the burgeoning global AI infrastructure market. This strategic expansion underscores the growing importance of advanced semiconductor technologies in driving AI innovation.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Their eyes",
-      "link": "https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see",
-      "published_date": "2026-11-05T11:01:00+00:00",
-      "summary": "• The essay explores how low-paid labor in the Global South underpins the technological advancements of the Global North.  \n• It highlights the ethical implications of relying on marginalized workers for the development of automated systems.  \n• The narrative questions the sustainability of a future where human labor is rendered obsolete by machines.  \n• It invites reflection on the interconnectedness of global economies and the hidden costs of progress.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo",
-      "published_date": "2026-11-05T11:00:23+00:00",
-      "summary": "Unitree Robotics has achieved a groundbreaking milestone with its humanoid robots, now capable of painting and playing chess autonomously, leveraging the advanced capabilities of GPT-6 to perform complex tasks without prior training, marking a significant leap in the integration of AI and robotics. This innovation not only showcases the potential for robots to engage in creative and strategic activities but also sets a new standard for autonomous machine learning in real-world applications.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Methodical/mercurial",
-      "link": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
-      "published_date": "2026-11-05T11:00:00+00:00",
-      "summary": "• The interplay between order and chaos reveals the duality of human experience, particularly in neurodiverse minds.  \n• Embracing both structure and spontaneity can lead to a richer, more fulfilling life.  \n• The tension between routine and novelty challenges societal norms about productivity and success.  \n• Navigating life with autism and ADHD highlights the beauty of diverse cognitive landscapes and their unique contributions.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "China proves a cut above with world-first precision laser experiment in space",
-      "link": "https://www.scmp.com/news/china/science/article/3373411/china-proves-cut-above-world-first-precision-laser-experiment-space",
-      "published_date": "2026-11-05T09:59:10+00:00",
-      "summary": "China has achieved a groundbreaking milestone by successfully conducting precision laser cutting in space, utilizing a robotic arm to make millimeter-scale cuts on large-scale equipment aboard the Tiangong space station, a feat that could revolutionize in-orbit manufacturing and maintenance. This advancement not only showcases China's technological prowess but also opens new avenues for future space exploration and construction.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "published_date": "2026-11-05T09:00:00+00:00",
-      "summary": "OpenAI's GPT-6 Cyber represents a groundbreaking advancement in cybersecurity by utilizing AI to identify exploitable vulnerabilities and create targeted fixes while ensuring compliance with authorized parameters, significantly enhancing the effectiveness and safety of digital defense mechanisms. This innovation not only streamlines threat detection but also empowers organizations to proactively safeguard their systems against emerging cyber threats.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "link": "https://openai.com/index/merge-builds-with-openai",
-      "published_date": "2026-11-05T08:00:00+00:00",
-      "summary": "Merge is revolutionizing product and business operations by integrating OpenAI's advanced technologies, including GPT-6 Astra and Codex, to enhance code review, streamline marketing efforts, and optimize executive planning, marking a significant leap in AI-driven efficiency and decision-making for enterprises. This breakthrough not only elevates productivity but also transforms how businesses leverage AI for strategic initiatives.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
