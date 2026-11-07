@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T11:21:49.162437+00:00",
+  "last_updated": "2026-11-07T05:19:29.802646+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,22 @@
       "category": "AI"
     },
     {
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "published_date": "2026-11-06T16:00:35+00:00",
+      "summary": "NVIDIA's open-sourcing of its Aerial wireless software and the Sionna suite is revolutionizing 6G network research by providing a collaborative platform that integrates simulation, AI training, and real-world experimentation, thereby accelerating the development of next-generation wireless technologies. This breakthrough not only enhances the efficiency of research but also fosters innovation through shared knowledge and resources among researchers.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China’s AI models, led by Kimi, dominate open-source enterprise spending",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
+      "published_date": "2026-11-06T13:30:09+00:00",
+      "summary": "Chinese AI models, particularly the Kimi family from Moonshot AI, have surged to dominate global enterprise spending on open-source systems, capturing an astonishing 89% of the market despite US competitors holding the majority of overall revenue, highlighting a significant shift in the landscape of AI investment and innovation. This breakthrough underscores the growing influence and capabilities of Chinese technology in the global AI arena.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Beijing approves giant Long March 9 rocket for deep-space and lunar base runs",
       "link": "https://www.scmp.com/news/china/science/article/3373578/beijing-approves-giant-long-march-9-rocket-deep-space-and-lunar-base-runs",
       "published_date": "2026-11-06T11:04:31+00:00",
@@ -234,84 +250,12 @@
       "category": "SCMP"
     },
     {
-      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-      "published_date": "2026-11-05T20:00:41+00:00",
-      "summary": "NVIDIA's Vera breakthrough combines unparalleled throughput with the fastest AI agents, revolutionizing how businesses deploy AI by seamlessly integrating CPU execution and GPU reasoning, thus optimizing performance across complex tasks. This advancement not only enhances operational efficiency but also positions companies to leverage AI capabilities at an unprecedented scale.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "published_date": "2026-11-05T20:00:00+00:00",
-      "summary": "Cult.fit is revolutionizing its operational efficiency by leveraging OpenAI's Codex, enabling teams to rapidly develop customized tools that transform workflows and enhance productivity across the organization. This breakthrough not only accelerates project timelines but also empowers employees to innovate and collaborate more effectively.",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "published_date": "2026-11-06T08:00:00+00:00",
+      "summary": "OpenAI's collaboration with Hacktron marks a significant breakthrough in cybersecurity, as it aims to proactively identify vulnerabilities and enhance defenses against potential threats in frontier AI systems, ensuring robust protection for its technologies and users. This partnership underscores the critical importance of security in the rapidly evolving landscape of artificial intelligence.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "Chinese scientists chill atoms to record low on Tiangong space station",
-      "link": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station",
-      "published_date": "2026-11-05T19:00:07+00:00",
-      "summary": "Chinese scientists aboard the Tiangong space station have achieved a groundbreaking milestone by cooling rubidium atoms to the lowest temperature ever recorded, surpassing previous records and setting the stage for ultra-precise space sensors that could revolutionize mineral detection, climate monitoring, and the testing of fundamental physics theories like Einstein's gravity.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "published_date": "2026-11-05T17:00:35+00:00",
-      "summary": "NVIDIA's integration of frontier AI models with the Omniverse platform revolutionizes the development of simulations by enabling developers to efficiently create and refine applications for scenario exploration, failure analysis, and design enhancement, thereby accelerating innovation across industries. This breakthrough not only streamlines the simulation process but also empowers creators to push the boundaries of virtual environments and applications.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "published_date": "2026-11-05T17:00:00+00:00",
-      "summary": "Australian universities are pioneering the integration of AI tools like ChatGPT into their educational frameworks, equipping students with essential skills for a future dominated by artificial intelligence, thereby ensuring they are not just consumers of technology but adept creators and innovators in an AI-driven economy. This initiative is crucial as it addresses the urgent need for a workforce that can thrive in an increasingly automated and intelligent world.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "published_date": "2026-11-05T17:00:00+00:00",
-      "summary": "Google AI's Gemini Omni 1.2 Flash revolutionizes content creation by delivering faster, cost-effective solutions for generating longer video clips, significantly enhancing the efficiency and accessibility of multimedia production. This breakthrough not only streamlines the creative process but also empowers users to produce high-quality content at unprecedented speeds.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-      "published_date": "2026-11-05T16:00:05+00:00",
-      "summary": "Chris Alexiuk is revolutionizing the accessibility of AI by championing open-source large language models, empowering developers to harness cutting-edge technology with unprecedented ease. This shift not only democratizes AI development but also accelerates innovation across industries, making advanced tools available to a broader audience.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-      "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-      "published_date": "2026-11-05T16:00:00+00:00",
-      "summary": "NVIDIA's innovative full-stack codesign approach addresses the escalating memory demands of AI by integrating cutting-edge HBM3e and HBM4 technologies, ensuring enhanced performance and efficiency in the face of tightening supply and rising costs. This breakthrough not only alleviates GPU memory pressure but also positions NVIDIA at the forefront of AI advancements, crucial for supporting larger models and complex applications.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "published_date": "2026-11-05T14:00:34+00:00",
-      "summary": "NVIDIA's DLSS 5 upgrade for Hogwarts Legacy introduces groundbreaking 3D-Guided Neural Rendering, enhancing the game's visual fidelity with lifelike lighting and materials, a significant leap in immersive gaming experiences on GeForce NOW. This advancement not only elevates the wizarding world but also sets a new standard for real-time graphics in cloud gaming.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Chinese chipmaker Hua Hong bets big on silicon photonics amid AI boom",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373445/chinese-chipmaker-hua-hong-bets-big-silicon-photonics-amid-ai-boom",
-      "published_date": "2026-11-05T13:27:39+00:00",
-      "summary": "Hua Hong Grace Semiconductor is making a bold move into silicon photonics, positioning itself to leverage this critical technology for AI optical modules and capitalize on the burgeoning global AI infrastructure market. This strategic expansion underscores the growing importance of advanced semiconductor technologies in driving AI innovation.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
