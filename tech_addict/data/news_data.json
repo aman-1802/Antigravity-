@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T05:19:29.802646+00:00",
+  "last_updated": "2026-11-07T10:35:39.703559+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -240,22 +240,6 @@
       "summary": "• The universe, once revered for its chaotic beauty, is now often reduced to mere data points in the pursuit of scientific clarity.  \n• In our quest for understanding, we risk overlooking the profound mysteries that lie within the cosmic disorder.  \n• The interplay between order and chaos in the cosmos reflects the dual nature of existence itself, challenging our perceptions of reality.  \n• Embracing the celestial messiness can lead to deeper philosophical insights about our place in the universe and the nature of knowledge.  \n• Ultimately, the cosmos invites us to ponder not just the answers, but the questions that ignite our curiosity and wonder.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "China’s AI chipmakers report first profits, but will the trend continue?",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
-      "published_date": "2026-11-06T10:30:06+00:00",
-      "summary": "China's AI chipmakers have achieved a significant milestone by reporting their first profits, signaling a potential shift in the market as they strive to fill the gap left by Nvidia amid stringent US export controls; however, ongoing supply chain challenges and rising memory costs pose serious risks to their future growth.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "published_date": "2026-11-06T08:00:00+00:00",
-      "summary": "OpenAI's collaboration with Hacktron marks a significant breakthrough in cybersecurity, as it aims to proactively identify vulnerabilities and enhance defenses against potential threats in frontier AI systems, ensuring robust protection for its technologies and users. This partnership underscores the critical importance of security in the rapidly evolving landscape of artificial intelligence.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
