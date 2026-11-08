@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T10:35:39.703559+00:00",
+  "last_updated": "2026-11-08T05:17:01.808676+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,36 +210,12 @@
       "category": "AI"
     },
     {
-      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-      "published_date": "2026-11-06T16:00:35+00:00",
-      "summary": "NVIDIA's open-sourcing of its Aerial wireless software and the Sionna suite is revolutionizing 6G network research by providing a collaborative platform that integrates simulation, AI training, and real-world experimentation, thereby accelerating the development of next-generation wireless technologies. This breakthrough not only enhances the efficiency of research but also fosters innovation through shared knowledge and resources among researchers.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China’s AI models, led by Kimi, dominate open-source enterprise spending",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
-      "published_date": "2026-11-06T13:30:09+00:00",
-      "summary": "Chinese AI models, particularly the Kimi family from Moonshot AI, have surged to dominate global enterprise spending on open-source systems, capturing an astonishing 89% of the market despite US competitors holding the majority of overall revenue, highlighting a significant shift in the landscape of AI investment and innovation. This breakthrough underscores the growing influence and capabilities of Chinese technology in the global AI arena.",
-      "source": "SCMP Tech",
+      "title": "US and China must join hands to measure rising AI tide",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3373279/us-and-china-must-join-hands-measure-rising-ai-tide",
+      "published_date": "2026-11-07T08:30:05+00:00",
+      "summary": "The upcoming US-China talks on artificial intelligence highlight a critical need for both nations to establish a unified framework for measuring AI advancements, as their collaboration could dictate the future trajectory of this transformative technology and its global implications. This breakthrough in dialogue is essential for fostering responsible innovation and addressing the challenges posed by rapid AI development.",
+      "source": "SCMP China Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Beijing approves giant Long March 9 rocket for deep-space and lunar base runs",
-      "link": "https://www.scmp.com/news/china/science/article/3373578/beijing-approves-giant-long-march-9-rocket-deep-space-and-lunar-base-runs",
-      "published_date": "2026-11-06T11:04:31+00:00",
-      "summary": "Beijing's approval of the Long March 9 rocket marks a significant leap in China's space ambitions, positioning it to rival SpaceX's Starship and enabling deep-space exploration and lunar base development with the most powerful launcher the country has ever constructed. This breakthrough not only enhances China's capabilities in space but also intensifies the global competition in the new space race.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Celestial nuisance",
-      "link": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
-      "published_date": "2026-11-06T11:00:00+00:00",
-      "summary": "• The universe, once revered for its chaotic beauty, is now often reduced to mere data points in the pursuit of scientific clarity.  \n• In our quest for understanding, we risk overlooking the profound mysteries that lie within the cosmic disorder.  \n• The interplay between order and chaos in the cosmos reflects the dual nature of existence itself, challenging our perceptions of reality.  \n• Embracing the celestial messiness can lead to deeper philosophical insights about our place in the universe and the nature of knowledge.  \n• Ultimately, the cosmos invites us to ponder not just the answers, but the questions that ignite our curiosity and wonder.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
