@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T05:29:19.204811+00:00",
+  "last_updated": "2026-11-09T11:58:32.611862+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,38 @@
       "category": "AI"
     },
     {
+      "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems",
+      "published_date": "2026-11-09T11:32:21+00:00",
+      "summary": "China is shifting its AI focus from general large language models to specialized systems aimed at tackling real-world industrial challenges, potentially revolutionizing how industries leverage data for efficiency and innovation. This strategic pivot could position China at the forefront of the next wave of AI advancements, emphasizing practical applications over broad capabilities.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "A trip to upside-down world",
+      "link": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world",
+      "published_date": "2026-11-09T11:01:00+00:00",
+      "summary": "• The essay invites readers to explore unconventional perspectives, challenging the rigidity of traditional views.  \n• It emphasizes the transformative power of imagination in perceiving art and reality.  \n• By embracing absurdity, we can unlock deeper meanings hidden within familiar contexts.  \n• The playful elements serve as metaphors for the fluidity of understanding and interpretation.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Equality talk",
+      "link": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+      "published_date": "2026-11-09T11:00:00+00:00",
+      "summary": "• The summer of 1646 marked a pivotal moment in the conceptualization of equality, reshaping societal structures and relationships.  \n• The philosophical discourse surrounding equality continues to evolve, revealing the complexities and contradictions inherent in its application.  \n• Historical contexts illuminate how the pursuit of equality often intersects with power dynamics and social hierarchies.  \n• The ongoing dialogue about equality challenges us to reflect on our values and the implications of our beliefs in contemporary society.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "published_date": "2026-11-09T08:00:53+00:00",
+      "summary": "NVIDIA's strategic investment in Korean startups, unveiled at the MSIT-NVIDIA AI Startup Partnership Forum, signifies a pivotal commitment to advancing AI innovation in Korea, particularly in foundational models and AI infrastructure, which could reshape the global tech landscape. This partnership not only bolsters local entrepreneurship but also positions NVIDIA at the forefront of the rapidly evolving AI ecosystem in Asia.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
       "title": "Korea Advances Physical AI Across Industries With NVIDIA",
       "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
       "published_date": "2026-11-09T05:00:40+00:00",
@@ -240,22 +272,6 @@
       "summary": "NVIDIA's release of Dynamo-optimized deployment recipes for Korea's top open models marks a significant advancement in AI scalability, enabling complex models to be efficiently distributed across multiple GPUs and enhancing production capabilities for leading tech companies. This breakthrough not only streamlines the deployment process but also positions Korea at the forefront of AI innovation.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
-      "published_date": "2026-11-08T10:22:27+00:00",
-      "summary": "Tencent's chief AI scientist warns that the imminent mastery of biology by artificial intelligence could revolutionize drug discovery and medical treatments, but it also poses significant safety risks as malicious actors may exploit these advanced technologies for harmful purposes.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids",
-      "published_date": "2026-11-08T09:00:28+00:00",
-      "summary": "Pudu Robotics is poised to disrupt the humanoid robot market, challenging Tesla's dominance as it expands its manufacturing capabilities in Europe, which could redefine the competitive landscape and accelerate innovation in commercial robotics. This strategic move underscores the growing significance of humanoid technology in global markets, highlighting Pudu's ambition to lead in a sector that promises transformative applications across various industries.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
