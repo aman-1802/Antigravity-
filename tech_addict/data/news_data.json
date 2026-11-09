@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T10:40:54.459736+00:00",
+  "last_updated": "2026-11-09T05:29:19.204811+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -208,6 +208,46 @@
       "summary": "Anthropic has unveiled significant advancements in AI safety and alignment, showcasing their commitment to developing robust and responsible AI systems that prioritize ethical considerations, which is crucial as the technology becomes increasingly integrated into everyday life and decision-making processes. This breakthrough not only enhances the reliability of AI applications but also sets a new standard for the industry, emphasizing the importance of aligning AI behavior with human values.",
       "source": "Anthropic",
       "category": "AI"
+    },
+    {
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "published_date": "2026-11-09T05:00:40+00:00",
+      "summary": "NVIDIA is propelling Korea's physical AI revolution by integrating advanced computing and simulation technologies across key industries, including semiconductor manufacturing and robotics, thereby transforming innovative concepts into tangible production capabilities that could redefine global manufacturing standards. This breakthrough not only enhances Korea's industrial competitiveness but also sets a precedent for the future of AI applications in real-world scenarios.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "published_date": "2026-11-09T05:00:39+00:00",
+      "summary": "NVIDIA is revolutionizing Korea's AI landscape by providing advanced open models and security frameworks, enabling companies like Hyundai Motor Group and AIM Intelligence to develop secure AI agents that enhance productivity and streamline enterprise workflows. This breakthrough not only accelerates the adoption of AI in various sectors but also ensures that these intelligent systems operate safely and efficiently in a rapidly evolving technological environment.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "published_date": "2026-11-09T05:00:04+00:00",
+      "summary": "NVIDIA and Korea are significantly enhancing their partnership to develop a comprehensive sovereign AI ecosystem, which will not only advance AI semiconductor technology and infrastructure but also foster local talent and startups, positioning Korea as a key player in the global AI landscape. This collaboration is crucial as it empowers Korean companies to integrate into NVIDIA's advanced NVLink Fusion ecosystem, driving innovation and competitiveness in AI.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "published_date": "2026-11-09T05:00:00+00:00",
+      "summary": "NVIDIA's release of Dynamo-optimized deployment recipes for Korea's top open models marks a significant advancement in AI scalability, enabling complex models to be efficiently distributed across multiple GPUs and enhancing production capabilities for leading tech companies. This breakthrough not only streamlines the deployment process but also positions Korea at the forefront of AI innovation.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+      "published_date": "2026-11-08T10:22:27+00:00",
+      "summary": "Tencent's chief AI scientist warns that the imminent mastery of biology by artificial intelligence could revolutionize drug discovery and medical treatments, but it also poses significant safety risks as malicious actors may exploit these advanced technologies for harmful purposes.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
