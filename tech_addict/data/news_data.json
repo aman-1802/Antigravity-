@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T11:58:32.611862+00:00",
+  "last_updated": "2026-11-10T06:39:43.804152+00:00",
   "articles": [
     {
       "title": "Introducing the Life Sciences Verification Program",
@@ -210,6 +210,62 @@
       "category": "AI"
     },
     {
+      "title": "As 1 mainland Chinese chip IPO soars, another stumbles in busy Hong Kong week",
+      "link": "https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week",
+      "published_date": "2026-11-10T05:00:23+00:00",
+      "summary": "In a striking contrast, Suzhou Denglin Technology's IPO in Hong Kong raised HK$1.4 billion but saw its shares plummet by 8.6%, highlighting the volatile nature of investor sentiment in the semiconductor sector despite an uptick in new listings. This divergence underscores the challenges faced by chip suppliers in capturing market confidence amid fluctuating demand.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Nvidia scandal may test fragile US-China truce, experts say",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3373859/nvidia-scandal-may-test-fragile-us-china-truce-experts-say",
+      "published_date": "2026-11-10T00:32:25+00:00",
+      "summary": "The Nvidia scandal could significantly strain the delicate US-China truce, as rising pressures in Washington for stricter semiconductor export controls coincide with a critical diplomatic meeting between President Trump and President Xi Jinping, potentially reshaping the future of tech collaboration and geopolitical relations.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "US Congress ramps up pressure on Nvidia’s Jensen Huang over alleged China spy links",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3373853/us-congress-ramps-pressure-nvidias-jensen-huang-over-alleged-china-spy-links",
+      "published_date": "2026-11-09T22:17:04+00:00",
+      "summary": "The US Congress is intensifying scrutiny on Nvidia CEO Jensen Huang due to his connections with a businesswoman suspected of espionage for China, raising critical concerns about national security and prompting an independent investigation by Nvidia's board. This situation underscores the growing tension between technological innovation and geopolitical risks, highlighting the urgent need for transparency in corporate governance within the tech industry.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published_date": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise's availability in the AWS Marketplace revolutionizes organizational procurement by streamlining access to advanced AI capabilities through established AWS purchasing systems, significantly enhancing efficiency and integration for businesses. This breakthrough not only simplifies the acquisition process but also positions ChatGPT as a pivotal tool for enterprises looking to leverage cutting-edge technology seamlessly.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
+      "link": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+      "published_date": "2026-11-09T15:59:09+00:00",
+      "summary": "Apple Music has crowned Olivia Dean as its 2026 Artist of the Year, highlighting her meteoric rise in the music industry and solidifying her status as a transformative force in contemporary music. This recognition not only underscores her artistic impact but also signals a shift in listener preferences towards fresh, innovative talent.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "published_date": "2026-11-09T14:00:01+00:00",
+      "summary": "NVIDIA and its partners have unveiled a groundbreaking approach at CoRL that leverages advanced simulation techniques to enable robots to master delicate manipulation tasks, marking a significant shift from traditional locomotion training. This breakthrough not only enhances robotic precision in complex assembly processes but also paves the way for more sophisticated applications in industries requiring intricate handling.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "published_date": "2026-11-09T13:00:00+00:00",
+      "summary": "OpenAI's Control Room represents a groundbreaking advancement in AI safety by providing a centralized system that monitors and can swiftly halt model workloads, ensuring robust oversight and rapid response to potential security threats in research environments. This innovation is crucial for maintaining ethical standards and protecting against the risks associated with advanced AI systems.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
       "link": "https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems",
       "published_date": "2026-11-09T11:32:21+00:00",
@@ -242,36 +298,28 @@
       "category": "AI"
     },
     {
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-      "published_date": "2026-11-09T05:00:40+00:00",
-      "summary": "NVIDIA is propelling Korea's physical AI revolution by integrating advanced computing and simulation technologies across key industries, including semiconductor manufacturing and robotics, thereby transforming innovative concepts into tangible production capabilities that could redefine global manufacturing standards. This breakthrough not only enhances Korea's industrial competitiveness but also sets a precedent for the future of AI applications in real-world scenarios.",
-      "source": "NVIDIA",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published_date": "2026-11-09T08:00:00+00:00",
+      "summary": "CodeRabbit revolutionizes software development by leveraging OpenAI models to ensure the reliability of AI-generated code, enabling engineering teams to produce 20 times more software than before, significantly enhancing productivity and innovation in the tech industry. This breakthrough not only streamlines the development process but also sets a new standard for efficiency in coding practices.",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-      "published_date": "2026-11-09T05:00:39+00:00",
-      "summary": "NVIDIA is revolutionizing Korea's AI landscape by providing advanced open models and security frameworks, enabling companies like Hyundai Motor Group and AIM Intelligence to develop secure AI agents that enhance productivity and streamline enterprise workflows. This breakthrough not only accelerates the adoption of AI in various sectors but also ensures that these intelligent systems operate safely and efficiently in a rapidly evolving technological environment.",
-      "source": "NVIDIA",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "link": "https://openai.com/index/kuken",
+      "published_date": "2026-11-09T08:00:00+00:00",
+      "summary": "Kuken Industries has revolutionized its engineering processes by leveraging the OpenAI API to search through 70 years of cooling tower drawings in just minutes, drastically reducing the time needed to locate crucial repair documents from nearly an hour to only 4.5 minutes. This breakthrough not only enhances operational efficiency but also underscores the transformative potential of AI in streamlining complex industrial workflows.",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-      "published_date": "2026-11-09T05:00:04+00:00",
-      "summary": "NVIDIA and Korea are significantly enhancing their partnership to develop a comprehensive sovereign AI ecosystem, which will not only advance AI semiconductor technology and infrastructure but also foster local talent and startups, positioning Korea as a key player in the global AI landscape. This collaboration is crucial as it empowers Korean companies to integrate into NVIDIA's advanced NVLink Fusion ecosystem, driving innovation and competitiveness in AI.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-      "published_date": "2026-11-09T05:00:00+00:00",
-      "summary": "NVIDIA's release of Dynamo-optimized deployment recipes for Korea's top open models marks a significant advancement in AI scalability, enabling complex models to be efficiently distributed across multiple GPUs and enhancing production capabilities for leading tech companies. This breakthrough not only streamlines the deployment process but also positions Korea at the forefront of AI innovation.",
-      "source": "NVIDIA",
-      "category": "AI"
+      "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
+      "published_date": "2026-11-09T07:00:04+00:00",
+      "summary": "DeepSeek's Harness AI agent framework has surged to 1.54 million daily active users in under three months, signaling a formidable challenge to established players like OpenAI and Anthropic, as it rapidly gains traction in the competitive AI landscape. This explosive growth, with users consuming an astounding 92 trillion tokens daily, underscores the potential for significant shifts in the market dynamics between Chinese and American AI innovators.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     }
   ]
 }
