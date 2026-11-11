@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-10T11:33:56.457255+00:00",
+  "last_updated": "2026-11-11T05:26:29.017791+00:00",
   "articles": [
     {
-      "title": "Introducing the Life Sciences Verification Program",
-      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "published_date": "2026-10-21T03:57:47.715016+00:00",
-      "summary": "Anthropic has launched the Life Sciences Verification Program, a groundbreaking initiative designed to enhance the reliability and safety of AI applications in the life sciences sector, which is crucial for advancing medical research and improving patient outcomes. This program not only sets a new standard for AI accountability but also addresses critical ethical concerns, positioning Anthropic at the forefront of responsible AI innovation in healthcare.",
-      "source": "Anthropic",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "summary": "Gilbert + Tobin is revolutionizing the legal industry by integrating AI into its business model, enhancing efficiency and redefining how legal services are delivered, which could set a new standard for law firms globally. This breakthrough not only promises to streamline operations but also positions the firm at the forefront of innovation in a traditionally conservative sector.",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -178,6 +178,14 @@
       "category": "AI"
     },
     {
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/roadshow-launch",
+      "published_date": "2026-11-11T05:26:16.055603+00:00",
+      "summary": "Anthropic has initiated a roadshow for its proposed initial public offering, signaling a significant step towards becoming a publicly traded entity in the competitive AI landscape, which could reshape investor dynamics and accelerate funding for innovative AI technologies. This move underscores the growing importance of AI companies in the financial markets and their potential to drive future technological advancements.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
       "title": "Features",
       "link": "https://www.anthropic.com/news/features",
       "published_date": "2026-10-21T03:57:47.714401+00:00",
@@ -210,6 +218,78 @@
       "category": "AI"
     },
     {
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "published_date": "2026-11-11T03:00:20+00:00",
+      "summary": "NVIDIA's breakthrough in Vision AI and robotics enables recyclers to efficiently identify and recover valuable materials from mixed waste streams, significantly reducing landfill contributions and promoting a more sustainable circular economy. This innovative technology not only enhances recycling processes but also underscores the critical role of AI in addressing environmental challenges.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "published_date": "2026-11-10T19:00:00+00:00",
+      "summary": "Google AI's Gemini Intelligence introduces groundbreaking features across a wider array of devices, revolutionizing user interaction by seamlessly integrating advanced AI capabilities into everyday technology, thereby enhancing productivity and accessibility for millions.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Apple TV introduces new Sign Language interpretation feature",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+      "published_date": "2026-11-10T16:00:26+00:00",
+      "summary": "Apple's introduction of a sign language interpretation feature on the Apple TV app marks a significant breakthrough in accessibility, enabling a more inclusive viewing experience for the deaf and hard-of-hearing community by providing real-time interpretation for supported titles. This innovation not only enhances content accessibility but also sets a new standard for inclusivity in digital media consumption.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "published_date": "2026-11-10T16:00:03+00:00",
+      "summary": "NVIDIA is significantly enhancing its open source commitment by donating OpenShell and expanding its AI infrastructure, a move that underscores the critical role of Kubernetes in managing the increasing demands of AI applications across vast networks. This initiative not only strengthens the open source ecosystem but also positions NVIDIA as a pivotal player in the future of AI development and deployment.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
+      "link": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
+      "published_date": "2026-11-10T14:59:45+00:00",
+      "summary": "Apple Arcade is set to enhance its holiday offerings with the addition of Football Manager 27 Touch and four other new games, marking a significant expansion that caters to diverse gaming preferences and solidifying its position in the competitive gaming market. This breakthrough not only enriches the platform's content but also underscores Apple's commitment to delivering high-quality gaming experiences to its subscribers.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373977/adding-fuel-fire-how-nvidia-ceos-troubles-us-midterms-may-tighten-china-chip-curbs",
+      "published_date": "2026-11-10T14:30:22+00:00",
+      "summary": "The allegations against Nvidia CEO Jensen Huang could catalyze a significant escalation in U.S. semiconductor restrictions on China, as political momentum from the recent midterm elections may empower Congress to close loopholes and intensify efforts against chip smuggling, thereby reshaping the global tech landscape. This development underscores the intersection of geopolitics and technology, highlighting the potential for heightened tensions and economic ramifications in the semiconductor industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published_date": "2026-11-10T14:00:00+00:00",
+      "summary": "Google and Adobe's groundbreaking partnership is set to revolutionize productivity by seamlessly integrating Adobe's creative tools into everyday Google apps, enabling users to edit PDFs directly in Drive and leverage Adobe's AI capabilities within Gemini, thereby enhancing workflow efficiency and creativity.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published_date": "2026-11-10T13:00:00+00:00",
+      "summary": "Google Cloud's launch of Gemini for healthcare represents a significant breakthrough in unifying clinical data and automating workflows, aiming to alleviate administrative burnout and enhance operational efficiency in the healthcare sector. This innovation could transform how healthcare providers manage data, ultimately improving patient care and outcomes.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published_date": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI Academy is revolutionizing caregiving by offering free, hands-on ChatGPT workshops in five U.S. cities, empowering caregivers with essential AI skills that enhance their daily lives and improve the quality of care they provide. This initiative not only democratizes access to advanced technology but also addresses the pressing need for innovative support in the caregiving community.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "US lawmakers push for tougher China export controls in defence bill amid Nvidia scrutiny",
       "link": "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
       "published_date": "2026-11-10T11:30:06+00:00",
@@ -226,6 +306,14 @@
       "category": "Aeon"
     },
     {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published_date": "2026-11-10T10:00:00+00:00",
+      "summary": "OpenAI's introduction of business management features in ChatGPT revolutionizes how companies engage with customers by allowing them to manage their information and gain actionable insights, ultimately transforming user interest into tangible business outcomes. This breakthrough not only enhances customer interaction but also positions ChatGPT as a vital tool for businesses seeking to leverage AI for growth and efficiency.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Closing the AI guidance gap in education",
       "link": "https://openai.com/index/closing-ai-guidance-gap-education",
       "published_date": "2026-11-10T09:00:00+00:00",
@@ -234,50 +322,10 @@
       "category": "AI"
     },
     {
-      "title": "Nvidia scandal may test fragile US-China truce, experts say",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3373859/nvidia-scandal-may-test-fragile-us-china-truce-experts-say",
-      "published_date": "2026-11-10T00:32:25+00:00",
-      "summary": "The Nvidia scandal could significantly strain the delicate US-China truce, as rising pressures in Washington for stricter semiconductor export controls coincide with a critical diplomatic meeting between President Trump and President Xi Jinping, potentially reshaping the future of tech collaboration and geopolitical relations.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "US Congress ramps up pressure on Nvidia’s Jensen Huang over alleged China spy links",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3373853/us-congress-ramps-pressure-nvidias-jensen-huang-over-alleged-china-spy-links",
-      "published_date": "2026-11-09T22:17:04+00:00",
-      "summary": "The US Congress is intensifying scrutiny on Nvidia CEO Jensen Huang due to his connections with a businesswoman suspected of espionage for China, raising critical concerns about national security and prompting an independent investigation by Nvidia's board. This situation underscores the growing tension between technological innovation and geopolitical risks, highlighting the urgent need for transparency in corporate governance within the tech industry.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "published_date": "2026-11-09T19:00:00+00:00",
-      "summary": "ChatGPT Enterprise's availability in the AWS Marketplace revolutionizes organizational procurement by streamlining access to advanced AI capabilities through established AWS purchasing systems, significantly enhancing efficiency and integration for businesses. This breakthrough not only simplifies the acquisition process but also positions ChatGPT as a pivotal tool for enterprises looking to leverage cutting-edge technology seamlessly.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
-      "link": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
-      "published_date": "2026-11-09T15:59:09+00:00",
-      "summary": "Apple Music has crowned Olivia Dean as its 2026 Artist of the Year, highlighting her meteoric rise in the music industry and solidifying her status as a transformative force in contemporary music. This recognition not only underscores her artistic impact but also signals a shift in listener preferences towards fresh, innovative talent.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-      "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-      "published_date": "2026-11-09T14:00:01+00:00",
-      "summary": "NVIDIA and its partners have unveiled a groundbreaking approach at CoRL that leverages advanced simulation techniques to enable robots to master delicate manipulation tasks, marking a significant shift from traditional locomotion training. This breakthrough not only enhances robotic precision in complex assembly processes but also paves the way for more sophisticated applications in industries requiring intricate handling.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "link": "https://openai.com/index/control-room",
-      "published_date": "2026-11-09T13:00:00+00:00",
-      "summary": "OpenAI's Control Room represents a groundbreaking advancement in AI safety by providing a centralized system that monitors and can swiftly halt model workloads, ensuring robust oversight and rapid response to potential security threats in research environments. This innovation is crucial for maintaining ethical standards and protecting against the risks associated with advanced AI systems.",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published_date": "2026-11-10T07:00:00+00:00",
+      "summary": "OpenAI and Upwork's groundbreaking research reveals a transformative shift in freelance work dynamics, highlighting an increased demand for AI-related skills and larger budgets, which underscores the growing importance of AI in reshaping the future of work. This evolution not only signifies a lucrative opportunity for freelancers but also indicates a pivotal moment in the integration of AI across industries.",
       "source": "OpenAI",
       "category": "AI"
     }
