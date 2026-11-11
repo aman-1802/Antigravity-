@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T05:26:29.017791+00:00",
+  "last_updated": "2026-11-11T11:21:44.303256+00:00",
   "articles": [
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -218,6 +218,54 @@
       "category": "AI"
     },
     {
+      "title": "Decoding Ediacaran fossils",
+      "link": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
+      "published_date": "2026-11-11T11:01:00+00:00",
+      "summary": "• Ediacaran fossils serve as a window into the dawn of animal movement, illustrating a pivotal evolutionary transition.  \n• These ancient organisms challenge our understanding of complexity, blurring the lines between plant and animal life.  \n• The discovery of 'handedness' in these fossils hints at the emergence of asymmetry in early life forms, a precursor to later evolutionary developments.  \n• Studying these remnants invites us to reconsider the narrative of evolution, emphasizing the gradual unfolding of biological innovation.  \n• The Ediacaran period underscores the interconnectedness of life, revealing a tapestry of existence that predates conventional animal history.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374090/amid-nvidia-saga-t-head-ipo-crucial-test-alibaba-and-chinas-ai-ambitions",
+      "published_date": "2026-11-11T10:31:02+00:00",
+      "summary": "Alibaba's upcoming IPO of its semiconductor design arm, T-Head, represents a pivotal moment for China's AI ambitions, potentially unlocking billions in value and redefining the landscape of artificial intelligence hardware amid the ongoing Nvidia saga. This move not only tests the market's perception of Alibaba's overall worth but also signals a significant step in the competitive global tech arena.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
+      "link": "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
+      "published_date": "2026-11-11T09:19:59+00:00",
+      "summary": "Alibaba is set to launch an IPO for its chip-design unit T-Head in Hong Kong, aiming to secure funding for its ambitious AI initiatives despite a cooling market, highlighting the company's commitment to advancing its technological capabilities in a competitive landscape. This move underscores the growing importance of semiconductor technology in driving AI innovation and maintaining a competitive edge in the tech industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "published_date": "2026-11-11T09:00:00+00:00",
+      "summary": "Google AI's latest initiative showcases the artistic legacy of Dr. Esther Mahlangu, highlighting her profound impact on cultural heritage through innovative digital experiences, which underscores the importance of preserving and celebrating diverse artistic traditions in a rapidly evolving technological landscape.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published_date": "2026-11-11T08:00:00+00:00",
+      "summary": "OpenAI's initiative to offer a free year of ChatGPT Plus to over 20,000 veterans and transitioning service members is a groundbreaking move that empowers these individuals to leverage advanced AI for career preparation, significantly enhancing their transition to civilian life. This innovative support not only aids in skill development but also underscores the potential of AI in addressing the unique challenges faced by veterans in the job market.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and Anthropic’s AI race",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374037/what-taiwanese-chip-giant-tsmc-gains-taking-stakes-openai-and-anthropics-ai-race",
+      "published_date": "2026-11-11T07:30:21+00:00",
+      "summary": "TSMC's strategic investment of up to $1.5 billion in OpenAI and Anthropic positions the semiconductor giant at the forefront of the AI revolution, ensuring it capitalizes on the surging demand for advanced chips that power cutting-edge artificial intelligence technologies. This bold move not only strengthens TSMC's financial ties to leading AI innovators but also solidifies its role as a critical player in shaping the future of AI development.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "published_date": "2026-11-11T03:00:20+00:00",
@@ -296,38 +344,6 @@
       "summary": "US lawmakers are intensifying efforts to implement stringent export controls on China, fueled by allegations of espionage linked to Nvidia's CEO, highlighting a critical intersection of national security and corporate governance that could reshape the tech landscape and US-China relations.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "The wholehearted life",
-      "link": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
-      "published_date": "2026-11-10T11:00:00+00:00",
-      "summary": "• Roshi Joan Halifax embodies the essence of a wholehearted life through her unwavering commitment to compassion and service.  \n• Her reflections reveal that true fulfillment arises from embracing vulnerability and the interconnectedness of all beings.  \n• Halifax emphasizes the importance of facing mortality, suggesting that awareness of death enriches our appreciation of life.  \n• The journey of self-discovery is marked by both grit and grace, illustrating the transformative power of adversity.  \n• Ultimately, Halifax's teachings inspire a deeper understanding of love as a radical act that transcends personal boundaries.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published_date": "2026-11-10T10:00:00+00:00",
-      "summary": "OpenAI's introduction of business management features in ChatGPT revolutionizes how companies engage with customers by allowing them to manage their information and gain actionable insights, ultimately transforming user interest into tangible business outcomes. This breakthrough not only enhances customer interaction but also positions ChatGPT as a vital tool for businesses seeking to leverage AI for growth and efficiency.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published_date": "2026-11-10T09:00:00+00:00",
-      "summary": "OpenAI's latest initiative addresses the critical AI guidance gap in education by leveraging insights from its EMEA partnerships and new research from ThinkYoung, empowering teachers and enhancing AI literacy to foster independent learning among students. This breakthrough is pivotal as it equips educators with the tools necessary to navigate the complexities of AI, ultimately shaping a more informed and adaptable future generation.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "link": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published_date": "2026-11-10T07:00:00+00:00",
-      "summary": "OpenAI and Upwork's groundbreaking research reveals a transformative shift in freelance work dynamics, highlighting an increased demand for AI-related skills and larger budgets, which underscores the growing importance of AI in reshaping the future of work. This evolution not only signifies a lucrative opportunity for freelancers but also indicates a pivotal moment in the integration of AI across industries.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
