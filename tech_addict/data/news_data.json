@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-11-11T11:21:44.303256+00:00",
+  "last_updated": "2026-11-12T06:30:52.974173+00:00",
   "articles": [
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published_date": "2026-11-12T00:00:00+00:00",
-      "summary": "Gilbert + Tobin is revolutionizing the legal industry by integrating AI into its business model, enhancing efficiency and redefining how legal services are delivered, which could set a new standard for law firms globally. This breakthrough not only promises to streamline operations but also positions the firm at the forefront of innovation in a traditionally conservative sector.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
     {
       "title": "Partnering with Accenture on embedded evaluation",
       "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
@@ -218,6 +210,30 @@
       "category": "AI"
     },
     {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "summary": "Gilbert + Tobin is revolutionizing the legal industry by integrating AI into its business model, enhancing efficiency and redefining how legal services are delivered, which could set a new standard for law firms globally. This breakthrough not only promises to streamline operations but also positions the firm at the forefront of innovation in a traditionally conservative sector.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "published_date": "2026-11-11T18:00:00+00:00",
+      "summary": "Google AI's Gemini Decisions API revolutionizes decision-making by leveraging advanced multimodal capabilities, enabling rapid and precise choices across diverse data types, which could significantly enhance efficiency and accuracy in various industries.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "published_date": "2026-11-11T16:00:00+00:00",
+      "summary": "Google AI's Tabletop introduces a groundbreaking platform for customizable group collaboration, enabling teams to create interactive itineraries, polls, and brackets, thereby transforming how people plan and engage in shared activities. This innovation not only enhances teamwork but also redefines the dynamics of collaborative spaces, making it easier for groups to achieve their goals together.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
       "title": "Decoding Ediacaran fossils",
       "link": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
       "published_date": "2026-11-11T11:01:00+00:00",
@@ -262,86 +278,6 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3374037/what-taiwanese-chip-giant-tsmc-gains-taking-stakes-openai-and-anthropics-ai-race",
       "published_date": "2026-11-11T07:30:21+00:00",
       "summary": "TSMC's strategic investment of up to $1.5 billion in OpenAI and Anthropic positions the semiconductor giant at the forefront of the AI revolution, ensuring it capitalizes on the surging demand for advanced chips that power cutting-edge artificial intelligence technologies. This bold move not only strengthens TSMC's financial ties to leading AI innovators but also solidifies its role as a critical player in shaping the future of AI development.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-      "published_date": "2026-11-11T03:00:20+00:00",
-      "summary": "NVIDIA's breakthrough in Vision AI and robotics enables recyclers to efficiently identify and recover valuable materials from mixed waste streams, significantly reducing landfill contributions and promoting a more sustainable circular economy. This innovative technology not only enhances recycling processes but also underscores the critical role of AI in addressing environmental challenges.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "published_date": "2026-11-10T19:00:00+00:00",
-      "summary": "Google AI's Gemini Intelligence introduces groundbreaking features across a wider array of devices, revolutionizing user interaction by seamlessly integrating advanced AI capabilities into everyday technology, thereby enhancing productivity and accessibility for millions.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Apple TV introduces new Sign Language interpretation feature",
-      "link": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
-      "published_date": "2026-11-10T16:00:26+00:00",
-      "summary": "Apple's introduction of a sign language interpretation feature on the Apple TV app marks a significant breakthrough in accessibility, enabling a more inclusive viewing experience for the deaf and hard-of-hearing community by providing real-time interpretation for supported titles. This innovation not only enhances content accessibility but also sets a new standard for inclusivity in digital media consumption.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "published_date": "2026-11-10T16:00:03+00:00",
-      "summary": "NVIDIA is significantly enhancing its open source commitment by donating OpenShell and expanding its AI infrastructure, a move that underscores the critical role of Kubernetes in managing the increasing demands of AI applications across vast networks. This initiative not only strengthens the open source ecosystem but also positions NVIDIA as a pivotal player in the future of AI development and deployment.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
-      "link": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
-      "published_date": "2026-11-10T14:59:45+00:00",
-      "summary": "Apple Arcade is set to enhance its holiday offerings with the addition of Football Manager 27 Touch and four other new games, marking a significant expansion that caters to diverse gaming preferences and solidifying its position in the competitive gaming market. This breakthrough not only enriches the platform's content but also underscores Apple's commitment to delivering high-quality gaming experiences to its subscribers.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373977/adding-fuel-fire-how-nvidia-ceos-troubles-us-midterms-may-tighten-china-chip-curbs",
-      "published_date": "2026-11-10T14:30:22+00:00",
-      "summary": "The allegations against Nvidia CEO Jensen Huang could catalyze a significant escalation in U.S. semiconductor restrictions on China, as political momentum from the recent midterm elections may empower Congress to close loopholes and intensify efforts against chip smuggling, thereby reshaping the global tech landscape. This development underscores the intersection of geopolitics and technology, highlighting the potential for heightened tensions and economic ramifications in the semiconductor industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "published_date": "2026-11-10T14:00:00+00:00",
-      "summary": "Google and Adobe's groundbreaking partnership is set to revolutionize productivity by seamlessly integrating Adobe's creative tools into everyday Google apps, enabling users to edit PDFs directly in Drive and leverage Adobe's AI capabilities within Gemini, thereby enhancing workflow efficiency and creativity.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "published_date": "2026-11-10T13:00:00+00:00",
-      "summary": "Google Cloud's launch of Gemini for healthcare represents a significant breakthrough in unifying clinical data and automating workflows, aiming to alleviate administrative burnout and enhance operational efficiency in the healthcare sector. This innovation could transform how healthcare providers manage data, ultimately improving patient care and outcomes.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published_date": "2026-11-10T12:00:00+00:00",
-      "summary": "OpenAI Academy is revolutionizing caregiving by offering free, hands-on ChatGPT workshops in five U.S. cities, empowering caregivers with essential AI skills that enhance their daily lives and improve the quality of care they provide. This initiative not only democratizes access to advanced technology but also addresses the pressing need for innovative support in the caregiving community.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "US lawmakers push for tougher China export controls in defence bill amid Nvidia scrutiny",
-      "link": "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
-      "published_date": "2026-11-10T11:30:06+00:00",
-      "summary": "US lawmakers are intensifying efforts to implement stringent export controls on China, fueled by allegations of espionage linked to Nvidia's CEO, highlighting a critical intersection of national security and corporate governance that could reshape the tech landscape and US-China relations.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
