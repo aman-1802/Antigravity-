@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T06:30:52.974173+00:00",
+  "last_updated": "2026-11-12T11:41:46.088846+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,6 +210,46 @@
       "category": "AI"
     },
     {
+      "title": "My grandfather been tell me a lot of story about Lasseter",
+      "link": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
+      "published_date": "2026-11-12T11:01:00+00:00",
+      "summary": "• The tale of Lasseter intertwines myth and reality, revealing the allure of the unknown in the pursuit of dreams.  \n• Through the lens of nostalgia, the grandfather's stories illuminate the generational transmission of hope and adventure.  \n• The camel, a symbol of endurance, serves as a reminder of the arduous journey toward elusive treasures.  \n• Abbott's retelling challenges us to reflect on the narratives that shape our identities and aspirations.  \n• Ultimately, the story of Lasseter embodies the eternal quest for meaning in the vast, uncharted landscapes of life.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Why anything exists",
+      "link": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+      "published_date": "2026-11-12T11:00:00+00:00",
+      "summary": "• The question of existence challenges our understanding of reality and invites deep philosophical inquiry.  \n• Existence may be seen as an intricate tapestry woven from the threads of necessity, chance, and the nature of consciousness.  \n• The interplay between nothingness and existence suggests that absence can be as significant as presence in shaping reality.  \n• Our quest for meaning in existence reflects a fundamental human desire to comprehend our place in the cosmos.  \n• Ultimately, the exploration of why anything exists may reveal more about our own perceptions than about the universe itself.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Former ByteDance AI scientist touts drug-discovery model that tops world leaders",
+      "link": "https://www.scmp.com/business/companies/article/3374201/former-bytedance-ai-scientist-touts-drug-discovery-model-tops-world-leaders",
+      "published_date": "2026-11-12T10:00:14+00:00",
+      "summary": "A former ByteDance AI scientist has launched NovaAtom-Lite, a groundbreaking life sciences AI model that surpasses existing leaders in drug discovery, potentially revolutionizing the field by enhancing the prediction of biomolecular structures and interactions. This advancement heightens the competitive landscape in AI-driven drug development, promising faster and more effective therapeutic innovations.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published_date": "2026-11-12T09:30:00+00:00",
+      "summary": "Holiday Extras is leveraging OpenAI's Codex to transform customer insights into innovative applications, significantly enhancing booking conversions and unlocking new avenues for growth in the travel industry. This breakthrough not only streamlines user experience but also sets a precedent for how AI can redefine customer engagement and operational efficiency.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI's groundbreaking $2 million investment in research on AI and children's safety aims to develop shared tools that will effectively measure both the risks and opportunities presented by artificial intelligence for young people, marking a significant step towards ensuring a safer digital environment for the next generation. This initiative not only highlights the urgent need to address the implications of AI on youth but also sets a precedent for responsible innovation in technology.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "published_date": "2026-11-12T00:00:00+00:00",
@@ -232,54 +272,6 @@
       "summary": "Google AI's Tabletop introduces a groundbreaking platform for customizable group collaboration, enabling teams to create interactive itineraries, polls, and brackets, thereby transforming how people plan and engage in shared activities. This innovation not only enhances teamwork but also redefines the dynamics of collaborative spaces, making it easier for groups to achieve their goals together.",
       "source": "Google AI",
       "category": "AI"
-    },
-    {
-      "title": "Decoding Ediacaran fossils",
-      "link": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
-      "published_date": "2026-11-11T11:01:00+00:00",
-      "summary": "• Ediacaran fossils serve as a window into the dawn of animal movement, illustrating a pivotal evolutionary transition.  \n• These ancient organisms challenge our understanding of complexity, blurring the lines between plant and animal life.  \n• The discovery of 'handedness' in these fossils hints at the emergence of asymmetry in early life forms, a precursor to later evolutionary developments.  \n• Studying these remnants invites us to reconsider the narrative of evolution, emphasizing the gradual unfolding of biological innovation.  \n• The Ediacaran period underscores the interconnectedness of life, revealing a tapestry of existence that predates conventional animal history.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
-      "link": "https://www.scmp.com/tech/big-tech/article/3374090/amid-nvidia-saga-t-head-ipo-crucial-test-alibaba-and-chinas-ai-ambitions",
-      "published_date": "2026-11-11T10:31:02+00:00",
-      "summary": "Alibaba's upcoming IPO of its semiconductor design arm, T-Head, represents a pivotal moment for China's AI ambitions, potentially unlocking billions in value and redefining the landscape of artificial intelligence hardware amid the ongoing Nvidia saga. This move not only tests the market's perception of Alibaba's overall worth but also signals a significant step in the competitive global tech arena.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
-      "link": "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
-      "published_date": "2026-11-11T09:19:59+00:00",
-      "summary": "Alibaba is set to launch an IPO for its chip-design unit T-Head in Hong Kong, aiming to secure funding for its ambitious AI initiatives despite a cooling market, highlighting the company's commitment to advancing its technological capabilities in a competitive landscape. This move underscores the growing importance of semiconductor technology in driving AI innovation and maintaining a competitive edge in the tech industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "published_date": "2026-11-11T09:00:00+00:00",
-      "summary": "Google AI's latest initiative showcases the artistic legacy of Dr. Esther Mahlangu, highlighting her profound impact on cultural heritage through innovative digital experiences, which underscores the importance of preserving and celebrating diverse artistic traditions in a rapidly evolving technological landscape.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "published_date": "2026-11-11T08:00:00+00:00",
-      "summary": "OpenAI's initiative to offer a free year of ChatGPT Plus to over 20,000 veterans and transitioning service members is a groundbreaking move that empowers these individuals to leverage advanced AI for career preparation, significantly enhancing their transition to civilian life. This innovative support not only aids in skill development but also underscores the potential of AI in addressing the unique challenges faced by veterans in the job market.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and Anthropic’s AI race",
-      "link": "https://www.scmp.com/tech/big-tech/article/3374037/what-taiwanese-chip-giant-tsmc-gains-taking-stakes-openai-and-anthropics-ai-race",
-      "published_date": "2026-11-11T07:30:21+00:00",
-      "summary": "TSMC's strategic investment of up to $1.5 billion in OpenAI and Anthropic positions the semiconductor giant at the forefront of the AI revolution, ensuring it capitalizes on the surging demand for advanced chips that power cutting-edge artificial intelligence technologies. This bold move not only strengthens TSMC's financial ties to leading AI innovators but also solidifies its role as a critical player in shaping the future of AI development.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
