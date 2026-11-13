@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T11:41:46.088846+00:00",
+  "last_updated": "2026-11-13T05:50:14.909500+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,6 +210,62 @@
       "category": "AI"
     },
     {
+      "title": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374270/jensen-huangs-departure-may-signal-tighter-us-controls-ai-chip-exports-china",
+      "published_date": "2026-11-12T22:35:06+00:00",
+      "summary": "Jensen Huang's unexpected departure from Nvidia could foreshadow stricter US regulations on AI chip exports to China, highlighting the escalating tensions in US-China tech relations and the potential impact on global AI advancements. This development comes at a critical moment as lawmakers consider new measures to limit China's access to cutting-edge technology, raising significant implications for the future of international tech collaboration.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "published_date": "2026-11-12T20:00:00+00:00",
+      "summary": "Amplitude has revolutionized its product development process by leveraging OpenAI's models through its proactive agent, Wave, which not only identifies key improvements but also accelerates deployment and impact measurement, enabling teams to ship enhancements in just 1-2 days. This breakthrough significantly enhances agility and responsiveness in product management, setting a new standard for rapid innovation in the tech industry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published_date": "2026-11-12T18:00:00+00:00",
+      "summary": "Google's latest upgrade, Gemini 4 Hydrogen, revolutionizes the search experience by introducing a dynamic carousel of interactive cards, enhancing user engagement and information accessibility in real-time. This breakthrough not only streamlines how users interact with search results but also positions Google at the forefront of AI-driven search technology.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "From AI ambition to business impact",
+      "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "published_date": "2026-11-12T17:00:03+00:00",
+      "summary": "Microsoft is shifting the conversation from the capabilities of AI to its practical implementation in transforming business operations, emphasizing the urgent need for leaders to harness AI's potential for tangible impact rather than mere demonstration. This pivot is crucial as organizations seek to integrate AI into their core processes to drive efficiency and innovation.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "link": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "published_date": "2026-11-12T16:00:02+00:00",
+      "summary": "Microsoft's latest research reveals that while AI's potential is widely recognized, many organizations struggle to harness its value at scale, highlighting critical lessons from leading firms that successfully navigate this challenge. This gap underscores the urgent need for strategic frameworks to ensure that businesses can leverage AI effectively without sacrificing control or oversight.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "published_date": "2026-11-12T14:00:59+00:00",
+      "summary": "NVIDIA's announcement of \"Warhammer 40,000: Dawn of War IV\" joining GeForce NOW marks a significant leap in cloud gaming, enabling players to engage in epic battles without the need for high-end hardware. This breakthrough, coupled with the introduction of DLSS 5 technology in other titles, underscores NVIDIA's commitment to enhancing gaming accessibility and performance in the cloud.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "published_date": "2026-11-12T12:00:00+00:00",
+      "summary": "Gondola has achieved a remarkable revenue increase by leveraging OpenAI's Codex, which has boosted its lead engineer's productivity by 50%, while ChatGPT streamlines daily tasks, revolutionizing how creatives gain recognition and employment. This breakthrough not only enhances operational efficiency but also empowers creatives in a competitive job market, underscoring the transformative potential of AI in the workforce.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "My grandfather been tell me a lot of story about Lasseter",
       "link": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
       "published_date": "2026-11-12T11:01:00+00:00",
@@ -226,14 +282,6 @@
       "category": "Aeon"
     },
     {
-      "title": "Former ByteDance AI scientist touts drug-discovery model that tops world leaders",
-      "link": "https://www.scmp.com/business/companies/article/3374201/former-bytedance-ai-scientist-touts-drug-discovery-model-tops-world-leaders",
-      "published_date": "2026-11-12T10:00:14+00:00",
-      "summary": "A former ByteDance AI scientist has launched NovaAtom-Lite, a groundbreaking life sciences AI model that surpasses existing leaders in drug discovery, potentially revolutionizing the field by enhancing the prediction of biomolecular structures and interactions. This advancement heightens the competitive landscape in AI-driven drug development, promising faster and more effective therapeutic innovations.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "published_date": "2026-11-12T09:30:00+00:00",
@@ -242,36 +290,12 @@
       "category": "AI"
     },
     {
-      "title": "Supporting research on AI and children’s safety",
-      "link": "https://openai.com/index/children-first-declaration",
-      "published_date": "2026-11-12T00:00:00+00:00",
-      "summary": "OpenAI's groundbreaking $2 million investment in research on AI and children's safety aims to develop shared tools that will effectively measure both the risks and opportunities presented by artificial intelligence for young people, marking a significant step towards ensuring a safer digital environment for the next generation. This initiative not only highlights the urgent need to address the implications of AI on youth but also sets a precedent for responsible innovation in technology.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published_date": "2026-11-12T00:00:00+00:00",
-      "summary": "Gilbert + Tobin is revolutionizing the legal industry by integrating AI into its business model, enhancing efficiency and redefining how legal services are delivered, which could set a new standard for law firms globally. This breakthrough not only promises to streamline operations but also positions the firm at the forefront of innovation in a traditionally conservative sector.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "published_date": "2026-11-11T18:00:00+00:00",
-      "summary": "Google AI's Gemini Decisions API revolutionizes decision-making by leveraging advanced multimodal capabilities, enabling rapid and precise choices across diverse data types, which could significantly enhance efficiency and accuracy in various industries.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "published_date": "2026-11-11T16:00:00+00:00",
-      "summary": "Google AI's Tabletop introduces a groundbreaking platform for customizable group collaboration, enabling teams to create interactive itineraries, polls, and brackets, thereby transforming how people plan and engage in shared activities. This innovation not only enhances teamwork but also redefines the dynamics of collaborative spaces, making it easier for groups to achieve their goals together.",
-      "source": "Google AI",
-      "category": "AI"
+      "title": "Silk Road in orbit: China to build 20-satellite ‘space AI’ system for Oman",
+      "link": "https://www.scmp.com/news/china/science/article/3374157/silk-road-orbit-china-build-20-satellite-space-ai-system-oman",
+      "published_date": "2026-11-12T06:00:06+00:00",
+      "summary": "China's Star Vision is set to revolutionize satellite technology by constructing a 20-satellite 'space AI' system for Oman, capable of real-time image processing to monitor maritime activity and natural disasters, marking the nation's most lucrative commercial space contract to date at over $200 million. This breakthrough not only enhances Oman's capabilities in disaster management and maritime security but also solidifies China's position as a leader in the global space industry.",
+      "source": "China News",
+      "category": "SCMP"
     }
   ]
 }
