@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T05:50:14.909500+00:00",
+  "last_updated": "2026-11-13T11:25:04.603176+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,10 +210,34 @@
       "category": "AI"
     },
     {
+      "title": "Fugitive imagination",
+      "link": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+      "published_date": "2026-11-13T11:00:00+00:00",
+      "summary": "• Confinement and displacement often catalyze the emergence of innovative thought and creativity.  \n• The act of silencing individuals paradoxically amplifies their imaginative capacities.  \n• Knowledge born from marginalization challenges dominant narratives and reshapes societal understanding.  \n• The resilience of the human spirit manifests through the creation of alternative realities in oppressive contexts.  \n• Imagination becomes a form of resistance, allowing the dispossessed to reclaim agency and identity.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
+      "published_date": "2026-11-13T05:55:56+00:00",
+      "summary": "China's SMIC anticipates a significant shortage of AI computing power until 2028, driven by a rapid expansion of data centers and potential U.S. restrictions on advanced chip access, which could force China to increasingly depend on its own semiconductor manufacturing capabilities. This situation underscores the critical intersection of geopolitical tensions and technological advancement, highlighting the urgent need for self-sufficiency in the face of external pressures.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3374270/jensen-huangs-departure-may-signal-tighter-us-controls-ai-chip-exports-china",
       "published_date": "2026-11-12T22:35:06+00:00",
       "summary": "Jensen Huang's unexpected departure from Nvidia could foreshadow stricter US regulations on AI chip exports to China, highlighting the escalating tensions in US-China tech relations and the potential impact on global AI advancements. This development comes at a critical moment as lawmakers consider new measures to limit China's access to cutting-edge technology, raising significant implications for the future of international tech collaboration.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues",
+      "published_date": "2026-11-12T20:42:27+00:00",
+      "summary": "The United States is strategically investing $4.5 million to enhance the port infrastructure at Callao, positioning it as a competitive alternative to China's Chancay megaport, thereby reinforcing its influence in the region amidst escalating geopolitical tensions. This move not only bolsters Peru's naval capabilities but also signifies a critical shift in the balance of power in South America's maritime trade routes.",
       "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
@@ -250,6 +274,14 @@
       "category": "AI"
     },
     {
+      "title": "Cold War lessons for the AI age: how a US-China hotline could help stop a nuclear attack",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374246/cold-war-lessons-ai-age-how-us-china-hotline-could-help-stop-nuclear-attack",
+      "published_date": "2026-11-12T15:00:10+00:00",
+      "summary": "Analysts advocate for a dedicated US-China hotline to mitigate the risk of AI-induced nuclear attacks, emphasizing that high-level dialogue is crucial for advancing peace and arms control amidst rising tensions. This initiative highlights the urgent need for effective communication in an era where artificial intelligence could escalate global security threats.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
       "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
       "published_date": "2026-11-12T14:00:59+00:00",
@@ -264,38 +296,6 @@
       "summary": "Gondola has achieved a remarkable revenue increase by leveraging OpenAI's Codex, which has boosted its lead engineer's productivity by 50%, while ChatGPT streamlines daily tasks, revolutionizing how creatives gain recognition and employment. This breakthrough not only enhances operational efficiency but also empowers creatives in a competitive job market, underscoring the transformative potential of AI in the workforce.",
       "source": "OpenAI",
       "category": "AI"
-    },
-    {
-      "title": "My grandfather been tell me a lot of story about Lasseter",
-      "link": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
-      "published_date": "2026-11-12T11:01:00+00:00",
-      "summary": "• The tale of Lasseter intertwines myth and reality, revealing the allure of the unknown in the pursuit of dreams.  \n• Through the lens of nostalgia, the grandfather's stories illuminate the generational transmission of hope and adventure.  \n• The camel, a symbol of endurance, serves as a reminder of the arduous journey toward elusive treasures.  \n• Abbott's retelling challenges us to reflect on the narratives that shape our identities and aspirations.  \n• Ultimately, the story of Lasseter embodies the eternal quest for meaning in the vast, uncharted landscapes of life.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Why anything exists",
-      "link": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
-      "published_date": "2026-11-12T11:00:00+00:00",
-      "summary": "• The question of existence challenges our understanding of reality and invites deep philosophical inquiry.  \n• Existence may be seen as an intricate tapestry woven from the threads of necessity, chance, and the nature of consciousness.  \n• The interplay between nothingness and existence suggests that absence can be as significant as presence in shaping reality.  \n• Our quest for meaning in existence reflects a fundamental human desire to comprehend our place in the cosmos.  \n• Ultimately, the exploration of why anything exists may reveal more about our own perceptions than about the universe itself.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "published_date": "2026-11-12T09:30:00+00:00",
-      "summary": "Holiday Extras is leveraging OpenAI's Codex to transform customer insights into innovative applications, significantly enhancing booking conversions and unlocking new avenues for growth in the travel industry. This breakthrough not only streamlines user experience but also sets a precedent for how AI can redefine customer engagement and operational efficiency.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Silk Road in orbit: China to build 20-satellite ‘space AI’ system for Oman",
-      "link": "https://www.scmp.com/news/china/science/article/3374157/silk-road-orbit-china-build-20-satellite-space-ai-system-oman",
-      "published_date": "2026-11-12T06:00:06+00:00",
-      "summary": "China's Star Vision is set to revolutionize satellite technology by constructing a 20-satellite 'space AI' system for Oman, capable of real-time image processing to monitor maritime activity and natural disasters, marking the nation's most lucrative commercial space contract to date at over $200 million. This breakthrough not only enhances Oman's capabilities in disaster management and maritime security but also solidifies China's position as a leader in the global space industry.",
-      "source": "China News",
-      "category": "SCMP"
     }
   ]
 }
