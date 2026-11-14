@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T05:39:39.148849+00:00",
+  "last_updated": "2026-11-14T10:47:47.325359+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -248,22 +248,6 @@
       "summary": "• Confinement and displacement often catalyze the emergence of innovative thought and creativity.  \n• The act of silencing individuals paradoxically amplifies their imaginative capacities.  \n• Knowledge born from marginalization challenges dominant narratives and reshapes societal understanding.  \n• The resilience of the human spirit manifests through the creation of alternative realities in oppressive contexts.  \n• Imagination becomes a form of resistance, allowing the dispossessed to reclaim agency and identity.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "published_date": "2026-11-13T08:00:00+00:00",
-      "summary": "Shield leverages OpenAI to revolutionize IT operations by enabling technicians to seamlessly delegate tasks in outdated portals, allowing them to concentrate on more complex issues that require human expertise. This breakthrough not only enhances efficiency but also transforms the way organizations manage legacy systems, ultimately driving productivity and innovation.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
-      "link": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
-      "published_date": "2026-11-13T05:55:56+00:00",
-      "summary": "China's SMIC anticipates a significant shortage of AI computing power until 2028, driven by a rapid expansion of data centers and potential U.S. restrictions on advanced chip access, which could force China to increasingly depend on its own semiconductor manufacturing capabilities. This situation underscores the critical intersection of geopolitical tensions and technological advancement, highlighting the urgent need for self-sufficiency in the face of external pressures.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
