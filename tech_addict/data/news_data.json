@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:25:04.603176+00:00",
+  "last_updated": "2026-11-14T05:39:39.148849+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,6 +210,38 @@
       "category": "AI"
     },
     {
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published_date": "2026-11-13T15:00:00+00:00",
+      "summary": "OpenAI has unveiled ChatGPT Wallet, a groundbreaking secure payment solution that empowers agents within ChatGPT Work, Codex, and dots to facilitate transactions with user consent while maintaining existing card protections, revolutionizing the way digital interactions and commerce are conducted. This innovation not only enhances user security but also streamlines the purchasing process, marking a significant leap forward in AI-driven financial transactions.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Apple HomeView available today",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+      "published_date": "2026-11-13T13:59:07+00:00",
+      "summary": "Apple HomeView launches today, revolutionizing home management and entertainment by seamlessly integrating connectivity and control, setting a new standard for smart living. This breakthrough not only enhances user experience but also positions Apple as a leader in the evolving smart home market.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "published_date": "2026-11-13T13:00:42+00:00",
+      "summary": "NVIDIA's latest advancements in AI are revolutionizing healthcare by enabling care teams to streamline routine tasks, allowing them to focus more on patient interaction and improving outcomes through enhanced patient-trial matching and support for medical professionals. This breakthrough not only enhances efficiency but also transforms the patient care experience, making timely and effective treatment more accessible.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
+      "link": "https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts",
+      "published_date": "2026-11-13T13:00:08+00:00",
+      "summary": "China may impose stricter controls on rare earth exports in response to potential escalations in U.S. chip restrictions, particularly following the Nvidia controversy, highlighting the fragile balance of power in global tech supply chains and the ongoing tension in U.S.-China trade relations. This development underscores the critical interdependence between semiconductor technology and rare earth materials, which are vital for numerous high-tech industries.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Fugitive imagination",
       "link": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
       "published_date": "2026-11-13T11:00:00+00:00",
@@ -218,84 +250,20 @@
       "category": "Aeon"
     },
     {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "published_date": "2026-11-13T08:00:00+00:00",
+      "summary": "Shield leverages OpenAI to revolutionize IT operations by enabling technicians to seamlessly delegate tasks in outdated portals, allowing them to concentrate on more complex issues that require human expertise. This breakthrough not only enhances efficiency but also transforms the way organizations manage legacy systems, ultimately driving productivity and innovation.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
       "link": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
       "published_date": "2026-11-13T05:55:56+00:00",
       "summary": "China's SMIC anticipates a significant shortage of AI computing power until 2028, driven by a rapid expansion of data centers and potential U.S. restrictions on advanced chip access, which could force China to increasingly depend on its own semiconductor manufacturing capabilities. This situation underscores the critical intersection of geopolitical tensions and technological advancement, highlighting the urgent need for self-sufficiency in the face of external pressures.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3374270/jensen-huangs-departure-may-signal-tighter-us-controls-ai-chip-exports-china",
-      "published_date": "2026-11-12T22:35:06+00:00",
-      "summary": "Jensen Huang's unexpected departure from Nvidia could foreshadow stricter US regulations on AI chip exports to China, highlighting the escalating tensions in US-China tech relations and the potential impact on global AI advancements. This development comes at a critical moment as lawmakers consider new measures to limit China's access to cutting-edge technology, raising significant implications for the future of international tech collaboration.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues",
-      "published_date": "2026-11-12T20:42:27+00:00",
-      "summary": "The United States is strategically investing $4.5 million to enhance the port infrastructure at Callao, positioning it as a competitive alternative to China's Chancay megaport, thereby reinforcing its influence in the region amidst escalating geopolitical tensions. This move not only bolsters Peru's naval capabilities but also signifies a critical shift in the balance of power in South America's maritime trade routes.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "published_date": "2026-11-12T20:00:00+00:00",
-      "summary": "Amplitude has revolutionized its product development process by leveraging OpenAI's models through its proactive agent, Wave, which not only identifies key improvements but also accelerates deployment and impact measurement, enabling teams to ship enhancements in just 1-2 days. This breakthrough significantly enhances agility and responsiveness in product management, setting a new standard for rapid innovation in the tech industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "published_date": "2026-11-12T18:00:00+00:00",
-      "summary": "Google's latest upgrade, Gemini 4 Hydrogen, revolutionizes the search experience by introducing a dynamic carousel of interactive cards, enhancing user engagement and information accessibility in real-time. This breakthrough not only streamlines how users interact with search results but also positions Google at the forefront of AI-driven search technology.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "From AI ambition to business impact",
-      "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
-      "published_date": "2026-11-12T17:00:03+00:00",
-      "summary": "Microsoft is shifting the conversation from the capabilities of AI to its practical implementation in transforming business operations, emphasizing the urgent need for leaders to harness AI's potential for tangible impact rather than mere demonstration. This pivot is crucial as organizations seek to integrate AI into their core processes to drive efficiency and innovation.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
-      "link": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
-      "published_date": "2026-11-12T16:00:02+00:00",
-      "summary": "Microsoft's latest research reveals that while AI's potential is widely recognized, many organizations struggle to harness its value at scale, highlighting critical lessons from leading firms that successfully navigate this challenge. This gap underscores the urgent need for strategic frameworks to ensure that businesses can leverage AI effectively without sacrificing control or oversight.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Cold War lessons for the AI age: how a US-China hotline could help stop a nuclear attack",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3374246/cold-war-lessons-ai-age-how-us-china-hotline-could-help-stop-nuclear-attack",
-      "published_date": "2026-11-12T15:00:10+00:00",
-      "summary": "Analysts advocate for a dedicated US-China hotline to mitigate the risk of AI-induced nuclear attacks, emphasizing that high-level dialogue is crucial for advancing peace and arms control amidst rising tensions. This initiative highlights the urgent need for effective communication in an era where artificial intelligence could escalate global security threats.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
-      "published_date": "2026-11-12T14:00:59+00:00",
-      "summary": "NVIDIA's announcement of \"Warhammer 40,000: Dawn of War IV\" joining GeForce NOW marks a significant leap in cloud gaming, enabling players to engage in epic battles without the need for high-end hardware. This breakthrough, coupled with the introduction of DLSS 5 technology in other titles, underscores NVIDIA's commitment to enhancing gaming accessibility and performance in the cloud.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "published_date": "2026-11-12T12:00:00+00:00",
-      "summary": "Gondola has achieved a remarkable revenue increase by leveraging OpenAI's Codex, which has boosted its lead engineer's productivity by 50%, while ChatGPT streamlines daily tasks, revolutionizing how creatives gain recognition and employment. This breakthrough not only enhances operational efficiency but also empowers creatives in a competitive job market, underscoring the transformative potential of AI in the workforce.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
