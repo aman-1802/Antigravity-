@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T05:38:31.438761+00:00",
+  "last_updated": "2026-11-15T11:23:03.543864+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -208,6 +208,14 @@
       "summary": "Anthropic has unveiled significant advancements in AI safety and alignment, showcasing their commitment to developing robust and responsible AI systems that prioritize ethical considerations, which is crucial as the technology becomes increasingly integrated into everyday life and decision-making processes. This breakthrough not only enhances the reliability of AI applications but also sets a new standard for the industry, emphasizing the importance of aligning AI behavior with human values.",
       "source": "Anthropic",
       "category": "AI"
+    },
+    {
+      "title": "China calls for AI cooperation with the US ahead of Shenzhen Apec summit",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374484/china-calls-ai-cooperation-us-ahead-shenzhen-apec-summit",
+      "published_date": "2026-11-15T09:00:10+00:00",
+      "summary": "China is advocating for a cooperative AI alliance with the US ahead of the Apec summit, emphasizing the potential for regional prosperity through major-power collaboration, which could reshape the geopolitical landscape and set new standards for international tech partnerships.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
     },
     {
       "title": "Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?",
