@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T05:38:24.180698+00:00",
+  "last_updated": "2026-11-16T11:55:27.693308+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,6 +210,38 @@
       "category": "AI"
     },
     {
+      "title": "The last klavern",
+      "link": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters",
+      "published_date": "2026-11-16T11:01:00+00:00",
+      "summary": "• The remnants of a Ku Klux Klan hall serve as a haunting reminder of America's racial history and the complexities of memory.  \n• Preservation of such sites raises profound questions about how societies confront their dark legacies.  \n• Engaging with the past can illuminate contemporary issues of racism and identity, fostering dialogue and understanding.  \n• The intersection of architecture and history reveals the physical manifestations of ideologies that shape communities.  \n• Ultimately, grappling with these spaces challenges us to redefine our narratives and confront uncomfortable truths.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "The horse made the state",
+      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "published_date": "2026-11-16T11:00:00+00:00",
+      "summary": "• The development of civilization was fundamentally driven by transportation, not agriculture.  \n• Horses facilitated the movement of people and ideas, reshaping social structures and power dynamics.  \n• Conquest, enabled by superior mobility, became a catalyst for state formation and territorial expansion.  \n• The relationship between humans and horses illustrates the profound impact of animals on societal evolution.  \n• Understanding history through the lens of transportation reveals the interconnectedness of culture, power, and technology.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "published_date": "2026-11-16T09:00:00+00:00",
+      "summary": "LVMH’s Media Division has forged a groundbreaking partnership with OpenAI to enhance journalism by leveraging AI, enabling greater accessibility to its publications through ChatGPT. This collaboration not only revolutionizes the way media engages with audiences but also sets a new standard for integrating advanced technology into the journalism landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries",
+      "link": "https://www.scmp.com/tech/article/3374568/chinas-moonshot-ai-puts-kimi-models-race-science-discoveries",
+      "published_date": "2026-11-16T07:30:08+00:00",
+      "summary": "Moonshot AI, a Chinese start-up, is positioning its Kimi models to compete with U.S. counterparts in transforming AI into a powerful tool for scientific discovery, particularly in biology, chemistry, and pharmaceuticals, potentially revolutionizing research methodologies and accelerating innovation in these critical fields.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Alibaba says new flagship AI model cuts task costs by 60% while tightening cyber guardrails",
       "link": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
       "published_date": "2026-11-16T03:56:53+00:00",
@@ -231,6 +263,14 @@
       "published_date": "2026-11-16T00:00:28+00:00",
       "summary": "AI Day Seoul showcased Korea's burgeoning leadership in physical AI and AI agents, uniting over 2,000 industry leaders and startups to highlight the nation's innovative advancements and collaborative potential in the rapidly evolving tech landscape. This convergence not only underscores Korea's significant role in the global AI arena but also sets the stage for transformative developments in robotics and edge computing.",
       "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "published_date": "2026-11-16T00:00:00+00:00",
+      "summary": "The King’s Trust and OpenAI have initiated a groundbreaking £1 million partnership aimed at equipping up to 25,000 young individuals in the UK with essential AI skills, significantly enhancing their employability in a rapidly evolving job market. This initiative not only addresses the urgent demand for skilled workers in the AI sector but also empowers the next generation to thrive in a technology-driven economy.",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
