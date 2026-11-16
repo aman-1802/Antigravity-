@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T11:23:03.543864+00:00",
+  "last_updated": "2026-11-16T05:38:24.180698+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,20 +210,44 @@
       "category": "AI"
     },
     {
-      "title": "China calls for AI cooperation with the US ahead of Shenzhen Apec summit",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3374484/china-calls-ai-cooperation-us-ahead-shenzhen-apec-summit",
-      "published_date": "2026-11-15T09:00:10+00:00",
-      "summary": "China is advocating for a cooperative AI alliance with the US ahead of the Apec summit, emphasizing the potential for regional prosperity through major-power collaboration, which could reshape the geopolitical landscape and set new standards for international tech partnerships.",
-      "source": "Diplomacy & Defence",
+      "title": "Alibaba says new flagship AI model cuts task costs by 60% while tightening cyber guardrails",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
+      "published_date": "2026-11-16T03:56:53+00:00",
+      "summary": "Alibaba's launch of its flagship AI model, Qwen4-Max, which reduces task costs by 60% while implementing stringent cybersecurity measures, marks a significant advancement in balancing innovation with safety in the face of rising global AI-related security threats. This development underscores a pivotal shift in China's AI landscape, prioritizing responsible technology deployment amidst escalating concerns over cyberattacks.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3374332/can-chinese-ai-companies-curb-cyber-risks-open-weight-models-without-losing-their-edge",
-      "published_date": "2026-11-15T02:00:09+00:00",
-      "summary": "Chinese AI companies are taking significant steps to mitigate cyber risks by disabling hacking capabilities in their advanced open-weight models, a move prompted by recent high-profile incidents, which could redefine the balance between cybersecurity and innovation in the industry. This shift not only aims to enhance safety but also raises critical questions about maintaining competitive edge in an increasingly hostile digital landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
+      "title": "Apple launches research study to explore the use of AI for health",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "published_date": "2026-11-16T01:18:33+00:00",
+      "summary": "Apple's groundbreaking Health AI Usage Study aims to harness artificial intelligence to revolutionize health monitoring and management, potentially transforming how individuals engage with their health data and paving the way for smarter, more personalized healthcare solutions. This initiative underscores Apple's commitment to integrating cutting-edge technology into everyday health practices, promising significant advancements in patient outcomes and wellness.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "published_date": "2026-11-16T00:00:28+00:00",
+      "summary": "AI Day Seoul showcased Korea's burgeoning leadership in physical AI and AI agents, uniting over 2,000 industry leaders and startups to highlight the nation's innovative advancements and collaborative potential in the rapidly evolving tech landscape. This convergence not only underscores Korea's significant role in the global AI arena but also sets the stage for transformative developments in robotics and edge computing.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published_date": "2026-11-15T22:00:01+00:00",
+      "summary": "OpenAI's breakthrough in defining the Standard Model on a lattice, aided by GPT-6 Astra, marks a significant advancement in theoretical physics, potentially revolutionizing our understanding of fundamental particles and forces by providing a nonperturbative framework for complex quantum field theories. This development not only enhances computational techniques in particle physics but also opens new avenues for exploring the universe's foundational principles.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "published_date": "2026-11-15T22:00:00+00:00",
+      "summary": "OpenAI's new science blog revolutionizes the intersection of AI and research by providing a platform for groundbreaking findings and practical methodologies, empowering scientists to leverage artificial intelligence in accelerating scientific discovery. This initiative not only democratizes access to cutting-edge research but also fosters collaboration and innovation within the scientific community.",
+      "source": "OpenAI",
+      "category": "AI"
     }
   ]
 }
