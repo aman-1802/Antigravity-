@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T07:15:04.404556+00:00",
+  "last_updated": "2026-11-17T12:18:42.111650+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,20 +210,36 @@
       "category": "AI"
     },
     {
-      "title": "China team produces endless energy from lotus stems with water evaporation power",
-      "link": "https://www.scmp.com/news/china/science/article/3374569/china-team-produces-endless-energy-lotus-stems-water-evaporation-power",
-      "published_date": "2026-11-17T03:00:09+00:00",
-      "summary": "Chinese scientists have developed a groundbreaking hydrovoltaic device that generates continuous electricity from the evaporation of water using lotus stems, potentially revolutionizing power supply for off-grid sensors and electronics in remote areas. This innovative technology not only promises low-maintenance energy solutions but also highlights the untapped potential of natural materials in sustainable energy generation.",
-      "source": "China News",
+      "title": "Catwalks and crackdowns",
+      "link": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+      "published_date": "2026-11-17T11:00:00+00:00",
+      "summary": "• In Tehran, women's fashion choices are a form of resistance, challenging societal norms and asserting individuality.  \n• The ‘art of presence’ embodies the power of visibility, where personal expression becomes a catalyst for social change.  \n• As women defy oppressive dress codes, they create a collective identity that transcends fear and repression.  \n• The movement underscores the profound connection between personal autonomy and broader societal transformation.  \n• Ultimately, the act of dressing freely becomes a powerful statement of agency in the face of authoritarianism.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
+      "published_date": "2026-11-17T10:59:28+00:00",
+      "summary": "Apple Podcasts has awarded \"Baby, this is Keke Palmer\" the title of 2026 Show of the Year, recognizing its outstanding quality and significant cultural influence, marking a pivotal moment in the podcasting landscape. This accolade underscores the growing importance of podcasts as a medium for impactful storytelling and cultural discourse.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
+      "link": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion",
+      "published_date": "2026-11-17T09:28:16+00:00",
+      "summary": "The U.S. Justice Department is investigating Singapore-based Megaspeed, a customer of Nvidia, for potential violations of chip export controls, highlighting growing concerns over the diversion of sensitive semiconductors amid escalating global tech tensions. This probe underscores the critical importance of safeguarding advanced technology in an increasingly competitive and security-focused landscape.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     },
     {
-      "title": "40 Chinese spaceplanes could hit any target on Earth in minutes: study",
-      "link": "https://www.scmp.com/news/china/science/article/3374591/40-chinese-spaceplanes-could-hit-any-target-earth-minutes-study",
-      "published_date": "2026-11-17T01:00:10+00:00",
-      "summary": "A recent US intelligence report suggests that China’s potential fleet of 40 Shenlong spaceplanes could enable the country to strike any target on Earth within minutes, highlighting a significant leap in military capabilities that could alter global power dynamics. This development underscores the urgency for nations to reassess their defense strategies in light of emerging space-based technologies.",
-      "source": "China News",
-      "category": "SCMP"
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published_date": "2026-11-17T00:00:00+00:00",
+      "summary": "OpenAI is collaborating with NATO and allied cyber agencies to leverage artificial intelligence for identifying vulnerabilities and enhancing defenses, a critical advancement that promises to bolster the security of essential systems against increasingly sophisticated cyber threats. This partnership not only strengthens collective cybersecurity but also sets a precedent for the integration of AI in national defense strategies.",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
@@ -320,70 +336,6 @@
       "summary": "Google AI has unveiled innovative Ask Maps features designed to enhance holiday travel planning by providing real-time, personalized information, making it easier for users to navigate and optimize their travel experiences. This breakthrough not only streamlines the journey but also transforms how travelers interact with their surroundings, ensuring a more enjoyable and efficient holiday season.",
       "source": "Google AI",
       "category": "AI"
-    },
-    {
-      "title": "Apec CEOs seek common AI safeguards as adoption accelerates: Deloitte",
-      "link": "https://www.scmp.com/tech/big-tech/article/3374612/apec-ceos-seek-common-ai-safeguards-adoption-accelerates-deloitte",
-      "published_date": "2026-11-16T12:00:10+00:00",
-      "summary": "As AI adoption accelerates, Apec CEOs are advocating for unified safeguards and cybersecurity measures to enhance trade, highlighting the urgency for cross-border cooperation amid China's push for collaboration with the U.S. at the upcoming summit. This breakthrough could reshape international AI governance and foster a more secure technological landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "link": "https://openai.com/index/science-at-the-frontier",
-      "published_date": "2026-11-16T12:00:00+00:00",
-      "summary": "A groundbreaking study reveals that over 1,800 scientists are leveraging ChatGPT to enhance their research workflows, significantly boosting productivity and reshaping expectations for future discoveries, highlighting the transformative potential of AI in scientific inquiry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "The last klavern",
-      "link": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters",
-      "published_date": "2026-11-16T11:01:00+00:00",
-      "summary": "• The remnants of a Ku Klux Klan hall serve as a haunting reminder of America's racial history and the complexities of memory.  \n• Preservation of such sites raises profound questions about how societies confront their dark legacies.  \n• Engaging with the past can illuminate contemporary issues of racism and identity, fostering dialogue and understanding.  \n• The intersection of architecture and history reveals the physical manifestations of ideologies that shape communities.  \n• Ultimately, grappling with these spaces challenges us to redefine our narratives and confront uncomfortable truths.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "The horse made the state",
-      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
-      "published_date": "2026-11-16T11:00:00+00:00",
-      "summary": "• The development of civilization was fundamentally driven by transportation, not agriculture.  \n• Horses facilitated the movement of people and ideas, reshaping social structures and power dynamics.  \n• Conquest, enabled by superior mobility, became a catalyst for state formation and territorial expansion.  \n• The relationship between humans and horses illustrates the profound impact of animals on societal evolution.  \n• Understanding history through the lens of transportation reveals the interconnectedness of culture, power, and technology.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "link": "https://openai.com/business/customer-stories/revolut",
-      "published_date": "2026-11-16T09:30:00+00:00",
-      "summary": "Revolut is leveraging OpenAI's advanced models to dramatically reduce coding time by up to 60% while simultaneously enhancing its capabilities in financial crime investigations, showcasing a groundbreaking approach to innovation that maintains high security standards. This breakthrough not only streamlines operations but also sets a new benchmark for the fintech industry in balancing ambition with rigorous safety measures.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "link": "https://openai.com/index/lvmh-media-division-partnership",
-      "published_date": "2026-11-16T09:00:00+00:00",
-      "summary": "LVMH’s Media Division has forged a groundbreaking partnership with OpenAI to enhance journalism by leveraging AI, enabling greater accessibility to its publications through ChatGPT. This collaboration not only revolutionizes the way media engages with audiences but also sets a new standard for integrating advanced technology into the journalism landscape.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "published_date": "2026-11-16T08:00:00+00:00",
-      "summary": "OpenAI's launch of embedded assessments in collaboration with Apollo Research, METR, Transluce, and Goodfire marks a significant advancement in independently evaluating AI model alignment and safety measures, setting a new standard for accountability and transparency in artificial intelligence development. This initiative not only enhances trust in AI systems but also paves the way for more robust regulatory frameworks in the industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries",
-      "link": "https://www.scmp.com/tech/article/3374568/chinas-moonshot-ai-puts-kimi-models-race-science-discoveries",
-      "published_date": "2026-11-16T07:30:08+00:00",
-      "summary": "Moonshot AI, a Chinese start-up, is positioning its Kimi models to compete with U.S. counterparts in transforming AI into a powerful tool for scientific discovery, particularly in biology, chemistry, and pharmaceuticals, potentially revolutionizing research methodologies and accelerating innovation in these critical fields.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
