@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T11:55:27.693308+00:00",
+  "last_updated": "2026-11-17T07:15:04.404556+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,6 +210,134 @@
       "category": "AI"
     },
     {
+      "title": "China team produces endless energy from lotus stems with water evaporation power",
+      "link": "https://www.scmp.com/news/china/science/article/3374569/china-team-produces-endless-energy-lotus-stems-water-evaporation-power",
+      "published_date": "2026-11-17T03:00:09+00:00",
+      "summary": "Chinese scientists have developed a groundbreaking hydrovoltaic device that generates continuous electricity from the evaporation of water using lotus stems, potentially revolutionizing power supply for off-grid sensors and electronics in remote areas. This innovative technology not only promises low-maintenance energy solutions but also highlights the untapped potential of natural materials in sustainable energy generation.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "40 Chinese spaceplanes could hit any target on Earth in minutes: study",
+      "link": "https://www.scmp.com/news/china/science/article/3374591/40-chinese-spaceplanes-could-hit-any-target-earth-minutes-study",
+      "published_date": "2026-11-17T01:00:10+00:00",
+      "summary": "A recent US intelligence report suggests that China’s potential fleet of 40 Shenlong spaceplanes could enable the country to strike any target on Earth within minutes, highlighting a significant leap in military capabilities that could alter global power dynamics. This development underscores the urgency for nations to reassess their defense strategies in light of emerging space-based technologies.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "published_date": "2026-11-16T23:00:05+00:00",
+      "summary": "NVIDIA's DGX Spark HPC Developer Kit transforms ordinary workspaces into powerful supercomputing labs, enabling researchers and developers to harness unprecedented computational capabilities for advanced scientific exploration and innovation. This breakthrough not only democratizes access to high-performance computing but also accelerates the pace of discovery across various fields.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "published_date": "2026-11-16T20:00:37+00:00",
+      "summary": "NVIDIA's innovative supply chain, spearheaded by Deb Shoquist, is revolutionizing the AI landscape by enabling the rapid introduction of cutting-edge technologies, ensuring the company remains at the forefront of the industry and shaping the future of artificial intelligence. This breakthrough not only enhances NVIDIA's competitive edge but also accelerates advancements across various sectors reliant on AI solutions.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published_date": "2026-11-16T17:00:00+00:00",
+      "summary": "OpenAI is revolutionizing scientific research by expanding its ChatGPT for Academic Researchers program, granting 200,000 researchers globally free access to cutting-edge AI models, thereby democratizing advanced technology and accelerating innovation in academia. This initiative not only enhances research capabilities but also fosters collaboration and knowledge sharing across disciplines.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "published_date": "2026-11-16T17:00:00+00:00",
+      "summary": "OpenAI has unveiled innovative tools and strategic partnerships aimed at significantly enhancing the prevention, detection, and response to online child sexual exploitation and abuse, marking a critical advancement in safeguarding vulnerable populations in the digital landscape. This initiative not only strengthens existing measures but also sets a new standard for collaborative efforts in combating this pervasive issue.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "published_date": "2026-11-16T16:00:51+00:00",
+      "summary": "Lambda is revolutionizing AI model training by enhancing network resiliency and efficiency through NVIDIA's cutting-edge co-packaged optics switches, enabling seamless connectivity for over 10,000 GPUs. This breakthrough not only optimizes performance but also sets a new standard for scalability in AI infrastructure.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "published_date": "2026-11-16T16:00:47+00:00",
+      "summary": "NVIDIA's expansion of Slurm to support quantum computing marks a significant leap in integrating quantum processors into supercomputing environments, enhancing the capabilities of nearly 30 global supercomputing centers that are rapidly adopting this transformative technology. This breakthrough not only streamlines scientific workloads but also paves the way for unprecedented computational power and innovation in research and development.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "published_date": "2026-11-16T16:00:25+00:00",
+      "summary": "NVIDIA's Vera Rubin platform has achieved a groundbreaking performance in its MLPerf benchmarks debut, sweeping all training categories and demonstrating over 10x improvements in energy efficiency for agentic AI, underscoring its potential to revolutionize AI training and deployment efficiency. This significant leap not only sets a new standard in the industry but also highlights NVIDIA's dominance in the rapidly evolving AI landscape.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "published_date": "2026-11-16T16:00:16+00:00",
+      "summary": "NVIDIA's expanded CUDA-X libraries, featuring cuPhoton, cuPotential, and cuSpa, empower researchers to dramatically accelerate scientific discovery across diverse fields by enabling faster data analysis and modeling of complex systems, ultimately transforming the pace of innovation in areas like astrophysics and biology. This breakthrough not only enhances the capabilities of AI agents but also significantly expands the potential for groundbreaking research outcomes.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "published_date": "2026-11-16T16:00:11+00:00",
+      "summary": "NVIDIA celebrates the 20th anniversary of CUDA, a groundbreaking platform that revolutionized scientific computing and artificial intelligence, highlighting its pivotal role in shaping modern research and technology through the contributions of countless innovators. This milestone underscores CUDA's enduring impact on the evolution of GPU computing as a cornerstone of contemporary scientific advancement.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "published_date": "2026-11-16T16:00:01+00:00",
+      "summary": "NVIDIA has unveiled the Rubin HPC GPU, a groundbreaking addition to the Vera Rubin platform that significantly accelerates simulations and data processing for scientific and engineering applications, enabling researchers to explore and validate new materials and designs more efficiently than ever before. This innovation is poised to transform workflows across multiple disciplines, enhancing the pace of discovery and innovation.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "US tightens AI chip export curbs to close China’s overseas data centre loophole",
+      "link": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
+      "published_date": "2026-11-16T15:46:42+00:00",
+      "summary": "The US has implemented stringent new export restrictions on advanced AI chips to prevent Chinese companies from circumventing existing controls via overseas data centres, a pivotal move that could significantly hinder China's access to critical AI computing resources and reshape the global tech landscape. This crackdown underscores the escalating tensions between the US and China over technology dominance and national security.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "published_date": "2026-11-16T14:00:00+00:00",
+      "summary": "Google AI has unveiled innovative Ask Maps features designed to enhance holiday travel planning by providing real-time, personalized information, making it easier for users to navigate and optimize their travel experiences. This breakthrough not only streamlines the journey but also transforms how travelers interact with their surroundings, ensuring a more enjoyable and efficient holiday season.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Apec CEOs seek common AI safeguards as adoption accelerates: Deloitte",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374612/apec-ceos-seek-common-ai-safeguards-adoption-accelerates-deloitte",
+      "published_date": "2026-11-16T12:00:10+00:00",
+      "summary": "As AI adoption accelerates, Apec CEOs are advocating for unified safeguards and cybersecurity measures to enhance trade, highlighting the urgency for cross-border cooperation amid China's push for collaboration with the U.S. at the upcoming summit. This breakthrough could reshape international AI governance and foster a more secure technological landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "published_date": "2026-11-16T12:00:00+00:00",
+      "summary": "A groundbreaking study reveals that over 1,800 scientists are leveraging ChatGPT to enhance their research workflows, significantly boosting productivity and reshaping expectations for future discoveries, highlighting the transformative potential of AI in scientific inquiry.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "The last klavern",
       "link": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters",
       "published_date": "2026-11-16T11:01:00+00:00",
@@ -226,10 +354,26 @@
       "category": "Aeon"
     },
     {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "published_date": "2026-11-16T09:30:00+00:00",
+      "summary": "Revolut is leveraging OpenAI's advanced models to dramatically reduce coding time by up to 60% while simultaneously enhancing its capabilities in financial crime investigations, showcasing a groundbreaking approach to innovation that maintains high security standards. This breakthrough not only streamlines operations but also sets a new benchmark for the fintech industry in balancing ambition with rigorous safety measures.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "link": "https://openai.com/index/lvmh-media-division-partnership",
       "published_date": "2026-11-16T09:00:00+00:00",
       "summary": "LVMH’s Media Division has forged a groundbreaking partnership with OpenAI to enhance journalism by leveraging AI, enabling greater accessibility to its publications through ChatGPT. This collaboration not only revolutionizes the way media engages with audiences but also sets a new standard for integrating advanced technology into the journalism landscape.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "published_date": "2026-11-16T08:00:00+00:00",
+      "summary": "OpenAI's launch of embedded assessments in collaboration with Apollo Research, METR, Transluce, and Goodfire marks a significant advancement in independently evaluating AI model alignment and safety measures, setting a new standard for accountability and transparency in artificial intelligence development. This initiative not only enhances trust in AI systems but also paves the way for more robust regulatory frameworks in the industry.",
       "source": "OpenAI",
       "category": "AI"
     },
@@ -240,54 +384,6 @@
       "summary": "Moonshot AI, a Chinese start-up, is positioning its Kimi models to compete with U.S. counterparts in transforming AI into a powerful tool for scientific discovery, particularly in biology, chemistry, and pharmaceuticals, potentially revolutionizing research methodologies and accelerating innovation in these critical fields.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Alibaba says new flagship AI model cuts task costs by 60% while tightening cyber guardrails",
-      "link": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
-      "published_date": "2026-11-16T03:56:53+00:00",
-      "summary": "Alibaba's launch of its flagship AI model, Qwen4-Max, which reduces task costs by 60% while implementing stringent cybersecurity measures, marks a significant advancement in balancing innovation with safety in the face of rising global AI-related security threats. This development underscores a pivotal shift in China's AI landscape, prioritizing responsible technology deployment amidst escalating concerns over cyberattacks.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Apple launches research study to explore the use of AI for health",
-      "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
-      "published_date": "2026-11-16T01:18:33+00:00",
-      "summary": "Apple's groundbreaking Health AI Usage Study aims to harness artificial intelligence to revolutionize health monitoring and management, potentially transforming how individuals engage with their health data and paving the way for smarter, more personalized healthcare solutions. This initiative underscores Apple's commitment to integrating cutting-edge technology into everyday health practices, promising significant advancements in patient outcomes and wellness.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-      "published_date": "2026-11-16T00:00:28+00:00",
-      "summary": "AI Day Seoul showcased Korea's burgeoning leadership in physical AI and AI agents, uniting over 2,000 industry leaders and startups to highlight the nation's innovative advancements and collaborative potential in the rapidly evolving tech landscape. This convergence not only underscores Korea's significant role in the global AI arena but also sets the stage for transformative developments in robotics and edge computing.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "published_date": "2026-11-16T00:00:00+00:00",
-      "summary": "The King’s Trust and OpenAI have initiated a groundbreaking £1 million partnership aimed at equipping up to 25,000 young individuals in the UK with essential AI skills, significantly enhancing their employability in a rapidly evolving job market. This initiative not only addresses the urgent demand for skilled workers in the AI sector but also empowers the next generation to thrive in a technology-driven economy.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "published_date": "2026-11-15T22:00:01+00:00",
-      "summary": "OpenAI's breakthrough in defining the Standard Model on a lattice, aided by GPT-6 Astra, marks a significant advancement in theoretical physics, potentially revolutionizing our understanding of fundamental particles and forces by providing a nonperturbative framework for complex quantum field theories. This development not only enhances computational techniques in particle physics but also opens new avenues for exploring the universe's foundational principles.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Our new blog for science",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "published_date": "2026-11-15T22:00:00+00:00",
-      "summary": "OpenAI's new science blog revolutionizes the intersection of AI and research by providing a platform for groundbreaking findings and practical methodologies, empowering scientists to leverage artificial intelligence in accelerating scientific discovery. This initiative not only democratizes access to cutting-edge research but also fosters collaboration and innovation within the scientific community.",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
