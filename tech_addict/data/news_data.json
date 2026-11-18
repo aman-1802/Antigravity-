@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T06:39:12.970246+00:00",
+  "last_updated": "2026-11-18T12:05:46.604839+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,12 +210,36 @@
       "category": "AI"
     },
     {
+      "title": "Dreams of birds",
+      "link": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs",
+      "published_date": "2026-11-18T11:01:00+00:00",
+      "summary": "• The extinction of bird songs symbolizes the erasure of cultural and ecological histories intertwined with nature.  \n• Reviving lost melodies serves as a poignant reminder of the fragility of biodiversity and the interconnectedness of life.  \n• The physicist's quest reflects a deeper yearning for harmony between humanity and the natural world, emphasizing our role as stewards.  \n• Each bird song carries a unique narrative, echoing the importance of preserving not just species, but the stories they tell.  \n• The endeavor to reclaim these melodies challenges us to confront our responsibility in safeguarding the planet's rich tapestry of life.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "US panel proposes tougher AI chip export rules ahead of Xi-Trump talks",
+      "link": "https://www.scmp.com/news/us/article/3374802/us-panel-proposes-tougher-ai-chip-export-rules-ahead-trump-xi-talks",
+      "published_date": "2026-11-18T10:45:05+00:00",
+      "summary": "A bipartisan US commission has proposed stringent new export rules for advanced AI chips to China, requiring companies to certify that these shipments won't compromise US manufacturing capacity, highlighting the escalating tension and strategic competition between the US and China ahead of high-stakes diplomatic talks. This breakthrough underscores the critical intersection of technology and national security, potentially reshaping global supply chains and geopolitical dynamics.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
       "title": "China’s ‘token export’ ambitions take shape with new Huawei-powered data centre",
       "link": "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre",
       "published_date": "2026-11-18T00:30:09+00:00",
       "summary": "China is positioning itself as a global leader in artificial intelligence by launching its first AI computing cluster powered by Huawei's Ascend 950DT chips, aimed at overseas customers and designed to facilitate a new \"token export\" business model. This breakthrough not only enhances China's technological capabilities but also signifies a strategic move to dominate the international AI market.",
       "source": "SCMP Tech",
       "category": "SCMP"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published_date": "2026-11-18T00:00:00+00:00",
+      "summary": "Le Groupe Figaro's partnership with OpenAI to integrate its journalism into ChatGPT marks a significant advancement in AI-driven news dissemination, enabling users to access curated summaries and excerpts while promoting original content. This collaboration not only enhances the user experience but also sets a precedent for the future of media and AI interaction.",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "Ignite 2026: Building the frontier ecosystem",
@@ -255,30 +279,6 @@
       "published_date": "2026-11-17T14:00:10+00:00",
       "summary": "NVIDIA has unveiled groundbreaking tools for AI agents that can autonomously plan experiments, execute code, and validate results, marking a significant leap in scientific research capabilities. This innovation not only enhances efficiency but also empowers researchers to leverage advanced AI in their workflows, potentially transforming the landscape of scientific discovery.",
       "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Catwalks and crackdowns",
-      "link": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
-      "published_date": "2026-11-17T11:00:00+00:00",
-      "summary": "• In Tehran, women's fashion choices are a form of resistance, challenging societal norms and asserting individuality.  \n• The ‘art of presence’ embodies the power of visibility, where personal expression becomes a catalyst for social change.  \n• As women defy oppressive dress codes, they create a collective identity that transcends fear and repression.  \n• The movement underscores the profound connection between personal autonomy and broader societal transformation.  \n• Ultimately, the act of dressing freely becomes a powerful statement of agency in the face of authoritarianism.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
-      "link": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
-      "published_date": "2026-11-17T10:59:28+00:00",
-      "summary": "Apple Podcasts has awarded \"Baby, this is Keke Palmer\" the title of 2026 Show of the Year, recognizing its outstanding quality and significant cultural influence, marking a pivotal moment in the podcasting landscape. This accolade underscores the growing importance of podcasts as a medium for impactful storytelling and cultural discourse.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "published_date": "2026-11-17T08:00:00+00:00",
-      "summary": "OpenAI has launched ChatGPT for Sales, featuring a groundbreaking Sales plugin along with over 30 enhanced partner plugins that empower sales professionals to efficiently research prospects, craft compelling pitches, and seamlessly update their CRM, revolutionizing the sales process and driving deal closures like never before.",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
