@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T12:18:42.111650+00:00",
+  "last_updated": "2026-11-18T06:39:12.970246+00:00",
   "articles": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -210,6 +210,54 @@
       "category": "AI"
     },
     {
+      "title": "China’s ‘token export’ ambitions take shape with new Huawei-powered data centre",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre",
+      "published_date": "2026-11-18T00:30:09+00:00",
+      "summary": "China is positioning itself as a global leader in artificial intelligence by launching its first AI computing cluster powered by Huawei's Ascend 950DT chips, aimed at overseas customers and designed to facilitate a new \"token export\" business model. This breakthrough not only enhances China's technological capabilities but also signifies a strategic move to dominate the international AI market.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Ignite 2026: Building the frontier ecosystem",
+      "link": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+      "published_date": "2026-11-17T18:36:03+00:00",
+      "summary": "At Ignite 2026, Satya Nadella emphasized the urgent need to harness rapidly advancing technologies while simultaneously developing robust frameworks to manage their impact, marking a pivotal moment in shaping a sustainable digital future. This breakthrough approach not only highlights Microsoft's leadership in innovation but also sets the stage for transformative advancements across industries.",
+      "source": "Microsoft",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published_date": "2026-11-17T17:45:00+00:00",
+      "summary": "OpenAI's launch of GPT-6.2 Astra and Sol marks a significant advancement in AI capabilities, delivering enhanced professional outputs and coding efficiency at a reduced cost, thereby transforming the landscape of productivity tools across ChatGPT Work, Codex, and the API. This breakthrough not only elevates the quality of AI-generated content but also democratizes access to powerful computational tools for a broader range of users.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "published_date": "2026-11-17T17:00:00+00:00",
+      "summary": "Google AI's latest breakthrough, Gemini, introduces a user-friendly interface that prompts users with \"What can I get done for you?\" allowing for seamless task management and enhanced productivity, revolutionizing how individuals interact with AI to streamline their daily activities. This innovation not only simplifies user engagement but also signifies a major step towards making AI more accessible and functional in everyday life.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Formula 1® Las Vegas Grand Prix™ streams live on Apple TV this weekend",
+      "link": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/",
+      "published_date": "2026-11-17T16:59:36+00:00",
+      "summary": "Apple TV will stream the highly anticipated Formula 1® Heineken Las Vegas Grand Prix™ 2026 live, marking a significant expansion of its sports programming and positioning the platform as a key player in the competitive landscape of live sports broadcasting. This breakthrough not only enhances Apple's content offerings but also underscores the growing intersection of technology and premier sporting events, appealing to a broader audience and driving subscriber engagement.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "published_date": "2026-11-17T14:00:10+00:00",
+      "summary": "NVIDIA has unveiled groundbreaking tools for AI agents that can autonomously plan experiments, execute code, and validate results, marking a significant leap in scientific research capabilities. This innovation not only enhances efficiency but also empowers researchers to leverage advanced AI in their workflows, potentially transforming the landscape of scientific discovery.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
       "title": "Catwalks and crackdowns",
       "link": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
       "published_date": "2026-11-17T11:00:00+00:00",
@@ -226,115 +274,11 @@
       "category": "AI"
     },
     {
-      "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
-      "link": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion",
-      "published_date": "2026-11-17T09:28:16+00:00",
-      "summary": "The U.S. Justice Department is investigating Singapore-based Megaspeed, a customer of Nvidia, for potential violations of chip export controls, highlighting growing concerns over the diversion of sensitive semiconductors amid escalating global tech tensions. This probe underscores the critical importance of safeguarding advanced technology in an increasingly competitive and security-focused landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "published_date": "2026-11-17T00:00:00+00:00",
-      "summary": "OpenAI is collaborating with NATO and allied cyber agencies to leverage artificial intelligence for identifying vulnerabilities and enhancing defenses, a critical advancement that promises to bolster the security of essential systems against increasingly sophisticated cyber threats. This partnership not only strengthens collective cybersecurity but also sets a precedent for the integration of AI in national defense strategies.",
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "published_date": "2026-11-17T08:00:00+00:00",
+      "summary": "OpenAI has launched ChatGPT for Sales, featuring a groundbreaking Sales plugin along with over 30 enhanced partner plugins that empower sales professionals to efficiently research prospects, craft compelling pitches, and seamlessly update their CRM, revolutionizing the sales process and driving deal closures like never before.",
       "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-      "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-      "published_date": "2026-11-16T23:00:05+00:00",
-      "summary": "NVIDIA's DGX Spark HPC Developer Kit transforms ordinary workspaces into powerful supercomputing labs, enabling researchers and developers to harness unprecedented computational capabilities for advanced scientific exploration and innovation. This breakthrough not only democratizes access to high-performance computing but also accelerates the pace of discovery across various fields.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-      "published_date": "2026-11-16T20:00:37+00:00",
-      "summary": "NVIDIA's innovative supply chain, spearheaded by Deb Shoquist, is revolutionizing the AI landscape by enabling the rapid introduction of cutting-edge technologies, ensuring the company remains at the forefront of the industry and shaping the future of artificial intelligence. This breakthrough not only enhances NVIDIA's competitive edge but also accelerates advancements across various sectors reliant on AI solutions.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "published_date": "2026-11-16T17:00:00+00:00",
-      "summary": "OpenAI is revolutionizing scientific research by expanding its ChatGPT for Academic Researchers program, granting 200,000 researchers globally free access to cutting-edge AI models, thereby democratizing advanced technology and accelerating innovation in academia. This initiative not only enhances research capabilities but also fosters collaboration and knowledge sharing across disciplines.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "published_date": "2026-11-16T17:00:00+00:00",
-      "summary": "OpenAI has unveiled innovative tools and strategic partnerships aimed at significantly enhancing the prevention, detection, and response to online child sexual exploitation and abuse, marking a critical advancement in safeguarding vulnerable populations in the digital landscape. This initiative not only strengthens existing measures but also sets a new standard for collaborative efforts in combating this pervasive issue.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
-      "published_date": "2026-11-16T16:00:51+00:00",
-      "summary": "Lambda is revolutionizing AI model training by enhancing network resiliency and efficiency through NVIDIA's cutting-edge co-packaged optics switches, enabling seamless connectivity for over 10,000 GPUs. This breakthrough not only optimizes performance but also sets a new standard for scalability in AI infrastructure.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-      "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-      "published_date": "2026-11-16T16:00:47+00:00",
-      "summary": "NVIDIA's expansion of Slurm to support quantum computing marks a significant leap in integrating quantum processors into supercomputing environments, enhancing the capabilities of nearly 30 global supercomputing centers that are rapidly adopting this transformative technology. This breakthrough not only streamlines scientific workloads but also paves the way for unprecedented computational power and innovation in research and development.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-      "published_date": "2026-11-16T16:00:25+00:00",
-      "summary": "NVIDIA's Vera Rubin platform has achieved a groundbreaking performance in its MLPerf benchmarks debut, sweeping all training categories and demonstrating over 10x improvements in energy efficiency for agentic AI, underscoring its potential to revolutionize AI training and deployment efficiency. This significant leap not only sets a new standard in the industry but also highlights NVIDIA's dominance in the rapidly evolving AI landscape.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-      "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-      "published_date": "2026-11-16T16:00:16+00:00",
-      "summary": "NVIDIA's expanded CUDA-X libraries, featuring cuPhoton, cuPotential, and cuSpa, empower researchers to dramatically accelerate scientific discovery across diverse fields by enabling faster data analysis and modeling of complex systems, ultimately transforming the pace of innovation in areas like astrophysics and biology. This breakthrough not only enhances the capabilities of AI agents but also significantly expands the potential for groundbreaking research outcomes.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-      "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
-      "published_date": "2026-11-16T16:00:11+00:00",
-      "summary": "NVIDIA celebrates the 20th anniversary of CUDA, a groundbreaking platform that revolutionized scientific computing and artificial intelligence, highlighting its pivotal role in shaping modern research and technology through the contributions of countless innovators. This milestone underscores CUDA's enduring impact on the evolution of GPU computing as a cornerstone of contemporary scientific advancement.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
-      "published_date": "2026-11-16T16:00:01+00:00",
-      "summary": "NVIDIA has unveiled the Rubin HPC GPU, a groundbreaking addition to the Vera Rubin platform that significantly accelerates simulations and data processing for scientific and engineering applications, enabling researchers to explore and validate new materials and designs more efficiently than ever before. This innovation is poised to transform workflows across multiple disciplines, enhancing the pace of discovery and innovation.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "US tightens AI chip export curbs to close China’s overseas data centre loophole",
-      "link": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
-      "published_date": "2026-11-16T15:46:42+00:00",
-      "summary": "The US has implemented stringent new export restrictions on advanced AI chips to prevent Chinese companies from circumventing existing controls via overseas data centres, a pivotal move that could significantly hinder China's access to critical AI computing resources and reshape the global tech landscape. This crackdown underscores the escalating tensions between the US and China over technology dominance and national security.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "published_date": "2026-11-16T14:00:00+00:00",
-      "summary": "Google AI has unveiled innovative Ask Maps features designed to enhance holiday travel planning by providing real-time, personalized information, making it easier for users to navigate and optimize their travel experiences. This breakthrough not only streamlines the journey but also transforms how travelers interact with their surroundings, ensuring a more enjoyable and efficient holiday season.",
-      "source": "Google AI",
       "category": "AI"
     }
   ]
