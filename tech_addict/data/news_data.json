@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T06:41:08.014038+00:00",
+  "last_updated": "2026-11-19T12:00:30.633467+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -210,19 +210,27 @@
       "category": "AI"
     },
     {
+      "title": "Wunderkammer",
+      "link": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
+      "published_date": "2026-11-19T11:01:00+00:00",
+      "summary": "• Wunderkammer, or \"cabinets of curiosities,\" reflect humanity's insatiable desire to categorize and understand the unknown.  \n• These collections served as a microcosm of the early modern worldview, blending science, art, and the mystical.  \n• The juxtaposition of natural wonders and fabricated artifacts challenges our perceptions of reality and authenticity.  \n• Such assemblages reveal the historical interplay between exploration, knowledge, and the imagination in shaping cultural narratives.  \n• Ultimately, Wunderkammer invites us to ponder the boundaries of curiosity and the endless quest for meaning in a complex world.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "At least it remembers",
+      "link": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+      "published_date": "2026-11-19T11:00:00+00:00",
+      "summary": "• The anxiety surrounding AI's influence on children reflects deeper societal fears about stability and connection.  \n• For many, AI serves as a consistent companion in an increasingly unpredictable world, raising questions about emotional reliance.  \n• The juxtaposition of parental fears and children's attachment to AI highlights a profound shift in familial dynamics and trust.  \n• This reliance on AI prompts a philosophical inquiry into the nature of companionship and what it means to be truly present.  \n• Ultimately, the essay challenges us to reconsider the essence of human relationships in the age of artificial intelligence.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
       "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
       "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
       "published_date": "2026-11-19T05:30:07+00:00",
       "summary": "Anthropic's unprecedented US$81.3 billion IPO positions the US AI leader to aggressively challenge lower-cost Chinese competitors, significantly intensifying the global AI market dynamics and valuation pressures. This financial boost not only enhances Anthropic's competitive edge but also signals a pivotal shift in the ongoing AI price war.",
       "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US-China science ties fray as visa hurdles and security scrutiny grow",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3374973/us-china-science-ties-fray-visa-hurdles-and-security-scrutiny-grow",
-      "published_date": "2026-11-19T01:00:10+00:00",
-      "summary": "The growing visa hurdles and heightened security scrutiny between the US and China are jeopardizing vital scientific collaborations, as exemplified by the limited participation of Chinese researchers in key neuroscience conferences, which could stifle innovation and global knowledge exchange in critical fields. This breakdown in academic ties not only impacts individual researchers but also threatens the broader landscape of international scientific progress.",
-      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
@@ -248,78 +256,6 @@
       "summary": "Apple's announcement of the 2026 App Store Award finalists highlights 45 groundbreaking developers whose innovative apps and games are setting new standards in the industry, underscoring the platform's commitment to fostering creativity and excellence in digital experiences. This recognition not only elevates the developers but also signals the evolving landscape of mobile technology and user engagement.",
       "source": "Apple",
       "category": "AI"
-    },
-    {
-      "title": "Dreams of birds",
-      "link": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs",
-      "published_date": "2026-11-18T11:01:00+00:00",
-      "summary": "• The extinction of bird songs symbolizes the erasure of cultural and ecological histories intertwined with nature.  \n• Reviving lost melodies serves as a poignant reminder of the fragility of biodiversity and the interconnectedness of life.  \n• The physicist's quest reflects a deeper yearning for harmony between humanity and the natural world, emphasizing our role as stewards.  \n• Each bird song carries a unique narrative, echoing the importance of preserving not just species, but the stories they tell.  \n• The endeavor to reclaim these melodies challenges us to confront our responsibility in safeguarding the planet's rich tapestry of life.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "US panel proposes tougher AI chip export rules ahead of Xi-Trump talks",
-      "link": "https://www.scmp.com/news/us/article/3374802/us-panel-proposes-tougher-ai-chip-export-rules-ahead-trump-xi-talks",
-      "published_date": "2026-11-18T10:45:05+00:00",
-      "summary": "A bipartisan US commission has proposed stringent new export rules for advanced AI chips to China, requiring companies to certify that these shipments won't compromise US manufacturing capacity, highlighting the escalating tension and strategic competition between the US and China ahead of high-stakes diplomatic talks. This breakthrough underscores the critical intersection of technology and national security, potentially reshaping global supply chains and geopolitical dynamics.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "The Silent Consensus",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "published_date": "2026-11-18T10:00:00+00:00",
-      "summary": "In \"The Silent Consensus,\" Dean Ball from OpenAI reveals a pivotal shift in the dialogue surrounding advanced AI, emphasizing the urgent need for societal frameworks that ensure human oversight and control over increasingly powerful technologies, which could redefine our institutions and governance. This breakthrough underscores the critical intersection of innovation and ethics, highlighting the necessity for proactive measures to safeguard democratic values in an AI-driven future.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Xi touts China AI amid Shenzhen’s tech showcase",
-      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3374891/xi-touts-china-ai-amid-shenzhens-tech-showcase",
-      "published_date": "2026-11-18T09:05:41+00:00",
-      "summary": "Chinese President Xi Jinping emphasized the importance of collaboration in trade and technology during Shenzhen's tech showcase, positioning China's advancements in AI as a counter to U.S. restrictions on high-end computer chips, which underscores the growing geopolitical stakes in the global tech landscape. This commitment to multilateralism and innovation highlights China's strategic intent to maintain its technological leadership despite external pressures.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "Xi Jinping urges South Korea to cooperate with China on AI and supply chains",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3374885/xi-jinping-urges-south-korea-cooperate-china-ai-and-supply-chains",
-      "published_date": "2026-11-18T08:42:47+00:00",
-      "summary": "Chinese President Xi Jinping's call for South Korea to collaborate on artificial intelligence and supply chains marks a pivotal moment in fostering regional economic stability and technological advancement, potentially reshaping global trade dynamics and innovation landscapes. This partnership could enhance resilience against supply chain disruptions while positioning both nations at the forefront of emerging tech industries.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published_date": "2026-11-18T08:00:00+00:00",
-      "summary": "OpenAI's latest research reveals that coding agents are significantly accelerating AI development, though their inconsistent performance highlights critical challenges in achieving recursive self-improvement, underscoring both the potential and limitations of AI-driven innovation. This breakthrough could reshape the future of AI research by identifying pathways for more effective agent collaboration and optimization.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "published_date": "2026-11-18T08:00:00+00:00",
-      "summary": "Sumitomo Life's strategic integration of ChatGPT Enterprise has revolutionized its operational efficiency by enabling teams to conduct in-depth research, streamline proposal preparation, and automate investment analysis coding, showcasing how executive leadership can catalyze transformative technology adoption in the insurance sector. This breakthrough not only enhances productivity but also positions Sumitomo Life at the forefront of innovation in a traditionally conservative industry.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "link": "https://openai.com/index/inside-the-codex-sandbox",
-      "published_date": "2026-11-18T08:00:00+00:00",
-      "summary": "OpenAI's Codex sandbox represents a groundbreaking advancement in AI by enabling developers to execute commands on their machines with strict control over filesystem and network access, enhancing security and flexibility across multiple operating systems. This innovation not only empowers developers to leverage AI capabilities safely but also sets a new standard for secure AI integration in software development.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Chinese spaceplanes’ global reach, a study on erectile dysfunction: 7 science highlights",
-      "link": "https://www.scmp.com/news/china/science/article/3374870/chinese-spaceplanes-global-reach-study-erectile-dysfunction-7-science-highlights",
-      "published_date": "2026-11-18T07:45:05+00:00",
-      "summary": "A recent study reveals that China’s fleet of 40 spaceplanes can strike any target on Earth within minutes, showcasing a significant leap in military capabilities that could alter global power dynamics. This breakthrough underscores the growing importance of advanced aerospace technology in national security and international relations.",
-      "source": "China News",
-      "category": "SCMP"
     }
   ]
 }
