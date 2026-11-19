@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-11-18T12:05:46.604839+00:00",
+  "last_updated": "2026-11-19T06:41:08.014038+00:00",
   "articles": [
-    {
-      "title": "Partnering with Accenture on embedded evaluation",
-      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "published_date": "2026-10-21T03:57:47.714974+00:00",
-      "summary": "Anthropic has partnered with Accenture to introduce embedded evaluation, a groundbreaking approach that enhances AI model assessments in real-time, significantly improving the reliability and safety of AI deployments across industries. This collaboration not only sets a new standard for AI evaluation but also empowers organizations to adopt AI technologies with greater confidence and accountability.",
-      "source": "Anthropic",
-      "category": "AI"
-    },
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "link": "https://www.anthropic.com/news/barclays-scales-claude",
@@ -178,6 +170,14 @@
       "category": "AI"
     },
     {
+      "title": "Anthropic prices initial public offering",
+      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "published_date": "2026-11-19T06:40:53.559183+00:00",
+      "summary": "Anthropic has set the stage for its initial public offering, marking a significant milestone in the AI sector as it seeks to capitalize on its advancements in artificial intelligence and secure funding to further innovate in a rapidly evolving market. This IPO not only underscores the growing investor confidence in AI technologies but also positions Anthropic as a key player in shaping the future of intelligent systems.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
       "title": "Features",
       "link": "https://www.anthropic.com/news/features",
       "published_date": "2026-10-21T03:57:47.714401+00:00",
@@ -210,6 +210,46 @@
       "category": "AI"
     },
     {
+      "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
+      "published_date": "2026-11-19T05:30:07+00:00",
+      "summary": "Anthropic's unprecedented US$81.3 billion IPO positions the US AI leader to aggressively challenge lower-cost Chinese competitors, significantly intensifying the global AI market dynamics and valuation pressures. This financial boost not only enhances Anthropic's competitive edge but also signals a pivotal shift in the ongoing AI price war.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "US-China science ties fray as visa hurdles and security scrutiny grow",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374973/us-china-science-ties-fray-visa-hurdles-and-security-scrutiny-grow",
+      "published_date": "2026-11-19T01:00:10+00:00",
+      "summary": "The growing visa hurdles and heightened security scrutiny between the US and China are jeopardizing vital scientific collaborations, as exemplified by the limited participation of Chinese researchers in key neuroscience conferences, which could stifle innovation and global knowledge exchange in critical fields. This breakdown in academic ties not only impacts individual researchers but also threatens the broader landscape of international scientific progress.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "published_date": "2026-11-18T17:00:00+00:00",
+      "summary": "Google's Gemini app has made a significant breakthrough by expanding its accessibility to lower-memory Android devices, enabling users to leverage advanced features like Gemini Live and custom image creation directly from their smartphones, thereby democratizing access to cutting-edge AI technology. This move not only enhances user engagement but also positions Google at the forefront of making sophisticated AI tools available to a broader audience.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "published_date": "2026-11-18T14:00:31+00:00",
+      "summary": "NVIDIA's launch of RTX Spark compact desktops revolutionizes local AI capabilities by enabling powerful image and video generation, model fine-tuning, and the use of extensive unified memory, making advanced AI tools accessible on dedicated Windows PCs for creators and developers. This breakthrough not only enhances productivity but also democratizes cutting-edge AI technology for a broader audience.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Meet the 2026 App Store Award finalists",
+      "link": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+      "published_date": "2026-11-18T13:59:20+00:00",
+      "summary": "Apple's announcement of the 2026 App Store Award finalists highlights 45 groundbreaking developers whose innovative apps and games are setting new standards in the industry, underscoring the platform's commitment to fostering creativity and excellence in digital experiences. This recognition not only elevates the developers but also signals the evolving landscape of mobile technology and user engagement.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
       "title": "Dreams of birds",
       "link": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs",
       "published_date": "2026-11-18T11:01:00+00:00",
@@ -226,60 +266,60 @@
       "category": "SCMP"
     },
     {
-      "title": "China’s ‘token export’ ambitions take shape with new Huawei-powered data centre",
-      "link": "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre",
-      "published_date": "2026-11-18T00:30:09+00:00",
-      "summary": "China is positioning itself as a global leader in artificial intelligence by launching its first AI computing cluster powered by Huawei's Ascend 950DT chips, aimed at overseas customers and designed to facilitate a new \"token export\" business model. This breakthrough not only enhances China's technological capabilities but also signifies a strategic move to dominate the international AI market.",
-      "source": "SCMP Tech",
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "published_date": "2026-11-18T10:00:00+00:00",
+      "summary": "In \"The Silent Consensus,\" Dean Ball from OpenAI reveals a pivotal shift in the dialogue surrounding advanced AI, emphasizing the urgent need for societal frameworks that ensure human oversight and control over increasingly powerful technologies, which could redefine our institutions and governance. This breakthrough underscores the critical intersection of innovation and ethics, highlighting the necessity for proactive measures to safeguard democratic values in an AI-driven future.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Xi touts China AI amid Shenzhen’s tech showcase",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3374891/xi-touts-china-ai-amid-shenzhens-tech-showcase",
+      "published_date": "2026-11-18T09:05:41+00:00",
+      "summary": "Chinese President Xi Jinping emphasized the importance of collaboration in trade and technology during Shenzhen's tech showcase, positioning China's advancements in AI as a counter to U.S. restrictions on high-end computer chips, which underscores the growing geopolitical stakes in the global tech landscape. This commitment to multilateralism and innovation highlights China's strategic intent to maintain its technological leadership despite external pressures.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "published_date": "2026-11-18T00:00:00+00:00",
-      "summary": "Le Groupe Figaro's partnership with OpenAI to integrate its journalism into ChatGPT marks a significant advancement in AI-driven news dissemination, enabling users to access curated summaries and excerpts while promoting original content. This collaboration not only enhances the user experience but also sets a precedent for the future of media and AI interaction.",
+      "title": "Xi Jinping urges South Korea to cooperate with China on AI and supply chains",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374885/xi-jinping-urges-south-korea-cooperate-china-ai-and-supply-chains",
+      "published_date": "2026-11-18T08:42:47+00:00",
+      "summary": "Chinese President Xi Jinping's call for South Korea to collaborate on artificial intelligence and supply chains marks a pivotal moment in fostering regional economic stability and technological advancement, potentially reshaping global trade dynamics and innovation landscapes. This partnership could enhance resilience against supply chain disruptions while positioning both nations at the forefront of emerging tech industries.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published_date": "2026-11-18T08:00:00+00:00",
+      "summary": "OpenAI's latest research reveals that coding agents are significantly accelerating AI development, though their inconsistent performance highlights critical challenges in achieving recursive self-improvement, underscoring both the potential and limitations of AI-driven innovation. This breakthrough could reshape the future of AI research by identifying pathways for more effective agent collaboration and optimization.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Ignite 2026: Building the frontier ecosystem",
-      "link": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
-      "published_date": "2026-11-17T18:36:03+00:00",
-      "summary": "At Ignite 2026, Satya Nadella emphasized the urgent need to harness rapidly advancing technologies while simultaneously developing robust frameworks to manage their impact, marking a pivotal moment in shaping a sustainable digital future. This breakthrough approach not only highlights Microsoft's leadership in innovation but also sets the stage for transformative advancements across industries.",
-      "source": "Microsoft",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "published_date": "2026-11-17T17:45:00+00:00",
-      "summary": "OpenAI's launch of GPT-6.2 Astra and Sol marks a significant advancement in AI capabilities, delivering enhanced professional outputs and coding efficiency at a reduced cost, thereby transforming the landscape of productivity tools across ChatGPT Work, Codex, and the API. This breakthrough not only elevates the quality of AI-generated content but also democratizes access to powerful computational tools for a broader range of users.",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published_date": "2026-11-18T08:00:00+00:00",
+      "summary": "Sumitomo Life's strategic integration of ChatGPT Enterprise has revolutionized its operational efficiency by enabling teams to conduct in-depth research, streamline proposal preparation, and automate investment analysis coding, showcasing how executive leadership can catalyze transformative technology adoption in the insurance sector. This breakthrough not only enhances productivity but also positions Sumitomo Life at the forefront of innovation in a traditionally conservative industry.",
       "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Put Gemini to work for you",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "published_date": "2026-11-17T17:00:00+00:00",
-      "summary": "Google AI's latest breakthrough, Gemini, introduces a user-friendly interface that prompts users with \"What can I get done for you?\" allowing for seamless task management and enhanced productivity, revolutionizing how individuals interact with AI to streamline their daily activities. This innovation not only simplifies user engagement but also signifies a major step towards making AI more accessible and functional in everyday life.",
-      "source": "Google AI",
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "published_date": "2026-11-18T08:00:00+00:00",
+      "summary": "OpenAI's Codex sandbox represents a groundbreaking advancement in AI by enabling developers to execute commands on their machines with strict control over filesystem and network access, enhancing security and flexibility across multiple operating systems. This innovation not only empowers developers to leverage AI capabilities safely but also sets a new standard for secure AI integration in software development.",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
-      "title": "Formula 1® Las Vegas Grand Prix™ streams live on Apple TV this weekend",
-      "link": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/",
-      "published_date": "2026-11-17T16:59:36+00:00",
-      "summary": "Apple TV will stream the highly anticipated Formula 1® Heineken Las Vegas Grand Prix™ 2026 live, marking a significant expansion of its sports programming and positioning the platform as a key player in the competitive landscape of live sports broadcasting. This breakthrough not only enhances Apple's content offerings but also underscores the growing intersection of technology and premier sporting events, appealing to a broader audience and driving subscriber engagement.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "published_date": "2026-11-17T14:00:10+00:00",
-      "summary": "NVIDIA has unveiled groundbreaking tools for AI agents that can autonomously plan experiments, execute code, and validate results, marking a significant leap in scientific research capabilities. This innovation not only enhances efficiency but also empowers researchers to leverage advanced AI in their workflows, potentially transforming the landscape of scientific discovery.",
-      "source": "NVIDIA",
-      "category": "AI"
+      "title": "Chinese spaceplanes’ global reach, a study on erectile dysfunction: 7 science highlights",
+      "link": "https://www.scmp.com/news/china/science/article/3374870/chinese-spaceplanes-global-reach-study-erectile-dysfunction-7-science-highlights",
+      "published_date": "2026-11-18T07:45:05+00:00",
+      "summary": "A recent study reveals that China’s fleet of 40 spaceplanes can strike any target on Earth within minutes, showcasing a significant leap in military capabilities that could alter global power dynamics. This breakthrough underscores the growing importance of advanced aerospace technology in national security and international relations.",
+      "source": "China News",
+      "category": "SCMP"
     }
   ]
 }
