@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T06:28:32.087138+00:00",
+  "last_updated": "2026-11-20T12:01:36.443582+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -210,6 +210,30 @@
       "category": "AI"
     },
     {
+      "title": "My grandmother was a seal",
+      "link": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+      "published_date": "2026-11-20T11:00:00+00:00",
+      "summary": "• The myth of selkies reflects a deep-seated connection between humanity and nature, intertwining identity with the wild.  \n• These narratives expose the emotional turbulence of familial bonds, revealing how love can be both nurturing and destructive.  \n• The selkie legend serves as a metaphor for the struggle between human desires and the primal forces of the natural world.  \n• By exploring these stories, we confront the complexities of our ancestry and the haunting echoes of loss and longing within it.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3375211/fighting-ai-ai-how-chinese-cybersecurity-giant-defending-against-new-hacks",
+      "published_date": "2026-11-20T08:03:42+00:00",
+      "summary": "A Chinese cybersecurity giant is leveraging artificial intelligence to combat the rising tide of AI-enabled cyberattacks, a critical development underscored by recent high-level discussions between global leaders on establishing safeguards for AI technologies. This breakthrough is vital as it addresses the urgent need for enhanced security measures in an increasingly digital world where both financial institutions and governments are under threat.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "US Congress releases list of Chinese firms seeking Nvidia chips",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3375135/us-congress-releases-list-chinese-firms-seeking-nvidia-chips",
+      "published_date": "2026-11-19T23:46:10+00:00",
+      "summary": "The US Congress has unveiled confidential license applications from Chinese firms seeking advanced AI chips from Nvidia and AMD, marking a significant shift in transparency regarding export controls and raising concerns about the potential implications for national security and technological competition. This unprecedented disclosure could reshape the landscape of international tech trade and influence future regulatory measures.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
       "published_date": "2026-11-19T20:00:15+00:00",
@@ -255,46 +279,6 @@
       "published_date": "2026-11-19T14:00:12+00:00",
       "summary": "NVIDIA's GeForce NOW is launching Black Friday with a 30% discount on six-month memberships, making high-performance cloud gaming more accessible and affordable just in time for the holiday season. This move not only enhances the gaming experience for users but also positions NVIDIA as a leader in the competitive cloud gaming market.",
       "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "China’s abundant electricity is not yet a decisive AI edge",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3374771/chinas-abundant-electricity-not-yet-decisive-ai-edge",
-      "published_date": "2026-11-19T12:30:07+00:00",
-      "summary": "China's vast electricity resources are seen as a potential advantage in the AI race, yet the country's increasing challenges in accessing advanced chips due to U.S. export controls and leadership changes at Nvidia may undermine this edge, highlighting the complex interplay between energy and technology in global competitiveness.",
-      "source": "SCMP China Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Wunderkammer",
-      "link": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
-      "published_date": "2026-11-19T11:01:00+00:00",
-      "summary": "• Wunderkammer, or \"cabinets of curiosities,\" reflect humanity's insatiable desire to categorize and understand the unknown.  \n• These collections served as a microcosm of the early modern worldview, blending science, art, and the mystical.  \n• The juxtaposition of natural wonders and fabricated artifacts challenges our perceptions of reality and authenticity.  \n• Such assemblages reveal the historical interplay between exploration, knowledge, and the imagination in shaping cultural narratives.  \n• Ultimately, Wunderkammer invites us to ponder the boundaries of curiosity and the endless quest for meaning in a complex world.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Alibaba accelerates pivot to in-house chips after reporting jump in sales",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
-      "published_date": "2026-11-19T11:00:22+00:00",
-      "summary": "Alibaba is making a significant shift towards in-house chip production, leveraging its own domestically developed microchips to enhance its AI capabilities, a move that underscores the company's commitment to innovation and self-sufficiency following a surprising increase in revenue and profit. This strategic pivot not only positions Alibaba as a leader in the tech industry but also highlights the growing importance of proprietary technology in driving competitive advantage.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "At least it remembers",
-      "link": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
-      "published_date": "2026-11-19T11:00:00+00:00",
-      "summary": "• The anxiety surrounding AI's influence on children reflects deeper societal fears about stability and connection.  \n• For many, AI serves as a consistent companion in an increasingly unpredictable world, raising questions about emotional reliance.  \n• The juxtaposition of parental fears and children's attachment to AI highlights a profound shift in familial dynamics and trust.  \n• This reliance on AI prompts a philosophical inquiry into the nature of companionship and what it means to be truly present.  \n• Ultimately, the essay challenges us to reconsider the essence of human relationships in the age of artificial intelligence.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "published_date": "2026-11-19T08:00:00+00:00",
-      "summary": "OpenAI's Performance Factory revolutionizes the optimization of ChatGPT by utilizing Codex-driven workflows to swiftly identify and resolve performance issues, ensuring users experience unparalleled speed and efficiency. This breakthrough not only enhances user satisfaction but also sets a new standard for AI responsiveness in an increasingly competitive landscape.",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
