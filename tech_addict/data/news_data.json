@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T12:00:30.633467+00:00",
+  "last_updated": "2026-11-20T06:28:32.087138+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -210,12 +210,76 @@
       "category": "AI"
     },
     {
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "published_date": "2026-11-19T20:00:15+00:00",
+      "summary": "NVIDIA and Microsoft are revolutionizing the landscape of intelligent application development by expanding their collaboration to deliver accelerated computing capabilities from Azure to Windows PCs, enabling organizations to harness cutting-edge infrastructure and enhance their operational efficiency. This breakthrough not only democratizes access to advanced computing resources but also empowers businesses to innovate and deploy solutions at an unprecedented scale.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "published_date": "2026-11-19T18:00:00+00:00",
+      "summary": "Google AI has unveiled Tool Retrieval in the Gemini API, a groundbreaking feature that enhances AI's ability to access and utilize external tools and data, significantly expanding its functionality and potential applications across various industries. This advancement not only streamlines workflows but also positions Gemini as a pivotal player in the evolution of intelligent systems.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "published_date": "2026-11-19T17:00:35+00:00",
+      "summary": "NVIDIA's latest innovation integrates frontier AI models with the Omniverse platform, enabling developers to seamlessly transform simulation concepts into functional applications, which revolutionizes design processes and enhances scenario exploration and failure analysis. This breakthrough not only streamlines development but also significantly elevates the potential for innovation across various industries.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "published_date": "2026-11-19T17:00:00+00:00",
+      "summary": "Walter Isaacson's collaboration with Google highlights how the insights from history's greatest innovators can shape creativity and enhance human judgment in the rapidly evolving landscape of artificial intelligence, underscoring the critical intersection of technology and human ingenuity. This dialogue not only emphasizes the importance of curiosity in driving innovation but also sets the stage for a future where AI complements rather than replaces human creativity.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
+      "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
+      "published_date": "2026-11-19T15:59:07+00:00",
+      "summary": "Apple TV will exclusively stream the groundbreaking all-female racing series F1 ACADEMY™ in the U.S. starting in 2027, marking a significant step towards promoting gender equality in motorsports and expanding the reach of women's sports. This partnership not only elevates the visibility of female athletes but also positions Apple as a key player in the evolving landscape of sports streaming.",
+      "source": "Apple",
+      "category": "AI"
+    },
+    {
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+      "published_date": "2026-11-19T14:00:12+00:00",
+      "summary": "NVIDIA's GeForce NOW is launching Black Friday with a 30% discount on six-month memberships, making high-performance cloud gaming more accessible and affordable just in time for the holiday season. This move not only enhances the gaming experience for users but also positions NVIDIA as a leader in the competitive cloud gaming market.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "China’s abundant electricity is not yet a decisive AI edge",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3374771/chinas-abundant-electricity-not-yet-decisive-ai-edge",
+      "published_date": "2026-11-19T12:30:07+00:00",
+      "summary": "China's vast electricity resources are seen as a potential advantage in the AI race, yet the country's increasing challenges in accessing advanced chips due to U.S. export controls and leadership changes at Nvidia may undermine this edge, highlighting the complex interplay between energy and technology in global competitiveness.",
+      "source": "SCMP China Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Wunderkammer",
       "link": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
       "published_date": "2026-11-19T11:01:00+00:00",
       "summary": "• Wunderkammer, or \"cabinets of curiosities,\" reflect humanity's insatiable desire to categorize and understand the unknown.  \n• These collections served as a microcosm of the early modern worldview, blending science, art, and the mystical.  \n• The juxtaposition of natural wonders and fabricated artifacts challenges our perceptions of reality and authenticity.  \n• Such assemblages reveal the historical interplay between exploration, knowledge, and the imagination in shaping cultural narratives.  \n• Ultimately, Wunderkammer invites us to ponder the boundaries of curiosity and the endless quest for meaning in a complex world.",
       "source": "Aeon Essays",
       "category": "Aeon"
+    },
+    {
+      "title": "Alibaba accelerates pivot to in-house chips after reporting jump in sales",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
+      "published_date": "2026-11-19T11:00:22+00:00",
+      "summary": "Alibaba is making a significant shift towards in-house chip production, leveraging its own domestically developed microchips to enhance its AI capabilities, a move that underscores the company's commitment to innovation and self-sufficiency following a surprising increase in revenue and profit. This strategic pivot not only positions Alibaba as a leader in the tech industry but also highlights the growing importance of proprietary technology in driving competitive advantage.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
     },
     {
       "title": "At least it remembers",
@@ -226,35 +290,11 @@
       "category": "Aeon"
     },
     {
-      "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
-      "published_date": "2026-11-19T05:30:07+00:00",
-      "summary": "Anthropic's unprecedented US$81.3 billion IPO positions the US AI leader to aggressively challenge lower-cost Chinese competitors, significantly intensifying the global AI market dynamics and valuation pressures. This financial boost not only enhances Anthropic's competitive edge but also signals a pivotal shift in the ongoing AI price war.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "published_date": "2026-11-18T17:00:00+00:00",
-      "summary": "Google's Gemini app has made a significant breakthrough by expanding its accessibility to lower-memory Android devices, enabling users to leverage advanced features like Gemini Live and custom image creation directly from their smartphones, thereby democratizing access to cutting-edge AI technology. This move not only enhances user engagement but also positions Google at the forefront of making sophisticated AI tools available to a broader audience.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-      "published_date": "2026-11-18T14:00:31+00:00",
-      "summary": "NVIDIA's launch of RTX Spark compact desktops revolutionizes local AI capabilities by enabling powerful image and video generation, model fine-tuning, and the use of extensive unified memory, making advanced AI tools accessible on dedicated Windows PCs for creators and developers. This breakthrough not only enhances productivity but also democratizes cutting-edge AI technology for a broader audience.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Meet the 2026 App Store Award finalists",
-      "link": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
-      "published_date": "2026-11-18T13:59:20+00:00",
-      "summary": "Apple's announcement of the 2026 App Store Award finalists highlights 45 groundbreaking developers whose innovative apps and games are setting new standards in the industry, underscoring the platform's commitment to fostering creativity and excellence in digital experiences. This recognition not only elevates the developers but also signals the evolving landscape of mobile technology and user engagement.",
-      "source": "Apple",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "published_date": "2026-11-19T08:00:00+00:00",
+      "summary": "OpenAI's Performance Factory revolutionizes the optimization of ChatGPT by utilizing Codex-driven workflows to swiftly identify and resolve performance issues, ensuring users experience unparalleled speed and efficiency. This breakthrough not only enhances user satisfaction but also sets a new standard for AI responsiveness in an increasingly competitive landscape.",
+      "source": "OpenAI",
       "category": "AI"
     }
   ]
