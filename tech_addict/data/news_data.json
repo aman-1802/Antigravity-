@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T06:19:56.886558+00:00",
+  "last_updated": "2026-11-21T11:36:32.602108+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -226,51 +226,11 @@
       "category": "SCMP"
     },
     {
-      "title": "Can China’s top-down military adapt to the speed of AI and drone warfare?",
-      "link": "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare",
-      "published_date": "2026-11-20T22:00:19+00:00",
-      "summary": "China's military is exploring a significant shift towards decentralizing battlefield decision-making in response to the rapid advancements in AI and drone warfare, aiming to enhance operational agility while maintaining centralized control over major strategies. This adaptation is crucial for effectively navigating the fast-paced dynamics of modern combat, as evidenced by lessons learned from the Ukraine conflict.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
-      "link": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
-      "published_date": "2026-11-20T13:05:33+00:00",
-      "summary": "The recent maritime security talks between the U.S. and China, held concurrently with high-stakes meetings between Presidents Xi Jinping and Donald Trump, signify a critical step towards mitigating tensions in the South China Sea, highlighting the urgent need for cooperation in an increasingly volatile geopolitical landscape. This breakthrough underscores the importance of dialogue in preventing conflicts and enhancing stability in international waters.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
       "title": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
       "link": "https://www.scmp.com/tech/tech-war/article/3375249/after-nvidia-will-amd-be-target-chinas-second-choice-ai-chips",
       "published_date": "2026-11-20T12:30:09+00:00",
       "summary": "AMD's stock has taken a significant hit amid concerns over its potential ties to blacklisted Chinese firms, raising fears that it could become the next target in the escalating U.S.-China tech conflict after Nvidia, which could have profound implications for the semiconductor industry and global supply chains. This situation underscores the fragility of tech companies navigating geopolitical tensions, as investors react swiftly to perceived risks.",
       "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "My grandmother was a seal",
-      "link": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
-      "published_date": "2026-11-20T11:00:00+00:00",
-      "summary": "• The myth of selkies reflects a deep-seated connection between humanity and nature, intertwining identity with the wild.  \n• These narratives expose the emotional turbulence of familial bonds, revealing how love can be both nurturing and destructive.  \n• The selkie legend serves as a metaphor for the struggle between human desires and the primal forces of the natural world.  \n• By exploring these stories, we confront the complexities of our ancestry and the haunting echoes of loss and longing within it.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "published_date": "2026-11-20T10:00:00+00:00",
-      "summary": "OpenAI has unveiled a groundbreaking layered strategy to combat adversarial distillation, integrating model training with robust safeguards and detection mechanisms to effectively thwart capability extraction, a critical advancement in safeguarding AI integrity and security. This innovation is pivotal as it enhances the resilience of AI systems against malicious exploitation, ensuring their safe deployment in sensitive applications.",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong",
-      "published_date": "2026-11-20T07:24:38+00:00",
-      "summary": "Chinese President Xi Jinping has called for enhanced AI collaboration with Southeast Asian leaders, emphasizing the need for innovation partnerships to counterbalance the growing technological influence of the United States, highlighting a pivotal moment in the escalating tech rivalry between the two superpowers.",
-      "source": "China News",
       "category": "SCMP"
     }
   ]
