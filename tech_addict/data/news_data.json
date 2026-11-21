@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T12:01:36.443582+00:00",
+  "last_updated": "2026-11-21T06:19:56.886558+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -178,6 +178,14 @@
       "category": "AI"
     },
     {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "link": "https://www.anthropic.com/news/ipo-close",
+      "published_date": "2026-11-21T06:19:47.003525+00:00",
+      "summary": "Anthropic has successfully completed its initial public offering, including the full exercise of underwriters' options, alongside a concurrent private placement, marking a significant milestone that underscores investor confidence in the company's AI-driven innovations and its potential to reshape the tech landscape. This breakthrough not only enhances Anthropic's financial position but also positions it as a formidable player in the rapidly evolving artificial intelligence sector.",
+      "source": "Anthropic",
+      "category": "AI"
+    },
+    {
       "title": "Features",
       "link": "https://www.anthropic.com/news/features",
       "published_date": "2026-10-21T03:57:47.714401+00:00",
@@ -210,6 +218,38 @@
       "category": "AI"
     },
     {
+      "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+      "published_date": "2026-11-21T01:00:13+00:00",
+      "summary": "Nvidia's dominance in the AI chip market is threatened as newly released US export permit data reveals that nearly 880,000 advanced chips were sold to Chinese tech firms, potentially driving these companies to shift their allegiance to AMD and hasten the development of domestic alternatives. This shift could reshape the competitive landscape of the semiconductor industry, highlighting vulnerabilities in Nvidia's market position.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Can China’s top-down military adapt to the speed of AI and drone warfare?",
+      "link": "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare",
+      "published_date": "2026-11-20T22:00:19+00:00",
+      "summary": "China's military is exploring a significant shift towards decentralizing battlefield decision-making in response to the rapid advancements in AI and drone warfare, aiming to enhance operational agility while maintaining centralized control over major strategies. This adaptation is crucial for effectively navigating the fast-paced dynamics of modern combat, as evidenced by lessons learned from the Ukraine conflict.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+      "link": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
+      "published_date": "2026-11-20T13:05:33+00:00",
+      "summary": "The recent maritime security talks between the U.S. and China, held concurrently with high-stakes meetings between Presidents Xi Jinping and Donald Trump, signify a critical step towards mitigating tensions in the South China Sea, highlighting the urgent need for cooperation in an increasingly volatile geopolitical landscape. This breakthrough underscores the importance of dialogue in preventing conflicts and enhancing stability in international waters.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
+      "title": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
+      "link": "https://www.scmp.com/tech/tech-war/article/3375249/after-nvidia-will-amd-be-target-chinas-second-choice-ai-chips",
+      "published_date": "2026-11-20T12:30:09+00:00",
+      "summary": "AMD's stock has taken a significant hit amid concerns over its potential ties to blacklisted Chinese firms, raising fears that it could become the next target in the escalating U.S.-China tech conflict after Nvidia, which could have profound implications for the semiconductor industry and global supply chains. This situation underscores the fragility of tech companies navigating geopolitical tensions, as investors react swiftly to perceived risks.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "My grandmother was a seal",
       "link": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
       "published_date": "2026-11-20T11:00:00+00:00",
@@ -218,68 +258,20 @@
       "category": "Aeon"
     },
     {
-      "title": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3375211/fighting-ai-ai-how-chinese-cybersecurity-giant-defending-against-new-hacks",
-      "published_date": "2026-11-20T08:03:42+00:00",
-      "summary": "A Chinese cybersecurity giant is leveraging artificial intelligence to combat the rising tide of AI-enabled cyberattacks, a critical development underscored by recent high-level discussions between global leaders on establishing safeguards for AI technologies. This breakthrough is vital as it addresses the urgent need for enhanced security measures in an increasingly digital world where both financial institutions and governments are under threat.",
-      "source": "SCMP Tech",
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "published_date": "2026-11-20T10:00:00+00:00",
+      "summary": "OpenAI has unveiled a groundbreaking layered strategy to combat adversarial distillation, integrating model training with robust safeguards and detection mechanisms to effectively thwart capability extraction, a critical advancement in safeguarding AI integrity and security. This innovation is pivotal as it enhances the resilience of AI systems against malicious exploitation, ensuring their safe deployment in sensitive applications.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong",
+      "published_date": "2026-11-20T07:24:38+00:00",
+      "summary": "Chinese President Xi Jinping has called for enhanced AI collaboration with Southeast Asian leaders, emphasizing the need for innovation partnerships to counterbalance the growing technological influence of the United States, highlighting a pivotal moment in the escalating tech rivalry between the two superpowers.",
+      "source": "China News",
       "category": "SCMP"
-    },
-    {
-      "title": "US Congress releases list of Chinese firms seeking Nvidia chips",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3375135/us-congress-releases-list-chinese-firms-seeking-nvidia-chips",
-      "published_date": "2026-11-19T23:46:10+00:00",
-      "summary": "The US Congress has unveiled confidential license applications from Chinese firms seeking advanced AI chips from Nvidia and AMD, marking a significant shift in transparency regarding export controls and raising concerns about the potential implications for national security and technological competition. This unprecedented disclosure could reshape the landscape of international tech trade and influence future regulatory measures.",
-      "source": "Diplomacy & Defence",
-      "category": "SCMP"
-    },
-    {
-      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-      "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "published_date": "2026-11-19T20:00:15+00:00",
-      "summary": "NVIDIA and Microsoft are revolutionizing the landscape of intelligent application development by expanding their collaboration to deliver accelerated computing capabilities from Azure to Windows PCs, enabling organizations to harness cutting-edge infrastructure and enhance their operational efficiency. This breakthrough not only democratizes access to advanced computing resources but also empowers businesses to innovate and deploy solutions at an unprecedented scale.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "published_date": "2026-11-19T18:00:00+00:00",
-      "summary": "Google AI has unveiled Tool Retrieval in the Gemini API, a groundbreaking feature that enhances AI's ability to access and utilize external tools and data, significantly expanding its functionality and potential applications across various industries. This advancement not only streamlines workflows but also positions Gemini as a pivotal player in the evolution of intelligent systems.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "published_date": "2026-11-19T17:00:35+00:00",
-      "summary": "NVIDIA's latest innovation integrates frontier AI models with the Omniverse platform, enabling developers to seamlessly transform simulation concepts into functional applications, which revolutionizes design processes and enhances scenario exploration and failure analysis. This breakthrough not only streamlines development but also significantly elevates the potential for innovation across various industries.",
-      "source": "NVIDIA",
-      "category": "AI"
-    },
-    {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "published_date": "2026-11-19T17:00:00+00:00",
-      "summary": "Walter Isaacson's collaboration with Google highlights how the insights from history's greatest innovators can shape creativity and enhance human judgment in the rapidly evolving landscape of artificial intelligence, underscoring the critical intersection of technology and human ingenuity. This dialogue not only emphasizes the importance of curiosity in driving innovation but also sets the stage for a future where AI complements rather than replaces human creativity.",
-      "source": "Google AI",
-      "category": "AI"
-    },
-    {
-      "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
-      "link": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
-      "published_date": "2026-11-19T15:59:07+00:00",
-      "summary": "Apple TV will exclusively stream the groundbreaking all-female racing series F1 ACADEMY™ in the U.S. starting in 2027, marking a significant step towards promoting gender equality in motorsports and expanding the reach of women's sports. This partnership not only elevates the visibility of female athletes but also positions Apple as a key player in the evolving landscape of sports streaming.",
-      "source": "Apple",
-      "category": "AI"
-    },
-    {
-      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-      "published_date": "2026-11-19T14:00:12+00:00",
-      "summary": "NVIDIA's GeForce NOW is launching Black Friday with a 30% discount on six-month memberships, making high-performance cloud gaming more accessible and affordable just in time for the holiday season. This move not only enhances the gaming experience for users but also positions NVIDIA as a leader in the competitive cloud gaming market.",
-      "source": "NVIDIA",
-      "category": "AI"
     }
   ]
 }
