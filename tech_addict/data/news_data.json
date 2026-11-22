@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T11:36:32.602108+00:00",
+  "last_updated": "2026-11-22T05:52:15.600484+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,19 +218,11 @@
       "category": "AI"
     },
     {
-      "title": "Nvidia faces further blow after shock US export permit data release: analysts",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
-      "published_date": "2026-11-21T01:00:13+00:00",
-      "summary": "Nvidia's dominance in the AI chip market is threatened as newly released US export permit data reveals that nearly 880,000 advanced chips were sold to Chinese tech firms, potentially driving these companies to shift their allegiance to AMD and hasten the development of domestic alternatives. This shift could reshape the competitive landscape of the semiconductor industry, highlighting vulnerabilities in Nvidia's market position.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
-      "link": "https://www.scmp.com/tech/tech-war/article/3375249/after-nvidia-will-amd-be-target-chinas-second-choice-ai-chips",
-      "published_date": "2026-11-20T12:30:09+00:00",
-      "summary": "AMD's stock has taken a significant hit amid concerns over its potential ties to blacklisted Chinese firms, raising fears that it could become the next target in the escalating U.S.-China tech conflict after Nvidia, which could have profound implications for the semiconductor industry and global supply chains. This situation underscores the fragility of tech companies navigating geopolitical tensions, as investors react swiftly to perceived risks.",
-      "source": "SCMP Tech",
+      "title": "China unveils space mining road map with a big move on the moon within 4 years",
+      "link": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
+      "published_date": "2026-11-21T12:00:06+00:00",
+      "summary": "China's ambitious space mining roadmap aims to establish lunar resource extraction capabilities by 2030, positioning the nation to potentially lead in extraterrestrial resource utilization and intensifying the competitive race with the US for lunar dominance. This breakthrough could revolutionize space exploration and resource management, making sustainable off-Earth living a tangible reality.",
+      "source": "China News",
       "category": "SCMP"
     }
   ]
