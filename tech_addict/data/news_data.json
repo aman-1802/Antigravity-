@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T11:50:26.237415+00:00",
+  "last_updated": "2026-11-23T06:39:40.485300+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,11 +218,19 @@
       "category": "AI"
     },
     {
-      "title": "China unveils space mining road map with a big move on the moon within 4 years",
-      "link": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
-      "published_date": "2026-11-21T12:00:06+00:00",
-      "summary": "China's ambitious space mining roadmap aims to establish lunar resource extraction capabilities by 2030, positioning the nation to potentially lead in extraterrestrial resource utilization and intensifying the competitive race with the US for lunar dominance. This breakthrough could revolutionize space exploration and resource management, making sustainable off-Earth living a tangible reality.",
-      "source": "China News",
+      "title": "China’s memory chipmakers are catching up to industry leaders. What happens when they do?",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375363/chinas-memory-chipmakers-are-catching-industry-leaders-what-happens-when-they-do",
+      "published_date": "2026-11-23T02:00:16+00:00",
+      "summary": "China's memory chipmakers, propelled by a surge in artificial intelligence demand, are rapidly closing the gap with global leaders, raising critical questions about the future of the semiconductor industry as market dynamics shift amidst signs of a potential slowdown. This breakthrough in self-sufficiency not only enhances China's technological prowess but also poses significant implications for global supply chains and competition.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
+      "published_date": "2026-11-22T13:30:07+00:00",
+      "summary": "Tencent's latest AI model, Hy4, has undergone independent safety assessments, marking a significant milestone as the first instance of a major Chinese tech firm collaborating with third-party evaluators to address risks associated with AI, particularly in light of rising concerns over cyberattacks and biological misuse. This breakthrough underscores Tencent's commitment to developing safer AI systems and sets a new standard for accountability in the tech industry.",
+      "source": "SCMP Tech",
       "category": "SCMP"
     }
   ]
