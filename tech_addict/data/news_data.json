@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T06:39:40.485300+00:00",
+  "last_updated": "2026-11-23T13:30:10.349974+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,6 +218,30 @@
       "category": "AI"
     },
     {
+      "title": "The wind and the song: the treachery of AI",
+      "link": "https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable",
+      "published_date": "2026-11-23T11:01:00+00:00",
+      "summary": "• The evolution of AI challenges our understanding of what it means to be human in a world where machines mimic our thoughts and emotions.  \n• As technology advances, the line between human creativity and artificial imitation becomes increasingly blurred, prompting existential questions about authenticity.  \n• The film explores the potential treachery of AI, suggesting that our reliance on it may erode the very qualities that define our humanity.  \n• Engaging with AI forces us to confront our vulnerabilities and the essence of our identity in a rapidly changing landscape.  \n• Ultimately, the relationship with AI invites a deeper reflection on the nature of consciousness and the future of human connection.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "A colossal oscillation",
+      "link": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
+      "published_date": "2026-11-23T11:00:00+00:00",
+      "summary": "• El Niño serves as a historical lens through which we can examine humanity's vulnerability to climate fluctuations.  \n• The oscillation of ocean temperatures reveals the intricate connections between natural phenomena and societal upheaval.  \n• Understanding El Niño's impact on past civilizations prompts reflection on our current environmental challenges.  \n• The cyclical nature of El Niño suggests that the future may hold similar disruptions, urging proactive adaptation.  \n• As we confront climate change, the lessons of El Niño remind us of the delicate balance between nature and human existence.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "As brain-computer interface boom enters next phase, China pushes to shape global standards",
+      "link": "https://www.scmp.com/business/china-business/article/3375442/brain-computer-interface-boom-enters-next-phase-china-pushes-shape-global-standards",
+      "published_date": "2026-11-23T08:00:06+00:00",
+      "summary": "China is taking a significant step in the rapidly evolving brain-computer interface sector by establishing a new standard-setting task force, aiming to shape global standards and foster development in this transformative technology. This initiative underscores China's commitment to leading in BCI advancements, which could revolutionize human-computer interaction and open new avenues for innovation across various industries.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "China’s memory chipmakers are catching up to industry leaders. What happens when they do?",
       "link": "https://www.scmp.com/tech/big-tech/article/3375363/chinas-memory-chipmakers-are-catching-industry-leaders-what-happens-when-they-do",
       "published_date": "2026-11-23T02:00:16+00:00",
@@ -226,11 +250,11 @@
       "category": "SCMP"
     },
     {
-      "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
-      "published_date": "2026-11-22T13:30:07+00:00",
-      "summary": "Tencent's latest AI model, Hy4, has undergone independent safety assessments, marking a significant milestone as the first instance of a major Chinese tech firm collaborating with third-party evaluators to address risks associated with AI, particularly in light of rising concerns over cyberattacks and biological misuse. This breakthrough underscores Tencent's commitment to developing safer AI systems and sets a new standard for accountability in the tech industry.",
-      "source": "SCMP Tech",
+      "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says",
+      "published_date": "2026-11-22T20:03:17+00:00",
+      "summary": "The U.S. government is intensifying scrutiny on Nvidia's chip sales to China amid concerns over compliance and potential espionage, following the resignation of its former CEO due to an affair with a suspected Chinese spy, highlighting the critical intersection of technology, national security, and corporate governance. This investigation could reshape the landscape of tech exports and compliance protocols in the semiconductor industry.",
+      "source": "China News",
       "category": "SCMP"
     }
   ]
