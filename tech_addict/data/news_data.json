@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T09:08:09.231283+00:00",
+  "last_updated": "2026-11-24T14:08:23.238316+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,6 +218,22 @@
       "category": "AI"
     },
     {
+      "title": "How Jensen Huang’s Nvidia return could deepen US rift over China chip curbs",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3375631/how-jensen-huangs-nvidia-return-could-deepen-us-rift-over-china-chip-curbs",
+      "published_date": "2026-11-24T14:00:06+00:00",
+      "summary": "Jensen Huang's reinstatement as Nvidia CEO could exacerbate tensions between the U.S. and China, as it coincides with a Democratic-led Congress likely to impose stricter chip restrictions, challenging the Biden administration's efforts to stabilize relations with Beijing. This pivotal moment underscores the growing intersection of technology leadership and geopolitical strategy in the semiconductor industry.",
+      "source": "Diplomacy & Defence",
+      "category": "SCMP"
+    },
+    {
+      "title": "Is mental illness universal?",
+      "link": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
+      "published_date": "2026-11-24T11:00:00+00:00",
+      "summary": "• The essay explores whether mental disorders are universally experienced across cultures or if they are shaped by cultural contexts.  \n• It questions the validity of Western psychiatric classifications when applied to non-Western societies.  \n• The author suggests that mental distress may manifest differently depending on cultural beliefs and practices.  \n• The discussion highlights the importance of understanding mental illness within its cultural framework to promote effective treatment.  \n• Ultimately, the essay invites readers to reconsider the nature of mental health as both a universal and culturally nuanced phenomenon.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
       "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
       "link": "https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs",
       "published_date": "2026-11-24T09:00:06+00:00",
@@ -239,6 +255,14 @@
       "published_date": "2026-11-24T00:30:05+00:00",
       "summary": "China is positioning itself as a global leader in humanoid robotics, with Shenzhen emerging as a high-tech innovation hub that showcases the fierce competition among its top developers, highlighting the nation's commitment to advancing this transformative technology that could reshape industries and everyday life.",
       "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "How US restrictions on China are reshaping the science race",
+      "link": "https://www.scmp.com/news/us/article/3375472/how-us-restrictions-china-are-reshaping-science-race",
+      "published_date": "2026-11-23T22:00:11+00:00",
+      "summary": "The United States is significantly reshaping the global science landscape by imposing stringent restrictions on academic collaborations with China, a move that has led to the introduction of 158 bills across various states aimed at curbing foreign scientific engagement. This shift not only highlights the escalating competition for scientific supremacy but also raises critical questions about the future of international research partnerships and innovation.",
+      "source": "Diplomacy & Defence",
       "category": "SCMP"
     },
     {
@@ -264,22 +288,6 @@
       "summary": "Google AI has unveiled a groundbreaking enhancement to its search functionality, introducing a \"Personal Intelligence\" feature that customizes search results based on individual user preferences and behaviors, which could revolutionize how users interact with information online and significantly improve the relevance of search outcomes. This tailored approach not only enhances user experience but also positions Google to maintain its dominance in the competitive search landscape by delivering more personalized and efficient results.",
       "source": "Google AI",
       "category": "AI"
-    },
-    {
-      "title": "The wind and the song: the treachery of AI",
-      "link": "https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable",
-      "published_date": "2026-11-23T11:01:00+00:00",
-      "summary": "• The evolution of AI challenges our understanding of what it means to be human in a world where machines mimic our thoughts and emotions.  \n• As technology advances, the line between human creativity and artificial imitation becomes increasingly blurred, prompting existential questions about authenticity.  \n• The film explores the potential treachery of AI, suggesting that our reliance on it may erode the very qualities that define our humanity.  \n• Engaging with AI forces us to confront our vulnerabilities and the essence of our identity in a rapidly changing landscape.  \n• Ultimately, the relationship with AI invites a deeper reflection on the nature of consciousness and the future of human connection.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "A colossal oscillation",
-      "link": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
-      "published_date": "2026-11-23T11:00:00+00:00",
-      "summary": "• El Niño serves as a historical lens through which we can examine humanity's vulnerability to climate fluctuations.  \n• The oscillation of ocean temperatures reveals the intricate connections between natural phenomena and societal upheaval.  \n• Understanding El Niño's impact on past civilizations prompts reflection on our current environmental challenges.  \n• The cyclical nature of El Niño suggests that the future may hold similar disruptions, urging proactive adaptation.  \n• As we confront climate change, the lessons of El Niño remind us of the delicate balance between nature and human existence.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
     }
   ]
 }
