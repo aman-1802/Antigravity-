@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T13:30:10.349974+00:00",
+  "last_updated": "2026-11-24T09:08:09.231283+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,6 +218,54 @@
       "category": "AI"
     },
     {
+      "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
+      "link": "https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs",
+      "published_date": "2026-11-24T09:00:06+00:00",
+      "summary": "The Dutch Foreign Minister's visit to China underscores a pivotal moment in the global semiconductor landscape, as the ongoing Nvidia saga intensifies U.S. calls for stricter controls on ASML's technology exports, potentially reshaping international trade dynamics and the balance of power in advanced chip manufacturing. This development not only highlights the complexities of geopolitical relations but also raises critical questions about the future of technology collaboration between the West and China.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China’s Z.ai ‘aggressively’ using looped transformer method to improve AI models",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375517/chinas-zai-aggressively-using-looped-transformer-method-improve-ai-models",
+      "published_date": "2026-11-24T02:30:08+00:00",
+      "summary": "China's Z.ai has made headlines by leveraging the innovative \"looped transformer\" architecture to enhance its flagship AI model, achieving remarkable performance improvements and computational efficiency, a significant milestone that underscores the competitive advancements in AI technology between Chinese and Western firms. This breakthrough not only positions Z.ai at the forefront of AI development but also raises critical questions about the implications of such techniques for AI safety and ethics.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Meet the robots: China’s 6 top humanoid developers vie for market share",
+      "link": "https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share",
+      "published_date": "2026-11-24T00:30:05+00:00",
+      "summary": "China is positioning itself as a global leader in humanoid robotics, with Shenzhen emerging as a high-tech innovation hub that showcases the fierce competition among its top developers, highlighting the nation's commitment to advancing this transformative technology that could reshape industries and everyday life.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "published_date": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco have unveiled Shirudo, an innovative open-source runtime for Linux that enhances system security by enabling teams to seamlessly protect their running systems during patch deployments, marking a significant advancement in operational resilience and cybersecurity. This breakthrough is crucial as it addresses the growing need for robust protection against vulnerabilities in real-time environments.",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "published_date": "2026-11-23T17:00:08+00:00",
+      "summary": "NVIDIA is empowering creativity and play this holiday season by offering innovative technologies that enable users to elevate their gaming and creative experiences, making it an ideal time for enthusiasts to explore new hobbies and unleash their potential. This breakthrough not only enhances entertainment but also fosters a culture of creativity and engagement among users.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published_date": "2026-11-23T17:00:00+00:00",
+      "summary": "Google AI has unveiled a groundbreaking enhancement to its search functionality, introducing a \"Personal Intelligence\" feature that customizes search results based on individual user preferences and behaviors, which could revolutionize how users interact with information online and significantly improve the relevance of search outcomes. This tailored approach not only enhances user experience but also positions Google to maintain its dominance in the competitive search landscape by delivering more personalized and efficient results.",
+      "source": "Google AI",
+      "category": "AI"
+    },
+    {
       "title": "The wind and the song: the treachery of AI",
       "link": "https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable",
       "published_date": "2026-11-23T11:01:00+00:00",
@@ -232,30 +280,6 @@
       "summary": "• El Niño serves as a historical lens through which we can examine humanity's vulnerability to climate fluctuations.  \n• The oscillation of ocean temperatures reveals the intricate connections between natural phenomena and societal upheaval.  \n• Understanding El Niño's impact on past civilizations prompts reflection on our current environmental challenges.  \n• The cyclical nature of El Niño suggests that the future may hold similar disruptions, urging proactive adaptation.  \n• As we confront climate change, the lessons of El Niño remind us of the delicate balance between nature and human existence.",
       "source": "Aeon Essays",
       "category": "Aeon"
-    },
-    {
-      "title": "As brain-computer interface boom enters next phase, China pushes to shape global standards",
-      "link": "https://www.scmp.com/business/china-business/article/3375442/brain-computer-interface-boom-enters-next-phase-china-pushes-shape-global-standards",
-      "published_date": "2026-11-23T08:00:06+00:00",
-      "summary": "China is taking a significant step in the rapidly evolving brain-computer interface sector by establishing a new standard-setting task force, aiming to shape global standards and foster development in this transformative technology. This initiative underscores China's commitment to leading in BCI advancements, which could revolutionize human-computer interaction and open new avenues for innovation across various industries.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China’s memory chipmakers are catching up to industry leaders. What happens when they do?",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375363/chinas-memory-chipmakers-are-catching-industry-leaders-what-happens-when-they-do",
-      "published_date": "2026-11-23T02:00:16+00:00",
-      "summary": "China's memory chipmakers, propelled by a surge in artificial intelligence demand, are rapidly closing the gap with global leaders, raising critical questions about the future of the semiconductor industry as market dynamics shift amidst signs of a potential slowdown. This breakthrough in self-sufficiency not only enhances China's technological prowess but also poses significant implications for global supply chains and competition.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says",
-      "published_date": "2026-11-22T20:03:17+00:00",
-      "summary": "The U.S. government is intensifying scrutiny on Nvidia's chip sales to China amid concerns over compliance and potential espionage, following the resignation of its former CEO due to an affair with a suspected Chinese spy, highlighting the critical intersection of technology, national security, and corporate governance. This investigation could reshape the landscape of tech exports and compliance protocols in the semiconductor industry.",
-      "source": "China News",
-      "category": "SCMP"
     }
   ]
 }
