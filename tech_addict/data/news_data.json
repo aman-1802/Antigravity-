@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T13:21:31.129092+00:00",
+  "last_updated": "2026-11-26T07:35:19.950740+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,6 +218,30 @@
       "category": "AI"
     },
     {
+      "title": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
+      "link": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market",
+      "published_date": "2026-11-26T07:00:11+00:00",
+      "summary": "China is intensifying its efforts in brain-computer interface technology, aiming to outpace the U.S. by establishing standards and practical applications, as Neuralink prepares for critical trials of its implantable device designed to assist ALS patients, highlighting a pivotal moment in the race for neurotechnology dominance.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
+      "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
+      "published_date": "2026-11-26T04:00:11+00:00",
+      "summary": "Chinese AI chip manufacturers are poised to dominate 88% of the domestic market by 2028, with shipments expected to surge nearly sixfold, highlighting a significant shift towards technological self-reliance amid increasing restrictions on US chip exports. This breakthrough not only underscores China's rapid advancements in AI technology but also signals a potential reshaping of the global semiconductor landscape.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "China embeds ‘loyal wingman’ drone simulations in fighter pilot training",
+      "link": "https://www.scmp.com/news/china/military/article/3375766/china-embeds-loyal-wingman-drone-simulations-fighter-pilot-training",
+      "published_date": "2026-11-25T14:00:07+00:00",
+      "summary": "China's military is revolutionizing fighter pilot training by incorporating AI-driven \"loyal wingman\" drones into simulation exercises, enhancing manned-unmanned teaming capabilities and preparing pilots for advanced combat scenarios. This significant integration of artificial intelligence not only boosts operational effectiveness but also positions China at the forefront of modern military training methodologies.",
+      "source": "China News",
+      "category": "SCMP"
+    },
+    {
       "title": "The passing",
       "link": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog",
       "published_date": "2026-11-25T11:01:00+00:00",
@@ -232,22 +256,6 @@
       "summary": "Huawei is strategically forming specialized patent teams for semiconductors and artificial intelligence to build a competitive computing ecosystem aimed at challenging Nvidia's dominance, marking a significant shift in its focus from telecommunications to advanced computing technologies. This initiative underscores Huawei's ambition to leverage its intellectual property capabilities to innovate and expand its global presence in the tech landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
-    },
-    {
-      "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
-      "published_date": "2026-11-25T03:00:17+00:00",
-      "summary": "Jensen Huang's return as CEO of Nvidia has revitalized investor confidence, propelling shares up over 31%, yet the ongoing US-China tensions and export restrictions threaten to stifle the company's growth potential in the AI sector. This pivotal moment underscores the fragility of the global tech supply chain amid escalating geopolitical scrutiny.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "published_date": "2026-11-24T16:00:00+00:00",
-      "summary": "Google's Gemini is revolutionizing fan engagement and operational efficiency for the Golden State Warriors and their associated entities, setting a new standard for how technology can enhance sports experiences and business strategies. This partnership not only elevates the fan experience but also positions the organization at the forefront of innovation in the sports industry.",
-      "source": "Google AI",
-      "category": "AI"
     }
   ]
 }
