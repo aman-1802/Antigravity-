@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T07:35:19.950740+00:00",
+  "last_updated": "2026-11-26T13:00:26.656746+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,6 +218,30 @@
       "category": "AI"
     },
     {
+      "title": "Lina Ghotmeh: archaeology of the future",
+      "link": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal",
+      "published_date": "2026-11-26T11:01:00+00:00",
+      "summary": "• Lina Ghotmeh's architecture embodies a dialogue between historical scars and future resilience.  \n• Each structure she designs serves as a testament to memory, transforming trauma into a foundation for hope.  \n• Ghotmeh's work challenges the notion of permanence, suggesting that architecture is a living narrative rather than a static entity.  \n• By integrating local materials and cultural references, she fosters a sense of belonging and continuity in her designs.  \n• Her approach invites us to reconsider our relationship with the past, urging us to build with intention and awareness.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "The pretendian wars",
+      "link": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
+      "published_date": "2026-11-26T11:00:00+00:00",
+      "summary": "• The appropriation of Indigenous identity is a profound violation that transcends mere deception, impacting cultural heritage and community integrity.  \n• This phenomenon, often termed \"pretendianism,\" raises ethical questions about authenticity and the moral responsibilities of identity.  \n• The increasing visibility of these claims reflects broader societal issues regarding race, privilege, and the commodification of culture.  \n• As the discourse around identity evolves, it challenges us to reconsider the boundaries of belonging and the consequences of our narratives.  \n• Ultimately, the struggle against pretendianism serves as a reminder of the importance of genuine connection to cultural roots and the dangers of exploitation.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
+      "published_date": "2026-11-26T09:00:15+00:00",
+      "summary": "Huawei's advancements in home-grown chip design tools, leveraging its Tau Scaling Law, signify a pivotal step towards establishing a self-sufficient semiconductor ecosystem in China, positioning the company to challenge global leaders like Nvidia. This breakthrough not only enhances China's technological independence but also reshapes the competitive landscape of the semiconductor industry.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
       "link": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market",
       "published_date": "2026-11-26T07:00:11+00:00",
@@ -230,30 +254,6 @@
       "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
       "published_date": "2026-11-26T04:00:11+00:00",
       "summary": "Chinese AI chip manufacturers are poised to dominate 88% of the domestic market by 2028, with shipments expected to surge nearly sixfold, highlighting a significant shift towards technological self-reliance amid increasing restrictions on US chip exports. This breakthrough not only underscores China's rapid advancements in AI technology but also signals a potential reshaping of the global semiconductor landscape.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China embeds ‘loyal wingman’ drone simulations in fighter pilot training",
-      "link": "https://www.scmp.com/news/china/military/article/3375766/china-embeds-loyal-wingman-drone-simulations-fighter-pilot-training",
-      "published_date": "2026-11-25T14:00:07+00:00",
-      "summary": "China's military is revolutionizing fighter pilot training by incorporating AI-driven \"loyal wingman\" drones into simulation exercises, enhancing manned-unmanned teaming capabilities and preparing pilots for advanced combat scenarios. This significant integration of artificial intelligence not only boosts operational effectiveness but also positions China at the forefront of modern military training methodologies.",
-      "source": "China News",
-      "category": "SCMP"
-    },
-    {
-      "title": "The passing",
-      "link": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog",
-      "published_date": "2026-11-25T11:01:00+00:00",
-      "summary": "• The act of saying goodbye to a beloved pet encapsulates the profound bond between humans and animals.  \n• Compassionate euthanasia highlights the ethical dilemmas surrounding life and death in the context of love and responsibility.  \n• The emotional weight of loss reveals the depth of attachment we form with our companions, transcending mere ownership.  \n• In the face of mortality, the ritual of farewell becomes a poignant reflection on the nature of existence and the inevitability of change.  \n• Ultimately, the experience serves as a reminder of the beauty and fragility of life, urging us to cherish every moment.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375756/huawei-forms-patent-teams-chips-and-ai-eyeing-ecosystem-rival-nvidia",
-      "published_date": "2026-11-25T10:30:07+00:00",
-      "summary": "Huawei is strategically forming specialized patent teams for semiconductors and artificial intelligence to build a competitive computing ecosystem aimed at challenging Nvidia's dominance, marking a significant shift in its focus from telecommunications to advanced computing technologies. This initiative underscores Huawei's ambition to leverage its intellectual property capabilities to innovate and expand its global presence in the tech landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
