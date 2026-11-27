@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:32:45.406319+00:00",
+  "last_updated": "2026-11-27T12:58:26.775494+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,10 +218,26 @@
       "category": "AI"
     },
     {
-      "title": "Laila Khawaja on how the Jensen Huang saga resets the US-China tech rivalry",
-      "link": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry",
-      "published_date": "2026-11-26T22:00:16+00:00",
-      "summary": "Laila Khawaja's insights into the dramatic rise and fall of Nvidia CEO Jensen Huang highlight a pivotal moment in the US-China tech rivalry, emphasizing how leadership dynamics can significantly influence global technology strategies and market stability. This breakthrough underscores the intricate interplay between corporate governance and international relations, making it crucial for stakeholders to navigate these evolving landscapes.",
+      "title": "China’s Tencent makes AI drug discovery breakthrough with Nature paper",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3376082/chinas-tencent-makes-ai-drug-discovery-breakthrough-nature-paper",
+      "published_date": "2026-11-27T12:30:08+00:00",
+      "summary": "Tencent Holdings has achieved a significant breakthrough in AI-driven drug discovery, as detailed in a recent publication in Nature, showcasing its potential to revolutionize treatments for obesity, diabetes, and cancer. This advancement not only underscores Tencent's commitment to integrating AI in scientific research but also positions the company at the forefront of a transformative era in healthcare innovation.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "The energy of thought",
+      "link": "https://aeon.co/essays/all-our-models-of-how-the-mind-functions-are-missing-something",
+      "published_date": "2026-11-27T11:00:00+00:00",
+      "summary": "• The myriad models of the mind reveal our fascination with understanding consciousness but often overlook the intrinsic energy of thought itself.  \n• Each theoretical framework, while illuminating aspects of cognition, fails to capture the dynamic interplay of mental energy and its manifestations.  \n• The essence of thought transcends mere neurological processes, suggesting a deeper, more profound connection between mind and reality.  \n• Engaging with the energy of thought invites a reevaluation of our assumptions about intelligence, creativity, and the nature of existence.  \n• Ultimately, the quest to understand the mind may lead us to recognize that thought is not just a product of the brain, but a vital force shaping our world.",
+      "source": "Aeon Essays",
+      "category": "Aeon"
+    },
+    {
+      "title": "Why did an AI chip frenzy send a Chinese blender maker’s stock soaring 370%?",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+      "published_date": "2026-11-27T08:01:50+00:00",
+      "summary": "The surge in Joyoung's stock by 370% highlights the intense investor enthusiasm surrounding AI technologies, illustrating how even companies unrelated to the sector can benefit from the broader market frenzy for AI-related assets. This phenomenon underscores the transformative impact of artificial intelligence on various industries and investor behavior, signaling a potential shift in market dynamics.",
       "source": "SCMP Tech",
       "category": "SCMP"
     },
@@ -232,38 +248,6 @@
       "summary": "NVIDIA's GeForce NOW is revolutionizing cloud gaming by fostering a vibrant community that enhances the gaming experience, transforming casual play into meaningful social interactions and shared adventures. This breakthrough not only highlights the platform's ability to connect players across devices but also emphasizes the importance of community in the evolving landscape of gaming.",
       "source": "NVIDIA",
       "category": "AI"
-    },
-    {
-      "title": "Alibaba founder Jack Ma visits T-Head chip unit as self-reliance gains urgency",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375954/alibaba-founder-jack-ma-visits-t-head-chip-unit-self-reliance-gains-urgency",
-      "published_date": "2026-11-26T13:33:25+00:00",
-      "summary": "Jack Ma's unexpected visit to Alibaba's T-Head chip unit underscores the company's urgent push for self-reliance in semiconductor technology, a critical move as it prepares for a significant IPO in Hong Kong amid escalating global tech competition. This development highlights the increasing importance of domestic chip production for China's tech giants in the face of geopolitical tensions and supply chain vulnerabilities.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Lina Ghotmeh: archaeology of the future",
-      "link": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal",
-      "published_date": "2026-11-26T11:01:00+00:00",
-      "summary": "• Lina Ghotmeh's architecture embodies a dialogue between historical scars and future resilience.  \n• Each structure she designs serves as a testament to memory, transforming trauma into a foundation for hope.  \n• Ghotmeh's work challenges the notion of permanence, suggesting that architecture is a living narrative rather than a static entity.  \n• By integrating local materials and cultural references, she fosters a sense of belonging and continuity in her designs.  \n• Her approach invites us to reconsider our relationship with the past, urging us to build with intention and awareness.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "The pretendian wars",
-      "link": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
-      "published_date": "2026-11-26T11:00:00+00:00",
-      "summary": "• The appropriation of Indigenous identity is a profound violation that transcends mere deception, impacting cultural heritage and community integrity.  \n• This phenomenon, often termed \"pretendianism,\" raises ethical questions about authenticity and the moral responsibilities of identity.  \n• The increasing visibility of these claims reflects broader societal issues regarding race, privilege, and the commodification of culture.  \n• As the discourse around identity evolves, it challenges us to reconsider the boundaries of belonging and the consequences of our narratives.  \n• Ultimately, the struggle against pretendianism serves as a reminder of the importance of genuine connection to cultural roots and the dangers of exploitation.",
-      "source": "Aeon Essays",
-      "category": "Aeon"
-    },
-    {
-      "title": "Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
-      "published_date": "2026-11-26T09:00:15+00:00",
-      "summary": "Huawei's advancements in home-grown chip design tools, leveraging its Tau Scaling Law, signify a pivotal step towards establishing a self-sufficient semiconductor ecosystem in China, positioning the company to challenge global leaders like Nvidia. This breakthrough not only enhances China's technological independence but also reshapes the competitive landscape of the semiconductor industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
     }
   ]
 }
