@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T13:00:26.656746+00:00",
+  "last_updated": "2026-11-27T07:32:45.406319+00:00",
   "articles": [
     {
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -218,6 +218,30 @@
       "category": "AI"
     },
     {
+      "title": "Laila Khawaja on how the Jensen Huang saga resets the US-China tech rivalry",
+      "link": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry",
+      "published_date": "2026-11-26T22:00:16+00:00",
+      "summary": "Laila Khawaja's insights into the dramatic rise and fall of Nvidia CEO Jensen Huang highlight a pivotal moment in the US-China tech rivalry, emphasizing how leadership dynamics can significantly influence global technology strategies and market stability. This breakthrough underscores the intricate interplay between corporate governance and international relations, making it crucial for stakeholders to navigate these evolving landscapes.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "published_date": "2026-11-26T14:00:22+00:00",
+      "summary": "NVIDIA's GeForce NOW is revolutionizing cloud gaming by fostering a vibrant community that enhances the gaming experience, transforming casual play into meaningful social interactions and shared adventures. This breakthrough not only highlights the platform's ability to connect players across devices but also emphasizes the importance of community in the evolving landscape of gaming.",
+      "source": "NVIDIA",
+      "category": "AI"
+    },
+    {
+      "title": "Alibaba founder Jack Ma visits T-Head chip unit as self-reliance gains urgency",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375954/alibaba-founder-jack-ma-visits-t-head-chip-unit-self-reliance-gains-urgency",
+      "published_date": "2026-11-26T13:33:25+00:00",
+      "summary": "Jack Ma's unexpected visit to Alibaba's T-Head chip unit underscores the company's urgent push for self-reliance in semiconductor technology, a critical move as it prepares for a significant IPO in Hong Kong amid escalating global tech competition. This development highlights the increasing importance of domestic chip production for China's tech giants in the face of geopolitical tensions and supply chain vulnerabilities.",
+      "source": "SCMP Tech",
+      "category": "SCMP"
+    },
+    {
       "title": "Lina Ghotmeh: archaeology of the future",
       "link": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal",
       "published_date": "2026-11-26T11:01:00+00:00",
@@ -238,22 +262,6 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
       "published_date": "2026-11-26T09:00:15+00:00",
       "summary": "Huawei's advancements in home-grown chip design tools, leveraging its Tau Scaling Law, signify a pivotal step towards establishing a self-sufficient semiconductor ecosystem in China, positioning the company to challenge global leaders like Nvidia. This breakthrough not only enhances China's technological independence but also reshapes the competitive landscape of the semiconductor industry.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
-      "link": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market",
-      "published_date": "2026-11-26T07:00:11+00:00",
-      "summary": "China is intensifying its efforts in brain-computer interface technology, aiming to outpace the U.S. by establishing standards and practical applications, as Neuralink prepares for critical trials of its implantable device designed to assist ALS patients, highlighting a pivotal moment in the race for neurotechnology dominance.",
-      "source": "SCMP Tech",
-      "category": "SCMP"
-    },
-    {
-      "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
-      "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
-      "published_date": "2026-11-26T04:00:11+00:00",
-      "summary": "Chinese AI chip manufacturers are poised to dominate 88% of the domestic market by 2028, with shipments expected to surge nearly sixfold, highlighting a significant shift towards technological self-reliance amid increasing restrictions on US chip exports. This breakthrough not only underscores China's rapid advancements in AI technology but also signals a potential reshaping of the global semiconductor landscape.",
       "source": "SCMP Tech",
       "category": "SCMP"
     }
